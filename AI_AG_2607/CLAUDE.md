@@ -18,6 +18,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Keep `.md` files in English. Additionally generate a Korean translation as a `.txt` file, saved in a separate new folder (not alongside the original `.md` file) — e.g. `docs/foo.md` → `translations/foo.txt`.
 - When a `.md` file is modified, update its same-named translation `.txt` file to match.
 
+## Task workflow
+
+- Before starting any task the user requests, first create a todo list (using the todo/task tracking tool) breaking the task into steps, and present it to the user for review before doing any work.
+
 ## Repository status
 
 This repository is currently empty scaffolding — it contains no source code, build configuration, or tests yet. The only tracked content is `.claude/settings.local.json` (local Claude Code permission settings).
