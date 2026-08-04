@@ -20,7 +20,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Task workflow
 
-- Before starting any task the user requests, first create a todo list (using the todo/task tracking tool) breaking the task into steps, and present it to the user for review before doing any work.
+- Before touching any file or running any git/shell command, write the plan as a short numbered step list directly in the chat reply, then stop.
+- Wait for explicit user approval (e.g. "yes", "진행", "ok") before executing any step. Do not proceed on silence or on an ambiguous reply.
+- For tasks with 3+ distinct steps, also track progress with the task list tool (TaskCreate/TaskUpdate) — but calling the tool does not replace waiting for approval.
+- Skip this gate only for purely conversational/informational replies that touch no files and run no commands.
 
 ## Repository status
 
