@@ -10,7 +10,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - Repository: https://github.com/hsb050315/AI_AG_2607
 - When the user says "클론해줘" (clone it), clone this repository.
-- When the user's requested task is finished, upload (commit and push) the changes to this repository.
+- When the user's requested task is finished, include committing and pushing in the plan presented under Task workflow, and only do so after explicit approval — never commit or push automatically.
 
 ## Markdown file conventions
 
@@ -23,7 +23,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Before touching any file or running any git/shell command, write the plan as a short numbered step list directly in the chat reply, then stop.
 - Wait for explicit user approval (e.g. "yes", "진행", "ok") before executing any step. Do not proceed on silence or on an ambiguous reply.
 - For tasks with 3+ distinct steps, also track progress with the task list tool (TaskCreate/TaskUpdate) — but calling the tool does not replace waiting for approval.
-- Skip this gate only for purely conversational/informational replies that touch no files and run no commands.
+- Skip this gate for purely conversational/informational replies, and for read-only inspection (e.g. reading files, `git status`, `git log`, `git diff`) that changes no file and no repository state. The gate still applies to anything that creates, edits, deletes, commits, or pushes.
 
 ## Repository status
 
