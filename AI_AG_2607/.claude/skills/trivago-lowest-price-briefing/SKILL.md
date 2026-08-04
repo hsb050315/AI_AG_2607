@@ -58,25 +58,35 @@ Default parameters:
   broadly (don't narrow filters on your own — a narrower search risks
   missing options the user would have wanted).
 
-### When a narrow location query returns poor results — retry with a broader area name
+### When a narrow location query returns poor results
 
-Queries that jam "city + neighborhood" together (e.g., "Busan Haeundae",
-"Seoul Hongdae Station") sometimes aren't matched well by
+Queries that jam "city + neighborhood" together in Korean (e.g., "부산
+해운대", "도쿄 아키하바라") sometimes aren't matched well by
 `trivago-accommodation-search`, returning only 1-2 results, or results whose
 `price_per_night`/`review_rating` come back as empty strings. This doesn't
-mean there's no lodging in that area — it means the query was too specific to
-match.
+mean there's no lodging in that area — it means the query didn't match
+trivago's place index.
 
 If the results look thin (fewer than 5 results, or most of the top results
-have empty price/rating fields), try the following:
+have empty price/rating fields), try these in order:
 
-1. **Retry with just the broader area name** (city/district level), dropping
-   the neighborhood (e.g., "Busan Haeundae" → "Busan").
-2. From the retry results, keep the ones whose name/address includes the
-   original neighborhood, or that the `distance` field suggests are close to
-   it, and use those as the final list. If it's hard to filter perfectly,
-   tell the user in one line, e.g. "Instead of pinpointing exactly that
-   neighborhood, I searched the whole city and kept the ones nearby."
+1. **Retry with just the neighborhood name, romanized/in English**, dropping
+   the city (e.g., "부산 해운대" → "Haeundae", "도쿄 아키하바라" →
+   "Akihabara"). Tested head-to-head: trivago's place matching for Korean-
+   script neighborhood names is weak, but the English/romanized form of the
+   same neighborhood reliably returns a full, well-clustered result set (in
+   testing, ~25 results tightly grouped around the actual neighborhood,
+   versus 1 empty result for the Korean form). Try this **before** broadening
+   to the city — it keeps the search specific instead of diluting it.
+2. If that's still thin, broaden to just the city/region name (e.g.,
+   "Haeundae" → "Busan"), then keep only the results whose name/address
+   includes the original neighborhood, or that the `distance` field suggests
+   are close to it. This is a fallback, not the first move — city-wide
+   searches mostly return results scattered across the whole city, so only a
+   small fraction end up actually being near the neighborhood the user
+   asked about. If it's hard to filter perfectly, tell the user in one line,
+   e.g. "Instead of pinpointing exactly that neighborhood, I searched the
+   whole city and kept the ones nearby."
 3. If results are still thin, consider switching to
    `trivago-accommodation-radius-search` (if you know roughly where that
    neighborhood is located).
