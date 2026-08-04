@@ -1,0 +1,82 @@
+[
+  {
+    "query": "이번 주 금요일에 강릉 안목해변 쪽에서 하루 묵을만한 데 있나? 가격이랑 평점 좀 보여줘",
+    "should_trigger": true
+  },
+  {
+    "query": "제주도 애월읍에서 10/3~10/5 2박 할건데 가성비 좋은 숙소 순위 매겨줘",
+    "should_trigger": true
+  },
+  {
+    "query": "다음주 화요일부터 목요일까지 강남역 근처 4성급 이상 호텔 최저가로 뭐가 있는지 알려줘",
+    "should_trigger": true
+  },
+  {
+    "query": "가족여행으로 방콕 실롬 쪽에 어른 2명 아이 2명(5살,9살)이서 묵을 곳 찾아야 하는데 트리바고로 검색해서 표로 정리해줘",
+    "should_trigger": true
+  },
+  {
+    "query": "여름휴가로 남해 쪽 숙소 알아보고 있는데 별점 높고 저렴한 데 위주로 몇 개 추천해줘",
+    "should_trigger": true
+  },
+  {
+    "query": "출장 때문에 다음달 15일부터 17일까지 도쿄 신주쿠에 묵는데 회사에 보고할 비교표 하나 만들어줘",
+    "should_trigger": true
+  },
+  {
+    "query": "부산 해운대 근처 숙소들 리뷰 개수랑 평점 같이 보고 싶어",
+    "should_trigger": true
+  },
+  {
+    "query": "이번 주말 1박 2일로 경주 여행 가는데 숙소 뭐가 괜찮은지 좀 봐줄래? 인원은 3명이고",
+    "should_trigger": true
+  },
+  {
+    "query": "에어비앤비 말고 호텔 위주로, 파리 마레지구에서 12월 초 3박 할 숙소 가격 비교해줘",
+    "should_trigger": true
+  },
+  {
+    "query": "숙소 예약하기 전에 트리바고에서 최저가 순으로 좀 뽑아줄 수 있어? 목적지는 오사카 난바야",
+    "should_trigger": true
+  },
+  {
+    "query": "지난달에 다녀온 제주 숙소 예약 영수증 파일들 좀 정리해서 엑셀로 만들어줘, 출장비 정산해야 해",
+    "should_trigger": false
+  },
+  {
+    "query": "우리 회사 출장 규정에 호텔 등급 제한이 있는지 사내 위키에서 찾아줘",
+    "should_trigger": false
+  },
+  {
+    "query": "에어비앤비 숙소 예약 취소하고 환불받는 방법 알려줄래? 호스트가 답이 없어서",
+    "should_trigger": false
+  },
+  {
+    "query": "호텔 산업 비즈니스 모델에 대해 리포트 써야 하는데 최근 트렌드 자료 좀 찾아줄 수 있어?",
+    "should_trigger": false
+  },
+  {
+    "query": "우리 앱에 trivago API 연동하려고 하는데 인증 토큰 발급 절차가 어떻게 되는지 문서 찾아줘",
+    "should_trigger": false
+  },
+  {
+    "query": "제주도 맛집 별점 높은 곳 위주로 추천해줘, 저녁에 갈만한 데로",
+    "should_trigger": false
+  },
+  {
+    "query": "이 엑셀에 있는 호텔 목록 정리해서 팀장님한테 메일로 보내줘",
+    "should_trigger": false
+  },
+  {
+    "query": "제주 렌트카 최저가 비교좀 해줘, 다음주 3박4일 일정이야",
+    "should_trigger": false
+  },
+  {
+    "query": "숙소에서 반려동물 동반 가능한지 지역별 조례 좀 찾아줘, 강아지랑 여행가려고",
+    "should_trigger": false
+  },
+  {
+    "query": "우리 팀 워크샵 장소로 강릉 게스트하우스 통째로 대관 가능한 데 있는지 사장님이 여쭤보라셔서",
+    "should_trigger": false
+  }
+]
