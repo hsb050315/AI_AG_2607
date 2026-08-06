@@ -1,0 +1,63 @@
+{
+  "skill_name": "docx-research-report",
+  "evals": [
+    {
+      "id": 0,
+      "eval_name": "ev-policy",
+      "prompt": "2026년 전기차 보조금 정책 조사해서 보고서로 만들어줘",
+      "expected_output": "국내 2026년 전기차 구매 보조금 정책(국비/지자체 등)을 웹 조사해 조사개요/요약/상세결과(가능하면 표)/결론/유의사항 구조를 갖춘 .docx 보고서와 동일 내용의 .txt 파일을 생성한다.",
+      "files": [],
+      "expectations": [
+        "A .docx file is saved to the outputs folder",
+        "A .txt file with matching content is saved to the outputs folder alongside the .docx",
+        "The docx title run uses 40pt font size",
+        "The docx Normal/body style default font size is 20pt",
+        "The document has a section covering the research scope/overview (조사 개요 or equivalent)",
+        "The document has a summary section (요약) stating the key conclusion up front",
+        "The document has a conclusion/recommendation section (결론 및 추천 or equivalent)",
+        "The document has a caveats/notes section (유의사항) mentioning the research date and that policy details may change",
+        "The report states a specific research/reference date consistent with 2026-08-06",
+        "The document includes a table comparing subsidy amounts (e.g. by region, vehicle type, or manufacturer) rather than only prose",
+        "The .txt file does not use markdown syntax like '##' or '**' for structure"
+      ]
+    },
+    {
+      "id": 1,
+      "eval_name": "ev-starbucks-promo",
+      "prompt": "스타벅스 리유저블컵 최신 프로모션 조사해서 docx로 정리해줘",
+      "expected_output": "스타벅스코리아의 최신 리유저블컵 관련 프로모션(굿즈, 이벤트 등)을 웹 조사해 구조화된 .docx 보고서와 동일 내용의 .txt 파일을 생성한다.",
+      "files": [],
+      "expectations": [
+        "A .docx file is saved to the outputs folder",
+        "A .txt file with matching content is saved to the outputs folder alongside the .docx",
+        "The docx title run uses 40pt font size",
+        "The docx Normal/body style default font size is 20pt",
+        "The document has a section covering the research scope/overview (조사 개요 or equivalent)",
+        "The document has a summary section (요약) stating the key conclusion up front",
+        "The document has a conclusion/recommendation section (결론 및 추천 or equivalent)",
+        "The document has a caveats/notes section (유의사항) mentioning the research date and that promotion details may change",
+        "The report describes specific, concrete promotion details (dates, goods names, or conditions) rather than generic/vague statements, suggesting real research was done",
+        "The .txt file does not use markdown syntax like '##' or '**' for structure"
+      ]
+    },
+    {
+      "id": 2,
+      "eval_name": "ev-ott-pricing",
+      "prompt": "국내 OTT 서비스 요금제 비교 조사해서 문서로 만들어줘",
+      "expected_output": "넷플릭스/티빙/웨이브 등 국내 주요 OTT 서비스의 요금제를 웹 조사해 비교표가 포함된 .docx 보고서와 동일 내용의 .txt 파일을 생성한다.",
+      "files": [],
+      "expectations": [
+        "A .docx file is saved to the outputs folder",
+        "A .txt file with matching content is saved to the outputs folder alongside the .docx",
+        "The docx title run uses 40pt font size",
+        "The docx Normal/body style default font size is 20pt",
+        "The document has a section covering the research scope/overview (조사 개요 or equivalent)",
+        "The document has a summary section (요약) stating the key conclusion up front",
+        "The document has a conclusion/recommendation section (결론 및 추천 or equivalent)",
+        "The document has a caveats/notes section (유의사항) mentioning the research date and that pricing may change",
+        "The document includes a comparison table with at least 3 different OTT services and their price/plan info",
+        "The .txt file does not use markdown syntax like '##' or '**' for structure"
+      ]
+    }
+  ]
+}
