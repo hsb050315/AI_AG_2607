@@ -1,0 +1,21 @@
+{
+  "skill_name": "xlsx-research-report",
+  "evals": [
+    {
+      "id": 0,
+      "eval_name": "ev-topic-research",
+      "prompt": "국내 스트리밍 음악 서비스(멜론, 지니, 벅스 등) 요금제 비교 조사해서 엑셀로 정리해줘",
+      "expected_output": "주요 국내 음원 스트리밍 서비스의 요금제를 웹 조사해 비교표가 포함된 .xlsx 파일을 생성한다.",
+      "files": [],
+      "expectations": []
+    },
+    {
+      "id": 1,
+      "eval_name": "ev-file-analysis",
+      "prompt": "첨부한 재고_현황.csv 파일 서식 통일해서 표로 정리해줘",
+      "expected_output": "기존 csv 데이터를 읽어 동일한 내용을 xlsx_generator.py 서식으로 통일한 새 .xlsx 파일을 생성한다.",
+      "files": ["evals/files/재고_현황.csv"],
+      "expectations": []
+    }
+  ]
+}
