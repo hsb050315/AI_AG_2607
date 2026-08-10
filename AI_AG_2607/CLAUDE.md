@@ -10,7 +10,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 - Repository: https://github.com/hsb050315/AI_AG_2607
 - When the user says "클론해줘" (clone it), clone this repository.
-- When the user's requested task is finished, include committing and pushing in the plan presented under Task workflow, and only do so after explicit approval — never commit or push automatically.
+- When the user's requested task is finished, commit and push automatically by default — do not wait for approval.
+- Exception: if the change is large-scale — it restructures the file/folder layout, or touches files in ways that interfere with or affect other parts of the project — present the plan and get explicit approval before committing or pushing.
 
 ## Markdown file conventions
 
@@ -20,10 +21,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Task workflow
 
-- Before touching any file or running any git/shell command, write the plan as a short numbered step list directly in the chat reply, then stop.
-- Wait for explicit user approval (e.g. "yes", "진행", "ok") before executing any step. Do not proceed on silence or on an ambiguous reply.
-- For tasks with 3+ distinct steps, also track progress with the task list tool (TaskCreate/TaskUpdate) — but calling the tool does not replace waiting for approval.
-- Skip this gate for purely conversational/informational replies, and for read-only inspection (e.g. reading files, `git status`, `git log`, `git diff`) that changes no file and no repository state. The gate still applies to anything that creates, edits, deletes, commits, or pushes.
+- Default to acting autonomously: proceed with small, contained changes (typical edits, additions, single-file work) without stopping to ask for approval first.
+- Require a plan + explicit approval (e.g. "yes", "진행", "ok") only for tasks that are large-scale or high-impact — e.g. changes that restructure the file/folder layout, or that interfere with or affect multiple other parts of the project. For those, write the plan as a short numbered step list in the chat reply, then stop and wait. Do not proceed on silence or an ambiguous reply.
+- Use the task list tool (TaskCreate/TaskUpdate) to track progress on multi-step work, but only when the task is substantial enough to warrant it — don't create todo items for every small action. Minor/trivial steps don't need an explicit todo entry.
+- This gate never applies to purely conversational/informational replies, or to read-only inspection (e.g. reading files, `git status`, `git log`, `git diff`) that changes no file and no repository state.
 
 ## Repository status
 
