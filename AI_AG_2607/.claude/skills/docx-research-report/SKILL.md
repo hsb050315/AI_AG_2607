@@ -79,7 +79,7 @@ add_table(doc, headers=["항목", "가격", "비고"], rows=[["A", "10,000원", 
 add_heading(doc, "4. 결론 및 추천", level=1)
 add_paragraph(doc, "...")
 
-save(doc, "research/OO_조사_보고서.docx")
+save(doc, "output/reports/OO_조사_보고서.docx")
 ```
 
 이미 `new_document()`가 제목 40pt / 본문 20pt / 맑은 고딕을 기본 적용하므로 폰트 크기를 따로 지정할 필요는 없다.
@@ -91,7 +91,7 @@ save(doc, "research/OO_조사_보고서.docx")
 
 ## 파일명 및 저장 위치
 
-- 저장 폴더: 현재 작업 디렉토리(또는 사용자가 지정한 프로젝트) 안에 `research/` 폴더가 이미 있으면 그 폴더에, 없으면 새로 만들어서 그 안에 저장한다.
+- 저장 폴더: 현재 작업 디렉토리(또는 사용자가 지정한 프로젝트) 안에 `output/reports/` 폴더가 이미 있으면 그 폴더에, 없으면 새로 만들어서 그 안에 저장한다.
 - 파일명: `<주제(공백은 언더스코어로)>_조사_보고서.docx` / 동일 basename의 `.txt`.
 - 저장 후 두 파일의 절대 경로를 사용자에게 알려준다.
 
