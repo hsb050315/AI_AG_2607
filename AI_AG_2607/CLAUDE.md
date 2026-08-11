@@ -26,6 +26,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - Use the task list tool (TaskCreate/TaskUpdate) to track progress on multi-step work, but only when the task is substantial enough to warrant it — don't create todo items for every small action. Minor/trivial steps don't need an explicit todo entry.
 - This gate never applies to purely conversational/informational replies, or to read-only inspection (e.g. reading files, `git status`, `git log`, `git diff`) that changes no file and no repository state.
 
+## Output folder conventions
+
+- All work artifacts go under `output/`, organized by kind:
+  - Reports (docx/txt pairs) → `output/reports/`
+  - Research spreadsheets (xlsx) → `output/research/`
+  - Screenshots → `output/screenshots/`
+  - Anything produced via the Playwright MCP (e.g. browser screenshots, page captures) → `output/playwright/`
+- When creating a new kind of artifact that doesn't fit an existing subfolder, create a new subfolder under `output/` for it rather than leaving it loose at the project root.
+
 ## Repository status
 
 This repository is currently empty scaffolding — it contains no source code, build configuration, or tests yet. The only tracked content is `.claude/settings.local.json` (local Claude Code permission settings).

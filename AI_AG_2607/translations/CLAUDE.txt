@@ -26,6 +26,15 @@
 - 여러 단계로 이루어진 작업의 진행 상황은 할 일 목록 도구(TaskCreate/TaskUpdate)로 추적하되, 그럴 만큼 작업이 충분히 중요할 때만 사용한다 — 사소한 동작 하나하나까지 할 일 항목으로 만들 필요는 없다.
 - 순수 대화형/정보 제공 답변, 그리고 파일이나 저장소 상태를 바꾸지 않는 조회성 확인(예: 파일 읽기, `git status`, `git log`, `git diff`)에는 이 절차가 전혀 적용되지 않는다.
 
+## Output folder conventions (산출물 폴더 규칙)
+
+- 작업 산출물은 모두 종류별로 `output/` 하위에 정리한다:
+  - 보고서(docx/txt 쌍) → `output/reports/`
+  - 리서치 스프레드시트(xlsx) → `output/research/`
+  - 스크린샷 → `output/screenshots/`
+  - Playwright MCP를 활용해 산출되는 결과물(브라우저 스크린샷, 페이지 캡처 등) → `output/playwright/`
+- 기존 하위 폴더에 맞지 않는 새로운 종류의 산출물이 생기면, 프로젝트 루트에 그대로 두지 말고 `output/` 하위에 새 폴더를 만들어 정리한다.
+
 ## Repository status (저장소 상태)
 
 이 저장소는 현재 비어 있는 스캐폴딩 상태로, 아직 소스 코드나 빌드 설정, 테스트가 없다. 유일하게 추적되는 콘텐츠는 `.claude/settings.local.json`(로컬 Claude Code 권한 설정)이다.
