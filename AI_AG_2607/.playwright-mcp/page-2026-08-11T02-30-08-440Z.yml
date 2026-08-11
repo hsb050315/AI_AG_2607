@@ -1,0 +1,785 @@
+- generic [ref=f24e2]:
+  - link "본문 바로가기" [ref=f24e3] [cursor=pointer]:
+    - /url: "#ct"
+  - banner [ref=f24e4]:
+    - generic [ref=f24e5]:
+      - generic [ref=f24e8]:
+        - generic [ref=f24e9]:
+          - link "NAVER" [ref=f24e11] [cursor=pointer]:
+            - /url: https://m.naver.com/
+          - generic [ref=f24e13]:
+            - heading [level=1] [ref=f24e14]:
+              - link "선택됨 뉴스" [ref=f24e15] [cursor=pointer]:
+                - /url: https://m.news.naver.com
+            - link "엔터" [ref=f24e18] [cursor=pointer]:
+              - /url: https://m.entertain.naver.com
+            - link "스포츠" [ref=f24e21] [cursor=pointer]:
+              - /url: https://m.sports.naver.com
+            - link "프리미엄" [ref=f24e24] [cursor=pointer]:
+              - /url: https://contents.premium.naver.com
+        - generic [ref=f24e26]:
+          - link "MY" [ref=f24e28] [cursor=pointer]:
+            - /url: https://media.naver.com/my/home
+          - link "검색" [ref=f24e31] [cursor=pointer]:
+            - /url: javascript:;
+      - generic [ref=f24e35]:
+        - tablist [ref=f24e36]:
+          - tab "언론사별" [ref=f24e37] [cursor=pointer]
+          - tab "정치" [ref=f24e39] [cursor=pointer]
+          - tab "경제" [ref=f24e41] [cursor=pointer]
+          - tab "사회" [ref=f24e43] [cursor=pointer]
+          - tab "생활/문화" [ref=f24e45] [cursor=pointer]
+          - tab "IT/과학" [selected] [ref=f24e47] [cursor=pointer]
+          - tab "세계" [ref=f24e49] [cursor=pointer]
+          - tab "랭킹" [ref=f24e51] [cursor=pointer]
+          - tab "신문보기" [ref=f24e53] [cursor=pointer]
+          - tab "오피니언" [ref=f24e55] [cursor=pointer]
+          - tab "TV" [ref=f24e57] [cursor=pointer]
+          - tab "팩트체크" [ref=f24e59] [cursor=pointer]
+          - tab "알고리즘 안내" [ref=f24e61] [cursor=pointer]
+          - tab "정정보도 모음" [ref=f24e63] [cursor=pointer]
+        - link "MY" [ref=f24e66] [cursor=pointer]:
+          - /url: https://media.naver.com/my/home
+  - generic [ref=f24e69]:
+    - main [ref=f24e70]:
+      - generic [ref=f24e71]:
+        - generic [ref=f24e72]:
+          - link "헤드라인 뉴스 안내" [ref=f24e75] [cursor=pointer]:
+            - /url: "#"
+            - text: 헤드라인 뉴스
+            - generic [ref=f24e76]: 안내
+          - list [ref=f24e77]:
+            - listitem [ref=f24e78]:
+              - generic [ref=f24e80]:
+                - link [ref=f24e83] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/366/0001185464
+                - generic [ref=f24e84]:
+                  - link [ref=f24e85] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/366/0001185464
+                    - strong [ref=f24e86]: 갤럭시 폴드부터 폴드8까지… 삼성, ‘폴더블 7년史’ 전시
+                  - generic [ref=f24e87]:
+                    - generic [ref=f24e88]:
+                      - generic [ref=f24e89]: 조선비즈
+                      - text: 댓글 개수
+                    - link "55 개의 관련뉴스 더보기" [ref=f24e91] [cursor=pointer]:
+                      - /url: /cluster/c_202607260910_00000017/section/105?oid=366&aid=0001185464
+                      - generic [ref=f24e92]: "55"
+                      - generic [ref=f24e93]: 개의 관련뉴스 더보기
+            - listitem [ref=f24e94]:
+              - generic [ref=f24e96]:
+                - link [ref=f24e99] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/011/0004650481
+                - generic [ref=f24e100]:
+                  - link [ref=f24e101] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/011/0004650481
+                    - strong [ref=f24e102]: NHN, 2분기 영업익 전년比 164%↑…“역대 최대”
+                  - generic [ref=f24e103]:
+                    - generic [ref=f24e104]:
+                      - generic [ref=f24e105]: 서울경제
+                      - text: 댓글 개수
+                    - link "34 개의 관련뉴스 더보기" [ref=f24e107] [cursor=pointer]:
+                      - /url: /cluster/c_202608110840_00000006/section/105?oid=011&aid=0004650481
+                      - generic [ref=f24e108]: "34"
+                      - generic [ref=f24e109]: 개의 관련뉴스 더보기
+            - listitem [ref=f24e110]:
+              - generic [ref=f24e112]:
+                - link [ref=f24e115] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/015/0005319418
+                - generic [ref=f24e116]:
+                  - link [ref=f24e117] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/015/0005319418
+                    - strong [ref=f24e118]: 웹툰엔터, 1억달러 들여 게임사 지분 투자…웹툰 IP 게임 제작
+                  - generic [ref=f24e119]:
+                    - generic [ref=f24e120]:
+                      - generic [ref=f24e121]: 한국경제
+                      - text: 댓글 개수
+                    - link "34 개의 관련뉴스 더보기" [ref=f24e123] [cursor=pointer]:
+                      - /url: /cluster/c_202608110700_00000014/section/105?oid=015&aid=0005319418
+                      - generic [ref=f24e124]: "34"
+                      - generic [ref=f24e125]: 개의 관련뉴스 더보기
+            - listitem [ref=f24e126]:
+              - generic [ref=f24e128]:
+                - link [ref=f24e131] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/014/0005559688
+                - generic [ref=f24e132]:
+                  - link [ref=f24e133] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/014/0005559688
+                    - strong [ref=f24e134]: "'우주발사체 발사허가 간소화' 우주개발 진흥법 개정"
+                  - generic [ref=f24e135]:
+                    - generic [ref=f24e136]:
+                      - generic [ref=f24e137]: 파이낸셜뉴스
+                      - text: 댓글 개수
+                    - link "31 개의 관련뉴스 더보기" [ref=f24e139] [cursor=pointer]:
+                      - /url: /cluster/c_202608091210_00000003/section/105?oid=014&aid=0005559688
+                      - generic [ref=f24e140]: "31"
+                      - generic [ref=f24e141]: 개의 관련뉴스 더보기
+            - listitem [ref=f24e142]:
+              - generic [ref=f24e144]:
+                - link [ref=f24e147] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/018/0006349313
+                - generic [ref=f24e148]:
+                  - link [ref=f24e149] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/018/0006349313
+                    - strong [ref=f24e150]: KT, 구글 손잡고 ‘AI 일상화’ 나선다…‘초이스’ 신규 요금제 출시
+                  - generic [ref=f24e151]:
+                    - generic [ref=f24e152]:
+                      - generic [ref=f24e153]: 이데일리
+                      - text: 댓글 개수
+                    - link "10 개의 관련뉴스 더보기" [ref=f24e155] [cursor=pointer]:
+                      - /url: /cluster/c_202608110940_00000009/section/105?oid=018&aid=0006349313
+                      - generic [ref=f24e156]: "10"
+                      - generic [ref=f24e157]: 개의 관련뉴스 더보기
+            - text: 댓글 개수 댓글 개수 댓글 개수
+        - link "헤드라인 더보기" [ref=f24e159] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f24e160]:
+        - generic [ref=f24e161]:
+          - link "연재보기 AI 리더스" [ref=f24e164] [cursor=pointer]:
+            - /url: https://news.naver.com/hotissue/main?sid1=163&cid=2002921
+            - generic [ref=f24e165]: 연재보기
+            - heading "AI 리더스" [level=2] [ref=f24e166]
+          - list [ref=f24e168]:
+            - listitem [ref=f24e169]:
+              - link [ref=f24e172] [cursor=pointer]:
+                - /url: https://n.news.naver.com/mnews/hotissue/article/092/0002433589?type=series&cid=2002921
+                - img "레고라 \"한국 변호사 일하는 방식 바꿀 것\"" [ref=f24e173]
+              - generic [ref=f24e174]:
+                - link "레고라 \"한국 변호사 일하는 방식 바꿀 것\"" [ref=f24e175] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/092/0002433589?type=series&cid=2002921
+                - generic [ref=f24e176]:
+                  - generic [ref=f24e177]: ZDNet Korea
+                  - text: 댓글 개수
+            - listitem [ref=f24e178]:
+              - generic [ref=f24e179]:
+                - link "클라우드플레어 \"AI가 바꾼 인터넷…엣지로 보안·비용 잡아야\"" [ref=f24e180] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/092/0002433467?type=series&cid=2002921
+                - generic [ref=f24e181]:
+                  - generic [ref=f24e182]: ZDNet Korea
+                  - text: 댓글 개수
+            - listitem [ref=f24e183]:
+              - generic [ref=f24e184]:
+                - link "\"AI TCO, 데이터·인프라서 갈린다\"…클라우데라 韓 지사장이 제시한 해법은?" [ref=f24e185] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/092/0002432633?type=series&cid=2002921
+                - generic [ref=f24e186]:
+                  - generic [ref=f24e187]: ZDNet Korea
+                  - text: 댓글 개수
+            - listitem [ref=f24e188]:
+              - generic [ref=f24e189]:
+                - link "스노우플레이크 \"미·중 데이터 표준 경쟁…한국도 설계 나서야\"" [ref=f24e190] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/092/0002432535?type=series&cid=2002921
+                - generic [ref=f24e191]:
+                  - generic [ref=f24e192]: ZDNet Korea
+                  - text: 댓글 개수
+        - generic [ref=f24e193]:
+          - link "연재보기 글로벌AI브리핑" [ref=f24e196] [cursor=pointer]:
+            - /url: https://news.naver.com/hotissue/main?sid1=163&cid=2003485
+            - generic [ref=f24e197]: 연재보기
+            - heading "글로벌AI브리핑" [level=2] [ref=f24e198]
+          - list [ref=f24e200]:
+            - listitem [ref=f24e201]:
+              - link [ref=f24e204] [cursor=pointer]:
+                - /url: https://n.news.naver.com/mnews/hotissue/article/014/0005559738?type=series&cid=2003485
+                - img "앤트로픽, AIDC 구축·운영회사 만든다" [ref=f24e205]
+              - generic [ref=f24e206]:
+                - link "앤트로픽, AIDC 구축·운영회사 만든다" [ref=f24e207] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/014/0005559738?type=series&cid=2003485
+                - generic [ref=f24e208]:
+                  - generic [ref=f24e209]: 파이낸셜뉴스
+                  - text: 댓글 개수
+            - listitem [ref=f24e210]:
+              - generic [ref=f24e211]:
+                - link "오픈AI, 챗GPT 무료 무제한 채팅 제공" [ref=f24e212] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/014/0005558462?type=series&cid=2003485
+                - generic [ref=f24e213]:
+                  - generic [ref=f24e214]: 파이낸셜뉴스
+                  - text: 댓글 개수
+            - listitem [ref=f24e215]:
+              - generic [ref=f24e216]:
+                - link "앤트로픽도 클로드 전용 자체 칩 개발 나선다" [ref=f24e217] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/014/0005557920?type=series&cid=2003485
+                - generic [ref=f24e218]:
+                  - generic [ref=f24e219]: 파이낸셜뉴스
+                  - text: 댓글 개수
+            - listitem [ref=f24e220]:
+              - generic [ref=f24e221]:
+                - link "美, 오픈웨이트 AI는 사전검증 면제" [ref=f24e222] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/014/0005557387?type=series&cid=2003485
+                - generic [ref=f24e223]:
+                  - generic [ref=f24e224]: 파이낸셜뉴스
+                  - text: 댓글 개수
+      - generic [ref=f24e226]:
+        - generic [ref=f24e227]:
+          - list [ref=f24e229]:
+            - listitem [ref=f24e230]:
+              - generic [ref=f24e232]:
+                - link [ref=f24e235] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/648/0000049707
+                - generic [ref=f24e236]:
+                  - link [ref=f24e237] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/648/0000049707
+                    - strong [ref=f24e238]: "[챗ICT]또 부활한다는 싸이월드…석연찮은 '예토전생'이 남긴 것"
+                  - generic [ref=f24e239]:
+                    - generic [ref=f24e240]:
+                      - generic [ref=f24e241]: 비즈워치
+                      - generic [ref=f24e242]:
+                        - text: 업데이트
+                        - generic [ref=f24e243]: 20분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e244]:
+              - generic [ref=f24e246]:
+                - link [ref=f24e249] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/092/0002433608
+                - generic [ref=f24e250]:
+                  - link [ref=f24e251] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/092/0002433608
+                    - strong [ref=f24e252]: 삼성SDS·엘리스그룹, 국가 AI 연구 인프라 책임진다…고성능 GPU 공급
+                  - generic [ref=f24e253]:
+                    - generic [ref=f24e254]:
+                      - generic [ref=f24e255]: 지디넷코리아
+                      - generic [ref=f24e256]:
+                        - text: 업데이트
+                        - generic [ref=f24e257]: 20분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e258]:
+              - generic [ref=f24e260]:
+                - link [ref=f24e263] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/029/0003041749
+                - generic [ref=f24e264]:
+                  - link [ref=f24e265] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/029/0003041749
+                    - strong [ref=f24e266]: 270억 털린 봉크…업비트·코인원 ‘상폐’, 빗썸은 거래 재개
+                  - generic [ref=f24e267]:
+                    - generic [ref=f24e268]:
+                      - generic [ref=f24e269]: 디지털타임스
+                      - generic [ref=f24e270]:
+                        - text: 업데이트
+                        - generic [ref=f24e271]: 28분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e272]:
+              - generic [ref=f24e274]:
+                - link [ref=f24e277] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/366/0001185496
+                - generic [ref=f24e278]:
+                  - link [ref=f24e279] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/366/0001185496
+                    - strong [ref=f24e280]: "[르포] 실외기 하나로 냉방·난방·온수까지… 제주 주택에 들어간 삼성전자 신기술"
+                  - generic [ref=f24e281]:
+                    - generic [ref=f24e282]:
+                      - generic [ref=f24e283]: 조선비즈
+                      - generic [ref=f24e284]:
+                        - text: 업데이트
+                        - generic [ref=f24e285]: 28분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e286]:
+              - generic [ref=f24e288]:
+                - link [ref=f24e291] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/030/0003456213
+                - generic [ref=f24e292]:
+                  - link [ref=f24e293] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/030/0003456213
+                    - strong [ref=f24e294]: 삼성전자, '한국형 히트펌프'로 국내 시장 선도…“냉방·난방·온수 동시 제공”
+                  - generic [ref=f24e295]:
+                    - generic [ref=f24e296]:
+                      - generic [ref=f24e297]: 전자신문
+                      - generic [ref=f24e298]:
+                        - text: 업데이트
+                        - generic [ref=f24e299]: 28분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e300]:
+              - generic [ref=f24e302]:
+                - link [ref=f24e305] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/138/0002237362
+                - generic [ref=f24e306]:
+                  - link [ref=f24e307] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/138/0002237362
+                    - strong [ref=f24e308]: "[르포] \"LPG·기름보일러 가라\"… 삼성전자가 제주서 찾은 'AI·친환경 히트펌프' 해법"
+                  - generic [ref=f24e309]:
+                    - generic [ref=f24e310]:
+                      - generic [ref=f24e311]: 디지털데일리
+                      - generic [ref=f24e312]:
+                        - text: 업데이트
+                        - generic [ref=f24e313]: 29분전
+                    - generic: 댓글 개수
+          - list [ref=f24e315]:
+            - listitem [ref=f24e316]:
+              - generic [ref=f24e318]:
+                - link [ref=f24e321] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/092/0002433606
+                - generic [ref=f24e322]:
+                  - link [ref=f24e323] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/092/0002433606
+                    - strong [ref=f24e324]: "[AI는 지금] 中 AI 초저가 공세에 '균열'…딥시크, 가격 인상 압박받는 이유는"
+                  - generic [ref=f24e325]:
+                    - generic [ref=f24e326]:
+                      - generic [ref=f24e327]: 지디넷코리아
+                      - generic [ref=f24e328]:
+                        - text: 업데이트
+                        - generic [ref=f24e329]: 33분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e330]:
+              - generic [ref=f24e332]:
+                - link [ref=f24e335] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/018/0006349391
+                - generic [ref=f24e336]:
+                  - link [ref=f24e337] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/018/0006349391
+                    - strong [ref=f24e338]: NHN, AI GPU 확장 본격화…30MW 증설·해외 계약 추진[컨콜]
+                  - generic [ref=f24e339]:
+                    - generic [ref=f24e340]:
+                      - generic [ref=f24e341]: 이데일리
+                      - generic [ref=f24e342]:
+                        - text: 업데이트
+                        - generic [ref=f24e343]: 35분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e344]:
+              - generic [ref=f24e346]:
+                - link [ref=f24e349] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/023/0003992357
+                - generic [ref=f24e350]:
+                  - link [ref=f24e351] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/023/0003992357
+                    - strong [ref=f24e352]: "[단독] 네이버페이, 결제 단말기 ‘리베이트’ 제공 논란...금융당국 관련 자료 확보"
+                  - generic [ref=f24e353]:
+                    - generic [ref=f24e354]:
+                      - generic [ref=f24e355]: 조선일보
+                      - generic [ref=f24e356]:
+                        - text: 업데이트
+                        - generic [ref=f24e357]: 39분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e358]:
+              - generic [ref=f24e360]:
+                - link [ref=f24e363] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/023/0003992356
+                - generic [ref=f24e364]:
+                  - link [ref=f24e365] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/023/0003992356
+                    - strong [ref=f24e366]: 발사 85초 만에 공중 폭발…中 ‘창정 7A’ 로켓 발사 실패
+                  - generic [ref=f24e367]:
+                    - generic [ref=f24e368]:
+                      - generic [ref=f24e369]: 조선일보
+                      - generic [ref=f24e370]:
+                        - text: 업데이트
+                        - generic [ref=f24e371]: 43분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e372]:
+              - generic [ref=f24e374]:
+                - link [ref=f24e377] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/029/0003041740
+                - generic [ref=f24e378]:
+                  - link [ref=f24e379] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/029/0003041740
+                    - strong [ref=f24e380]: 모바일부터 PC까지…삼성전자, 독일서 ‘풀스택 게이밍’ 경험 내세운다
+                  - generic [ref=f24e381]:
+                    - generic [ref=f24e382]:
+                      - generic [ref=f24e383]: 디지털타임스
+                      - generic [ref=f24e384]:
+                        - text: 업데이트
+                        - generic [ref=f24e385]: 45분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e386]:
+              - generic [ref=f24e388]:
+                - link [ref=f24e391] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/015/0005319518
+                - generic [ref=f24e392]:
+                  - link [ref=f24e393] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/015/0005319518
+                    - strong [ref=f24e394]: SKT '세계 1위' 깜짝 성적표…데이터센터 확장 이통사 '선두'
+                  - generic [ref=f24e395]:
+                    - generic [ref=f24e396]:
+                      - generic [ref=f24e397]: 한국경제
+                      - generic [ref=f24e398]:
+                        - text: 업데이트
+                        - generic [ref=f24e399]: 45분전
+                    - generic: 댓글 개수
+          - generic [ref=f24e401]:
+            - paragraph [ref=f24e402]: AiRS 추천으로 구성된 뉴스를 제공합니다.
+            - link "알고리즘 안내" [ref=f24e403] [cursor=pointer]:
+              - /url: https://media.naver.com/algorithm
+          - list [ref=f24e405]:
+            - listitem [ref=f24e406]:
+              - generic [ref=f24e408]:
+                - link [ref=f24e411] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/092/0002433602
+                - generic [ref=f24e412]:
+                  - link [ref=f24e413] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/092/0002433602
+                    - strong [ref=f24e414]: 러트닉 장관, 트럼프 앞에서 첨단IT·반도체 광물 '고려아연' 언급한 이유
+                  - generic [ref=f24e415]:
+                    - generic [ref=f24e416]:
+                      - generic [ref=f24e417]: 지디넷코리아
+                      - generic [ref=f24e418]:
+                        - text: 업데이트
+                        - generic [ref=f24e419]: 47분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e420]:
+              - generic [ref=f24e422]:
+                - link [ref=f24e425] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/092/0002433601
+                - generic [ref=f24e426]:
+                  - link [ref=f24e427] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/092/0002433601
+                    - strong [ref=f24e428]: SKT 독자 AI 모델 'A.X K2' 수학도 잘한다..."올림피아드 금메달 수준"
+                  - generic [ref=f24e429]:
+                    - generic [ref=f24e430]:
+                      - generic [ref=f24e431]: 지디넷코리아
+                      - generic [ref=f24e432]:
+                        - text: 업데이트
+                        - generic [ref=f24e433]: 50분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e434]:
+              - generic [ref=f24e436]:
+                - link [ref=f24e439] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/293/0000088878
+                - generic [ref=f24e440]:
+                  - link [ref=f24e441] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/293/0000088878
+                    - strong [ref=f24e442]: GPU만으론 안 된다…AI 병목 푸는 델의 스토리지 해법
+                  - generic [ref=f24e443]:
+                    - generic [ref=f24e444]:
+                      - generic [ref=f24e445]: 블로터
+                      - generic [ref=f24e446]:
+                        - text: 업데이트
+                        - generic [ref=f24e447]: 51분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e448]:
+              - generic [ref=f24e450]:
+                - link [ref=f24e453] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/023/0003992352
+                - generic [ref=f24e454]:
+                  - link [ref=f24e455] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/023/0003992352
+                    - strong [ref=f24e456]: “AI가 메모리 싹쓸이”…애플·자동차·의료 업계, 정부 대책 요구
+                  - generic [ref=f24e457]:
+                    - generic [ref=f24e458]:
+                      - generic [ref=f24e459]: 조선일보
+                      - generic [ref=f24e460]:
+                        - text: 업데이트
+                        - generic [ref=f24e461]: 53분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e462]:
+              - generic [ref=f24e464]:
+                - link [ref=f24e467] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/092/0002433599
+                - generic [ref=f24e468]:
+                  - link [ref=f24e469] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/092/0002433599
+                    - strong [ref=f24e470]: NHN클라우드, AI GPU 성과로 매출 85%↑…데이터센터 30MW 더 늘린다
+                  - generic [ref=f24e471]:
+                    - generic [ref=f24e472]:
+                      - generic [ref=f24e473]: 지디넷코리아
+                      - generic [ref=f24e474]:
+                        - text: 업데이트
+                        - generic [ref=f24e475]: 54분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e476]:
+              - generic [ref=f24e478]:
+                - link [ref=f24e481] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/138/0002237352
+                - generic [ref=f24e482]:
+                  - link [ref=f24e483] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/138/0002237352
+                    - strong [ref=f24e484]: NHN클라우드, 양평 B200 타고 매출 85%↑…GPU 사업 본궤도
+                  - generic [ref=f24e485]:
+                    - generic [ref=f24e486]:
+                      - generic [ref=f24e487]: 디지털데일리
+                      - generic [ref=f24e488]:
+                        - text: 업데이트
+                        - generic [ref=f24e489]: 55분전
+                    - generic: 댓글 개수
+          - list [ref=f24e491]:
+            - listitem [ref=f24e492]:
+              - generic [ref=f24e494]:
+                - link [ref=f24e497] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/138/0002237350
+                - generic [ref=f24e498]:
+                  - link [ref=f24e499] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/138/0002237350
+                    - strong [ref=f24e500]: 李 “임기 내 세종 집무실 시대 열것”…AI 정책 속도전, 부정부패는 엄정 문책
+                  - generic [ref=f24e501]:
+                    - generic [ref=f24e502]:
+                      - generic [ref=f24e503]: 디지털데일리
+                      - generic [ref=f24e504]:
+                        - text: 업데이트
+                        - generic [ref=f24e505]: 55분전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e506]:
+              - generic [ref=f24e508]:
+                - link [ref=f24e511] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/016/0002682128
+                - generic [ref=f24e512]:
+                  - link [ref=f24e513] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/016/0002682128
+                    - strong [ref=f24e514]: "[단독] 청소년 중독 우려, 틱톡 ‘현금 보상’…결국 칼 빼든 방미통위"
+                  - generic [ref=f24e515]:
+                    - generic [ref=f24e516]:
+                      - generic [ref=f24e517]: 헤럴드경제
+                      - generic [ref=f24e518]:
+                        - text: 업데이트
+                        - generic [ref=f24e519]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e520]:
+              - generic [ref=f24e522]:
+                - link [ref=f24e525] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/092/0002433591
+                - generic [ref=f24e526]:
+                  - link [ref=f24e527] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/092/0002433591
+                    - strong [ref=f24e528]: K-양극재, 상반기 희비 갈려…엘앤에프만 적재량 증가
+                  - generic [ref=f24e529]:
+                    - generic [ref=f24e530]:
+                      - generic [ref=f24e531]: 지디넷코리아
+                      - generic [ref=f24e532]:
+                        - text: 업데이트
+                        - generic [ref=f24e533]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e534]:
+              - generic [ref=f24e536]:
+                - link [ref=f24e539] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/015/0005319505
+                - generic [ref=f24e540]:
+                  - link [ref=f24e541] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/015/0005319505
+                    - strong [ref=f24e542]: 엔비디아 덕에 '최대 실적'…NHN, AI로 '잭팟' 터뜨렸다
+                  - generic [ref=f24e543]:
+                    - generic [ref=f24e544]:
+                      - generic [ref=f24e545]: 한국경제
+                      - generic [ref=f24e546]:
+                        - text: 업데이트
+                        - generic [ref=f24e547]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e548]:
+              - generic [ref=f24e550]:
+                - link [ref=f24e553] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/138/0002237349
+                - generic [ref=f24e554]:
+                  - link [ref=f24e555] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/138/0002237349
+                    - strong [ref=f24e556]: ‘반도체 클러스터 부지’ 광주 군공항 기능 임시 이전 추진…“미군 공여지 반환 협의”
+                  - generic [ref=f24e557]:
+                    - generic [ref=f24e558]:
+                      - generic [ref=f24e559]: 디지털데일리
+                      - generic [ref=f24e560]:
+                        - text: 업데이트
+                        - generic [ref=f24e561]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e562]:
+              - generic [ref=f24e564]:
+                - link [ref=f24e567] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/092/0002433590
+                - generic [ref=f24e568]:
+                  - link [ref=f24e569] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/092/0002433590
+                    - strong [ref=f24e570]: 저커버그 "초지능 독점 안 돼"…메타, 개방형 AI 복귀
+                  - generic [ref=f24e571]:
+                    - generic [ref=f24e572]:
+                      - generic [ref=f24e573]: 지디넷코리아
+                      - generic [ref=f24e574]:
+                        - text: 업데이트
+                        - generic [ref=f24e575]: 1시간전
+                    - generic: 댓글 개수
+          - list [ref=f24e577]:
+            - listitem [ref=f24e578]:
+              - generic [ref=f24e580]:
+                - link [ref=f24e583] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/022/0004150048
+                - generic [ref=f24e584]:
+                  - link [ref=f24e585] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/022/0004150048
+                    - strong [ref=f24e586]: “몇 번째 되살리냐” 커지는 피로감…이번엔 정말 ‘싸이월드’ 부활하나
+                  - generic [ref=f24e587]:
+                    - generic [ref=f24e588]:
+                      - generic [ref=f24e589]: 세계일보
+                      - generic [ref=f24e590]:
+                        - text: 업데이트
+                        - generic [ref=f24e591]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e592]:
+              - generic [ref=f24e594]:
+                - link [ref=f24e597] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/003/0014119588
+                - generic [ref=f24e598]:
+                  - link [ref=f24e599] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/003/0014119588
+                    - strong [ref=f24e600]: SKT 독자 AI 'A.X K2', 국제수학올림피아드 금메달급…수학평가 공동 1위
+                  - generic [ref=f24e601]:
+                    - generic [ref=f24e602]:
+                      - generic [ref=f24e603]: 뉴시스
+                      - generic [ref=f24e604]:
+                        - text: 업데이트
+                        - generic [ref=f24e605]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e606]:
+              - generic [ref=f24e608]:
+                - link [ref=f24e611] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/018/0006349358
+                - generic [ref=f24e612]:
+                  - link [ref=f24e613] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/018/0006349358
+                    - strong [ref=f24e614]: AI가 데이터센터를 키운다…AI 최적화 IaaS 시장, 올해 96% 급성장
+                  - generic [ref=f24e615]:
+                    - generic [ref=f24e616]:
+                      - generic [ref=f24e617]: 이데일리
+                      - generic [ref=f24e618]:
+                        - text: 업데이트
+                        - generic [ref=f24e619]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e620]:
+              - generic [ref=f24e622]:
+                - link [ref=f24e625] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/092/0002433585
+                - generic [ref=f24e626]:
+                  - link [ref=f24e627] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/092/0002433585
+                    - strong [ref=f24e628]: 49년 된 보이저 2호, 장비 수명 1년 더 늘렸다…어떻게? [우주로 간다]
+                  - generic [ref=f24e629]:
+                    - generic [ref=f24e630]:
+                      - generic [ref=f24e631]: 지디넷코리아
+                      - generic [ref=f24e632]:
+                        - text: 업데이트
+                        - generic [ref=f24e633]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e634]:
+              - generic [ref=f24e636]:
+                - link [ref=f24e639] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/001/0016243915
+                - generic [ref=f24e640]:
+                  - link [ref=f24e641] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/001/0016243915
+                    - strong [ref=f24e642]: 삼성운용 "KODEX 미국CPU반도체TOP10, 상장 일주일 수익률 10.35%"
+                  - generic [ref=f24e643]:
+                    - generic [ref=f24e644]:
+                      - generic [ref=f24e645]: 연합뉴스
+                      - generic [ref=f24e646]:
+                        - text: 업데이트
+                        - generic [ref=f24e647]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e648]:
+              - generic [ref=f24e650]:
+                - link [ref=f24e653] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/092/0002433582
+                - generic [ref=f24e654]:
+                  - link [ref=f24e655] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/092/0002433582
+                    - strong [ref=f24e656]: SK하이닉스, 日키오시아 최대주주 등극
+                  - generic [ref=f24e657]:
+                    - generic [ref=f24e658]:
+                      - generic [ref=f24e659]: 지디넷코리아
+                      - generic [ref=f24e660]:
+                        - text: 업데이트
+                        - generic [ref=f24e661]: 1시간전
+                    - generic: 댓글 개수
+          - list [ref=f24e663]:
+            - listitem [ref=f24e664]:
+              - generic [ref=f24e666]:
+                - link [ref=f24e669] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/008/0005398204
+                - generic [ref=f24e670]:
+                  - link [ref=f24e671] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/008/0005398204
+                    - strong [ref=f24e672]: "\"'AI 일진녀'로 10대 사로잡았다더니\"…챗GPT보다 많이 쓴 '이 앱'"
+                  - generic [ref=f24e673]:
+                    - generic [ref=f24e674]:
+                      - generic [ref=f24e675]: 머니투데이
+                      - generic [ref=f24e676]:
+                        - text: 업데이트
+                        - generic [ref=f24e677]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e678]:
+              - generic [ref=f24e680]:
+                - link [ref=f24e683] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/018/0006349313
+                - generic [ref=f24e684]:
+                  - link [ref=f24e685] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/018/0006349313
+                    - strong [ref=f24e686]: KT, 구글 손잡고 ‘AI 일상화’ 나선다…‘초이스’ 신규 요금제 출시
+                  - generic [ref=f24e687]:
+                    - generic [ref=f24e688]:
+                      - generic [ref=f24e689]: 이데일리
+                      - generic [ref=f24e690]:
+                        - text: 업데이트
+                        - generic [ref=f24e691]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e692]:
+              - generic [ref=f24e694]:
+                - link [ref=f24e697] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/028/0002817968
+                - generic [ref=f24e698]:
+                  - link [ref=f24e699] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/028/0002817968
+                    - strong [ref=f24e700]: 간지럼 ‘몸 지도’ 문화권 차이 없네…손길 안 닿는 부위 더 많이 탄다
+                  - generic [ref=f24e701]:
+                    - generic [ref=f24e702]:
+                      - generic [ref=f24e703]: 한겨레
+                      - generic [ref=f24e704]:
+                        - text: 업데이트
+                        - generic [ref=f24e705]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e706]:
+              - generic [ref=f24e708]:
+                - link [ref=f24e711] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/029/0003041706
+                - generic [ref=f24e712]:
+                  - link [ref=f24e713] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/029/0003041706
+                    - strong [ref=f24e714]: 키움증권 “삼성전자·SK하닉 목표가 하향… HBM 모멘텀은 유효”
+                  - generic [ref=f24e715]:
+                    - generic [ref=f24e716]:
+                      - generic [ref=f24e717]: 디지털타임스
+                      - generic [ref=f24e718]:
+                        - text: 업데이트
+                        - generic [ref=f24e719]: 1시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e720]:
+              - generic [ref=f24e722]:
+                - link [ref=f24e725] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/421/0009107074
+                - generic [ref=f24e726]:
+                  - link [ref=f24e727] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/421/0009107074
+                    - strong [ref=f24e728]: "\"제미나이·클라우드 무료\"…KT, 구글과 'AI 요금제' 출시"
+                  - generic [ref=f24e729]:
+                    - generic [ref=f24e730]:
+                      - generic [ref=f24e731]: 뉴스1
+                      - generic [ref=f24e732]:
+                        - text: 업데이트
+                        - generic [ref=f24e733]: 2시간전
+                    - generic: 댓글 개수
+            - listitem [ref=f24e734]:
+              - generic [ref=f24e736]:
+                - link [ref=f24e739] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/article/138/0002237320
+                - generic [ref=f24e740]:
+                  - link [ref=f24e741] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/mnews/article/138/0002237320
+                    - strong [ref=f24e742]: 오픈AI, ‘GPT-5.6 사이버’ 공개… ‘데이브레이크’도 재편
+                  - generic [ref=f24e743]:
+                    - generic [ref=f24e744]:
+                      - generic [ref=f24e745]: 디지털데일리
+                      - generic [ref=f24e746]:
+                        - text: 업데이트
+                        - generic [ref=f24e747]: 2시간전
+                    - generic: 댓글 개수
+        - link "기사 더보기" [ref=f24e749] [cursor=pointer]:
+          - /url: "#"
+    - generic: mobile
+  - contentinfo [ref=f24e752]:
+    - paragraph [ref=f24e753]:
+      - generic [ref=f24e754]:
+        - link "로그인" [ref=f24e756] [cursor=pointer]:
+          - /url: https://nid.naver.com/nidlogin.login?svctype=262144
+        - link "전체서비스" [ref=f24e758] [cursor=pointer]:
+          - /url: https://m.naver.com/services.html?f=svc.news
+      - generic [ref=f24e759]:
+        - link "서비스안내" [ref=f24e761] [cursor=pointer]:
+          - /url: https://news.naver.com/ombudsman
+        - link "오류신고" [ref=f24e763] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_001.naver
+        - link "고객센터" [ref=f24e765] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_007.naver
+      - generic [ref=f24e766]:
+        - 'link "기사배열 책임자 : 김수향" [ref=f24e767] [cursor=pointer]':
+          - /url: https://news.naver.com/ombudsman/edit
+        - generic [ref=f24e768]: "청소년 보호 책임자 : 이정규"
+      - generic [ref=f24e769]: 이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+      - link "NAVER" [ref=f24e771] [cursor=pointer]:
+        - /url: https://www.navercorp.com

@@ -1,0 +1,3 @@
+[    9510ms] [WARNING] The key "target-densitydpi" is not supported. @ https://news.naver.com/:50
+[    9555ms] [WARNING] [egjs] The 4th argument of infiniteGrid is missing.
+Download Outlayer from [https://github.com/metafizzy/outlayer/]. @ https://ssl.pstatic.net/static.news/mnews/resources/20260730_012918/js/generated/news.mobile.js:5840

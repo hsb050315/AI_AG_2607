@@ -1,0 +1,2177 @@
+- generic [active] [ref=f32e1]:
+  - link "본문 바로가기" [ref=f32e2] [cursor=pointer]:
+    - /url: "#ct"
+  - banner [ref=f32e4]:
+    - generic [ref=f32e7]:
+      - generic [ref=f32e8]:
+        - link "NAVER" [ref=f32e10] [cursor=pointer]:
+          - /url: https://www.naver.com
+        - generic [ref=f32e12]:
+          - heading [level=1] [ref=f32e13]:
+            - link "선택됨 뉴스" [ref=f32e14] [cursor=pointer]:
+              - /url: https://news.naver.com
+          - link "엔터" [ref=f32e17] [cursor=pointer]:
+            - /url: https://entertain.naver.com/home
+          - link "스포츠" [ref=f32e20] [cursor=pointer]:
+            - /url: https://sports.news.naver.com/index
+          - link "프리미엄" [ref=f32e23] [cursor=pointer]:
+            - /url: https://contents.premium.naver.com/
+      - generic [ref=f32e25]:
+        - link "MY" [ref=f32e27] [cursor=pointer]:
+          - /url: https://media.naver.com/my/home
+        - link "검색" [ref=f32e30] [cursor=pointer]:
+          - /url: javascript:;
+    - menu [ref=f32e38]:
+      - listitem [ref=f32e39]:
+        - menuitem "언론사별" [ref=f32e40] [cursor=pointer]
+      - listitem [ref=f32e42]:
+        - menuitem "정치" [ref=f32e43] [cursor=pointer]
+      - listitem [ref=f32e45]:
+        - menuitem "경제" [ref=f32e46] [cursor=pointer]
+      - listitem [ref=f32e48]:
+        - menuitem "사회" [ref=f32e49] [cursor=pointer]
+      - listitem [ref=f32e51]:
+        - menuitem "생활/문화" [ref=f32e52] [cursor=pointer]
+      - listitem [ref=f32e54]:
+        - menuitem "IT/과학" [ref=f32e55] [cursor=pointer]
+      - listitem [ref=f32e57]:
+        - menuitem "세계" [ref=f32e58] [cursor=pointer]
+      - listitem [ref=f32e60]:
+        - menuitem "랭킹" [ref=f32e61] [cursor=pointer]
+      - listitem [ref=f32e63]:
+        - menuitem "신문보기" [ref=f32e64] [cursor=pointer]
+      - listitem [ref=f32e66]:
+        - menuitem "오피니언" [ref=f32e67] [cursor=pointer]
+      - listitem [ref=f32e69]:
+        - menuitem "TV" [ref=f32e70] [cursor=pointer]
+      - listitem [ref=f32e72]:
+        - menuitem "팩트체크" [ref=f32e73] [cursor=pointer]
+      - listitem [ref=f32e75]:
+        - menuitem "알고리즘 안내" [ref=f32e76] [cursor=pointer]
+      - listitem [ref=f32e78]:
+        - menuitem "정정보도 모음" [ref=f32e79] [cursor=pointer]
+  - main [ref=f32e81]:
+    - generic [ref=f32e83]:
+      - heading "콘텐츠" [level=3] [ref=f32e84]
+      - generic [ref=f32e86]:
+        - generic [ref=f32e87]:
+          - generic [ref=f32e89]:
+            - heading "언론사편집 기자 연재" [level=3] [ref=f32e91]:
+              - generic [ref=f32e92]: 언론사편집
+              - link "기자" [ref=f32e93] [cursor=pointer]:
+                - /url: "#feedJournalistCard"
+              - link "연재" [ref=f32e94] [cursor=pointer]:
+                - /url: "#feedSeriesCard"
+            - generic [ref=f32e95]:
+              - generic [ref=f32e96]: 속보
+              - link "李 대통령 \"임기 내 세종 집무시대 열어야.. 수도권 일극 한계\" 전주MBC" [ref=f32e99] [cursor=pointer]:
+                - /url: https://n.news.naver.com/article/659/0000045935?cds=news_media_pc&type=breakingnews
+                - generic [ref=f32e100]:
+                  - heading "李 대통령 \"임기 내 세종 집무시대 열어야.. 수도권 일극 한계\"" [level=4] [ref=f32e101]
+                  - generic [ref=f32e102]: 전주MBC
+              - button "속보 더보기" [ref=f32e105] [cursor=pointer]
+          - generic [ref=f32e108]:
+            - generic [ref=f32e109]:
+              - link "문화일보 08월 11일 11:13" [ref=f32e110] [cursor=pointer]:
+                - /url: https://media.naver.com/press/021
+                - emphasis [ref=f32e112]: 문화일보
+                - generic [ref=f32e113]: 08월 11일 11:13
+              - button "구독" [ref=f32e114] [cursor=pointer]
+            - link "“부부공동명의 1주택 다주택자 과세? 이혼장려세” 나경원의 말" [ref=f32e116] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/021/0002810574?cds=news_media_pc&type=editn
+              - strong [ref=f32e118]: “부부공동명의 1주택 다주택자 과세? 이혼장려세” 나경원의 말
+            - list [ref=f32e119]:
+              - listitem [ref=f32e120]:
+                - link "“내 주식 어떡하나” 키움證, 삼전·닉스 목표가 함께 낮춰" [ref=f32e121] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/021/0002810536?cds=news_media_pc&type=editn
+              - listitem [ref=f32e122]:
+                - link "포항서 훈련 중 쓰러진 해병 다시 훈련 투입됐다 또 쓰러져…혹사 논란" [ref=f32e123] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/021/0002810565?cds=news_media_pc&type=editn
+              - listitem [ref=f32e124]:
+                - link "“스님이 강제추행” 50대 여성 등 2명, 허위 고소 결국…구속기소" [ref=f32e125] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/021/0002810542?cds=news_media_pc&type=editn
+          - generic [ref=f32e127]:
+            - generic [ref=f32e128]:
+              - link "대전일보 08월 11일 11:08" [ref=f32e129] [cursor=pointer]:
+                - /url: https://media.naver.com/press/656
+                - emphasis [ref=f32e131]: 대전일보
+                - generic [ref=f32e132]: 08월 11일 11:08
+              - button "구독" [ref=f32e133] [cursor=pointer]
+            - link "李대통령 \"마지막 국무회의 세종 개최 총력…세종집무실 속도\"" [ref=f32e135] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/656/0000183743?cds=news_media_pc&type=editn
+              - strong [ref=f32e137]: 李대통령 "마지막 국무회의 세종 개최 총력…세종집무실 속도"
+            - list [ref=f32e138]:
+              - listitem [ref=f32e139]:
+                - link "'대전' 이름 달고 중수청 임시청사 세종에… \"임대차 계약 마무리\"" [ref=f32e140] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/656/0000183741?cds=news_media_pc&type=editn
+              - listitem [ref=f32e141]:
+                - link "코스피·코스닥 동반 하락 출발…코스피 6220선" [ref=f32e142] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/656/0000183737?cds=news_media_pc&type=editn
+              - listitem [ref=f32e143]:
+                - link "\"반도체 역대 최대 155.4% 증가\"… 8월 1-10일 수출 213억달러, 45.3% ↑" [ref=f32e144] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/656/0000183738?cds=news_media_pc&type=editn
+          - generic [ref=f32e146]:
+            - generic [ref=f32e147]:
+              - link "MBN 08월 11일 11:20" [ref=f32e148] [cursor=pointer]:
+                - /url: https://media.naver.com/press/057
+                - emphasis [ref=f32e150]: MBN
+                - generic [ref=f32e151]: 08월 11일 11:20
+              - button "구독" [ref=f32e152] [cursor=pointer]
+            - link "ISA개편 논란 속 이 대통령 \"정책, 국민 처한 상황 따라가야\"" [ref=f32e154] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/057/0001963071?cds=news_media_pc&type=editn
+              - strong [ref=f32e156]: ISA개편 논란 속 이 대통령 "정책, 국민 처한 상황 따라가야"
+            - list [ref=f32e157]:
+              - listitem [ref=f32e158]:
+                - link "[단독] \"날 몰래 찍었다\"...경찰, 성수동 카페에서 여성 불법 촬영한 중국인 출국정지" [ref=f32e159] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/057/0001963073?cds=news_media_pc&type=editn
+              - listitem [ref=f32e160]:
+                - link "'11살 아이 사망' 천안 교회 목사 구속…이달 초에만 학대 신고 2건" [ref=f32e161] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/057/0001963005?cds=news_media_pc&type=editn
+              - listitem [ref=f32e162]:
+                - link "\"밖에 나갈래\" 치매 남편 막아섰다가…아내·아들 흉기에 찔려" [ref=f32e163] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/057/0001963054?cds=news_media_pc&type=editn
+          - generic [ref=f32e165]:
+            - generic [ref=f32e166]:
+              - heading "이슈NOW를 구독해보세요" [level=3] [ref=f32e167]
+              - button "도움말" [ref=f32e170] [cursor=pointer]
+              - link "구독 설정" [ref=f32e172] [cursor=pointer]:
+                - /url: https://media.naver.com/channel/issueSetting
+            - list [ref=f32e174]:
+              - listitem [ref=f32e175]:
+                - generic [ref=f32e176]:
+                  - link "기록적 폭염 데일리안" [ref=f32e177] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/119/1814
+                    - generic [ref=f32e179]:
+                      - strong [ref=f32e180]: 기록적 폭염
+                      - generic [ref=f32e181]: 데일리안
+                  - button "구독" [ref=f32e182] [cursor=pointer]
+                - generic [ref=f32e184]:
+                  - list [ref=f32e185]:
+                    - listitem [ref=f32e186]:
+                      - link "08월 11일 07:01 경보부터 취약계층 보호까지…폭염 대응 어떻게 달라졌나" [ref=f32e187] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/article/119/0003120386?iid=1814
+                        - generic [ref=f32e189]:
+                          - generic [ref=f32e190]: 08월 11일 07:01
+                          - emphasis [ref=f32e191]: 경보부터 취약계층 보호까지…폭염 대응 어떻게 달라졌나
+                    - listitem [ref=f32e192]:
+                      - link "08월 10일 16:18 폭염에 80세 이상 집중 보호…노인 실외일자리 전면 중단" [ref=f32e193] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/article/119/0003120284?iid=1814
+                        - generic [ref=f32e195]:
+                          - generic [ref=f32e196]: 08월 10일 16:18
+                          - emphasis [ref=f32e197]: 폭염에 80세 이상 집중 보호…노인 실외일자리 전면 중단
+                    - listitem [ref=f32e198]:
+                      - link "08월 10일 13:18 다섯 배 늘어난 ‘괴물 폭우·극한 폭염’…전문가 “앞으론 더 잦을 것”" [ref=f32e199] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/article/119/0003120195?iid=1814
+                        - generic [ref=f32e201]:
+                          - generic [ref=f32e202]: 08월 10일 13:18
+                          - emphasis [ref=f32e203]: 다섯 배 늘어난 ‘괴물 폭우·극한 폭염’…전문가 “앞으론 더 잦을 것”
+                  - list [ref=f32e204]:
+                    - listitem [ref=f32e205]:
+                      - generic [ref=f32e206]: "#폭염"
+                    - listitem [ref=f32e207]:
+                      - generic [ref=f32e208]: "#이상기후"
+                    - listitem [ref=f32e209]:
+                      - generic [ref=f32e210]: "#열대야"
+              - listitem [ref=f32e211]:
+                - generic [ref=f32e212]:
+                  - link "2차 종합특검 뉴시스" [ref=f32e213] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/003/2491
+                    - generic [ref=f32e215]:
+                      - strong [ref=f32e216]: 2차 종합특검
+                      - generic [ref=f32e217]: 뉴시스
+                  - button "구독" [ref=f32e218] [cursor=pointer]
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "08월 10일 15:46 종합특검, 이번 주 '기소 대상자' 선별…공소유지 변호사 공고도":
+                        - /url: https://n.news.naver.com/article/003/0014118433?iid=2491
+                        - generic:
+                          - generic: 08월 10일 15:46
+                          - emphasis: 종합특검, 이번 주 '기소 대상자' 선별…공소유지 변호사 공고도
+                    - listitem:
+                      - link "08월 10일 10:07 종합특검, '수호신TF' 이진우 전 수방사령관 내일 첫 피의자 소환":
+                        - /url: https://n.news.naver.com/article/003/0014117099?iid=2491
+                        - generic:
+                          - generic: 08월 10일 10:07
+                          - emphasis: 종합특검, '수호신TF' 이진우 전 수방사령관 내일 첫 피의자 소환
+                    - listitem:
+                      - link "08월 08일 12:12 '종료 2주 앞' 종합특검, 수사 마무리 돌입…내란특검과 신경전도":
+                        - /url: https://n.news.naver.com/article/003/0014115441?iid=2491
+                        - generic:
+                          - generic: 08월 08일 12:12
+                          - emphasis: "'종료 2주 앞' 종합특검, 수사 마무리 돌입…내란특검과 신경전도"
+                  - list:
+                    - listitem:
+                      - generic: "#종합특검"
+                    - listitem:
+                      - generic: "#2차특검"
+                    - listitem:
+                      - generic: "#권창영"
+              - listitem [ref=f32e220]:
+                - generic [ref=f32e221]:
+                  - link "AI 패권 경쟁 전자신문" [ref=f32e222] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/030/1802
+                    - generic [ref=f32e224]:
+                      - strong [ref=f32e225]: AI 패권 경쟁
+                      - generic [ref=f32e226]: 전자신문
+                  - button "구독" [ref=f32e227] [cursor=pointer]
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "08월 10일 09:01 AI 에이전트 시대 연다…'AI 서밋 서울 & 엑스포 2026' 19일 개막":
+                        - /url: https://n.news.naver.com/article/030/0003455650?iid=1802
+                        - generic:
+                          - generic: 08월 10일 09:01
+                          - emphasis: AI 에이전트 시대 연다…'AI 서밋 서울 & 엑스포 2026' 19일 개막
+                    - listitem:
+                      - link "08월 10일 06:01 “진짜 사람 같네”…소름 돋는 AI 휴머노이드 기술":
+                        - /url: https://n.news.naver.com/article/030/0003455625?iid=1802
+                        - generic:
+                          - generic: 08월 10일 06:01
+                          - emphasis: “진짜 사람 같네”…소름 돋는 AI 휴머노이드 기술
+                    - listitem:
+                      - link "08월 09일 22:31 AI가 쓴 소설 구분 가능할까?…“인간 작가 선호하지만 구분 못 해 AI 소설에 높은 점수”":
+                        - /url: https://n.news.naver.com/article/030/0003455536?iid=1802
+                        - generic:
+                          - generic: 08월 09일 22:31
+                          - emphasis: AI가 쓴 소설 구분 가능할까?…“인간 작가 선호하지만 구분 못 해 AI 소설에 높은 점수”
+                  - list:
+                    - listitem:
+                      - generic: "#AI"
+                    - listitem:
+                      - generic: "#첨단기술"
+                    - listitem:
+                      - generic: "#인공지능"
+              - listitem [ref=f32e229]:
+                - generic [ref=f32e230]:
+                  - link "위태위태 디지털자산 비즈워치" [ref=f32e231] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/648/137
+                    - generic [ref=f32e233]:
+                      - strong [ref=f32e234]: 위태위태 디지털자산
+                      - generic [ref=f32e235]: 비즈워치
+                  - button "구독" [ref=f32e236] [cursor=pointer]
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "08월 10일 07:40 .가상자산 '국가자산' 명문화…B2G 시장 확대 기대":
+                        - /url: https://n.news.naver.com/article/648/0000049660?iid=137
+                        - generic:
+                          - generic: 08월 10일 07:40
+                          - emphasis: .가상자산 '국가자산' 명문화…B2G 시장 확대 기대
+                    - listitem:
+                      - link "08월 08일 11:00 비트코인·이더리움 버티는데 리플만 '털썩'":
+                        - /url: https://n.news.naver.com/article/648/0000049641?iid=137
+                        - generic:
+                          - generic: 08월 08일 11:00
+                          - emphasis: 비트코인·이더리움 버티는데 리플만 '털썩'
+                    - listitem:
+                      - link "08월 07일 07:40 금융사 손잡았지만 온도차…코인원 '훨훨'·코빗 '잠잠'":
+                        - /url: https://n.news.naver.com/article/648/0000049608?iid=137
+                        - generic:
+                          - generic: 08월 07일 07:40
+                          - emphasis: 금융사 손잡았지만 온도차…코인원 '훨훨'·코빗 '잠잠'
+                  - list:
+                    - listitem:
+                      - generic: "#코인"
+                    - listitem:
+                      - generic: "#가상자산"
+                    - listitem:
+                      - generic: "#조각투자"
+              - listitem [ref=f32e238]:
+                - generic [ref=f32e239]:
+                  - link "글로벌 pick 한국경제TV" [ref=f32e240] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/215/2888
+                    - generic [ref=f32e242]:
+                      - strong [ref=f32e243]: 글로벌 pick
+                      - generic [ref=f32e244]: 한국경제TV
+                  - button "구독" [ref=f32e245] [cursor=pointer]
+                - generic:
+                  - list:
+                    - listitem:
+                      - link "08월 11일 06:21 \"총리 참수할 수밖에\" 극언이 '장기재직' 비결?…6년째 자리 지키며 신기록":
+                        - /url: https://n.news.naver.com/article/215/0001261863?iid=2888
+                        - generic:
+                          - generic: 08월 11일 06:21
+                          - emphasis: "\"총리 참수할 수밖에\" 극언이 '장기재직' 비결?…6년째 자리 지키며 신기록"
+                    - listitem:
+                      - link "08월 11일 05:52 한국 비껴간 태풍 '돌핀' 동부 뒤집어놨다…'역대급 위력'에 100만명 대피":
+                        - /url: https://n.news.naver.com/article/215/0001261861?iid=2888
+                        - generic:
+                          - generic: 08월 11일 05:52
+                          - emphasis: 한국 비껴간 태풍 '돌핀' 동부 뒤집어놨다…'역대급 위력'에 100만명 대피
+                    - listitem:
+                      - link "08월 10일 19:11 7,700만원 내걸어도 안 오자…길거리서 잡아다 '강제 입대'":
+                        - /url: https://n.news.naver.com/article/215/0001261848?iid=2888
+                        - generic:
+                          - generic: 08월 10일 19:11
+                          - emphasis: 7,700만원 내걸어도 안 오자…길거리서 잡아다 '강제 입대'
+                  - list:
+                    - listitem:
+                      - generic: "#세계"
+                    - listitem:
+                      - generic: "#글로벌"
+                    - listitem:
+                      - generic: "#글로벌pick"
+            - button "다른 이슈 더보기 현재 1 / 전체 5" [ref=f32e248] [cursor=pointer]:
+              - text: 다른 이슈 더보기
+              - generic [ref=f32e249]:
+                - generic [ref=f32e250]: 현재
+                - text: "1"
+                - emphasis [ref=f32e251]:
+                  - text: /
+                  - generic [ref=f32e252]: 전체
+                  - text: "5"
+          - iframe [ref=f32e257]:
+            - generic [ref=f39e3]:
+              - link "광고 이미지 똑소리나는 울릉도 패키지여행 사진으로 다 담을 수 없는 울릉도, 30만원대! 홍익여행사 더 알아보기" [ref=f39e4] [cursor=pointer]:
+                - /url: https://g.tivan.naver.com/gfa/0xs6YHO7IvJKcMKmfXUJ96Zmg57hAzEQIvMWU0J4ca_omZ7inTe1_8QBpaOyDpCJRULNFtWiQLeAK0RyfX1e4ZF0SvHEdf5lKtOSmt1LU9SMNj_DDl7hp1OYt1Kswog9_L75MXYJyqweVw3hCf8rR2OJA6E4o5phinYwOWejMnLk3-o_3XWhiOTUcGgdfC48t9K1lVN0HVOS9OCBcBDuXelJ-aaD8SY66lXoVDa4z7Pd4Y9ZEvODG_A9ovPq9xBm-Knrj6J9eSZoVZy0NSwGFiR9iTvqb4xZAcvEc2PM_XPRTOeTjqJMp0fIs8A8ThHtTCc48CKeopbjUaJIZaSE1yT0Iw7VmzgUkVA_NR85doYJxnejwViGYfruXpHDQZ2z5oGsFRgll9R9ETrTvfBFndyLxt9XuOThGmc7oLUN76m5CtKwLBLi8CIYtoUBWo6awqc7aacA1Y7XJ-ALlxFICm1AXcrygQtq-g4VsC-dKVdaiNuQdKcNC-8GvPirKk3UVU5OUZNQBUPk-MxqDxxQ2PUo0sY95v2-M3MYggmGfBaIcw641gVs1bQQC7qRv8rCCCtrG8aFuQ5OTy0XHDdB1w8ZWpgxtl75Q3QP9003iVmeVKcxB6D7wwvUAGi_WwThH78vkmCQjBd6WSTVcu45rJl486jpcqM4arYptFDVvVVYzVOVnHEMiFVtAPSddxYviE2ImYCHv_xvT1lVuGGHr3Zcjncur8ATUTkj4J1IMaa3Y3-aAUvt6Al_pitbp1FP_K_BM_KQ30e-02nfnpH4_nvx9fvGIFcW7KlgBps27h6nqgkcn_mPNrZSfWPlBfOBviOK9ahcS2CYTFDeTb2hWWwOYLfP80PO7K6Yg2g5qnSi4sOCLXC8g5FDxexGGSZvd5WdlIbvAh64g_ltVy9jAzF9xQwx81lMhNMj3KVK9_GKg57EGRAuEbvSRS81tlIeN1imsC-4Qo-rmu97TRDox0pbjaeYgYQmGQjlz-87q8-4BZZzJMrEp0rpbxwwmkesfHP1DQu7YcfFV4DWWsFjSzD1KpcvbMKL4jQnDjmGWhlMiikwUBJ-o6IFTXC9INFC8-hYMIgEb5P5sBn3iU0fsn8bh-3EvtWh_NopA4ltoDLG0svM3sL27GSoCKTk9KvRwOrtkx_tNYcwf3Blm9y3an94VbSF9hf63s_NhE6GAcEJk3QqbyPRKHpmcuSEXp6nDfCvd_ICa3ma3zGepzeeE77zhllIdJLK6xXVVpalaLIcVH7YhdCPePaUlRTQlgB3sApto6G_ak1m-WVPv5dvaacXAWZQm7ClDTAzAvUKleb-LhAVQFA0CSX8e8KOdVI32Zb_gp9f-R_d3DiosvU9X4sr-n9n3a0L3oCspMmuUondoh4AfGlr2N_OFBBA64TX0UeQ_aWIXYPPEtFbtnjPBwyIePBzMxrFAMhlZvF09szDNH6VYtJR5tDx8bOdi4gJ33bXAEp1EJx2xJG0p01a94dKA0vMzQiIup47Y8fzJy-Jzy3N_Qbah5zFqmFFtTPSSzhPl1Rw6_QAji4I18ZiawV8gxqRjtGIzxUgFA3DFXAxuEFY7MhAYiWPd9tf9E_2miIslhcslx0lGLVoSUrxvW9xHQ58zYch0sKIjIfhsJhrXyfc46f83AeyBReBIlmXNwkTuV_MiOA6DKB0fPx-Qz3esouBS6FSWamF9FNLwHZzqIAllKiWDuBMax3lYXBHJzD95MoaCrSRqSu4secXiA==/
+                - generic [ref=f39e7]:
+                  - img "광고 이미지" [ref=f39e9]
+                  - generic [ref=f39e10]:
+                    - strong [ref=f39e11]: 똑소리나는 울릉도 패키지여행
+                    - paragraph [ref=f39e12]: 사진으로 다 담을 수 없는 울릉도, 30만원대!
+                  - generic [ref=f39e13]:
+                    - generic [ref=f39e14]: 홍익여행사
+                    - generic [ref=f39e15]: 더 알아보기
+              - button "AD" [ref=f39e18] [cursor=pointer]
+          - generic [ref=f32e259]:
+            - generic [ref=f32e260]:
+              - link "이코노미스트 08월 11일 10:19" [ref=f32e261] [cursor=pointer]:
+                - /url: https://media.naver.com/press/243
+                - emphasis [ref=f32e263]: 이코노미스트
+                - generic [ref=f32e264]: 08월 11일 10:19
+              - button "구독" [ref=f32e265] [cursor=pointer]
+            - link "2.94%↓ 반도체 '와르르'…뉴욕증시 '인텔발 악재' 하락 마감" [ref=f32e267] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/243/0000101465?cds=news_media_pc&type=editn
+              - strong [ref=f32e269]: 2.94%↓ 반도체 '와르르'…뉴욕증시 '인텔발 악재' 하락 마감
+            - list [ref=f32e270]:
+              - listitem [ref=f32e271]:
+                - link "[단독]\"100장 25만원에 팝니다\"…롯데百이 VIP ‘에메랄드 쇼핑백’ 없앤 이유" [ref=f32e272] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/243/0000101464?cds=news_media_pc&type=editn
+              - listitem [ref=f32e273]:
+                - link "'세계 반도체 빅3 체제' 균열 주범, 중국 창신메모리의 현주소는" [ref=f32e274] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/243/0000101443?cds=news_media_pc&type=editn
+              - listitem [ref=f32e275]:
+                - link "서학개미, 두 달간 50조원 손실 추정…규제 후 레버리지 매수세 ‘뚝’" [ref=f32e276] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/243/0000101473?cds=news_media_pc&type=editn
+          - generic [ref=f32e278]:
+            - generic [ref=f32e279]:
+              - link "전주MBC 08월 11일 10:58" [ref=f32e280] [cursor=pointer]:
+                - /url: https://media.naver.com/press/659
+                - emphasis [ref=f32e282]: 전주MBC
+                - generic [ref=f32e283]: 08월 11일 10:58
+              - button "구독" [ref=f32e284] [cursor=pointer]
+            - link "영상 수십억 예산 들였는데..'캠핑 붐' 꺼지자 운영 중단까지" [ref=f32e286] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/659/0000045921?cds=news_media_pc&type=editn
+              - generic [ref=f32e287]: 영상
+              - strong [ref=f32e290]: 수십억 예산 들였는데..'캠핑 붐' 꺼지자 운영 중단까지
+            - list [ref=f32e291]:
+              - listitem [ref=f32e292]:
+                - link "남원경찰서 유치장서 '구속 피의자' 도주.. \"10분 만에 붙잡혀\"" [ref=f32e293] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/659/0000045925?cds=news_media_pc&type=editn
+              - listitem [ref=f32e294]:
+                - link "4시간 만에 뼈대만 앙상.. \"화재 원인은 아직\"" [ref=f32e295] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/659/0000045924?cds=news_media_pc&type=editn
+              - listitem [ref=f32e296]:
+                - link "추석 대목 앞두고 생계마저 막막..\"임시 매장이라도\"" [ref=f32e297] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/659/0000045923?cds=news_media_pc&type=editn
+          - generic [ref=f32e299]:
+            - generic [ref=f32e300]:
+              - link "디지털타임스 08월 11일 11:15" [ref=f32e301] [cursor=pointer]:
+                - /url: https://media.naver.com/press/029
+                - emphasis [ref=f32e303]: 디지털타임스
+                - generic [ref=f32e304]: 08월 11일 11:15
+              - button "구독" [ref=f32e305] [cursor=pointer]
+            - link "[속보] 이 대통령 “제도에 국민 꿰맞춰선 안 돼…정책, 국민 상황 따라야”" [ref=f32e307] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/029/0003041750?cds=news_media_pc&type=editn
+              - strong [ref=f32e309]: "[속보] 이 대통령 “제도에 국민 꿰맞춰선 안 돼…정책, 국민 상황 따라야”"
+            - list [ref=f32e310]:
+              - listitem [ref=f32e311]:
+                - link "[속보] ‘12·29 무안공항 여객기참사’ 특별수사단, 공항공사·국토부 등 압수수색" [ref=f32e312] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/029/0003041738?cds=news_media_pc&type=editn
+              - listitem [ref=f32e313]:
+                - link "20대 남녀 3명 탄 차량, 알 수 없는 이유로 중앙선 넘어 트럭과 충돌…3명 사망" [ref=f32e314] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/029/0003041713?cds=news_media_pc&type=editn
+              - listitem [ref=f32e315]:
+                - link "“恨 많은 국장, 이젠 떠나렵니다”...개미 이탈에 주식형 ETF, 올해 첫 자금 유출" [ref=f32e316] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/029/0003041711?cds=news_media_pc&type=editn
+          - generic [ref=f32e318]:
+            - generic [ref=f32e319]:
+              - link "kbc광주방송 08월 11일 11:25" [ref=f32e320] [cursor=pointer]:
+                - /url: https://media.naver.com/press/660
+                - emphasis [ref=f32e322]: kbc광주방송
+                - generic [ref=f32e323]: 08월 11일 11:25
+              - button "구독" [ref=f32e324] [cursor=pointer]
+            - link "국방부 \"'반도체 부지' 광주 군공항 기능 2028년까지 이전…미군 공여지 조속 반환 위해 협의\"" [ref=f32e326] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/660/0000114958?cds=news_media_pc&type=editn
+              - strong [ref=f32e328]: 국방부 "'반도체 부지' 광주 군공항 기능 2028년까지 이전…미군 공여지 조속 반환 위해 협의"
+            - list [ref=f32e329]:
+              - listitem [ref=f32e330]:
+                - link "민주당 최대 승부처 호남 민심은 '김민석'...당 대표 선호도 44.7%" [ref=f32e331] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/660/0000114949?cds=news_media_pc&type=editn
+              - listitem [ref=f32e332]:
+                - link "당권 주자 반도체 전력 '온도차'…군 공항 재원도 공방" [ref=f32e333] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/660/0000114952?cds=news_media_pc&type=editn
+              - listitem [ref=f32e334]:
+                - link "승용차-덤프트럭 정면 충돌...20대 3명 숨져" [ref=f32e335] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/660/0000114948?cds=news_media_pc&type=editn
+          - generic [ref=f32e337]:
+            - generic [ref=f32e338]:
+              - link "데일리안 08월 11일 11:27" [ref=f32e339] [cursor=pointer]:
+                - /url: https://media.naver.com/press/119
+                - emphasis [ref=f32e341]: 데일리안
+                - generic [ref=f32e342]: 08월 11일 11:27
+              - button "구독" [ref=f32e343] [cursor=pointer]
+            - link "野 '입법독주' 공세에 반격 나선 與…\"국민의힘, 113건 민생법안 붙잡아\"" [ref=f32e345] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/119/0003120486?cds=news_media_pc&type=editn
+              - strong [ref=f32e347]: 野 '입법독주' 공세에 반격 나선 與…"국민의힘, 113건 민생법안 붙잡아"
+            - list [ref=f32e348]:
+              - listitem [ref=f32e349]:
+                - link "변동성에 질렸나…4일 만에 국내 ETF서 7000억 빠져" [ref=f32e350] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/119/0003120551?cds=news_media_pc&type=editn
+              - listitem [ref=f32e351]:
+                - link "李대통령 \"임기 내 세종 집무실…마지막 국무회의도 세종에서\"" [ref=f32e352] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/119/0003120523?cds=news_media_pc&type=editn
+              - listitem [ref=f32e353]:
+                - link "靑 춘추관장 '무단증축' 논란…사표 제출 시점 겹쳐 의혹 증폭" [ref=f32e354] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/119/0003120423?cds=news_media_pc&type=editn
+          - generic [ref=f32e356]:
+            - heading "언론사별 심층기획" [level=3] [ref=f32e358]
+            - generic [ref=f32e359]:
+              - generic [ref=f32e360]:
+                - link "이슈픽 CJB청주방송" [ref=f32e361] [cursor=pointer]:
+                  - /url: https://media.naver.com/press/655#SpecialReport
+                  - generic [ref=f32e363]: 이슈픽
+                  - generic [ref=f32e364]: CJB청주방송
+                - button "구독" [ref=f32e365] [cursor=pointer]
+              - list [ref=f32e367]:
+                - listitem [ref=f32e368]:
+                  - link "재생시간 02:04 품질 좋고 직거래로 알뜰....'괴산 홍고추 시장' 활기" [ref=f32e369] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/655/0000032335?cds=news_media_pc&type=editn
+                    - generic [ref=f32e372]:
+                      - generic [ref=f32e373]: 재생시간
+                      - text: 02:04
+                    - generic [ref=f32e374]: 품질 좋고 직거래로 알뜰....'괴산 홍고추 시장' 활기
+                  - link "CJB청주방송" [ref=f32e376] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/655
+                - listitem [ref=f32e379]:
+                  - link "정청래 또 말실수... \"이명박 임기 내 광주 반도체 제품 출시\"" [ref=f32e380] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/655/0000032320?cds=news_media_pc&type=editn
+                  - link "CJB청주방송" [ref=f32e384] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/655
+            - generic [ref=f32e387]:
+              - generic [ref=f32e388]:
+                - link "경제가 궁금해 조선일보" [ref=f32e389] [cursor=pointer]:
+                  - /url: https://media.naver.com/press/023#SpecialReport
+                  - generic [ref=f32e391]: 경제가 궁금해
+                  - generic [ref=f32e392]: 조선일보
+                - button "구독" [ref=f32e393] [cursor=pointer]
+              - list [ref=f32e395]:
+                - listitem [ref=f32e396]:
+                  - link "미 투자지 “마이크론 말고 SK하이닉스 사라” 호평인데… 한국선 왜 주가 빠지나" [ref=f32e397] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/023/0003992341?cds=news_media_pc&type=editn
+                  - link "조선일보" [ref=f32e401] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/023
+                - listitem [ref=f32e404]:
+                  - link "8월 1~10일 수출 45%↑ 반도체 수출 100억달러 육박" [ref=f32e405] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/023/0003992339?cds=news_media_pc&type=editn
+                  - link "조선일보" [ref=f32e409] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/023
+          - generic [ref=f32e413]:
+            - generic [ref=f32e414]:
+              - link "신동아 08월 11일 07:16" [ref=f32e415] [cursor=pointer]:
+                - /url: https://media.naver.com/press/262
+                - emphasis [ref=f32e417]: 신동아
+                - generic [ref=f32e418]: 08월 11일 07:16
+              - button "구독" [ref=f32e419] [cursor=pointer]
+            - link "중소기업 ESG 경영, 지금 절실한 진짜 이유" [ref=f32e421] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/262/0000019602?cds=news_media_pc&type=editn
+              - strong [ref=f32e423]: 중소기업 ESG 경영, 지금 절실한 진짜 이유
+            - list [ref=f32e424]:
+              - listitem [ref=f32e425]:
+                - link "이직 원하는 당신, 스스로 물어야 할 3가지 질문" [ref=f32e426] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/262/0000019601?cds=news_media_pc&type=editn
+              - listitem [ref=f32e427]:
+                - link "수출바우처, 지정학 폭풍 속 중소기업 ‘방탄조끼’ 되다" [ref=f32e428] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/262/0000019599?cds=news_media_pc&type=editn
+              - listitem [ref=f32e429]:
+                - link "AI 전환의 거점, KOTRA ‘AI 무역지원센터’" [ref=f32e430] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/262/0000019600?cds=news_media_pc&type=editn
+          - generic [ref=f32e432]:
+            - generic [ref=f32e433]:
+              - link "동아사이언스 08월 11일 11:11" [ref=f32e434] [cursor=pointer]:
+                - /url: https://media.naver.com/press/584
+                - emphasis [ref=f32e436]: 동아사이언스
+                - generic [ref=f32e437]: 08월 11일 11:11
+              - button "구독" [ref=f32e438] [cursor=pointer]
+            - link "5.7m 추락 견디고 얼음 위 달리는 로봇 '트라이바'" [ref=f32e440] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/584/0000038857?cds=news_media_pc&type=editn
+              - strong [ref=f32e442]: 5.7m 추락 견디고 얼음 위 달리는 로봇 '트라이바'
+            - list [ref=f32e443]:
+              - listitem [ref=f32e444]:
+                - link "우주발사 매번 허가 안받는다…반복발사시 5년 '일괄허가'" [ref=f32e445] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/584/0000038858?cds=news_media_pc&type=editn
+              - listitem [ref=f32e446]:
+                - link "국방 예산 40% 갉아먹는 치매…\"진행 늦추는 치료 통한다\"" [ref=f32e447] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/584/0000038848?cds=news_media_pc&type=editn
+              - listitem [ref=f32e448]:
+                - link "노벨상 받은 다공성물질에 자유분방한 기체 분자 줄세웠다" [ref=f32e449] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/584/0000038859?cds=news_media_pc&type=editn
+          - generic [ref=f32e451]:
+            - generic [ref=f32e452]:
+              - link "CJB청주방송 08월 11일 11:24" [ref=f32e453] [cursor=pointer]:
+                - /url: https://media.naver.com/press/655
+                - emphasis [ref=f32e455]: CJB청주방송
+                - generic [ref=f32e456]: 08월 11일 11:24
+              - button "구독" [ref=f32e457] [cursor=pointer]
+            - link "정청래 \"내가 대표되면 대통령 지지율 10% 이상 올라\"" [ref=f32e459] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/655/0000032339?cds=news_media_pc&type=editn
+              - strong [ref=f32e461]: 정청래 "내가 대표되면 대통령 지지율 10% 이상 올라"
+            - list [ref=f32e462]:
+              - listitem [ref=f32e463]:
+                - link "방치 텐트, 계곡 평상 철퇴...막바지 피서철 강경 대응" [ref=f32e464] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/655/0000032333?cds=news_media_pc&type=editn
+              - listitem [ref=f32e465]:
+                - link "영업정지, 과태료에도 '또'... 고양이 오물 방치 반복" [ref=f32e466] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/655/0000032334?cds=news_media_pc&type=editn
+              - listitem [ref=f32e467]:
+                - link "[더세종] 165개 교차로 신호 정보 내비게이션 서비스 추진" [ref=f32e468] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/655/0000032337?cds=news_media_pc&type=editn
+          - generic [ref=f32e470]:
+            - generic [ref=f32e471]:
+              - link "연합뉴스 08월 11일 11:21" [ref=f32e472] [cursor=pointer]:
+                - /url: https://media.naver.com/press/001
+                - emphasis [ref=f32e474]: 연합뉴스
+                - generic [ref=f32e475]: 08월 11일 11:21
+              - button "구독" [ref=f32e476] [cursor=pointer]
+            - link "호남 반도체 클러스터 조성 속도…군공항 이전·산단 병행 추진" [ref=f32e478] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/001/0016244204?cds=news_media_pc&type=editn
+              - strong [ref=f32e480]: 호남 반도체 클러스터 조성 속도…군공항 이전·산단 병행 추진
+            - list [ref=f32e481]:
+              - listitem [ref=f32e482]:
+                - link "'외벽 테라스 붕괴' 송도 신축아파트, 하자 접수건수만 5만7천건" [ref=f32e483] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/001/0016244209?cds=news_media_pc&type=editn
+              - listitem [ref=f32e484]:
+                - link "천안 교회서 사망 11세 아동 '학대치사' 혐의 외조모 구속 기로" [ref=f32e485] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/001/0016244243?cds=news_media_pc&type=editn
+              - listitem [ref=f32e486]:
+                - link "인천지역 고교 상대 '염산테러' 인터넷 예고 글…작성자 추적" [ref=f32e487] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/001/0016244263?cds=news_media_pc&type=editn
+          - generic [ref=f32e489]:
+            - generic [ref=f32e490]:
+              - link "조선비즈 08월 11일 11:18" [ref=f32e491] [cursor=pointer]:
+                - /url: https://media.naver.com/press/366
+                - emphasis [ref=f32e493]: 조선비즈
+                - generic [ref=f32e494]: 08월 11일 11:18
+              - button "구독" [ref=f32e495] [cursor=pointer]
+            - link "코스피 장중 상승 전환해 6340선…삼성전자 3%↑" [ref=f32e497] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/366/0001185502?cds=news_media_pc&type=editn
+              - strong [ref=f32e499]: 코스피 장중 상승 전환해 6340선…삼성전자 3%↑
+            - list [ref=f32e500]:
+              - listitem [ref=f32e501]:
+                - link "원화 강세에 긴장하는 현대차·기아… 해외선 수익성 악화, 안방선 中과의 경쟁 불리" [ref=f32e502] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/366/0001185475?cds=news_media_pc&type=editn
+              - listitem [ref=f32e503]:
+                - link "계약금 0·중도금 0… 정비사업 분담금, 입주 후 4년까지 미룬다" [ref=f32e504] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/366/0001185489?cds=news_media_pc&type=editn
+              - listitem [ref=f32e505]:
+                - link "[르포] 실외기 하나로 냉방·난방·온수까지… 제주 주택에 들어간 삼성전자 신기술" [ref=f32e506] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/366/0001185496?cds=news_media_pc&type=editn
+          - generic [ref=f32e508]:
+            - generic [ref=f32e509]:
+              - link "한국일보 08월 11일 11:17" [ref=f32e510] [cursor=pointer]:
+                - /url: https://media.naver.com/press/469
+                - emphasis [ref=f32e512]: 한국일보
+                - generic [ref=f32e513]: 08월 11일 11:17
+              - button "구독" [ref=f32e514] [cursor=pointer]
+            - link "이 대통령 \"마지막 국무회의는 세종에서\"… 세종 집무실 속도전 지시" [ref=f32e516] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/469/0000947314?cds=news_media_pc&type=editn
+              - strong [ref=f32e518]: 이 대통령 "마지막 국무회의는 세종에서"… 세종 집무실 속도전 지시
+            - list [ref=f32e519]:
+              - listitem [ref=f32e520]:
+                - link "[속보] \"할머니가 때린다\" 교회에 11세 손자 맡긴 외할머니 구속 기로" [ref=f32e521] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/469/0000947325?cds=news_media_pc&type=editn
+              - listitem [ref=f32e522]:
+                - link "[단독] 목차에 '민주주의' 나왔다고 정치 책?…공공도서관 '황당한 도서 심사'" [ref=f32e523] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/469/0000947308?cds=news_media_pc&type=editn
+              - listitem [ref=f32e524]:
+                - link "\"너 TSMC 다녀?\" 한 마디로 갈리는 세상… 대만의 '초양극화', 한국도 안전하지 않다" [ref=f32e525] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/469/0000947299?cds=news_media_pc&type=editn
+          - generic [ref=f32e527]:
+            - generic [ref=f32e528]:
+              - link "국민일보 08월 11일 11:05" [ref=f32e529] [cursor=pointer]:
+                - /url: https://media.naver.com/press/005
+                - emphasis [ref=f32e531]: 국민일보
+                - generic [ref=f32e532]: 08월 11일 11:05
+              - button "구독" [ref=f32e533] [cursor=pointer]
+            - link "안규백 “마오쩌둥 어록이 내 좌우명”…정점식 “어느 나라 장관이냐”" [ref=f32e535] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/005/0001866142?cds=news_media_pc&type=editn
+              - strong [ref=f32e537]: 안규백 “마오쩌둥 어록이 내 좌우명”…정점식 “어느 나라 장관이냐”
+            - list [ref=f32e538]:
+              - listitem [ref=f32e539]:
+                - link "신칸센인데 도쿄→오사카 9시간…이틀 만에 매진된 매력은[이세계도쿄]" [ref=f32e540] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/005/0001866115?cds=news_media_pc&type=editn
+              - listitem [ref=f32e541]:
+                - link "“드러누워 막았어야” 후회한다던 이찬진…레버리지 ETF 논란에 피고발" [ref=f32e542] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/005/0001866138?cds=news_media_pc&type=editn
+              - listitem [ref=f32e543]:
+                - link "[단독] 박상용 추가 징계청구서엔 ‘업무 중 페북 21건 문제’… “먼지털이 감찰” 비판" [ref=f32e544] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/005/0001866124?cds=news_media_pc&type=editn
+          - generic [ref=f32e546]:
+            - generic [ref=f32e547]:
+              - link "주간조선 08월 11일 08:42" [ref=f32e548] [cursor=pointer]:
+                - /url: https://media.naver.com/press/053
+                - emphasis [ref=f32e550]: 주간조선
+                - generic [ref=f32e551]: 08월 11일 08:42
+              - button "구독" [ref=f32e552] [cursor=pointer]
+            - link "美 국내선에서도 잡혔다…한국인, 기내에서 ICE에 체포" [ref=f32e554] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/053/0000060604?cds=news_media_pc&type=editn
+              - strong [ref=f32e556]: 美 국내선에서도 잡혔다…한국인, 기내에서 ICE에 체포
+            - list [ref=f32e557]:
+              - listitem [ref=f32e558]:
+                - link "서울대 공대생도 '컴공' 외면?…10명 중 9명은 이곳 갔다" [ref=f32e559] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/053/0000060601?cds=news_media_pc&type=editn
+              - listitem [ref=f32e560]:
+                - link "두 번이나 도망쳐 \"살려달라\" 했는데…교회로 돌아간 11살, 결국 숨졌다" [ref=f32e561] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/053/0000060598?cds=news_media_pc&type=editn
+              - listitem [ref=f32e562]:
+                - link "성과급에 뿔난 SK하이닉스 직원들…사흘 만에 3500명 '통합노조' 뭉쳤다" [ref=f32e563] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/053/0000060599?cds=news_media_pc&type=editn
+          - generic [ref=f32e565]:
+            - generic [ref=f32e566]:
+              - link "머니투데이 08월 11일 11:16" [ref=f32e567] [cursor=pointer]:
+                - /url: https://media.naver.com/press/008
+                - emphasis [ref=f32e569]: 머니투데이
+                - generic [ref=f32e570]: 08월 11일 11:16
+              - button "구독" [ref=f32e571] [cursor=pointer]
+            - link "\"엄빠 볼 면목이\" 원룸 월세+관리비만 70만원…가장 비싼 대학가는?" [ref=f32e573] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/008/0005398266?cds=news_media_pc&type=editn
+              - strong [ref=f32e575]: "\"엄빠 볼 면목이\" 원룸 월세+관리비만 70만원…가장 비싼 대학가는?"
+            - list [ref=f32e576]:
+              - listitem [ref=f32e577]:
+                - link "삼성전자 3%대 강세, 코스피 상승 전환...오르던 코스닥은 하락" [ref=f32e578] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/008/0005398285?cds=news_media_pc&type=editn
+              - listitem [ref=f32e579]:
+                - link "李대통령 \"'3대 메가' 투자 장애물 선제 제거…안되는 이유 찾지말라\"" [ref=f32e580] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/008/0005398270?cds=news_media_pc&type=editn
+              - listitem [ref=f32e581]:
+                - link "日 관광지 후지산에 대형 욱일기 논란…\"반성도 부끄러움도 없어\"" [ref=f32e582] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/008/0005398300?cds=news_media_pc&type=editn
+          - generic [ref=f32e584]:
+            - generic [ref=f32e585]:
+              - link "부산일보 08월 11일 11:14" [ref=f32e586] [cursor=pointer]:
+                - /url: https://media.naver.com/press/082
+                - emphasis [ref=f32e588]: 부산일보
+                - generic [ref=f32e589]: 08월 11일 11:14
+              - button "구독" [ref=f32e590] [cursor=pointer]
+            - link "정청래 \"이 대통령 핵심 지지층 등 돌려… 내가 당대표 되면 지지율 10% 오를 것\"" [ref=f32e592] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/082/0001393382?cds=news_media_pc&type=editn
+              - strong [ref=f32e594]: 정청래 "이 대통령 핵심 지지층 등 돌려… 내가 당대표 되면 지지율 10% 오를 것"
+            - list [ref=f32e595]:
+              - listitem [ref=f32e596]:
+                - link "태풍에 깨진 '이중 열돔'…제15호 '찬홈' 이동경로 따라 다시 더워질 수도" [ref=f32e597] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/082/0001393370?cds=news_media_pc&type=editn
+              - listitem [ref=f32e598]:
+                - link "열사병으로 근육 손상됐는데 또 훈련 강요한 해병대… 병사 측 \"사과조차 없어\"" [ref=f32e599] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/082/0001393369?cds=news_media_pc&type=editn
+              - listitem [ref=f32e600]:
+                - link "북미 흔든 BTS, 'BTS 대로'에 주지사 환영 메시지도" [ref=f32e601] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/082/0001393372?cds=news_media_pc&type=editn
+          - generic [ref=f32e603]:
+            - generic [ref=f32e604]:
+              - link "농민신문 08월 11일 11:27" [ref=f32e605] [cursor=pointer]:
+                - /url: https://media.naver.com/press/662
+                - emphasis [ref=f32e607]: 농민신문
+                - generic [ref=f32e608]: 08월 11일 11:27
+              - button "구독" [ref=f32e609] [cursor=pointer]
+            - link "“소리 들리면 일단 튀어라”…‘8월 공격성 정점’ 맹독 품은 ‘말벌’" [ref=f32e611] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/662/0000101591?cds=news_media_pc&type=editn
+              - strong [ref=f32e613]: “소리 들리면 일단 튀어라”…‘8월 공격성 정점’ 맹독 품은 ‘말벌’
+            - list [ref=f32e614]:
+              - listitem [ref=f32e615]:
+                - link "“엄마 손을 잡아보세요”…약해진 ‘손아귀 힘’ 그냥 넘기면 안되는 이유" [ref=f32e616] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/662/0000101592?cds=news_media_pc&type=editn
+              - listitem [ref=f32e617]:
+                - link "한국인 사망원인 1위는 ‘암’…2위는 ‘이 질환’" [ref=f32e618] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/662/0000101574?cds=news_media_pc&type=editn
+              - listitem [ref=f32e619]:
+                - link "근속기간 30년 ‘훌쩍’…‘이 직업’ 가장 늦게 은퇴한다" [ref=f32e620] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/662/0000101599?cds=news_media_pc&type=editn
+          - generic [ref=f32e622]:
+            - generic [ref=f32e623]:
+              - link "코메디닷컴 08월 11일 11:25" [ref=f32e624] [cursor=pointer]:
+                - /url: https://media.naver.com/press/296
+                - emphasis [ref=f32e626]: 코메디닷컴
+                - generic [ref=f32e627]: 08월 11일 11:25
+              - button "구독" [ref=f32e628] [cursor=pointer]
+            - link "‘45세’ 조여정 “1년에 ‘이 음식’ 딱 2번 먹어”⋯동안 비결이라고?" [ref=f32e630] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/296/0000103539?cds=news_media_pc&type=editn
+              - strong [ref=f32e632]: ‘45세’ 조여정 “1년에 ‘이 음식’ 딱 2번 먹어”⋯동안 비결이라고?
+            - list [ref=f32e633]:
+              - listitem [ref=f32e634]:
+                - link "“이토록 가슴 아픈 슬픔은 처음” 씨엔블루 강민혁, 반려묘 ‘치치’와 이별" [ref=f32e635] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/296/0000103545?cds=news_media_pc&type=editn
+              - listitem [ref=f32e636]:
+                - link "“영양제도 커피도 아냐” 하루 컨디션 ‘확’ 올리는 아침 습관 3가지" [ref=f32e637] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/296/0000103537?cds=news_media_pc&type=editn
+              - listitem [ref=f32e638]:
+                - link "“죽도록 뺐는데 다시 찐다?”…‘요요’ 막으려면 살 뺀 뒤 ‘이것’ 꼭 하세요" [ref=f32e639] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/296/0000103536?cds=news_media_pc&type=editn
+          - generic [ref=f32e641]:
+            - generic [ref=f32e642]:
+              - link "한경비즈니스 08월 11일 10:36" [ref=f32e643] [cursor=pointer]:
+                - /url: https://media.naver.com/press/050
+                - emphasis [ref=f32e645]: 한경비즈니스
+                - generic [ref=f32e646]: 08월 11일 10:36
+              - button "구독" [ref=f32e647] [cursor=pointer]
+            - link "“수도권 쏠림 깨지나” 데이터센터 전기요금 싼 지방行" [ref=f32e649] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/050/0000109518?cds=news_media_pc&type=editn
+              - strong [ref=f32e651]: “수도권 쏠림 깨지나” 데이터센터 전기요금 싼 지방行
+            - list [ref=f32e652]:
+              - listitem [ref=f32e653]:
+                - link "뉴욕 금융인들 왜 이곳으로?...‘제2의 월가’ 부상" [ref=f32e654] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/050/0000109527?cds=news_media_pc&type=editn
+              - listitem [ref=f32e655]:
+                - link "“삼전닉스 레버리지 대거 이탈” ETF서 첫 자금 유출" [ref=f32e656] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/050/0000109522?cds=news_media_pc&type=editn
+              - listitem [ref=f32e657]:
+                - link "[김보형의 뷰파인더]회장 3연임 제한이 금융지주 만병통치?" [ref=f32e658] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/050/0000109511?cds=news_media_pc&type=editn
+          - generic [ref=f32e660]:
+            - generic [ref=f32e661]:
+              - link "JIBS 08월 11일 11:01" [ref=f32e662] [cursor=pointer]:
+                - /url: https://media.naver.com/press/661
+                - emphasis [ref=f32e664]: JIBS
+                - generic [ref=f32e665]: 08월 11일 11:01
+              - button "구독" [ref=f32e666] [cursor=pointer]
+            - link "홍준표 \"권력 잡았다고 자기 뜻대로 행사한 정권은 언제나 무너진다\"" [ref=f32e668] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/661/0000081410?cds=news_media_pc&type=editn
+              - strong [ref=f32e670]: 홍준표 "권력 잡았다고 자기 뜻대로 행사한 정권은 언제나 무너진다"
+            - list [ref=f32e671]:
+              - listitem [ref=f32e672]:
+                - link "“쿠데타 했다고 육사 책임?”… 천하람 “그럼 충암고·서울대도 없애야”" [ref=f32e673] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/661/0000081411?cds=news_media_pc&type=editn
+              - listitem [ref=f32e674]:
+                - link "'짜장면 4천 원' 착한가격업소 탐나는전 결제하면 5% 추가 적립" [ref=f32e675] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/661/0000081418?cds=news_media_pc&type=editn
+              - listitem [ref=f32e676]:
+                - link "외국인 카드 매출 제주서 1년 새 53% ↑.. 비수도권 관광 소비 '쑥'" [ref=f32e677] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/661/0000081413?cds=news_media_pc&type=editn
+          - generic [ref=f32e679]:
+            - generic [ref=f32e680]:
+              - link "주간경향 08월 11일 11:18" [ref=f32e681] [cursor=pointer]:
+                - /url: https://media.naver.com/press/033
+                - emphasis [ref=f32e683]: 주간경향
+                - generic [ref=f32e684]: 08월 11일 11:18
+              - button "구독" [ref=f32e685] [cursor=pointer]
+            - link "민주 당대표 경선, 접전 판세 균열?···호남 김민석 57.7% 정청래 28.2%[리얼미터]" [ref=f32e687] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/033/0000051645?cds=news_media_pc&type=editn
+              - strong [ref=f32e689]: 민주 당대표 경선, 접전 판세 균열?···호남 김민석 57.7% 정청래 28.2%[리얼미터]
+            - list [ref=f32e690]:
+              - listitem [ref=f32e691]:
+                - link "홍준표, 유승민에 “단테 신곡에서 가장 큰 죄악은 배신”" [ref=f32e692] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/033/0000051641?cds=news_media_pc&type=editn
+              - listitem [ref=f32e693]:
+                - link "[단독] 권혁부 “내가 SNS에 잘못 쓴 것…정청래 나온 사진은 못봤다”" [ref=f32e694] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/033/0000051639?cds=news_media_pc&type=editn
+              - listitem [ref=f32e695]:
+                - link "김민석 “박시영의 말장난, 도 넘어···대통령과 이희자 사진으로 장난, 저까지 희롱”" [ref=f32e696] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/033/0000051640?cds=news_media_pc&type=editn
+          - generic [ref=f32e698]:
+            - generic [ref=f32e699]:
+              - link "뉴스타파 08월 10일 18:20" [ref=f32e700] [cursor=pointer]:
+                - /url: https://media.naver.com/press/607
+                - emphasis [ref=f32e702]: 뉴스타파
+                - generic [ref=f32e703]: 08월 10일 18:20
+              - button "구독" [ref=f32e704] [cursor=pointer]
+            - link "‘현장 사진 지워라’ KTX 공사현장 죽음 뒤의 거짓말" [ref=f32e706] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/607/0000003442?cds=news_media_pc&type=editn
+              - strong [ref=f32e708]: ‘현장 사진 지워라’ KTX 공사현장 죽음 뒤의 거짓말
+            - list [ref=f32e709]:
+              - listitem [ref=f32e710]:
+                - link "‘조성현 기소’ 종합특검-내란특검 최후의 공방" [ref=f32e711] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/607/0000003441?cds=news_media_pc&type=editn
+              - listitem [ref=f32e712]:
+                - link "<죄 만드는 검(檢)> ④ 주권자에 '사법 폭력' 가한 10명 중 8명이 승진하는 나라" [ref=f32e713] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/607/0000003440?cds=news_media_pc&type=editn
+              - listitem [ref=f32e714]:
+                - link "[주간 뉴스타파] 엘시티 왕국과 죽음의 터널" [ref=f32e715] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/607/0000003439?cds=news_media_pc&type=editn
+          - generic [ref=f32e717]:
+            - generic [ref=f32e718]:
+              - link "동행미디어 시대 08월 11일 11:17" [ref=f32e719] [cursor=pointer]:
+                - /url: https://media.naver.com/press/417
+                - emphasis [ref=f32e721]: 동행미디어 시대
+                - generic [ref=f32e722]: 08월 11일 11:17
+              - button "구독" [ref=f32e723] [cursor=pointer]
+            - link "[시대리포트]25년동안 그린벨트 10% 줄어…\"지연될수록 분양가 오른다\"" [ref=f32e725] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/417/0001154933?cds=news_media_pc&type=editn
+              - strong [ref=f32e727]: "[시대리포트]25년동안 그린벨트 10% 줄어…\"지연될수록 분양가 오른다\""
+            - list [ref=f32e728]:
+              - listitem [ref=f32e729]:
+                - link "코스닥지수 오르자 'ETF'도 활짝…삼전·닉스 단일ETF 대안 될까" [ref=f32e730] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/417/0001154942?cds=news_media_pc&type=editn
+              - listitem [ref=f32e731]:
+                - link "[시대광장/채인택]메가 프로젝트, 보안·방첩에도 전격전이 필요하다" [ref=f32e732] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/417/0001154927?cds=news_media_pc&type=editn
+              - listitem [ref=f32e733]:
+                - link "이재명 대통령 \"행정수도 세종 완성 위해 법 뒷받침\"…개헌 가능성 시사" [ref=f32e734] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/417/0001154986?cds=news_media_pc&type=editn
+          - generic [ref=f32e736]:
+            - generic [ref=f32e737]:
+              - link "한국경제TV 08월 11일 11:22" [ref=f32e738] [cursor=pointer]:
+                - /url: https://media.naver.com/press/215
+                - emphasis [ref=f32e740]: 한국경제TV
+                - generic [ref=f32e741]: 08월 11일 11:22
+              - button "구독" [ref=f32e742] [cursor=pointer]
+            - link "\"50만원씩 부지런히 적립\"…야무진 청년 140만명 달려왔다" [ref=f32e744] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/215/0001261852?cds=news_media_pc&type=editn
+              - strong [ref=f32e746]: "\"50만원씩 부지런히 적립\"…야무진 청년 140만명 달려왔다"
+            - list [ref=f32e747]:
+              - listitem [ref=f32e748]:
+                - link "'내 주식 어쩌나' 삼전닉스 목표가, 결국...\"피크아웃 부담에 中 추격\"" [ref=f32e749] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/215/0001261887?cds=news_media_pc&type=editn
+              - listitem [ref=f32e750]:
+                - link "[속보] 반토막 났던 코스닥 전세계 상승률 1위 '대반전'…기관 1.2조 쓸어담았다" [ref=f32e751] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/215/0001261923?cds=news_media_pc&type=editn
+              - listitem [ref=f32e752]:
+                - link "'정준영 단톡방' 논란 8년 만의 근황…이종현 \"살아보려 일 배웠다\"" [ref=f32e753] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/215/0001261905?cds=news_media_pc&type=editn
+          - generic [ref=f32e755]:
+            - generic [ref=f32e756]:
+              - link "코리아헤럴드 08월 11일 09:04" [ref=f32e757] [cursor=pointer]:
+                - /url: https://media.naver.com/press/044
+                - emphasis [ref=f32e759]: 코리아헤럴드
+                - generic [ref=f32e760]: 08월 11일 09:04
+              - button "구독" [ref=f32e761] [cursor=pointer]
+            - link "Cheong Wa Dae press chief tenders resignation" [ref=f32e763] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/044/0000288061?cds=news_media_pc&type=editn
+              - strong [ref=f32e765]: Cheong Wa Dae press chief tenders resignation
+            - list [ref=f32e766]:
+              - listitem [ref=f32e767]:
+                - link "Seoul to consult US on swift Gwangju military relocation for chip belt" [ref=f32e768] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/044/0000288060?cds=news_media_pc&type=editn
+              - listitem [ref=f32e769]:
+                - link "Boy dies 3 days after telling police his grandmother beat him" [ref=f32e770] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/044/0000288064?cds=news_media_pc&type=editn
+              - listitem [ref=f32e771]:
+                - link "Korean, US researchers develop oral nanomedicine for cancer treatment" [ref=f32e772] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/044/0000288063?cds=news_media_pc&type=editn
+          - generic [ref=f32e774]:
+            - generic [ref=f32e775]:
+              - link "KBS 08월 11일 11:24" [ref=f32e776] [cursor=pointer]:
+                - /url: https://media.naver.com/press/056
+                - emphasis [ref=f32e778]: KBS
+                - generic [ref=f32e779]: 08월 11일 11:24
+              - button "구독" [ref=f32e780] [cursor=pointer]
+            - link "영상 [제보] “해 뜬 줄 알았다”…평택 위험물창고 화재 시청자 제보·드론 영상 보니" [ref=f32e782] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/056/0012235331?cds=news_media_pc&type=editn
+              - generic [ref=f32e783]: 영상
+              - strong [ref=f32e786]: "[제보] “해 뜬 줄 알았다”…평택 위험물창고 화재 시청자 제보·드론 영상 보니"
+            - list [ref=f32e787]:
+              - listitem [ref=f32e788]:
+                - link "[단독] “태국 여행 때 들여왔다”…대마 흡입 후 운전한 40대 체포" [ref=f32e789] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/056/0012235312?cds=news_media_pc&type=editn
+              - listitem [ref=f32e790]:
+                - link "“무조건 임의동행” 무리한 지시에 속 타는 경찰 [실적조작]②" [ref=f32e791] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/056/0012235138?cds=news_media_pc&type=editn
+              - listitem [ref=f32e792]:
+                - link "“빨리 나와요!”…15초 만에 불어난 계곡물에 속수무책 [잇슈 키워드]" [ref=f32e793] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/056/0012235139?cds=news_media_pc&type=editn
+          - generic [ref=f32e795]:
+            - generic [ref=f32e796]:
+              - link "JTBC 08월 11일 11:16" [ref=f32e797] [cursor=pointer]:
+                - /url: https://media.naver.com/press/437
+                - emphasis [ref=f32e799]: JTBC
+                - generic [ref=f32e800]: 08월 11일 11:16
+              - button "구독" [ref=f32e801] [cursor=pointer]
+            - link "이 대통령 \"임기 내 세종 집무실 시대, 마지막 국무회의도 세종서“" [ref=f32e803] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/437/0000505558?cds=news_media_pc&type=editn
+              - strong [ref=f32e805]: 이 대통령 "임기 내 세종 집무실 시대, 마지막 국무회의도 세종서“
+            - list [ref=f32e806]:
+              - listitem [ref=f32e807]:
+                - link "40도 넘더니 이제는 19도?…하루아침에 '초가을'" [ref=f32e808] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/437/0000505552?cds=news_media_pc&type=editn
+              - listitem [ref=f32e809]:
+                - link "\"여론조사 꽃, 웬만하면 인용 안 해\"…편향성 논란 재점화" [ref=f32e810] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/437/0000505554?cds=news_media_pc&type=editn
+              - listitem [ref=f32e811]:
+                - link "[단독] 특검 \"'오세훈법' 만들어놓고 스스로 어겨\"…\"공표 직전 결과까지 바꾸려 해\"" [ref=f32e812] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/437/0000505530?cds=news_media_pc&type=editn
+          - generic [ref=f32e814]:
+            - generic [ref=f32e815]:
+              - link "동아일보 08월 11일 11:27" [ref=f32e816] [cursor=pointer]:
+                - /url: https://media.naver.com/press/020
+                - emphasis [ref=f32e818]: 동아일보
+                - generic [ref=f32e819]: 08월 11일 11:27
+              - button "구독" [ref=f32e820] [cursor=pointer]
+            - link "“커크 잘 죽었다” 말했다고 비자 취소…美거주 외국인 조마조마" [ref=f32e822] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/020/0003739992?cds=news_media_pc&type=editn
+              - strong [ref=f32e824]: “커크 잘 죽었다” 말했다고 비자 취소…美거주 외국인 조마조마
+            - list [ref=f32e825]:
+              - listitem [ref=f32e826]:
+                - link "검사 지휘 사라진 특사경 2만명, 82%가 수사경력 3년 미만[형사사법 대전환, 미완의 출발/⑥]" [ref=f32e827] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/020/0003739880?cds=news_media_pc&type=editn
+              - listitem [ref=f32e828]:
+                - link "[단독]국힘 당비 102억, 국고보조금 349억…“이래도 당원 중심이냐” 지적" [ref=f32e829] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/020/0003739915?cds=news_media_pc&type=editn
+              - listitem [ref=f32e830]:
+                - link "“도비 무덤 건들지 마”…해리포터 팬 항의에 英 전력망 노선 변경" [ref=f32e831] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/020/0003739973?cds=news_media_pc&type=editn
+          - generic [ref=f32e833]:
+            - generic [ref=f32e834]:
+              - link "강원도민일보 08월 11일 11:08" [ref=f32e835] [cursor=pointer]:
+                - /url: https://media.naver.com/press/654
+                - emphasis [ref=f32e837]: 강원도민일보
+                - generic [ref=f32e838]: 08월 11일 11:08
+              - button "구독" [ref=f32e839] [cursor=pointer]
+            - link "코스닥 이달 18% 급등…전세계 상승률 1위" [ref=f32e841] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/654/0000194668?cds=news_media_pc&type=editn
+              - strong [ref=f32e843]: 코스닥 이달 18% 급등…전세계 상승률 1위
+            - list [ref=f32e844]:
+              - listitem [ref=f32e845]:
+                - link "\"폭염에 집배원 휴식 보장\"…우체국 소포 13~18일까지 배달 지연" [ref=f32e846] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/654/0000194666?cds=news_media_pc&type=editn
+              - listitem [ref=f32e847]:
+                - link "\"텃밭 만들고 건물 짓고\"… 곳곳 공유재산 무단점유 몸살" [ref=f32e848] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/654/0000194621?cds=news_media_pc&type=editn
+              - listitem [ref=f32e849]:
+                - link "아파트 산책로에 1m 도마뱀…멸종위기종 2급 '물왕도마뱀' 추정" [ref=f32e850] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/654/0000194656?cds=news_media_pc&type=editn
+          - generic [ref=f32e852]:
+            - generic [ref=f32e853]:
+              - link "서울신문 08월 11일 11:27" [ref=f32e854] [cursor=pointer]:
+                - /url: https://media.naver.com/press/081
+                - emphasis [ref=f32e856]: 서울신문
+                - generic [ref=f32e857]: 08월 11일 11:27
+              - button "구독" [ref=f32e858] [cursor=pointer]
+            - link "[속보] 치매 앓는 80대男, 외출 말린 아내·아들 흉기로 찔러… 현행범 체포" [ref=f32e860] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/081/0003669303?cds=news_media_pc&type=editn
+              - strong [ref=f32e862]: "[속보] 치매 앓는 80대男, 외출 말린 아내·아들 흉기로 찔러… 현행범 체포"
+            - list [ref=f32e863]:
+              - listitem [ref=f32e864]:
+                - link "2주 출장 다녀온 남편에게 ‘성병’이…열흘 뒤 아내도 감염" [ref=f32e865] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/081/0003669253?cds=news_media_pc&type=editn
+              - listitem [ref=f32e866]:
+                - link "교수 아빠 경찰에 신고한 딸 “이혼 안 하면 엄마도 끝” 충격 사연" [ref=f32e867] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/081/0003669296?cds=news_media_pc&type=editn
+              - listitem [ref=f32e868]:
+                - link "“코스피는 초상집, S＆P는 잔칫집”…JP모건 “美증시 더 간다” [재테크+]" [ref=f32e869] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/081/0003669313?cds=news_media_pc&type=editn
+          - generic [ref=f32e871]:
+            - generic [ref=f32e872]:
+              - link "서울경제 08월 11일 11:25" [ref=f32e873] [cursor=pointer]:
+                - /url: https://media.naver.com/press/011
+                - emphasis [ref=f32e875]: 서울경제
+                - generic [ref=f32e876]: 08월 11일 11:25
+              - button "구독" [ref=f32e877] [cursor=pointer]
+            - link "정부 “9월 이후 원유·나프타 수급 상황 관리 필요…긴급수급조정조치 연장”" [ref=f32e879] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/011/0004650549?cds=news_media_pc&type=editn
+              - strong [ref=f32e881]: 정부 “9월 이후 원유·나프타 수급 상황 관리 필요…긴급수급조정조치 연장”
+            - list [ref=f32e882]:
+              - listitem [ref=f32e883]:
+                - link "“나라에서 주는 건데 못 타면 바보”…1년도 안 돼 퇴사하는 청년들" [ref=f32e884] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/011/0004650388?cds=news_media_pc&type=editn
+              - listitem [ref=f32e885]:
+                - link "“원금 몽땅 날릴 줄은 정말 몰랐다”…투자금 ‘0원’ 될 수 있다는 ‘이 펀드’ 정체가" [ref=f32e886] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/011/0004650526?cds=news_media_pc&type=editn
+              - listitem [ref=f32e887]:
+                - link "“추석 전 모든 시민에 30만원씩”…530억 ‘경제회복지원금’ 논란 터진 당진시, 무슨 일?" [ref=f32e888] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/011/0004650507?cds=news_media_pc&type=editn
+          - generic [ref=f32e890]:
+            - generic [ref=f32e891]:
+              - link "전자신문 08월 11일 11:26" [ref=f32e892] [cursor=pointer]:
+                - /url: https://media.naver.com/press/030
+                - emphasis [ref=f32e894]: 전자신문
+                - generic [ref=f32e895]: 08월 11일 11:26
+              - button "구독" [ref=f32e896] [cursor=pointer]
+            - link "“마이크론 말고 SK하이닉스 사라” 美 투자지 추천에도…한국선 주가 빠지는 이유" [ref=f32e898] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/030/0003456224?cds=news_media_pc&type=editn
+              - strong [ref=f32e900]: “마이크론 말고 SK하이닉스 사라” 美 투자지 추천에도…한국선 주가 빠지는 이유
+            - list [ref=f32e901]:
+              - listitem [ref=f32e902]:
+                - link "與 대표 지지도 김민석 46.8%, 정청래 35.2%…호남 金 57.7% 鄭 28.2%" [ref=f32e903] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/030/0003456173?cds=news_media_pc&type=editn
+              - listitem [ref=f32e904]:
+                - link "프랑스, 국토 70%서 물 사용 제한…“폭염에 가뭄까지 최악”" [ref=f32e905] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/030/0003456227?cds=news_media_pc&type=editn
+              - listitem [ref=f32e906]:
+                - link "로또, 페이코 등록하면 미수령 당첨금 자동지급…18일부터 시행" [ref=f32e907] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/030/0003456214?cds=news_media_pc&type=editn
+          - generic [ref=f32e909]:
+            - generic [ref=f32e910]:
+              - link "더스쿠프 08월 11일 08:41" [ref=f32e911] [cursor=pointer]:
+                - /url: https://media.naver.com/press/665
+                - emphasis [ref=f32e913]: 더스쿠프
+                - generic [ref=f32e914]: 08월 11일 08:41
+              - button "구독" [ref=f32e915] [cursor=pointer]
+            - link "참치김밥 한줄에 6000원… 김밥에 들어간 '시대적 고통들' [분석+]" [ref=f32e917] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/665/0000007922?cds=news_media_pc&type=editn
+              - strong [ref=f32e919]: 참치김밥 한줄에 6000원… 김밥에 들어간 '시대적 고통들' [분석+]
+            - list [ref=f32e920]:
+              - listitem [ref=f32e921]:
+                - link "미성년자든 말든… 초등생 아들이 '게임머니 600만원' 긁었다가 생긴 일 [디지털 주권침해①]" [ref=f32e922] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/665/0000007923?cds=news_media_pc&type=editn
+              - listitem [ref=f32e923]:
+                - link "세계 각국 AI 안경 규제하는데…늑장 부리면 '변태안경' 천국 된다" [ref=f32e924] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/665/0000007924?cds=news_media_pc&type=editn
+              - listitem [ref=f32e925]:
+                - link "AI에 묻기 전에 자신에게 먼저 물어라 [이지은의 신간]" [ref=f32e926] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/665/0000007925?cds=news_media_pc&type=editn
+          - generic [ref=f32e928]:
+            - generic [ref=f32e929]:
+              - link "조세일보 08월 11일 11:09" [ref=f32e930] [cursor=pointer]:
+                - /url: https://media.naver.com/press/123
+                - emphasis [ref=f32e932]: 조세일보
+                - generic [ref=f32e933]: 08월 11일 11:09
+              - button "구독" [ref=f32e934] [cursor=pointer]
+            - link "김현동 \"목적·방향 불분명…보유세·양도세 엇박자\" [부동산 세제개편 토론회]" [ref=f32e936] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/123/0002388163?cds=news_media_pc&type=editn
+              - strong [ref=f32e938]: 김현동 "목적·방향 불분명…보유세·양도세 엇박자" [부동산 세제개편 토론회]
+            - list [ref=f32e939]:
+              - listitem [ref=f32e940]:
+                - link "반도체주 주도권 소부장으로…예스티 15%·주성ENG 14%↑ [칩칩폭폭]" [ref=f32e941] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/123/0002388171?cds=news_media_pc&type=editn
+              - listitem [ref=f32e942]:
+                - link "“AI 개발 멈춰라…안 멈추면 직접 행동” 샌더스, 빅테크 3사에 경고장" [ref=f32e943] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/123/0002388182?cds=news_media_pc&type=editn
+              - listitem [ref=f32e944]:
+                - link "규제 뚫고 화웨이까지 간 TSMC 칩…美 의회 “우회로 더 막아라”" [ref=f32e945] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/123/0002388175?cds=news_media_pc&type=editn
+          - generic [ref=f32e947]:
+            - generic [ref=f32e948]:
+              - link "더팩트 08월 11일 11:25" [ref=f32e949] [cursor=pointer]:
+                - /url: https://media.naver.com/press/629
+                - emphasis [ref=f32e951]: 더팩트
+                - generic [ref=f32e952]: 08월 11일 11:25
+              - button "구독" [ref=f32e953] [cursor=pointer]
+            - link "李 대통령 \"마지막 국무회의 세종 집무실서…총력 다해야\"" [ref=f32e955] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/629/0000523399?cds=news_media_pc&type=editn
+              - strong [ref=f32e957]: 李 대통령 "마지막 국무회의 세종 집무실서…총력 다해야"
+            - list [ref=f32e958]:
+              - listitem [ref=f32e959]:
+                - link "롤러코스터 국장에 지친 개미들…고배당·커버드콜로 '머니무브'" [ref=f32e960] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/629/0000523437?cds=news_media_pc&type=editn
+              - listitem [ref=f32e961]:
+                - link "대통령 '전격전' 주문에…삼성전자·SK하이닉스 지방 투자 빨라지나" [ref=f32e962] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/629/0000523390?cds=news_media_pc&type=editn
+              - listitem [ref=f32e963]:
+                - link "'신당권파' 포석?…조강특위·혁신안 칼 빼든 장동혁 승부수는" [ref=f32e964] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/629/0000523365?cds=news_media_pc&type=editn
+          - generic [ref=f32e966]:
+            - generic [ref=f32e967]:
+              - link "TV조선 08월 11일 11:21" [ref=f32e968] [cursor=pointer]:
+                - /url: https://media.naver.com/press/448
+                - emphasis [ref=f32e970]: TV조선
+                - generic [ref=f32e971]: 08월 11일 11:21
+              - button "구독" [ref=f32e972] [cursor=pointer]
+            - link "[단독] 靑, '불법 증축' 김상호에 징계 후 면직 처리키로" [ref=f32e974] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/448/0000632782?cds=news_media_pc&type=editn
+              - strong [ref=f32e976]: "[단독] 靑, '불법 증축' 김상호에 징계 후 면직 처리키로"
+            - list [ref=f32e977]:
+              - listitem [ref=f32e978]:
+                - link "李 \"임기 내 세종 집무실 열고, 마지막 국무회의도 세종에서\"" [ref=f32e979] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/448/0000632763?cds=news_media_pc&type=editn
+              - listitem [ref=f32e980]:
+                - link "홍준표 \"권력 자의적으로 행사하면 불행한 대통령 돼\"" [ref=f32e981] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/448/0000632756?cds=news_media_pc&type=editn
+              - listitem [ref=f32e982]:
+                - link "뉴진스 하니 비자정보 어떻게 샜나…경찰, 고발인 측 첫 조사" [ref=f32e983] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/448/0000632748?cds=news_media_pc&type=editn
+          - generic [ref=f32e985]:
+            - generic [ref=f32e986]:
+              - link "경기일보 08월 11일 11:25" [ref=f32e987] [cursor=pointer]:
+                - /url: https://media.naver.com/press/666
+                - emphasis [ref=f32e989]: 경기일보
+                - generic [ref=f32e990]: 08월 11일 11:25
+              - button "구독" [ref=f32e991] [cursor=pointer]
+            - link "이재명 대통령, “임기 내 ‘세종 집무실 시대’…마지막 국무회의도 세종서”" [ref=f32e993] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/666/0000118666?cds=news_media_pc&type=editn
+              - strong [ref=f32e995]: 이재명 대통령, “임기 내 ‘세종 집무실 시대’…마지막 국무회의도 세종서”
+            - list [ref=f32e996]:
+              - listitem [ref=f32e997]:
+                - link "[속보] 인천바이오과학고 ‘염산 테러’ 예고글…경찰 , 작성자 추적" [ref=f32e998] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/666/0000118663?cds=news_media_pc&type=editn
+              - listitem [ref=f32e999]:
+                - link "“미7공군 박살내자” 오산미군기지 침입 대진연 회원 3명, 구속송치" [ref=f32e1000] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/666/0000118657?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1001]:
+                - link "안성서 승용차·덤프트럭 충돌…20대 3명 사망" [ref=f32e1002] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/666/0000118644?cds=news_media_pc&type=editn
+          - generic [ref=f32e1004]:
+            - generic [ref=f32e1005]:
+              - link "뉴시스 08월 11일 11:28" [ref=f32e1006] [cursor=pointer]:
+                - /url: https://media.naver.com/press/003
+                - emphasis [ref=f32e1008]: 뉴시스
+                - generic [ref=f32e1009]: 08월 11일 11:28
+              - button "구독" [ref=f32e1010] [cursor=pointer]
+            - link "이 대통령, 경찰청에 \"국민들이 수사 걱정…범죄피해 대응책 정리해 보고해달라\"" [ref=f32e1012] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/003/0014119810?cds=news_media_pc&type=editn
+              - strong [ref=f32e1014]: 이 대통령, 경찰청에 "국민들이 수사 걱정…범죄피해 대응책 정리해 보고해달라"
+            - list [ref=f32e1015]:
+              - listitem [ref=f32e1016]:
+                - link "단일종목 레버리지, 19일부터는 '5일간 모의거래' 이수해야 살 수 있다" [ref=f32e1017] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/003/0014119567?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1018]:
+                - link "트럼프 \"이란 다음 조치? 곧 알게 될 것\"…추가 군사 대응 시사" [ref=f32e1019] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/003/0014119524?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1020]:
+                - link "트럼프 미디어, 비트코인 손실에 적자 눈덩이…핵융합으로 돌파구" [ref=f32e1021] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/003/0014119601?cds=news_media_pc&type=editn
+          - generic [ref=f32e1023]:
+            - generic [ref=f32e1024]:
+              - link "파이낸셜뉴스 08월 11일 11:27" [ref=f32e1025] [cursor=pointer]:
+                - /url: https://media.naver.com/press/014
+                - emphasis [ref=f32e1027]: 파이낸셜뉴스
+                - generic [ref=f32e1028]: 08월 11일 11:27
+              - button "구독" [ref=f32e1029] [cursor=pointer]
+            - link "\"삼전닉스 급락 끝났다, 지금 사라\"더니 뒤로 팔았다...외국계 IB의 '이율배반'" [ref=f32e1031] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/014/0005559829?cds=news_media_pc&type=editn
+              - strong [ref=f32e1033]: "\"삼전닉스 급락 끝났다, 지금 사라\"더니 뒤로 팔았다...외국계 IB의 '이율배반'"
+            - list [ref=f32e1034]:
+              - listitem [ref=f32e1035]:
+                - link "광교 아파트 산책로에 1m 대형 도마뱀 출현… 주민들 '발칵'" [ref=f32e1036] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/014/0005559910?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1037]:
+                - link "\"추석 전 1인당 30만원씩 지급\"…경제회복지원금 '530억' 추진, 논란된 '이 지역'" [ref=f32e1038] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/014/0005559710?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1039]:
+                - link "\"감전사 당하는 거 아니냐\" 장흥계곡 바위에 '220V 콘센트' 충격...경찰에 알렸지만" [ref=f32e1040] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/014/0005559900?cds=news_media_pc&type=editn
+          - generic [ref=f32e1042]:
+            - generic [ref=f32e1043]:
+              - link "대구MBC 08월 11일 11:27" [ref=f32e1044] [cursor=pointer]:
+                - /url: https://media.naver.com/press/657
+                - emphasis [ref=f32e1046]: 대구MBC
+                - generic [ref=f32e1047]: 08월 11일 11:27
+              - button "구독" [ref=f32e1048] [cursor=pointer]
+            - link "경찰, '12·29 여객기 참사' 국토부·한국공항공사 등 압수수색···중대시민재해 혐의 검토" [ref=f32e1050] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/657/0000054251?cds=news_media_pc&type=editn
+              - strong [ref=f32e1052]: 경찰, '12·29 여객기 참사' 국토부·한국공항공사 등 압수수색···중대시민재해 혐의 검토
+            - list [ref=f32e1053]:
+              - listitem [ref=f32e1054]:
+                - link "콜롬비아 규모 7.4 지진으로 111명 사망···국가 비상사태 선포" [ref=f32e1055] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/657/0000054243?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1056]:
+                - link "트럼프 \"호르무즈, 미군이 통제하는 개방된 상태\"···이란 \"최고지도자 하메네이, 건강 매우 양호\"" [ref=f32e1057] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/657/0000054248?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1058]:
+                - link "7월 대구·경북 증시 '먹구름'···시가 총액 15조 원 '증발'" [ref=f32e1059] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/657/0000054256?cds=news_media_pc&type=editn
+          - generic [ref=f32e1061]:
+            - generic [ref=f32e1062]:
+              - link "매경이코노미 08월 11일 10:56" [ref=f32e1063] [cursor=pointer]:
+                - /url: https://media.naver.com/press/024
+                - emphasis [ref=f32e1065]: 매경이코노미
+                - generic [ref=f32e1066]: 08월 11일 10:56
+              - button "구독" [ref=f32e1067] [cursor=pointer]
+            - link "[속보] 李 대통령 “임기 내 세종 집무실 시대…마지막 국무회의 세종서”" [ref=f32e1069] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/024/0000107465?cds=news_media_pc&type=editn
+              - strong [ref=f32e1071]: "[속보] 李 대통령 “임기 내 세종 집무실 시대…마지막 국무회의 세종서”"
+            - list [ref=f32e1072]:
+              - listitem [ref=f32e1073]:
+                - link "호르무즈 언제 열리나…이란 밀당에 유가 ‘쑥’ 증시 ‘뚝’ [뉴욕증시]" [ref=f32e1074] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/024/0000107461?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1075]:
+                - link "[속보] 경찰 여객기참사 특별수사단, 국토부·한국공항공사·부산항공청 압수수색" [ref=f32e1076] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/024/0000107463?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1077]:
+                - link "환호에서 비명으로…‘통제 불능’ 코스피" [ref=f32e1078] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/024/0000107457?cds=news_media_pc&type=editn
+        - generic [ref=f32e1079]:
+          - generic [ref=f32e1081]:
+            - heading [level=3] [ref=f32e1083]:
+              - text: 방송뉴스
+              - button "방송뉴스 도움말" [ref=f32e1084] [cursor=pointer]
+            - generic [ref=f32e1087]:
+              - list [ref=f32e1088]:
+                - listitem [ref=f32e1089]:
+                  - link "LIVE MBC" [ref=f32e1090] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/214/live
+                    - generic [ref=f32e1091]: LIVE
+                    - generic [ref=f32e1095]: MBC
+                - listitem [ref=f32e1099]:
+                  - link "LIVE YTN" [ref=f32e1100] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/052/live
+                    - generic [ref=f32e1101]: LIVE
+                    - generic [ref=f32e1105]: YTN
+                - listitem [ref=f32e1109]:
+                  - link "LIVE SBS" [ref=f32e1110] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/055/live
+                    - generic [ref=f32e1111]: LIVE
+                    - generic [ref=f32e1115]: SBS
+                - listitem [ref=f32e1119]:
+                  - link "LIVE KBS" [ref=f32e1120] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/056/live
+                    - generic [ref=f32e1121]: LIVE
+                    - generic [ref=f32e1125]: KBS
+                - listitem [ref=f32e1129]:
+                  - link "LIVE 연합뉴스TV" [ref=f32e1130] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/422/live
+                    - generic [ref=f32e1131]: LIVE
+                    - generic [ref=f32e1135]: 연합뉴스TV
+              - button "다음" [ref=f32e1139] [cursor=pointer]
+          - generic [ref=f32e1141]:
+            - generic [ref=f32e1142]:
+              - link "한국경제 08월 11일 11:19" [ref=f32e1143] [cursor=pointer]:
+                - /url: https://media.naver.com/press/015
+                - emphasis [ref=f32e1145]: 한국경제
+                - generic [ref=f32e1146]: 08월 11일 11:19
+              - button "구독" [ref=f32e1147] [cursor=pointer]
+            - link "\"34평이 5개월 만에 25평 됐다\"…신길동 아파트 '18억 쇼크' [시장톡]" [ref=f32e1149] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/015/0005319408?cds=news_media_pc&type=editn
+              - strong [ref=f32e1151]: "\"34평이 5개월 만에 25평 됐다\"…신길동 아파트 '18억 쇼크' [시장톡]"
+            - list [ref=f32e1152]:
+              - listitem [ref=f32e1153]:
+                - link "\"하이닉스 지금 줍줍하면 돈 번다\"…美서 극찬 쏟아진 이유 [종목+]" [ref=f32e1154] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/015/0005319443?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1155]:
+                - link "\"0.5+0.5=2?\" 부부 공동명의도 다주택자 취급…종부세 '뒤통수'" [ref=f32e1156] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/015/0005319537?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1157]:
+                - link "사전 판매만 290만대…해외서 난리 난 삼성 '여권폰' 뭐길래 [테크로그]" [ref=f32e1158] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/015/0005319441?cds=news_media_pc&type=editn
+          - generic [ref=f32e1160]:
+            - generic [ref=f32e1161]:
+              - link "채널A 08월 11일 11:08" [ref=f32e1162] [cursor=pointer]:
+                - /url: https://media.naver.com/press/449
+                - emphasis [ref=f32e1164]: 채널A
+                - generic [ref=f32e1165]: 08월 11일 11:08
+              - button "구독" [ref=f32e1166] [cursor=pointer]
+            - link "이 대통령 “3대 메가프로젝트…안 되는 이유 말고 일 되는 방법 찾아달라”" [ref=f32e1168] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/449/0000356364?cds=news_media_pc&type=editn
+              - strong [ref=f32e1170]: 이 대통령 “3대 메가프로젝트…안 되는 이유 말고 일 되는 방법 찾아달라”
+            - list [ref=f32e1171]:
+              - listitem [ref=f32e1172]:
+                - link "추미애 “개혁 아무나 못 해, 걸맞은 일꾼 뽑자”…정청래에 힘 실어" [ref=f32e1173] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/449/0000356369?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1174]:
+                - link "교회서 38시간 묶인 채 숨진 손자…외할머니 영장심사 출석 [현장영상]" [ref=f32e1175] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/449/0000356370?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1176]:
+                - link "정청래, 김민석에 “실형 받았죠?”…토론회 대충돌 [현장영상]" [ref=f32e1177] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/449/0000356343?cds=news_media_pc&type=editn
+          - generic [ref=f32e1179]:
+            - heading "언론사별 심층기획" [level=3] [ref=f32e1181]
+            - generic [ref=f32e1182]:
+              - generic [ref=f32e1183]:
+                - link "뉴스&이슈 농민신문" [ref=f32e1184] [cursor=pointer]:
+                  - /url: https://media.naver.com/press/662#SpecialReport
+                  - generic [ref=f32e1186]: 뉴스&이슈
+                  - generic [ref=f32e1187]: 농민신문
+                - button "구독" [ref=f32e1188] [cursor=pointer]
+              - list [ref=f32e1190]:
+                - listitem [ref=f32e1191]:
+                  - link "치명률 44%…콩고 에볼라 확진 4000명 넘어서 “역대 최대 유행”" [ref=f32e1192] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/662/0000101601?cds=news_media_pc&type=editn
+                  - link "농민신문" [ref=f32e1196] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/662
+                - listitem [ref=f32e1199]:
+                  - link "참전 군인과 혼인신고하는 파렴치한 이유…러시아 ‘검은 과부’ 의혹" [ref=f32e1200] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/662/0000101590?cds=news_media_pc&type=editn
+                  - link "농민신문" [ref=f32e1204] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/662
+            - generic [ref=f32e1207]:
+              - generic [ref=f32e1208]:
+                - link "심층기획 대전일보" [ref=f32e1209] [cursor=pointer]:
+                  - /url: https://media.naver.com/press/656#SpecialReport
+                  - generic [ref=f32e1211]: 심층기획
+                  - generic [ref=f32e1212]: 대전일보
+                - button "구독" [ref=f32e1213] [cursor=pointer]
+              - list [ref=f32e1215]:
+                - listitem [ref=f32e1216]:
+                  - link "충남 남부권 결속 다지는 대전상의…커지는 역할론" [ref=f32e1217] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/656/0000183693?cds=news_media_pc&type=editn
+                  - link "대전일보" [ref=f32e1221] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/656
+                - listitem [ref=f32e1224]:
+                  - link "'부자' 경기도마저 허우적…지방 곳간 비는데 재정 틀은 그대로" [ref=f32e1225] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/656/0000183711?cds=news_media_pc&type=editn
+                  - link "대전일보" [ref=f32e1229] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/656
+          - generic [ref=f32e1233]:
+            - generic [ref=f32e1234]:
+              - link "한겨레 08월 11일 11:22" [ref=f32e1235] [cursor=pointer]:
+                - /url: https://media.naver.com/press/028
+                - emphasis [ref=f32e1237]: 한겨레
+                - generic [ref=f32e1238]: 08월 11일 11:22
+              - button "구독" [ref=f32e1239] [cursor=pointer]
+            - link "[단독] 현장서 숨진 감리단장, 중대재해처벌법 보호서 빠졌다…유족의 울분" [ref=f32e1241] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/028/0002817954?cds=news_media_pc&type=editn
+              - strong [ref=f32e1243]: "[단독] 현장서 숨진 감리단장, 중대재해처벌법 보호서 빠졌다…유족의 울분"
+            - list [ref=f32e1244]:
+              - listitem [ref=f32e1245]:
+                - link "이 대통령 “폭염·폭우·한파 일상화…비닐하우스·판잣집 개선 서둘러야”" [ref=f32e1246] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/028/0002817985?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1247]:
+                - link "[단독] 손현보 미국서 “정부 비판했다고 독방 수감”…사실일까" [ref=f32e1248] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/028/0002817979?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1249]:
+                - link "윤상현, 국힘 일각 ‘득표율 조작설’ 일축…“우리 의원도 다 가짜인가”" [ref=f32e1250] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/028/0002817984?cds=news_media_pc&type=editn
+          - generic [ref=f32e1252]:
+            - generic [ref=f32e1253]:
+              - heading "기자를 구독해보세요" [level=3] [ref=f32e1254]
+              - button "도움말" [ref=f32e1257] [cursor=pointer]
+              - link "구독 설정" [ref=f32e1259] [cursor=pointer]:
+                - /url: https://media.naver.com/channel/extraSettings
+            - list [ref=f32e1261]:
+              - listitem [ref=f32e1262]:
+                - link "지씨셀, 손주희 사업개발실장 영입" [ref=f32e1263] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/021/0002810515?sid=101&type=journalists&cds=news_media_pc
+                - generic [ref=f32e1267]:
+                  - link "박준우 기자" [ref=f32e1268] [cursor=pointer]:
+                    - /url: https://media.naver.com/j/74108?oid=021&cds=news_media_pc
+                  - button "구독" [ref=f32e1272] [cursor=pointer]
+              - listitem [ref=f32e1274]:
+                - link "與 당권주자 지지도 김민석 46.8% 정청래 35.2%… 오차범위 밖 격차" [ref=f32e1275] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/656/0000183740?sid=100&type=journalists&cds=news_media_pc
+                - generic [ref=f32e1279]:
+                  - link "정민지 기자" [ref=f32e1280] [cursor=pointer]:
+                    - /url: https://media.naver.com/j/77160?oid=656&cds=news_media_pc
+                  - button "구독" [ref=f32e1284] [cursor=pointer]
+              - listitem [ref=f32e1286]:
+                - link "\"7년 전 갤럭시 한 번 더\"…144만대 팔린 '초격차 기술' 전시" [ref=f32e1287] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/015/0005319527?sid=101&type=journalists&cds=news_media_pc
+                - generic [ref=f32e1291]:
+                  - link "김대영 기자" [ref=f32e1292] [cursor=pointer]:
+                    - /url: https://media.naver.com/j/80629?oid=015&cds=news_media_pc
+                  - button "구독" [ref=f32e1296] [cursor=pointer]
+              - listitem [ref=f32e1298]:
+                - link "의정부시, 우정지구에 서부권역 공영차고지 추진" [ref=f32e1299] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/001/0016244131?sid=102&type=journalists&cds=news_media_pc
+                - generic [ref=f32e1303]:
+                  - link "김도윤 기자" [ref=f32e1304] [cursor=pointer]:
+                    - /url: https://media.naver.com/j/56693?oid=001&cds=news_media_pc
+                  - button "구독" [ref=f32e1308] [cursor=pointer]
+            - link "기자 모두 보기" [ref=f32e1311] [cursor=pointer]:
+              - /url: https://media.naver.com/journalistPick
+          - link [ref=f32e1315] [cursor=pointer]:
+            - /url: https://news.naver.com/ombudsman/errorArticleList
+            - generic [ref=f32e1316]:
+              - img "고침, 정정, 반론 추후 보도 모음. 언론사의 정정 반론 추후 보도 기사를 모았습니다."
+          - iframe [ref=f32e1321]:
+            - link [ref=f38e4] [cursor=pointer]:
+              - /url: https://tivan.naver.com/gc/101/WdPCtDm7e-e36dITNZ9eGM7eXrYydTyZHyGXxCnXDRH3Pi7bMq5aGFuzQQLab6NSpZ76tX5Z0GIwozgpAP6cm4c6mptgGeI8qWBXg--34SFRySwG4bT-uRm0YtiXkXpdItuFQRJ_yHeaEFM_o9r67PXzsKPDGVCsZa39M5mYlbX4j17QxHHZ-VKYz5dY1gaIKKr3dkJI5RLtI75w4eUlTFqKU71PA2e0_8Wgp08pCTIvC7IHW_UDBxghB17CbOyPC_UFt7rBW1Zjie6wxInCtyCURPyLKYFqfK69YCAA_LnlndQ_aR4Sir8H0YRz403zCI-cvMA-U_5ykawdeQVQEny_LM-xuiSZvD_Da2pCWH9aY7Py1a6flXNU1a1v4-PwamA4Huh1Ms8ya3sBDhbad47sps3aAym7-vmAO13RYOkx-OMblqdsfTQPPleZ5VS5jC1pCHF2mxA8RtQu8XPsMGC7z_JrigO-mz42lMzoxwml7PdwNiVOVda0BqPSrm6s8pHRTHjsmK7CDxtPbA_sS7BIw3r53kof5zGB1LKIB93RATKK7USxGwpE2OvloXIqnX3aBEUqpTsxGef_eKE5TNjc2n0IlhcLdcAjB3vWTFto3AKNxF1iR5JgrL4HlFBbfdHcPjqEN9L_YRsyHwPyKxqI0s-UWCN3JAKwiRZ79m_isWkgs3lrb-7fPlYdqkW5OJg7uPrSsn0wJY-xSeI-NyGw9qqpJwqqsfN6e2IKiZHOPYQubWwvXtlwxXF9jTTdB6pZP2BGlq10Y7Mkn2Ttk4QwkC3ZMr8srEcEUQnicYQpen6ebCwX8q2bH4Eo2oUp7VfRfAqd10jLTWpJp5abYSw4H7d9XlRux6Pu2OikwKM3HDiGfJ_jj12USqzAbDWCMHGCWoZ2pvav-nT9oNKvPQRc92iA4WH2NYudp9D_C-899B8ZtoyWnBEm0hmDvB3FGITCCwMdLUsOinBmwIZ3z8Tws6Nxldh6a1yzSoi0laoBQUYvubQ3jcma9bdinZdAU_STqiaAfO73CbdBLcGsdgAatd8sMPDtRNmIyDDyx5DmG-7uV-BHMbJsxoBzE9rmvMXhQ2eLdS2aY6-GIBrv3mGXNf7HSoq7rIQE0ghvaVxS8pkYAoHQFSKxL2Ff3E-7/NE
+              - img "카페에서 용기내 첫 글 썼더니, 꽝 없는 리워드 당첨!" [ref=f38e5]
+          - generic [ref=f32e1323]:
+            - generic [ref=f32e1324]:
+              - heading "연재를 구독해보세요" [level=3] [ref=f32e1325]
+              - button "도움말" [ref=f32e1328] [cursor=pointer]
+              - link "구독 설정" [ref=f32e1330] [cursor=pointer]:
+                - /url: https://media.naver.com/channel/seriesSetting
+            - list [ref=f32e1332]:
+              - listitem [ref=f32e1333]:
+                - link "정광재 \"李 호남반도체 속도전 지시는 '김민석 뽑아달라'?\"" [ref=f32e1334] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/079/0004177430?cid=1084088&type=series&cds=news_media_pc
+                - generic [ref=f32e1338]:
+                  - link "박성태의 뉴스쇼" [ref=f32e1339] [cursor=pointer]:
+                    - /url: https://news.naver.com/hotissue/main?sid1=110&cid=1084088&cds=news_media_pc
+                  - button "구독" [ref=f32e1343] [cursor=pointer]
+              - listitem [ref=f32e1345]:
+                - link "“반려견 못 키우던 알레르기 환자에 희망?”…유전자 편집 ‘비글’ 등장" [ref=f32e1346] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/662/0000101608?cid=2003576&type=series&cds=news_media_pc
+                - generic [ref=f32e1350]:
+                  - link "‘야옹멍멍’ 집사가 몰랐던 것" [ref=f32e1351] [cursor=pointer]:
+                    - /url: https://news.naver.com/hotissue/main?sid1=110&cid=2003576&cds=news_media_pc
+                  - button "구독" [ref=f32e1355] [cursor=pointer]
+              - listitem [ref=f32e1357]:
+                - link "'부동산·당권·징계'⋯폭염 속 정치권, 민생·권력 투쟁 동시 폭발" [ref=f32e1358] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/031/0001048626?cid=2001638&type=series&cds=news_media_pc
+                - generic [ref=f32e1362]:
+                  - link "여의뷰" [ref=f32e1363] [cursor=pointer]:
+                    - /url: https://news.naver.com/hotissue/main?sid1=110&cid=2001638&cds=news_media_pc
+                  - button "구독" [ref=f32e1367] [cursor=pointer]
+              - listitem [ref=f32e1369]:
+                - link "여행가방 끌까, 밀까… 관절·척추엔 이러는 게 낫다" [ref=f32e1370] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/mnews/hotissue/article/023/0003992236?cid=1087367&type=series&cds=news_media_pc
+                - generic [ref=f32e1374]:
+                  - link "윤희영의 News English" [ref=f32e1375] [cursor=pointer]:
+                    - /url: https://news.naver.com/hotissue/main?sid1=110&cid=1087367&cds=news_media_pc
+                  - button "구독" [ref=f32e1379] [cursor=pointer]
+            - link "연재 모두 보기" [ref=f32e1382] [cursor=pointer]:
+              - /url: https://news.naver.com/opinion/series
+          - generic [ref=f32e1384]:
+            - generic [ref=f32e1385]:
+              - link "뉴스1 08월 11일 11:28" [ref=f32e1386] [cursor=pointer]:
+                - /url: https://media.naver.com/press/421
+                - emphasis [ref=f32e1388]: 뉴스1
+                - generic [ref=f32e1389]: 08월 11일 11:28
+              - button "구독" [ref=f32e1390] [cursor=pointer]
+            - link "李대통령 \"경찰 수사에 국민 걱정 많아…범죄 피해 대책 다시 보고하라\"" [ref=f32e1392] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/421/0009107423?cds=news_media_pc&type=editn
+              - strong [ref=f32e1394]: 李대통령 "경찰 수사에 국민 걱정 많아…범죄 피해 대책 다시 보고하라"
+            - list [ref=f32e1395]:
+              - listitem [ref=f32e1396]:
+                - link "콜롬비아 7.4 강진 사망자 132명으로 늘어…부상 570명 이상" [ref=f32e1397] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/421/0009107447?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1398]:
+                - link "서울 대학가 원룸 월세 8% 올라 63만원…서울대 인근 26% 껑충" [ref=f32e1399] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/421/0009107310?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1400]:
+                - link "전 연인 스토킹·남자친구 살해…50대에 무기징역 구형" [ref=f32e1401] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/421/0009107543?cds=news_media_pc&type=editn
+          - generic [ref=f32e1403]:
+            - generic [ref=f32e1404]:
+              - link "매일신문 08월 11일 11:27" [ref=f32e1405] [cursor=pointer]:
+                - /url: https://media.naver.com/press/088
+                - emphasis [ref=f32e1407]: 매일신문
+                - generic [ref=f32e1408]: 08월 11일 11:27
+              - button "구독" [ref=f32e1409] [cursor=pointer]
+            - link "\"염산 테러하겠다\"…인천의 한 고등학교에 등장한 '염산 테러' 예고글, 경찰 수사 착수" [ref=f32e1411] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/088/0001023054?cds=news_media_pc&type=editn
+              - strong [ref=f32e1413]: "\"염산 테러하겠다\"…인천의 한 고등학교에 등장한 '염산 테러' 예고글, 경찰 수사 착수"
+            - list [ref=f32e1414]:
+              - listitem [ref=f32e1415]:
+                - link "국힘, 안규백 '모택동 좌우명' 발언 맹공…\"국방장관 자격 없다, 경질해야\"" [ref=f32e1416] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/088/0001023053?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1417]:
+                - link "\"택배 안 옵니다\"…14일부터 배송 '스톱', 언제 다시 받을 수 있나" [ref=f32e1418] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/088/0001023024?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1419]:
+                - link "'여명의 눈동자'·'모래시계' 출연한 배우 안진수, 별세…향년 81세" [ref=f32e1420] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/088/0001023066?cds=news_media_pc&type=editn
+          - generic [ref=f32e1422]:
+            - generic [ref=f32e1423]:
+              - link "지디넷코리아 08월 11일 11:29" [ref=f32e1424] [cursor=pointer]:
+                - /url: https://media.naver.com/press/092
+                - emphasis [ref=f32e1426]: 지디넷코리아
+                - generic [ref=f32e1427]: 08월 11일 11:29
+              - button "구독" [ref=f32e1428] [cursor=pointer]
+            - link "싸이월드, 과연 부활할 수 있을까" [ref=f32e1430] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/092/0002433600?cds=news_media_pc&type=editn
+              - strong [ref=f32e1432]: 싸이월드, 과연 부활할 수 있을까
+            - list [ref=f32e1433]:
+              - listitem [ref=f32e1434]:
+                - link "네이버·웹툰엔터, 1억 달러 IP 펀드 조성…흥행 수익 더 가져간다" [ref=f32e1435] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/092/0002433557?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1436]:
+                - link "\"북한, 고도화된 AI로 해킹\"...지니언스, 보고서 발간" [ref=f32e1437] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/092/0002433555?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1438]:
+                - link "날개 없는 풍력 발전기 나왔다…\"진동으로 전기 생성\"" [ref=f32e1439] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/092/0002433611?cds=news_media_pc&type=editn
+          - generic [ref=f32e1441]:
+            - generic [ref=f32e1442]:
+              - link "아시아경제 08월 11일 11:22" [ref=f32e1443] [cursor=pointer]:
+                - /url: https://media.naver.com/press/277
+                - emphasis [ref=f32e1445]: 아시아경제
+                - generic [ref=f32e1446]: 08월 11일 11:22
+              - button "구독" [ref=f32e1447] [cursor=pointer]
+            - link "\"삼전 목표주가 60만원 이유 있었네\"…최소 10배 주주환원 확대 전망에 '들썩'" [ref=f32e1449] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/277/0005801370?cds=news_media_pc&type=editn
+              - strong [ref=f32e1451]: "\"삼전 목표주가 60만원 이유 있었네\"…최소 10배 주주환원 확대 전망에 '들썩'"
+            - list [ref=f32e1452]:
+              - listitem [ref=f32e1453]:
+                - link "\"소득 상관 없이 50만원씩, 4인가족이면 200만원\"…민생지원금 지급 시작한 '이곳'" [ref=f32e1454] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/277/0005801179?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1455]:
+                - link "'똘똘한 두채' 가능하네…'역세권에 6억 이하' 세금 부담 없는 '이것' 눈길" [ref=f32e1456] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/277/0005801344?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1457]:
+                - link "한방에 '7700만원' 줘도 사람 부족…집 찾아가고 길거리 연행해 모병하는 러" [ref=f32e1458] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/277/0005801375?cds=news_media_pc&type=editn
+          - generic [ref=f32e1460]:
+            - generic [ref=f32e1461]:
+              - link "조선일보 08월 11일 11:07" [ref=f32e1462] [cursor=pointer]:
+                - /url: https://media.naver.com/press/023
+                - emphasis [ref=f32e1464]: 조선일보
+                - generic [ref=f32e1465]: 08월 11일 11:07
+              - button "구독" [ref=f32e1466] [cursor=pointer]
+            - link "부부 공동명의도 다주택 종부세 부과… 20년 절세 룰 깨졌다" [ref=f32e1468] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/023/0003992302?cds=news_media_pc&type=editn
+              - strong [ref=f32e1470]: 부부 공동명의도 다주택 종부세 부과… 20년 절세 룰 깨졌다
+            - list [ref=f32e1471]:
+              - listitem [ref=f32e1472]:
+                - link "李대통령 “임기 내 세종집무실 개청… 마지막 국무회의도 세종서 연다”" [ref=f32e1473] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/023/0003992350?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1474]:
+                - link "[단독] “단일종목 레버리지 배율 낮춰야” 국회 입법조사처 제안" [ref=f32e1475] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/023/0003992358?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1476]:
+                - link "‘부산 돌려차기·장윤기 CCTV’ 찾아낸 대검찰청 ‘과학수사부’ 쪼개진다" [ref=f32e1477] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/023/0003992353?cds=news_media_pc&type=editn
+          - generic [ref=f32e1479]:
+            - generic [ref=f32e1480]:
+              - link "월간산 08월 11일 08:59" [ref=f32e1481] [cursor=pointer]:
+                - /url: https://media.naver.com/press/094
+                - emphasis [ref=f32e1483]: 월간산
+                - generic [ref=f32e1484]: 08월 11일 08:59
+              - button "구독" [ref=f32e1485] [cursor=pointer]
+            - link "말갈기 같은 능선 오르면 발아래에 금강 [지도 위를 걷다 갈기산·자지산]" [ref=f32e1487] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/094/0000013724?cds=news_media_pc&type=editn
+              - strong [ref=f32e1489]: 말갈기 같은 능선 오르면 발아래에 금강 [지도 위를 걷다 갈기산·자지산]
+            - list [ref=f32e1490]:
+              - listitem [ref=f32e1491]:
+                - link "섬사람들 넘나들던 옛길 해안 트레킹 명소로 거듭나다 [전라도의 숨은 명산 여수 금오도 비렁길]" [ref=f32e1492] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/094/0000013723?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1493]:
+                - link "코리아둘레길 4,500km 첫 완주자는 78세 퇴직공무원 [산지컬 100]" [ref=f32e1494] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/094/0000013721?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1495]:
+                - link "레깅스 조회수 버리고 산 타는 '돌직구 여자' [화제인물]" [ref=f32e1496] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/094/0000013720?cds=news_media_pc&type=editn
+          - generic [ref=f32e1498]:
+            - generic [ref=f32e1499]:
+              - link "한겨레21 08월 11일 11:13" [ref=f32e1500] [cursor=pointer]:
+                - /url: https://media.naver.com/press/036
+                - emphasis [ref=f32e1502]: 한겨레21
+                - generic [ref=f32e1503]: 08월 11일 11:13
+              - button "구독" [ref=f32e1504] [cursor=pointer]
+            - link "공포마케팅에 맞서 방향성과 지구력을" [ref=f32e1506] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/036/0000054024?cds=news_media_pc&type=editn
+              - strong [ref=f32e1508]: 공포마케팅에 맞서 방향성과 지구력을
+            - list [ref=f32e1509]:
+              - listitem [ref=f32e1510]:
+                - link "쉽게 오가는 말, 회복되지 않는 상처" [ref=f32e1511] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/036/0000054023?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1512]:
+                - link "8·3 세제 개편은 집값 겨눈 몽둥이?… 사서 살면 ‘이득’" [ref=f32e1513] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/036/0000054022?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1514]:
+                - link "실재와 접촉하는 번역, 인간의 자리" [ref=f32e1515] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/036/0000054021?cds=news_media_pc&type=editn
+          - generic [ref=f32e1517]:
+            - generic [ref=f32e1518]:
+              - link "연합뉴스TV 08월 11일 11:29" [ref=f32e1519] [cursor=pointer]:
+                - /url: https://media.naver.com/press/422
+                - emphasis [ref=f32e1521]: 연합뉴스TV
+                - generic [ref=f32e1522]: 08월 11일 11:29
+              - button "구독" [ref=f32e1523] [cursor=pointer]
+            - link "영상 태풍 '찬홈' 비구름 동해로…주 중반 60㎜ 비" [ref=f32e1525] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/422/0000894474?cds=news_media_pc&type=editn
+              - generic [ref=f32e1526]: 영상
+              - strong [ref=f32e1529]: 태풍 '찬홈' 비구름 동해로…주 중반 60㎜ 비
+            - list [ref=f32e1530]:
+              - listitem [ref=f32e1531]:
+                - link "이번엔 수원 광교 아파트 단지서…1m 도마뱀 출몰" [ref=f32e1532] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/422/0000894489?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1533]:
+                - link "배우 하영, 증조부 친일 행적 인정…소속사 \"성급했던 해명 사과\"" [ref=f32e1534] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/422/0000894480?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1535]:
+                - link "집 앞에 붙은 '법원 서류 안내문'…피싱 오인 피하려면?" [ref=f32e1536] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/422/0000894517?cds=news_media_pc&type=editn
+          - generic [ref=f32e1538]:
+            - generic [ref=f32e1539]:
+              - link "SBS 08월 11일 11:19" [ref=f32e1540] [cursor=pointer]:
+                - /url: https://media.naver.com/press/055
+                - emphasis [ref=f32e1542]: SBS
+                - generic [ref=f32e1543]: 08월 11일 11:19
+              - button "구독" [ref=f32e1544] [cursor=pointer]
+            - link "영상 평택 위험물 창고 큰 불길 잡혀…9시간 만에 '초진' 성공" [ref=f32e1546] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/055/0001379713?cds=news_media_pc&type=editn
+              - generic [ref=f32e1547]: 영상
+              - strong [ref=f32e1550]: 평택 위험물 창고 큰 불길 잡혀…9시간 만에 '초진' 성공
+            - list [ref=f32e1551]:
+              - listitem [ref=f32e1552]:
+                - link "\"해병대 어찌 믿나\" 분통…훈련 강요해 또 근육 괴사" [ref=f32e1553] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/055/0001379705?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1554]:
+                - link "졸피뎀 먹인 뒤 달걀 밀어넣었다…재산 노리고 친형 살해" [ref=f32e1555] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/055/0001379737?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1556]:
+                - link "'베네수 지진' 때 생존 형제…콜롬비아서 또 지진 날벼락" [ref=f32e1557] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/055/0001379706?cds=news_media_pc&type=editn
+          - generic [ref=f32e1559]:
+            - generic [ref=f32e1560]:
+              - link "매일경제 08월 11일 11:26" [ref=f32e1561] [cursor=pointer]:
+                - /url: https://media.naver.com/press/009
+                - emphasis [ref=f32e1563]: 매일경제
+                - generic [ref=f32e1564]: 08월 11일 11:26
+              - button "구독" [ref=f32e1565] [cursor=pointer]
+            - link "“삼전닉스, 지금 아니면 못 산다?”…개미들 다시 ‘빚투’, 사흘 새 2조 몰려" [ref=f32e1567] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/009/0005719287?cds=news_media_pc&type=editn
+              - strong [ref=f32e1569]: “삼전닉스, 지금 아니면 못 산다?”…개미들 다시 ‘빚투’, 사흘 새 2조 몰려
+            - list [ref=f32e1570]:
+              - listitem [ref=f32e1571]:
+                - link "[단독] 가짜 봉사단체·코인 만들어 409억 가로챘다…AI도 속인 사기극" [ref=f32e1572] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/009/0005719351?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1573]:
+                - link "홍준표 “부부 공동명의가 2주택? 기상천외…이재명 지지율 폭락할 것”" [ref=f32e1574] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/009/0005719295?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1575]:
+                - link "빚투 방조한 가계대출 총량관리…실수요자만 대출절벽 앞서 ‘눈물’ [기자24시]" [ref=f32e1576] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/009/0005719334?cds=news_media_pc&type=editn
+          - generic [ref=f32e1578]:
+            - generic [ref=f32e1579]:
+              - link "일다 08월 11일 10:10" [ref=f32e1580] [cursor=pointer]:
+                - /url: https://media.naver.com/press/007
+                - emphasis [ref=f32e1582]: 일다
+                - generic [ref=f32e1583]: 08월 11일 10:10
+              - button "구독" [ref=f32e1584] [cursor=pointer]
+            - link "아동을 구하려면, 그 어머니부터 도우라" [ref=f32e1586] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/007/0000008260?cds=news_media_pc&type=editn
+              - strong [ref=f32e1588]: 아동을 구하려면, 그 어머니부터 도우라
+            - list [ref=f32e1589]:
+              - listitem [ref=f32e1590]:
+                - link "예비 할머니들의 취미생활 영업" [ref=f32e1591] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/007/0000008259?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1592]:
+                - link "인도를 뒤흔든 무슬림 여성들의 비폭력 저항운동" [ref=f32e1593] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/007/0000008258?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1594]:
+                - link "“한국에서 이러지 마시고, 조용히 외국에서 사세요”" [ref=f32e1595] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/007/0000008256?cds=news_media_pc&type=editn
+          - generic [ref=f32e1597]:
+            - generic [ref=f32e1598]:
+              - link "중앙일보 08월 11일 11:15" [ref=f32e1599] [cursor=pointer]:
+                - /url: https://media.naver.com/press/025
+                - emphasis [ref=f32e1601]: 중앙일보
+                - generic [ref=f32e1602]: 08월 11일 11:15
+              - button "구독" [ref=f32e1603] [cursor=pointer]
+            - link [ref=f32e1605] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/025/0003543523?cds=news_media_pc&type=editn
+              - strong [ref=f32e1606]: “전세 귀한 때” 보증금 날벼락…엄마는 두 아이 데리고 읍소했다
+            - list [ref=f32e1607]:
+              - listitem [ref=f32e1608]:
+                - link "지하 50m 뚫었더니 ‘천연 에어컨’…폭염 비켜간 농장 비결 깜짝" [ref=f32e1609] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/025/0003543573?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1610]:
+                - link "‘체온 40도’ 쓰러진 해병…근육 괴사 진단에도 “훈련 계속 해”" [ref=f32e1611] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/025/0003543564?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1612]:
+                - link "치매 명의 “20년간 절대 안 먹어”…치매 부르는 최악의 음식 1위" [ref=f32e1613] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/025/0003543586?cds=news_media_pc&type=editn
+          - generic [ref=f32e1615]:
+            - generic [ref=f32e1616]:
+              - link "헬스조선 08월 11일 10:39" [ref=f32e1617] [cursor=pointer]:
+                - /url: https://media.naver.com/press/346
+                - emphasis [ref=f32e1619]: 헬스조선
+                - generic [ref=f32e1620]: 08월 11일 10:39
+              - button "구독" [ref=f32e1621] [cursor=pointer]
+            - link "“요요 없다” 32kg 감량 홍지민, ‘즐겨 먹은 음식’ 있다는데… 뭐지?" [ref=f32e1623] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/346/0000114196?cds=news_media_pc&type=editn
+              - strong [ref=f32e1625]: “요요 없다” 32kg 감량 홍지민, ‘즐겨 먹은 음식’ 있다는데… 뭐지?
+            - list [ref=f32e1626]:
+              - listitem [ref=f32e1627]:
+                - link "“공복에 먹었다가 콜레스테롤 쭉 오른다”… 영양사들 꼽은 ‘최악의 음식’" [ref=f32e1628] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/346/0000114200?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1629]:
+                - link "“췌장에 부담” 15kg 감량 한지혜가 피하는 ‘아침 메뉴’의 정체" [ref=f32e1630] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/346/0000114215?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1631]:
+                - link "‘33kg 감량’ 풍자, 중국 여행서 “살 안 찌는 음식” 추천한 것은?" [ref=f32e1632] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/346/0000114216?cds=news_media_pc&type=editn
+          - generic [ref=f32e1634]:
+            - generic [ref=f32e1635]:
+              - link "비즈워치 08월 11일 11:05" [ref=f32e1636] [cursor=pointer]:
+                - /url: https://media.naver.com/press/648
+                - emphasis [ref=f32e1638]: 비즈워치
+                - generic [ref=f32e1639]: 08월 11일 11:05
+              - button "구독" [ref=f32e1640] [cursor=pointer]
+            - link "'역 머니무브' 은행은 예금금리 올리고 저축은행 내리고 왜?" [ref=f32e1642] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/648/0000049705?cds=news_media_pc&type=editn
+              - strong [ref=f32e1644]: "'역 머니무브' 은행은 예금금리 올리고 저축은행 내리고 왜?"
+            - list [ref=f32e1645]:
+              - listitem [ref=f32e1646]:
+                - link "조각투자 식어가는데 토큰증권 출범 초읽기…\"기초자산 확대 관건\"" [ref=f32e1647] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/648/0000049700?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1648]:
+                - link "[인터뷰티]\"성분보다 고민 해결\"…샤르드의 선택은 달랐다" [ref=f32e1649] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/648/0000049698?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1650]:
+                - link "포스코홀딩스, 리튬에 얼마 투자했나…최소 5.5조" [ref=f32e1651] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/648/0000049691?cds=news_media_pc&type=editn
+          - generic [ref=f32e1653]:
+            - generic [ref=f32e1654]:
+              - link "블로터 08월 11일 11:12" [ref=f32e1655] [cursor=pointer]:
+                - /url: https://media.naver.com/press/293
+                - emphasis [ref=f32e1657]: 블로터
+                - generic [ref=f32e1658]: 08월 11일 11:12
+              - button "구독" [ref=f32e1659] [cursor=pointer]
+            - link "[박종면칼럼] 삼전닉스 성과급, 경찰과 주총이 정할 일인가" [ref=f32e1661] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/293/0000088865?cds=news_media_pc&type=editn
+              - strong [ref=f32e1663]: "[박종면칼럼] 삼전닉스 성과급, 경찰과 주총이 정할 일인가"
+            - list [ref=f32e1664]:
+              - listitem [ref=f32e1665]:
+                - link "[생맥주 세제혜택 종료]③ 하이트진로, 비용 압박에 '테라 중심' 재편" [ref=f32e1666] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/293/0000088859?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1667]:
+                - link "한은 vs 이란계 멜라트銀 손배소 '2라운드' 10월 시작" [ref=f32e1668] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/293/0000088882?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1669]:
+                - link "음료 쏟자 청소봇 출동…엑스와이지가 구현한 지능형빌딩 [로봇onAI]" [ref=f32e1670] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/293/0000088881?cds=news_media_pc&type=editn
+          - generic [ref=f32e1672]:
+            - generic [ref=f32e1673]:
+              - link "시사저널 08월 11일 11:21" [ref=f32e1674] [cursor=pointer]:
+                - /url: https://media.naver.com/press/586
+                - emphasis [ref=f32e1676]: 시사저널
+                - generic [ref=f32e1677]: 08월 11일 11:21
+              - button "구독" [ref=f32e1678] [cursor=pointer]
+            - link "초접전 깨지나…김민석 46.8% 정청래 35.2%, 호남에선 2배 앞섰다 [리얼미터]" [ref=f32e1680] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/586/0000135657?cds=news_media_pc&type=editn
+              - strong [ref=f32e1682]: 초접전 깨지나…김민석 46.8% 정청래 35.2%, 호남에선 2배 앞섰다 [리얼미터]
+            - list [ref=f32e1683]:
+              - listitem [ref=f32e1684]:
+                - link "낙산항 전복 사고 5개월 만에…소방·구급 관계자 7명 검찰 송치" [ref=f32e1685] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/586/0000135676?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1686]:
+                - link "이진우, '수호신TF 계엄준비 의혹' 특검 출석…\"계엄 목적 전혀 없어\"" [ref=f32e1687] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/586/0000135674?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1688]:
+                - link "대장동 수사 이끈 강백신 검사 \"형소법 개정안은 반헌법적 시스템\"" [ref=f32e1689] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/586/0000135671?cds=news_media_pc&type=editn
+          - generic [ref=f32e1691]:
+            - generic [ref=f32e1692]:
+              - link "강원일보 08월 11일 11:17" [ref=f32e1693] [cursor=pointer]:
+                - /url: https://media.naver.com/press/087
+                - emphasis [ref=f32e1695]: 강원일보
+                - generic [ref=f32e1696]: 08월 11일 11:17
+              - button "구독" [ref=f32e1697] [cursor=pointer]
+            - link "[속보]중국 덮친 13호 태풍 ‘돌핀’ 이어 15호 태풍 ‘찬홈’ 日열도 접근⋯한반도 영향 미칠지 주목" [ref=f32e1699] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/087/0001210690?cds=news_media_pc&type=editn
+              - strong [ref=f32e1701]: "[속보]중국 덮친 13호 태풍 ‘돌핀’ 이어 15호 태풍 ‘찬홈’ 日열도 접근⋯한반도 영향 미칠지 주목"
+            - list [ref=f32e1702]:
+              - listitem [ref=f32e1703]:
+                - link "[속보]자택서 아내와 50대 아들 흉기로 찌른 80대 체포" [ref=f32e1704] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/087/0001210679?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1705]:
+                - link "‘슈퍼 땅콩’ 김미현 측 운영 대형 골프연습장 고발 당해⋯건물 내 스크린골프, 음식점 등 ‘불법전대 혐의’" [ref=f32e1706] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/087/0001210471?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1707]:
+                - link "레고랜드, GJC에 130억원 손해 통보⋯시민사회단체 규탄" [ref=f32e1708] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/087/0001210523?cds=news_media_pc&type=editn
+          - generic [ref=f32e1710]:
+            - generic [ref=f32e1711]:
+              - link "YTN 08월 11일 11:00" [ref=f32e1712] [cursor=pointer]:
+                - /url: https://media.naver.com/press/052
+                - emphasis [ref=f32e1714]: YTN
+                - generic [ref=f32e1715]: 08월 11일 11:00
+              - button "구독" [ref=f32e1716] [cursor=pointer]
+            - link "영상 이 대통령 \"정부 임기 내 세종 집무실 시대 여는 데 총력\" [현장영상+]" [ref=f32e1718] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/052/0002391646?cds=news_media_pc&type=editn
+              - generic [ref=f32e1719]: 영상
+              - strong [ref=f32e1722]: 이 대통령 "정부 임기 내 세종 집무실 시대 여는 데 총력" [현장영상+]
+            - list [ref=f32e1723]:
+              - listitem [ref=f32e1724]:
+                - link "민주 전대 D-6, 호남 첫 투표...국힘, 당원 세 경쟁 격화" [ref=f32e1725] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/052/0002391634?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1726]:
+                - link "미국 증시 약보합에 코스피, 1%가량 하락 출발" [ref=f32e1727] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/052/0002391636?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1728]:
+                - link "이란 대통령 \"모즈타바 건강 양호\"...'강경 일색' 군인사 단행" [ref=f32e1729] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/052/0002391674?cds=news_media_pc&type=editn
+          - generic [ref=f32e1731]:
+            - generic [ref=f32e1732]:
+              - link "세계일보 08월 11일 11:28" [ref=f32e1733] [cursor=pointer]:
+                - /url: https://media.naver.com/press/022
+                - emphasis [ref=f32e1735]: 세계일보
+                - generic [ref=f32e1736]: 08월 11일 11:28
+              - button "구독" [ref=f32e1737] [cursor=pointer]
+            - link "李 “국토균형발전이 ‘모두의 성장’ 핵심 열쇠… 대통령 세종 집무실 건립 등 속도 내달라”" [ref=f32e1739] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/022/0004150062?cds=news_media_pc&type=editn
+              - strong [ref=f32e1741]: 李 “국토균형발전이 ‘모두의 성장’ 핵심 열쇠… 대통령 세종 집무실 건립 등 속도 내달라”
+            - list [ref=f32e1742]:
+              - listitem [ref=f32e1743]:
+                - link "“에어컨 틀 때 ‘이 버튼’ 하나 눌렀더니”… 전기요금 반토막 난 진짜 이유" [ref=f32e1744] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/022/0004149969?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1745]:
+                - link "與 박균택 “산업스파이 가중처벌특별법 제정 추진”" [ref=f32e1746] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/022/0004150043?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1747]:
+                - link "“요구르트에 그냥 넣었는데”…냉동 블루베리, ‘이 문구’ 꼭 보세요 [일상톡톡 플러스]" [ref=f32e1748] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/022/0004150015?cds=news_media_pc&type=editn
+          - generic [ref=f32e1750]:
+            - generic [ref=f32e1751]:
+              - link "코리아중앙데일리 08월 11일 09:19" [ref=f32e1752] [cursor=pointer]:
+                - /url: https://media.naver.com/press/640
+                - emphasis [ref=f32e1754]: 코리아중앙데일리
+                - generic [ref=f32e1755]: 08월 11일 09:19
+              - button "구독" [ref=f32e1756] [cursor=pointer]
+            - link "'American dream' becomes nightmare as U.S. visa uncertainties unsettle Korean students" [ref=f32e1758] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/640/0000092523?cds=news_media_pc&type=editn
+              - strong [ref=f32e1760]: "'American dream' becomes nightmare as U.S. visa uncertainties unsettle Korean students"
+            - list [ref=f32e1761]:
+              - listitem [ref=f32e1762]:
+                - link "Majority of Koreans still see U.S. ahead of China despite strains in alliance, survey finds" [ref=f32e1763] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/640/0000092521?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1764]:
+                - link "From Japanese mayo to century-old U.S. salt, Coupang broadens global offerings" [ref=f32e1765] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/640/0000092518?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1766]:
+                - link "South Koreans want wartime control transferred soon but doubt the country is ready" [ref=f32e1767] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/640/0000092520?cds=news_media_pc&type=editn
+          - generic [ref=f32e1769]:
+            - generic [ref=f32e1770]:
+              - link "미디어오늘 08월 11일 10:46" [ref=f32e1771] [cursor=pointer]:
+                - /url: https://media.naver.com/press/006
+                - emphasis [ref=f32e1773]: 미디어오늘
+                - generic [ref=f32e1774]: 08월 11일 10:46
+              - button "구독" [ref=f32e1775] [cursor=pointer]
+            - link "네이버 D2SF, 피지컬 AI 데이터 스타트업 '엔닷라이트'에 150억 투자" [ref=f32e1777] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/006/0000137148?cds=news_media_pc&type=editn
+              - strong [ref=f32e1779]: 네이버 D2SF, 피지컬 AI 데이터 스타트업 '엔닷라이트'에 150억 투자
+            - list [ref=f32e1780]:
+              - listitem [ref=f32e1781]:
+                - link "청와대 춘추관장, '무단 증축 월세 수익' 도마에" [ref=f32e1782] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/006/0000137147?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1783]:
+                - link "13년 함께한 중앙일보·JTBC 통합노조, 11일 총회 열고 이별" [ref=f32e1784] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/006/0000137142?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1785]:
+                - link "정청래 김민석 송영길에 당부한 한겨레, \"비방 넘어 건설적 토론해야\"" [ref=f32e1786] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/006/0000137139?cds=news_media_pc&type=editn
+          - generic [ref=f32e1788]:
+            - generic [ref=f32e1789]:
+              - link "프레시안 08월 11일 10:32" [ref=f32e1790] [cursor=pointer]:
+                - /url: https://media.naver.com/press/002
+                - emphasis [ref=f32e1792]: 프레시안
+                - generic [ref=f32e1793]: 08월 11일 10:32
+              - button "구독" [ref=f32e1794] [cursor=pointer]
+            - link "[속보] 뉴욕증시, '반도체주' 급락…국제유가 다시 상승" [ref=f32e1796] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/002/0002451652?cds=news_media_pc&type=editn
+              - strong [ref=f32e1798]: "[속보] 뉴욕증시, '반도체주' 급락…국제유가 다시 상승"
+            - list [ref=f32e1799]:
+              - listitem [ref=f32e1800]:
+                - link "박지원 \"추미애, 정청래 공개 지지? 적절치 않다\"" [ref=f32e1801] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/002/0002451649?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1802]:
+                - link "2026년 한국 정치, 옥중의 윤석열이 지배한다?[장석준 칼럼]" [ref=f32e1803] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/002/0002451657?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1804]:
+                - link "[속보] 경찰 특수본, 12.29 여객기 폭파 사고 관련 국토부·공항공사 등 압수수색" [ref=f32e1805] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/002/0002451660?cds=news_media_pc&type=editn
+          - generic [ref=f32e1807]:
+            - generic [ref=f32e1808]:
+              - link "헤럴드경제 08월 11일 11:05" [ref=f32e1809] [cursor=pointer]:
+                - /url: https://media.naver.com/press/016
+                - emphasis [ref=f32e1811]: 헤럴드경제
+                - generic [ref=f32e1812]: 08월 11일 11:05
+              - button "구독" [ref=f32e1813] [cursor=pointer]
+            - link "[속보] 李대통령 “정부 임기 내 세종 집무시대 열겠다…마지막 국무회의도 개최”" [ref=f32e1815] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/016/0002682120?cds=news_media_pc&type=editn
+              - strong [ref=f32e1817]: "[속보] 李대통령 “정부 임기 내 세종 집무시대 열겠다…마지막 국무회의도 개최”"
+            - list [ref=f32e1818]:
+              - listitem [ref=f32e1819]:
+                - link "[단독] 청소년 중독 우려, 틱톡 ‘현금 보상’…결국 칼 빼든 방미통위" [ref=f32e1820] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/016/0002682128?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1821]:
+                - link "오세훈 “서울에 땅이 어디 있나”…31만호 착공하면 8.7만가구 순증” [부동산360]" [ref=f32e1822] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/016/0002682134?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1823]:
+                - link "“200억원 쏟아붓고” 천하의 전지현도 쓴맛…극장 내리기도 전에 OTT행, 난리더니 이달 말 결론" [ref=f32e1824] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/016/0002681931?cds=news_media_pc&type=editn
+          - generic [ref=f32e1826]:
+            - generic [ref=f32e1827]:
+              - link "경향신문 08월 11일 11:18" [ref=f32e1828] [cursor=pointer]:
+                - /url: https://media.naver.com/press/032
+                - emphasis [ref=f32e1830]: 경향신문
+                - generic [ref=f32e1831]: 08월 11일 11:18
+              - button "구독" [ref=f32e1832] [cursor=pointer]
+            - link "로또 4등·5등도 ‘QR등록’하면 앞으로 당첨금 자동입금···당첨 여부도 자동 알림" [ref=f32e1834] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/032/0003463493?cds=news_media_pc&type=editn
+              - strong [ref=f32e1836]: 로또 4등·5등도 ‘QR등록’하면 앞으로 당첨금 자동입금···당첨 여부도 자동 알림
+            - list [ref=f32e1837]:
+              - listitem [ref=f32e1838]:
+                - link "정부 주택공급 방안에 용산 찾은 오세훈 “서울에 빈 땅 없다”" [ref=f32e1839] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/032/0003463495?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1840]:
+                - link "‘시력이 얼마나 좋아질 지 감도 안 오네’···지상 초정밀 촬영 ‘신개념 인공위성’ 내년에 뜬다" [ref=f32e1841] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/032/0003463459?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1842]:
+                - link "필라테스서 만나 연인된 ‘재벌가 대기업 본부장’의 정체···1억7000만원 뜯은 사기꾼이었다" [ref=f32e1843] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/032/0003463460?cds=news_media_pc&type=editn
+          - generic [ref=f32e1845]:
+            - generic [ref=f32e1846]:
+              - link "시사IN 08월 11일 07:05" [ref=f32e1847] [cursor=pointer]:
+                - /url: https://media.naver.com/press/308
+                - emphasis [ref=f32e1849]: 시사IN
+                - generic [ref=f32e1850]: 08월 11일 07:05
+              - button "구독" [ref=f32e1851] [cursor=pointer]
+            - link "독일 정치에 ‘반짝 청년 정치인’이 잘 없는 이유" [ref=f32e1853] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/308/0000038618?cds=news_media_pc&type=editn
+              - strong [ref=f32e1855]: 독일 정치에 ‘반짝 청년 정치인’이 잘 없는 이유
+            - list [ref=f32e1856]:
+              - listitem [ref=f32e1857]:
+                - link "보완수사권은 왜 합리적 토론이 불가능해졌을까 [취재 뒷담화]" [ref=f32e1858] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/308/0000038619?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1859]:
+                - link "전임 국회의장 우원식의 쓴소리 “민주당 전대, 이대로는 안 된다”" [ref=f32e1860] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/308/0000038613?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1861]:
+                - link "진통 끝에 일단락된 검찰개혁 논쟁 비망록" [ref=f32e1862] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/308/0000038614?cds=news_media_pc&type=editn
+          - generic [ref=f32e1864]:
+            - generic [ref=f32e1865]:
+              - link "국제신문 08월 11일 11:29" [ref=f32e1866] [cursor=pointer]:
+                - /url: https://media.naver.com/press/658
+                - emphasis [ref=f32e1868]: 국제신문
+                - generic [ref=f32e1869]: 08월 11일 11:29
+              - button "구독" [ref=f32e1870] [cursor=pointer]
+            - link "[속보]상속 때문에 아버지와 친형 살해한 인면수심 40대 무기징역" [ref=f32e1872] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/658/0000151991?cds=news_media_pc&type=editn
+              - strong [ref=f32e1874]: "[속보]상속 때문에 아버지와 친형 살해한 인면수심 40대 무기징역"
+            - list [ref=f32e1875]:
+              - listitem [ref=f32e1876]:
+                - link "부산 열대야 23일 만에 끝…폭염주의보·열대야주의보도 해제" [ref=f32e1877] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/658/0000151988?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1878]:
+                - link "이 대통령 “임기 내 세종 집무실 시대 열겠다…마지막 국무회의도 세종에서”" [ref=f32e1879] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/658/0000151989?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1880]:
+                - link "[속보]공공기관서 코인 채굴하다 적발 직원, 법원 \"부당해고 아냐\"" [ref=f32e1881] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/658/0000151979?cds=news_media_pc&type=editn
+          - generic [ref=f32e1883]:
+            - generic [ref=f32e1884]:
+              - link "주간동아 08월 11일 10:50" [ref=f32e1885] [cursor=pointer]:
+                - /url: https://media.naver.com/press/037
+                - emphasis [ref=f32e1887]: 주간동아
+                - generic [ref=f32e1888]: 08월 11일 10:50
+              - button "구독" [ref=f32e1889] [cursor=pointer]
+            - link "코스피 폭락한 7월 20% 넘게 상승한 화장품주" [ref=f32e1891] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/037/0000038650?cds=news_media_pc&type=editn
+              - strong [ref=f32e1893]: 코스피 폭락한 7월 20% 넘게 상승한 화장품주
+            - list [ref=f32e1894]:
+              - listitem [ref=f32e1895]:
+                - link "코스메카코리아 장중 신고가… “매출 성장률 추정치 30%로 상향”" [ref=f32e1896] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/037/0000038653?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1897]:
+                - link "AI폰 경쟁의 숨은 승자, 애플·삼성 아닌 구글이 될 수도" [ref=f32e1898] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/037/0000038651?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1899]:
+                - link "처음 봐도 친숙한 듯 느껴지는 Z세대 노스탤지어 콘텐츠" [ref=f32e1900] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/037/0000038652?cds=news_media_pc&type=editn
+          - generic [ref=f32e1902]:
+            - generic [ref=f32e1903]:
+              - link "MBC 08월 11일 11:04" [ref=f32e1904] [cursor=pointer]:
+                - /url: https://media.naver.com/press/214
+                - emphasis [ref=f32e1906]: MBC
+                - generic [ref=f32e1907]: 08월 11일 11:04
+              - button "구독" [ref=f32e1908] [cursor=pointer]
+            - link "이 대통령 \"임기 내 세종 집무실 시대‥마지막 국무회의 세종 개최 총력\"" [ref=f32e1910] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/214/0001517136?cds=news_media_pc&type=editn
+              - strong [ref=f32e1912]: 이 대통령 "임기 내 세종 집무실 시대‥마지막 국무회의 세종 개최 총력"
+            - list [ref=f32e1913]:
+              - listitem [ref=f32e1914]:
+                - link "정청래 \"대통령 지지율 하락? 전통 지지층 등 돌린 것‥전우애 복원해야\"" [ref=f32e1915] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/214/0001517127?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1916]:
+                - link "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\"" [ref=f32e1917] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/214/0001516975?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1918]:
+                - link "'아기 풀장'도 뒀는데‥테라스 추락, 우리집은?" [ref=f32e1919] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/214/0001517084?cds=news_media_pc&type=editn
+          - generic [ref=f32e1921]:
+            - generic [ref=f32e1922]:
+              - link "기자협회보 08월 11일 09:50" [ref=f32e1923] [cursor=pointer]:
+                - /url: https://media.naver.com/press/127
+                - emphasis [ref=f32e1925]: 기자협회보
+                - generic [ref=f32e1926]: 08월 11일 09:50
+              - button "구독" [ref=f32e1927] [cursor=pointer]
+            - link "상상력으로 하는 심의" [ref=f32e1929] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/127/0000039618?cds=news_media_pc&type=editn
+              - strong [ref=f32e1931]: 상상력으로 하는 심의
+            - list [ref=f32e1932]:
+              - listitem [ref=f32e1933]:
+                - link "AI가 불러온 신냉전시대" [ref=f32e1934] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/127/0000039616?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1935]:
+                - link "네이버 \"AI탭, 출시 한 달만에 MAU 1000만명 돌파\"" [ref=f32e1936] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/127/0000039614?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1937]:
+                - link "'경영난' JTBC, 토일드라마에 신작 대신 구작 편성" [ref=f32e1938] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/127/0000039613?cds=news_media_pc&type=editn
+          - generic [ref=f32e1940]:
+            - generic [ref=f32e1941]:
+              - link "디지털데일리 08월 11일 10:36" [ref=f32e1942] [cursor=pointer]:
+                - /url: https://media.naver.com/press/138
+                - emphasis [ref=f32e1944]: 디지털데일리
+                - generic [ref=f32e1945]: 08월 11일 10:36
+              - button "구독" [ref=f32e1946] [cursor=pointer]
+            - link "‘반도체 클러스터 부지’ 광주 군공항 기능 임시 이전 추진…“미군 공여지 반환 협의”" [ref=f32e1948] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/138/0002237349?cds=news_media_pc&type=editn
+              - strong [ref=f32e1950]: ‘반도체 클러스터 부지’ 광주 군공항 기능 임시 이전 추진…“미군 공여지 반환 협의”
+            - list [ref=f32e1951]:
+              - listitem [ref=f32e1952]:
+                - link "李 “임기 내 세종 집무실 시대 열것”…AI 정책 속도전, 부정부패는 엄정 문책" [ref=f32e1953] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/138/0002237350?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1954]:
+                - link "한화, 美 '오스탈 USA' 인수 추진…최대 1.7조원 규모 제안" [ref=f32e1955] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/138/0002237344?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1956]:
+                - link "코스피, 기관 매도에 6260선 약보합…삼성전기 3.3%↓" [ref=f32e1957] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/138/0002237315?cds=news_media_pc&type=editn
+          - generic [ref=f32e1959]:
+            - generic [ref=f32e1960]:
+              - link "여성신문 08월 11일 09:27" [ref=f32e1961] [cursor=pointer]:
+                - /url: https://media.naver.com/press/310
+                - emphasis [ref=f32e1963]: 여성신문
+                - generic [ref=f32e1964]: 08월 11일 09:27
+              - button "구독" [ref=f32e1965] [cursor=pointer]
+            - link "노숙인 인권단체, 인천공항 퇴거 명령에 반발... \"언론, 혐오보도 중단해야\"" [ref=f32e1967] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/310/0000139011?cds=news_media_pc&type=editn
+              - strong [ref=f32e1969]: 노숙인 인권단체, 인천공항 퇴거 명령에 반발... "언론, 혐오보도 중단해야"
+            - list [ref=f32e1970]:
+              - listitem [ref=f32e1971]:
+                - link "[여성논단] 피해자 없는 ‘검찰개혁’이 불러올, 이후" [ref=f32e1972] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/310/0000138907?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1973]:
+                - link "잊혀진 66번 국도 위에서, 지워진 여자야구가 돌아왔다...\"우리의 리그, 우리의 시간\"" [ref=f32e1974] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/310/0000139001?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1975]:
+                - link "“축구협회 성매매·성착취 사건, ‘성접대’로 축소하지 말라”" [ref=f32e1976] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/310/0000139028?cds=news_media_pc&type=editn
+          - generic [ref=f32e1978]:
+            - generic [ref=f32e1979]:
+              - link "노컷뉴스 08월 11일 11:24" [ref=f32e1980] [cursor=pointer]:
+                - /url: https://media.naver.com/press/079
+                - emphasis [ref=f32e1982]: 노컷뉴스
+                - generic [ref=f32e1983]: 08월 11일 11:24
+              - button "구독" [ref=f32e1984] [cursor=pointer]
+            - link "[단독]여성 신도에 \"문란하다\"…사랑제일교회 목사 檢 송치" [ref=f32e1986] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/079/0004177347?cds=news_media_pc&type=editn
+              - strong [ref=f32e1988]: "[단독]여성 신도에 \"문란하다\"…사랑제일교회 목사 檢 송치"
+            - list [ref=f32e1989]:
+              - listitem [ref=f32e1990]:
+                - link "김민석 지지도 호남서 과반 질주…수도권은 정청래와 접전" [ref=f32e1991] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/079/0004177493?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1992]:
+                - link "李대통령 \"세종시, 국토균형발전 상징…임기 내 세종 집무실\"" [ref=f32e1993] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/079/0004177451?cds=news_media_pc&type=editn
+              - listitem [ref=f32e1994]:
+                - link "\"키우던 염소가 사라져\"…드론 띄우자 1.8m 불곰이 먹고 있었다[이런일이]" [ref=f32e1995] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/079/0004177345?cds=news_media_pc&type=editn
+          - generic [ref=f32e1997]:
+            - generic [ref=f32e1998]:
+              - link "아이뉴스24 08월 11일 10:57" [ref=f32e1999] [cursor=pointer]:
+                - /url: https://media.naver.com/press/031
+                - emphasis [ref=f32e2001]: 아이뉴스24
+                - generic [ref=f32e2002]: 08월 11일 10:57
+              - button "구독" [ref=f32e2003] [cursor=pointer]
+            - link "\"삼성·SK 사장들, 빨리 추진돼 놀랐다\"…靑, 광주 군공항 2028년 이전" [ref=f32e2005] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/031/0001048614?cds=news_media_pc&type=editn
+              - strong [ref=f32e2007]: "\"삼성·SK 사장들, 빨리 추진돼 놀랐다\"…靑, 광주 군공항 2028년 이전"
+            - list [ref=f32e2008]:
+              - listitem [ref=f32e2009]:
+                - link "中, 휴머노이드 로봇 시장 97% 장악⋯美 점유율 3%도 안 돼" [ref=f32e2010] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/031/0001048633?cds=news_media_pc&type=editn
+              - listitem [ref=f32e2011]:
+                - link "경기 안성 38번 국도서 승용차-덤프트럭 충돌⋯20대 남녀 3명 사망" [ref=f32e2012] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/031/0001048661?cds=news_media_pc&type=editn
+              - listitem [ref=f32e2013]:
+                - link "정청래 \"내가 당 대표 되면 李 지지율 10% 이상 오를 것\"" [ref=f32e2014] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/031/0001048686?cds=news_media_pc&type=editn
+          - generic [ref=f32e2016]:
+            - generic [ref=f32e2017]:
+              - link "이데일리 08월 11일 11:25" [ref=f32e2018] [cursor=pointer]:
+                - /url: https://media.naver.com/press/018
+                - emphasis [ref=f32e2020]: 이데일리
+                - generic [ref=f32e2021]: 08월 11일 11:25
+              - button "구독" [ref=f32e2022] [cursor=pointer]
+            - link "‘과반 넘었다’ 與 호남 지지도 김민석 57.7%…서울은[리얼미터]" [ref=f32e2024] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/018/0006349237?cds=news_media_pc&type=editn
+              - strong [ref=f32e2026]: ‘과반 넘었다’ 與 호남 지지도 김민석 57.7%…서울은[리얼미터]
+            - list [ref=f32e2027]:
+              - listitem [ref=f32e2028]:
+                - link "SK하이닉스, 日 키옥시아 사실상 최대 주주 됐다" [ref=f32e2029] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/018/0006349414?cds=news_media_pc&type=editn
+              - listitem [ref=f32e2030]:
+                - link "\"일단 스테이\"…규제 쏟아지자 아파트 입주전망 '뚝'" [ref=f32e2031] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/018/0006349402?cds=news_media_pc&type=editn
+              - listitem [ref=f32e2032]:
+                - link "최고 금리 年 8.15%… 농협은행, 창립기념 적금 내놨다" [ref=f32e2033] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/018/0006349364?cds=news_media_pc&type=editn
+          - generic [ref=f32e2035]:
+            - generic [ref=f32e2036]:
+              - link "SBS Biz 08월 11일 10:18" [ref=f32e2037] [cursor=pointer]:
+                - /url: https://media.naver.com/press/374
+                - emphasis [ref=f32e2039]: SBS Biz
+                - generic [ref=f32e2040]: 08월 11일 10:18
+              - button "구독" [ref=f32e2041] [cursor=pointer]
+            - link "부부 공동명의 세제개편에 뒤통수?…절세 룰 깨졌다?" [ref=f32e2043] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/374/0000526699?cds=news_media_pc&type=editn
+              - strong [ref=f32e2045]: 부부 공동명의 세제개편에 뒤통수?…절세 룰 깨졌다?
+            - list [ref=f32e2046]:
+              - listitem [ref=f32e2047]:
+                - link "李대통령 \"마지막 국무회의 세종 개최 총력…임기 내 세종 집무실\"" [ref=f32e2048] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/374/0000526733?cds=news_media_pc&type=editn
+              - listitem [ref=f32e2049]:
+                - link "코스피, 1% 하락해 6200대…코스닥도 약세" [ref=f32e2050] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/374/0000526711?cds=news_media_pc&type=editn
+              - listitem [ref=f32e2051]:
+                - link "네이버 천하 끝?...구글, 국내 이용자 첫 추월" [ref=f32e2052] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/374/0000526683?cds=news_media_pc&type=editn
+          - generic [ref=f32e2054]:
+            - generic [ref=f32e2055]:
+              - link "오마이뉴스 08월 11일 11:22" [ref=f32e2056] [cursor=pointer]:
+                - /url: https://media.naver.com/press/047
+                - emphasis [ref=f32e2058]: 오마이뉴스
+                - generic [ref=f32e2059]: 08월 11일 11:22
+              - button "구독" [ref=f32e2060] [cursor=pointer]
+            - link "인공지능 믿었던 미국 대기업들의 후회... 한국이 간과한 진실 [강인규 리포트]" [ref=f32e2062] [cursor=pointer]:
+              - /url: https://n.news.naver.com/article/047/0002525142?cds=news_media_pc&type=editn
+              - strong [ref=f32e2064]: 인공지능 믿었던 미국 대기업들의 후회... 한국이 간과한 진실 [강인규 리포트]
+            - list [ref=f32e2065]:
+              - listitem [ref=f32e2066]:
+                - link "커피 시장 3조 7천억원으로 '껑충'... 외식업체 7곳 중 1곳은 '카페'" [ref=f32e2067] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/047/0002525172?cds=news_media_pc&type=editn
+              - listitem [ref=f32e2068]:
+                - link "사랑 듬뿍 '츄르' 훈련기, 결국 '만세' 불렀습니다" [ref=f32e2069] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/047/0002525171?cds=news_media_pc&type=editn
+              - listitem [ref=f32e2070]:
+                - link "'장윤기 엄벌' 탄원서...4만7268명 동참" [ref=f32e2071] [cursor=pointer]:
+                  - /url: https://n.news.naver.com/article/047/0002525174?cds=news_media_pc&type=editn
+          - generic [ref=f32e2073]:
+            - heading "언론사별 심층기획" [level=3] [ref=f32e2075]
+            - generic [ref=f32e2076]:
+              - generic [ref=f32e2077]:
+                - link "금융보안독립 신호탄 전자신문" [ref=f32e2078] [cursor=pointer]:
+                  - /url: https://media.naver.com/press/030#SpecialReport
+                  - generic [ref=f32e2080]: 금융보안독립 신호탄
+                  - generic [ref=f32e2081]: 전자신문
+                - button "구독" [ref=f32e2082] [cursor=pointer]
+              - list [ref=f32e2084]:
+                - listitem [ref=f32e2085]:
+                  - link "[단독] 토스 보안솔루션, 외산 지우고 '타이탄' 도입" [ref=f32e2086] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/030/0003455974?cds=news_media_pc&type=editn
+                  - link "전자신문" [ref=f32e2090] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/030
+                - listitem [ref=f32e2093]:
+                  - link "[뉴스줌인]토스, 자체 보안체계 확장…'타이탄'에서 AI·공급망까지" [ref=f32e2094] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/030/0003455973?cds=news_media_pc&type=editn
+                  - link "전자신문" [ref=f32e2098] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/030
+            - generic [ref=f32e2101]:
+              - generic [ref=f32e2102]:
+                - link "심층기획 전주MBC" [ref=f32e2103] [cursor=pointer]:
+                  - /url: https://media.naver.com/press/659#SpecialReport
+                  - generic [ref=f32e2105]: 심층기획
+                  - generic [ref=f32e2106]: 전주MBC
+                - button "구독" [ref=f32e2107] [cursor=pointer]
+              - list [ref=f32e2109]:
+                - listitem [ref=f32e2110]:
+                  - link "재생시간 02:55 '소주병'마저 '플라스틱'..거꾸로 가는 자원순환" [ref=f32e2111] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/659/0000045885?cds=news_media_pc&type=editn
+                    - generic [ref=f32e2114]:
+                      - generic [ref=f32e2115]: 재생시간
+                      - text: 02:55
+                    - generic [ref=f32e2116]: "'소주병'마저 '플라스틱'..거꾸로 가는 자원순환"
+                  - link "전주MBC" [ref=f32e2118] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/659
+                - listitem [ref=f32e2121]:
+                  - link "동고서저 지형이 이번 고온 부추겨.. 열 축적에 열대야 지속" [ref=f32e2122] [cursor=pointer]:
+                    - /url: https://n.news.naver.com/article/659/0000045857?cds=news_media_pc&type=editn
+                  - link "전주MBC" [ref=f32e2126] [cursor=pointer]:
+                    - /url: https://media.naver.com/press/659
+  - contentinfo [ref=f32e2132]:
+    - paragraph [ref=f32e2133]:
+      - generic [ref=f32e2134]:
+        - link "로그인" [ref=f32e2136] [cursor=pointer]:
+          - /url: https://nid.naver.com/nidlogin.login
+        - link "전체서비스" [ref=f32e2138] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+      - generic [ref=f32e2139]:
+        - link "서비스안내" [ref=f32e2141] [cursor=pointer]:
+          - /url: https://news.naver.com/ombudsman
+        - link "오류신고" [ref=f32e2143] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_001.naver
+        - link "고객센터" [ref=f32e2145] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_007.naver
+      - generic [ref=f32e2146]: "청소년 보호 책임자 : 이정규"
+      - generic [ref=f32e2148]: 각 언론사가 직접 콘텐츠를 편집합니다.
+      - generic [ref=f32e2149]: 이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+      - link "NAVER" [ref=f32e2151] [cursor=pointer]:
+        - /url: https://www.navercorp.com/

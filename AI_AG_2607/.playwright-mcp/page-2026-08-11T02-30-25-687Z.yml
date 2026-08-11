@@ -1,0 +1,662 @@
+- generic [active] [ref=f40e1]:
+  - generic [ref=f40e2]:
+    - generic [ref=f40e3]:
+      - generic:
+        - link "메인 메뉴로 바로가기" [ref=f40e4] [cursor=pointer]:
+          - /url: "#lnb"
+        - link "본문으로 바로가기" [ref=f40e6] [cursor=pointer]:
+          - /url: "#main_content"
+      - generic [ref=f40e9]:
+        - generic [ref=f40e10]:
+          - strong [ref=f40e11]: 사용자 링크
+          - link "검색" [ref=f40e13] [cursor=pointer]:
+            - /url: javascript:;
+        - generic [ref=f40e15]:
+          - heading [level=1] [ref=f40e16]:
+            - link "NAVER" [ref=f40e17] [cursor=pointer]:
+              - /url: https://www.naver.com/
+            - link "뉴스" [ref=f40e19] [cursor=pointer]:
+              - /url: /
+          - list [ref=f40e21]:
+            - listitem [ref=f40e22]:
+              - link "엔터" [ref=f40e24] [cursor=pointer]:
+                - /url: https://entertain.naver.com/home
+            - listitem [ref=f40e25]:
+              - link "스포츠" [ref=f40e27] [cursor=pointer]:
+                - /url: https://sports.news.naver.com
+            - listitem [ref=f40e28]:
+              - link "날씨" [ref=f40e30] [cursor=pointer]:
+                - /url: https://weather.naver.com
+            - listitem [ref=f40e31]:
+              - link "프리미엄" [ref=f40e33] [cursor=pointer]:
+                - /url: https://contents.premium.naver.com
+      - generic [ref=f40e36]:
+        - list [ref=f40e39]:
+          - listitem [ref=f40e40]:
+            - link "언론사별" [ref=f40e41] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f40e43]:
+            - link "정치" [ref=f40e44] [cursor=pointer]:
+              - /url: /section/100
+          - listitem [ref=f40e46]:
+            - link "경제" [ref=f40e47] [cursor=pointer]:
+              - /url: /section/101
+          - listitem [ref=f40e49]:
+            - link "사회" [ref=f40e50] [cursor=pointer]:
+              - /url: /section/102
+          - listitem [ref=f40e52]:
+            - link "생활/문화" [ref=f40e53] [cursor=pointer]:
+              - /url: /section/103
+          - listitem [ref=f40e55]:
+            - link "IT/과학" [ref=f40e56] [cursor=pointer]:
+              - /url: /section/105
+          - listitem [ref=f40e58]:
+            - link "세계" [ref=f40e59] [cursor=pointer]:
+              - /url: /section/104
+          - listitem [ref=f40e61]:
+            - link "랭킹" [ref=f40e62] [cursor=pointer]:
+              - /url: /main/ranking/popularDay.naver?mid=etc&sid1=111
+          - listitem [ref=f40e64]:
+            - link "신문보기" [ref=f40e65] [cursor=pointer]:
+              - /url: /newspaper/home
+          - listitem [ref=f40e67]:
+            - link "오피니언" [ref=f40e68] [cursor=pointer]:
+              - /url: /opinion/home
+          - listitem [ref=f40e70]:
+            - link "TV" [ref=f40e71] [cursor=pointer]:
+              - /url: /main/tv/index.naver?mid=tvh
+          - listitem [ref=f40e73]:
+            - link "팩트체크" [ref=f40e74] [cursor=pointer]:
+              - /url: /factcheck/main
+          - listitem [ref=f40e76]:
+            - link "알고리즘 안내" [ref=f40e77] [cursor=pointer]:
+              - /url: https://media.naver.com/algorithm
+          - listitem [ref=f40e79]:
+            - link "정정보도 모음" [ref=f40e80] [cursor=pointer]:
+              - /url: https://news.naver.com/ombudsman/revisionArticleList
+        - link "MY" [ref=f40e84] [cursor=pointer]:
+          - /url: https://media.naver.com/my/home
+      - generic [ref=f40e86]:
+        - generic [ref=f40e87]:
+          - strong [ref=f40e88]: "08"
+          - text: .
+          - strong [ref=f40e89]: "11"
+          - text: (화)
+        - list [ref=f40e90]:
+          - listitem [ref=f40e91]:
+            - link "전체 언론사" [ref=f40e92] [cursor=pointer]:
+              - /url: https://news.naver.com/main/officeList.naver
+          - listitem [ref=f40e93]:
+            - link "뉴스스탠드" [ref=f40e94] [cursor=pointer]:
+              - /url: https://newsstand.naver.com/
+          - listitem [ref=f40e95]:
+            - link "라이브러리" [ref=f40e96] [cursor=pointer]:
+              - /url: https://newslibrary.naver.com/search/searchByDate.nhn
+    - table [ref=f40e97]:
+      - caption [ref=f40e98]: 기사목록
+      - rowgroup [ref=f40e103]:
+        - row [ref=f40e104]:
+          - cell [ref=f40e105]:
+            - generic [ref=f40e106]:
+              - heading [level=2] [ref=f40e107]:
+                - link "속보" [ref=f40e108] [cursor=pointer]:
+                  - /url: /main/list.naver?mode=LSD&mid=sec&sid1=001
+              - list [ref=f40e109]:
+                - listitem [ref=f40e110]:
+                  - link "정치" [ref=f40e111] [cursor=pointer]:
+                    - /url: /main/list.naver?mode=LSD&mid=sec&sid1=100
+                - listitem [ref=f40e112]:
+                  - link "경제" [ref=f40e113] [cursor=pointer]:
+                    - /url: /main/list.naver?mode=LSD&mid=sec&sid1=101
+                - listitem [ref=f40e114]:
+                  - link "사회" [ref=f40e115] [cursor=pointer]:
+                    - /url: /main/list.naver?mode=LSD&mid=sec&sid1=102
+                - listitem [ref=f40e116]:
+                  - link "생활/문화" [ref=f40e117] [cursor=pointer]:
+                    - /url: /main/list.naver?mode=LSD&mid=sec&sid1=103
+                - listitem [ref=f40e118]:
+                  - link "세계" [ref=f40e119] [cursor=pointer]:
+                    - /url: /main/list.naver?mode=LSD&mid=sec&sid1=104
+                - listitem [ref=f40e120]:
+                  - link "IT/과학 선택됨" [ref=f40e121] [cursor=pointer]:
+                    - /url: /main/list.naver?mode=LSD&mid=sec&sid1=105
+                    - text: IT/과학
+                    - generic [ref=f40e122]: 선택됨
+                - listitem [ref=f40e123]:
+                  - link "오피니언" [ref=f40e124] [cursor=pointer]:
+                    - /url: /main/list.naver?mode=LSD&mid=sec&sid1=110
+                - listitem [ref=f40e125]:
+                  - link "연합뉴스 속보" [ref=f40e126] [cursor=pointer]:
+                    - /url: /main/list.naver?mode=LPOD&mid=sec&sid1=001&sid2=140&oid=001&isYeonhapFlash=Y
+              - link [ref=f40e128] [cursor=pointer]:
+                - /url: https://media.naver.com/channel/setting?back=main
+                - img "언론사 구독하기" [ref=f40e129]
+              - link [ref=f40e131] [cursor=pointer]:
+                - /url: https://contents.premium.naver.com/
+                - img "프리미엄콘텐츠" [ref=f40e132]
+          - cell [ref=f40e133]:
+            - generic [ref=f40e134]:
+              - generic [ref=f40e135]:
+                - heading "IT/과학 속보" [level=3] [ref=f40e136]
+                - list [ref=f40e139]:
+                  - listitem [ref=f40e140]:
+                    - link "전체" [ref=f40e141] [cursor=pointer]:
+                      - /url: /main/list.naver?mode=LSD&mid=sec&sid1=105
+                  - listitem [ref=f40e142]:
+                    - link "인터넷/SNS" [ref=f40e143] [cursor=pointer]:
+                      - /url: /main/list.naver?mode=LS2D&mid=sec&sid1=105&sid2=226
+                  - listitem [ref=f40e144]:
+                    - link "과학 일반" [ref=f40e145] [cursor=pointer]:
+                      - /url: /main/list.naver?mode=LS2D&mid=sec&sid1=105&sid2=228
+                  - listitem [ref=f40e146]:
+                    - link "게임/리뷰" [ref=f40e147] [cursor=pointer]:
+                      - /url: /main/list.naver?mode=LS2D&mid=sec&sid1=105&sid2=229
+                  - listitem [ref=f40e148]:
+                    - link "컴퓨터" [ref=f40e149] [cursor=pointer]:
+                      - /url: /main/list.naver?mode=LS2D&mid=sec&sid1=105&sid2=283
+                  - listitem [ref=f40e150]:
+                    - link "IT 일반" [ref=f40e151] [cursor=pointer]:
+                      - /url: /main/list.naver?mode=LS2D&mid=sec&sid1=105&sid2=230
+              - generic [ref=f40e152]:
+                - generic [ref=f40e153]:
+                  - heading "전체" [level=3] [ref=f40e154]
+                  - generic [ref=f40e155]:
+                    - link "신문게재기사만" [ref=f40e156] [cursor=pointer]:
+                      - /url: list.naver;jsessionid=FAFC9205ECCE478854BC04852B5B177F?mode=LSD&mid=sec&sid1=105&listType=paper&date=20260811
+                    - generic [ref=f40e157]: "|"
+                    - link "제목형" [ref=f40e158] [cursor=pointer]:
+                      - /url: list.naver;jsessionid=FAFC9205ECCE478854BC04852B5B177F?mode=LSD&mid=sec&sid1=105&listType=title&date=20260811
+                    - link "요약형" [ref=f40e159] [cursor=pointer]:
+                      - /url: list.naver;jsessionid=FAFC9205ECCE478854BC04852B5B177F?mode=LSD&mid=sec&sid1=105&listType=summary&date=20260811
+                    - link "포토만" [ref=f40e160] [cursor=pointer]:
+                      - /url: list.naver;jsessionid=FAFC9205ECCE478854BC04852B5B177F?mode=LSD&mid=sec&sid1=105&listType=photo&type=3&date=20260811
+                - list [ref=f40e161]:
+                  - listitem [ref=f40e162]:
+                    - generic [ref=f40e163]:
+                      - term [ref=f40e164]:
+                        - link [ref=f40e165] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682275?sid=105
+                          - img "틱톡 ‘현금 보상’에 칼 빼든 방미통위 [H-EXCLUSIVE]" [ref=f40e166]
+                      - term [ref=f40e167]:
+                        - link "틱톡 ‘현금 보상’에 칼 빼든 방미통위 [H-EXCLUSIVE]" [ref=f40e168] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682275?sid=105
+                      - definition [ref=f40e169]:
+                        - generic [ref=f40e170]: 청소년 소셜미디어(SNS) 중독 문제가 제기된 틱톡의 ‘현금 보상 이벤트’에 대해 정부가 결국 칼을 꺼내 들었다. 방송미디어통신 …
+                        - generic [ref=f40e171]: 헤럴드경제
+                        - generic "신문에 게재되었으며 1면의 기사입니다." [ref=f40e172]:
+                          - generic [ref=f40e173]: 신문
+                          - text: 1면
+                        - generic [ref=f40e174]: 1분전
+                  - listitem [ref=f40e175]:
+                    - generic [ref=f40e176]:
+                      - term [ref=f40e177]:
+                        - link [ref=f40e178] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/030/0003456230?sid=105
+                          - img "NSHC-수모로직, 韓·日 클라우드 보안시장 공략 협력" [ref=f40e179]
+                      - term [ref=f40e180]:
+                        - link "NSHC-수모로직, 韓·日 클라우드 보안시장 공략 협력" [ref=f40e181] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/030/0003456230?sid=105
+                      - definition [ref=f40e182]:
+                        - generic [ref=f40e183]: NSHC는 수모로직의 클라우드 네이티브 서비스형 소프트웨어(SaaS) 기반 보안 로그 관리·분석 서비스를 한국과 일본 시장에 공 …
+                        - generic [ref=f40e184]: 전자신문
+                        - generic [ref=f40e185]: 1분전
+                  - listitem [ref=f40e186]:
+                    - generic [ref=f40e187]:
+                      - term [ref=f40e188]:
+                        - link [ref=f40e189] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/396/0000752021?sid=105
+                          - img "엠게임 ‘귀혼키우기’, 사전예약 시작…‘귀혼’ IP 방치형 RPG 출격" [ref=f40e190]
+                      - term [ref=f40e191]:
+                        - link "엠게임 ‘귀혼키우기’, 사전예약 시작…‘귀혼’ IP 방치형 RPG 출격" [ref=f40e192] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/396/0000752021?sid=105
+                      - definition [ref=f40e193]:
+                        - generic [ref=f40e194]: ‘귀혼키우기’가 사전예약을 시작하며 이용자들의 기대감을 높이고 있다. 엠게임은 자체 개발한 무협 방치형 RPG 귀혼키우기의 사전 …
+                        - generic [ref=f40e195]: 스포츠월드
+                        - generic [ref=f40e196]: 1분전
+                  - listitem [ref=f40e197]:
+                    - generic [ref=f40e198]:
+                      - term [ref=f40e199]:
+                        - link [ref=f40e200] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682274?sid=105
+                          - img "차세대 HBM ‘CXL’ 뜨는데…엔비디아가 견제하는 이유 [헤럴딥-칩칩팹팹]" [ref=f40e201]
+                      - term [ref=f40e202]:
+                        - link "차세대 HBM ‘CXL’ 뜨는데…엔비디아가 견제하는 이유 [헤럴딥-칩칩팹팹]" [ref=f40e203] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682274?sid=105
+                      - definition [ref=f40e204]:
+                        - generic [ref=f40e205]: ‘칩칩팹팹(Chip Chip Fab Fab)’은 AI 시대를 움직이는 반도체 산업을 쉽고 깊이 있게 풀어내는 연재입니다. AI …
+                        - generic [ref=f40e206]: 헤럴드경제
+                        - generic "신문에 게재되었으며 11면의 기사입니다." [ref=f40e207]:
+                          - generic [ref=f40e208]: 신문
+                          - text: 11면
+                        - generic [ref=f40e209]: 1분전
+                  - listitem [ref=f40e210]:
+                    - generic [ref=f40e211]:
+                      - term [ref=f40e212]:
+                        - link [ref=f40e213] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/138/0002237375?sid=105
+                          - img "\"삼성전자야, 넌 난방 전기화 계획이 다 있구나\"…韓 ‘냉난방 통합’ 단독 넘어 아파트 70% 공략" [ref=f40e214]
+                      - term [ref=f40e215]:
+                        - link "\"삼성전자야, 넌 난방 전기화 계획이 다 있구나\"…韓 ‘냉난방 통합’ 단독 넘어 아파트 70% 공략" [ref=f40e216] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/138/0002237375?sid=105
+                      - definition [ref=f40e217]:
+                        - generic [ref=f40e218]: 단독주택 넘어 아파트 겨냥…보조금·전기요금 제도는 과제 삼성전자가 냉방과 난방, 급탕을 하나의 시스템으로 묶은 가정용 히트펌프 …
+                        - generic [ref=f40e219]: 디지털데일리
+                        - generic [ref=f40e220]: 2분전
+                  - listitem [ref=f40e221]:
+                    - generic [ref=f40e222]:
+                      - term [ref=f40e223]:
+                        - link [ref=f40e224] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/011/0004650559?sid=105
+                          - img "네이버웹툰, ‘전독시’ 게임 만든다…RI게임즈 인수로 IP 확장" [ref=f40e225]
+                      - term [ref=f40e226]:
+                        - link "네이버웹툰, ‘전독시’ 게임 만든다…RI게임즈 인수로 IP 확장" [ref=f40e227] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/011/0004650559?sid=105
+                      - definition [ref=f40e228]:
+                        - generic [ref=f40e229]: 네이버웹툰이 글로벌 웹툰 지식재산권(IP)을 앞세워 게임 사업 확대에 속도를 낸다. 네이버웹툰의 모회사인 웹툰 엔터테인먼트는 1 …
+                        - generic [ref=f40e230]: 서울경제
+                        - generic [ref=f40e231]: 3분전
+                  - listitem [ref=f40e232]:
+                    - generic [ref=f40e233]:
+                      - term [ref=f40e234]:
+                        - link [ref=f40e235] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/030/0003456229?sid=105
+                          - img "中 드리미, 180도 가열 직분사 스팀·롤러 로봇청소기 '아쿠아 스팀' 출시" [ref=f40e236]
+                      - term [ref=f40e237]:
+                        - link "中 드리미, 180도 가열 직분사 스팀·롤러 로봇청소기 '아쿠아 스팀' 출시" [ref=f40e238] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/030/0003456229?sid=105
+                      - definition [ref=f40e239]:
+                        - generic [ref=f40e240]: 중국 드리미 테크놀로지가 차세대 프리미엄 로봇청소기 '아쿠아 스팀'을 출시한다고 11일 밝혔다. 아쿠아 스팀은 고온 스팀과 온수 …
+                        - generic [ref=f40e241]: 전자신문
+                        - generic [ref=f40e242]: 4분전
+                  - listitem [ref=f40e243]:
+                    - generic [ref=f40e244]:
+                      - term [ref=f40e245]:
+                        - link [ref=f40e246] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682266?sid=105
+                          - img "LGU+, 기업용 통합 보안 포트폴리오 공개" [ref=f40e247]
+                      - term [ref=f40e248]:
+                        - link "LGU+, 기업용 통합 보안 포트폴리오 공개" [ref=f40e249] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682266?sid=105
+                      - definition [ref=f40e250]:
+                        - generic [ref=f40e251]: LG유플러스가 국내 대표 정보보안 컨퍼런스 ‘ISEC 2026’에서 기업 고객을 위한 통합 보안 포트폴리오를 공개한다. 11일 …
+                        - generic [ref=f40e252]: 헤럴드경제
+                        - generic "신문에 게재되었으며 12면의 기사입니다." [ref=f40e253]:
+                          - generic [ref=f40e254]: 신문
+                          - text: 12면
+                        - generic [ref=f40e255]: 5분전
+                  - listitem [ref=f40e256]:
+                    - generic [ref=f40e257]:
+                      - term [ref=f40e258]:
+                        - link [ref=f40e259] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682265?sid=105
+                          - img "CJ올리브네트웍스, AX사업 속도...HD현대일렉 차세대 물류 구축" [ref=f40e260]
+                      - term [ref=f40e261]:
+                        - link "CJ올리브네트웍스, AX사업 속도...HD현대일렉 차세대 물류 구축" [ref=f40e262] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682265?sid=105
+                      - definition [ref=f40e263]:
+                        - generic [ref=f40e264]: CJ올리브네트웍스가 제조업계 인공지능 전환(AX) 사업에 속도를 낸다. AI 물류 플랫폼을 통해 제조·물류 분야의 AX를 지원, …
+                        - generic [ref=f40e265]: 헤럴드경제
+                        - generic "신문에 게재되었으며 12면의 기사입니다." [ref=f40e266]:
+                          - generic [ref=f40e267]: 신문
+                          - text: 12면
+                        - generic [ref=f40e268]: 5분전
+                  - listitem [ref=f40e269]:
+                    - generic [ref=f40e270]:
+                      - term [ref=f40e271]:
+                        - link [ref=f40e272] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/092/0002433613?sid=105
+                          - img "9년간 지구 9천 바퀴 달린 지쿠, '3억 라이드 시대' 연다" [ref=f40e273]
+                      - term [ref=f40e274]:
+                        - link "9년간 지구 9천 바퀴 달린 지쿠, '3억 라이드 시대' 연다" [ref=f40e275] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/092/0002433613?sid=105
+                      - definition [ref=f40e276]:
+                        - generic [ref=f40e277]: 내년 창립 10주년을 앞둔 지바이크가 3억 라이드 시대를 연다. 공유 모빌리티 플랫폼 '지쿠' 운영사 지바이크(대표 윤종수)는 …
+                        - generic [ref=f40e278]: 지디넷코리아
+                        - generic [ref=f40e279]: 5분전
+                - list [ref=f40e280]:
+                  - listitem [ref=f40e281]:
+                    - generic [ref=f40e282]:
+                      - term [ref=f40e283]:
+                        - link [ref=f40e284] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719397?sid=105
+                          - img "삼성SDS·엘리스그룹, 국가 AI 연구용 GPU 컴퓨팅 서비스 개시" [ref=f40e285]
+                      - term [ref=f40e286]:
+                        - link "삼성SDS·엘리스그룹, 국가 AI 연구용 GPU 컴퓨팅 서비스 개시" [ref=f40e287] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719397?sid=105
+                      - definition [ref=f40e288]:
+                        - generic [ref=f40e289]: 대학·출연연 연구자 대상 B300 등 고성능 자원 제공 국내 대학과 연구기관 연구자들이 초거대 인공지능(AI) 모델 연구에 활용 …
+                        - generic [ref=f40e290]: 매일경제
+                        - generic [ref=f40e291]: 5분전
+                  - listitem [ref=f40e292]:
+                    - generic [ref=f40e293]:
+                      - term [ref=f40e294]:
+                        - link [ref=f40e295] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/029/0003041759?sid=105
+                          - img "엔비디아, 5000억달러 AI인프라 금융플랫폼 구축" [ref=f40e296]
+                      - term [ref=f40e297]:
+                        - link "엔비디아, 5000억달러 AI인프라 금융플랫폼 구축" [ref=f40e298] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/029/0003041759?sid=105
+                      - definition [ref=f40e299]:
+                        - generic [ref=f40e300]: 엔비디아가 월가 큰손들과 손잡고 5000억달러(약 710조원) 이상의 AI 인프라 자금조달 플랫폼을 구축한다고 밝혔다. 엔비디아 …
+                        - generic [ref=f40e301]: 디지털타임스
+                        - generic [ref=f40e302]: 5분전
+                  - listitem [ref=f40e303]:
+                    - generic [ref=f40e304]:
+                      - term [ref=f40e305]:
+                        - link [ref=f40e306] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682263?sid=105
+                          - img "삼성SDS, 국가 AI 연구에 ‘블랙웰 울트라’ GPU 지원" [ref=f40e307]
+                      - term [ref=f40e308]:
+                        - link "삼성SDS, 국가 AI 연구에 ‘블랙웰 울트라’ GPU 지원" [ref=f40e309] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682263?sid=105
+                      - definition [ref=f40e310]:
+                        - generic [ref=f40e311]: 삼성SDS가 국가 인공지능(AI) 연구용 그래픽처리카드(GPU) 컴퓨팅 서비스를 시작한다. 11일 삼성SDS는 과학기술정보통신부 …
+                        - generic [ref=f40e312]: 헤럴드경제
+                        - generic "신문에 게재되었으며 12면의 기사입니다." [ref=f40e313]:
+                          - generic [ref=f40e314]: 신문
+                          - text: 12면
+                        - generic [ref=f40e315]: 5분전
+                  - listitem [ref=f40e316]:
+                    - generic [ref=f40e317]:
+                      - term [ref=f40e318]:
+                        - link [ref=f40e319] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682262?sid=105
+                          - img "오픈AI, 최신 모델도 전면 무료 개방" [ref=f40e320]
+                      - term [ref=f40e321]:
+                        - link "오픈AI, 최신 모델도 전면 무료 개방" [ref=f40e322] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682262?sid=105
+                      - definition [ref=f40e323]:
+                        - generic [ref=f40e324]: 오픈AI가 최신 인공지능(AI) 모델을 챗GPT 무료 이용자에게도 무제한 제공한다. 최신 AI 모델 이용 횟수를 제한해 유료 구 …
+                        - generic [ref=f40e325]: 헤럴드경제
+                        - generic "신문에 게재되었으며 12면의 기사입니다." [ref=f40e326]:
+                          - generic [ref=f40e327]: 신문
+                          - text: 12면
+                        - generic [ref=f40e328]: 6분전
+                  - listitem [ref=f40e329]:
+                    - generic [ref=f40e330]:
+                      - term [ref=f40e331]:
+                        - link [ref=f40e332] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682261?sid=105
+                          - img "AI 앞세운 구글 공습에 요동치는 검색창" [ref=f40e333]
+                      - term [ref=f40e334]:
+                        - link "AI 앞세운 구글 공습에 요동치는 검색창" [ref=f40e335] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/016/0002682261?sid=105
+                      - definition [ref=f40e336]:
+                        - generic [ref=f40e337]: 국내 검색 시장의 ‘지각 변동’이 본격화됐다. 구글이 국내 이용자 수에서 네이버를 넘어섰다. 통계 집계 후 사상 처음이다. 검색 …
+                        - generic [ref=f40e338]: 헤럴드경제
+                        - generic "신문에 게재되었으며 12면의 기사입니다." [ref=f40e339]:
+                          - generic [ref=f40e340]: 신문
+                          - text: 12면
+                        - generic [ref=f40e341]: 6분전
+                  - listitem [ref=f40e342]:
+                    - generic [ref=f40e343]:
+                      - term [ref=f40e344]:
+                        - link [ref=f40e345] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719396?sid=105
+                          - img "통신·AI 구독 한 번에…KT, 구글 AI 품은 초이스 요금제 출시" [ref=f40e346]
+                      - term [ref=f40e347]:
+                        - link "통신·AI 구독 한 번에…KT, 구글 AI 품은 초이스 요금제 출시" [ref=f40e348] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719396?sid=105
+                      - definition [ref=f40e349]:
+                        - generic [ref=f40e350]: 초이스 요금제에 구글 AI 선택지 추가 월 7500원 상당 구글 AI 혜택 기본 제공 유튜브 프리미엄·라이트 결합 상품도 출시 …
+                        - generic [ref=f40e351]: 매일경제
+                        - generic [ref=f40e352]: 6분전
+                  - listitem [ref=f40e353]:
+                    - generic [ref=f40e354]:
+                      - term [ref=f40e355]:
+                        - link [ref=f40e356] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719395?sid=105
+                          - img "“혹시 자도 자도 피곤하세요?”…70만명 괴롭히는 ‘이 질환’" [ref=f40e357]
+                      - term [ref=f40e358]:
+                        - link "“혹시 자도 자도 피곤하세요?”…70만명 괴롭히는 ‘이 질환’" [ref=f40e359] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719395?sid=105
+                      - definition [ref=f40e360]:
+                        - generic [ref=f40e361]: 충분히 쉬어도 피로 지속되면 ‘갑상선 기능 저하증’ 의심해야 혈액검사로 진단 후 약물 투여 충분히 쉬어도 피로가 풀리지 않고, …
+                        - generic [ref=f40e362]: 매일경제
+                        - generic [ref=f40e363]: 6분전
+                  - listitem [ref=f40e364]:
+                    - generic [ref=f40e365]:
+                      - term [ref=f40e366]:
+                        - link [ref=f40e367] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719394?sid=105
+                          - img "AI가 결제 누락 짚어낸다...신세계아이앤씨, CU에 셀프 계산대 관리 솔루션 적용" [ref=f40e368]
+                      - term [ref=f40e369]:
+                        - link "AI가 결제 누락 짚어낸다...신세계아이앤씨, CU에 셀프 계산대 관리 솔루션 적용" [ref=f40e370] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719394?sid=105
+                      - definition [ref=f40e371]:
+                        - generic [ref=f40e372]: AI 비전으로 편의점 운영 지원 신세계아이앤씨가 BGF리테일이 운영하는 편의점 CU에 인공지능(AI) 비전 기반 셀프 계산대 결 …
+                        - generic [ref=f40e373]: 매일경제
+                        - generic [ref=f40e374]: 6분전
+                  - listitem [ref=f40e375]:
+                    - generic [ref=f40e376]:
+                      - term [ref=f40e377]:
+                        - link [ref=f40e378] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719393?sid=105
+                          - 'img "네오위즈 ‘P의 거짓: 컴플리트 에디션’, 메타크리틱 86점 기록" [ref=f40e379]'
+                      - term [ref=f40e380]:
+                        - 'link "네오위즈 ‘P의 거짓: 컴플리트 에디션’, 메타크리틱 86점 기록" [ref=f40e381] [cursor=pointer]':
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719393?sid=105
+                      - definition [ref=f40e382]:
+                        - generic [ref=f40e383]: "네오위즈(공동대표 김승철, 배태근)는 PC·콘솔 액션 RPG ‘P의 거짓’의 닌텐도 스위치2 버전인 ‘P의 거짓: 컴플리트 에디 …"
+                        - generic [ref=f40e384]: 매일경제
+                        - generic [ref=f40e385]: 7분전
+                  - listitem [ref=f40e386]:
+                    - generic [ref=f40e387]:
+                      - term [ref=f40e388]:
+                        - link [ref=f40e389] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/076/0004434709?sid=105
+                          - img "라이엇 게임즈, 이번엔 판교에서 '와일드 팬페스트'…'TFT'·'와일드 리프트' 한자리에" [ref=f40e390]
+                      - term [ref=f40e391]:
+                        - link "라이엇 게임즈, 이번엔 판교에서 '와일드 팬페스트'…'TFT'·'와일드 리프트' 한자리에" [ref=f40e392] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/076/0004434709?sid=105
+                      - definition [ref=f40e393]:
+                        - generic [ref=f40e394]: 라이엇 게임즈가 게임을 직접 즐기고 e스포츠와 인플루언서 콘텐츠까지 경험할 수 있는 오프라인 행사를 서울 여의도에 이어 판교로 …
+                        - generic [ref=f40e395]: 스포츠조선
+                        - generic [ref=f40e396]: 7분전
+              - generic [ref=f40e397]:
+                - strong [ref=f40e398]: "1"
+                - link "2" [ref=f40e399] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=2"
+                - link "3" [ref=f40e400] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=3"
+                - link "4" [ref=f40e401] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=4"
+                - link "5" [ref=f40e402] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=5"
+                - link "6" [ref=f40e403] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=6"
+                - link "7" [ref=f40e404] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=7"
+                - link "8" [ref=f40e405] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=8"
+                - link "9" [ref=f40e406] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=9"
+                - link "10" [ref=f40e407] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=10"
+                - link "다음" [ref=f40e408] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260811&page=11"
+              - heading "뉴스 이전날짜 더보기 링크모음" [level=4] [ref=f40e409]
+              - generic [ref=f40e410]:
+                - text: 8월11일(화)
+                - generic [ref=f40e411]: ·
+                - link "8월10일(월)" [ref=f40e412] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260810"
+                - generic [ref=f40e413]: ·
+                - link "8월9일(일)" [ref=f40e414] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260809"
+                - generic [ref=f40e415]: ·
+                - link "8월8일(토)" [ref=f40e416] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260808"
+                - generic [ref=f40e417]: ·
+                - link "8월7일(금)" [ref=f40e418] [cursor=pointer]:
+                  - /url: "?mode=LSD&mid=sec&sid1=105&date=20260807"
+          - cell [ref=f40e419]:
+            - generic [ref=f40e420]:
+              - generic [ref=f40e421]:
+                - heading "언론사별 가장 많이 본 뉴스" [level=4] [ref=f40e422]
+                - button "안내" [ref=f40e423] [cursor=pointer]
+                - paragraph [ref=f40e424]: 오전 10시~오전 11시까지 집계한 결과입니다.
+                - list [ref=f40e425]:
+                  - listitem [ref=f40e426]:
+                    - link [ref=f40e427] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/mnews/ranking/article/469/0000947269?ntype=RANKING&sid=001
+                    - generic [ref=f40e430]:
+                      - link "조현병 걸린 24살 의대생 누나… 남동생이 카메라에 담은 …" [ref=f40e431] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/ranking/article/469/0000947269?ntype=RANKING&sid=001
+                      - link "한국일보" [ref=f40e432] [cursor=pointer]:
+                        - /url: /main/ranking/office.naver?officeId=469
+                  - listitem [ref=f40e434]:
+                    - link [ref=f40e435] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/mnews/ranking/article/081/0003669270?ntype=RANKING&sid=001
+                    - generic [ref=f40e438]:
+                      - link "[공식] 배우 하영 증조부, 친일 단체 명단 확인…“마음 …" [ref=f40e439] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/ranking/article/081/0003669270?ntype=RANKING&sid=001
+                      - link "서울신문" [ref=f40e440] [cursor=pointer]:
+                        - /url: /main/ranking/office.naver?officeId=081
+                  - listitem [ref=f40e442]:
+                    - link [ref=f40e443] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/mnews/ranking/article/214/0001517127?ntype=RANKING&sid=001
+                    - generic [ref=f40e446]:
+                      - link "정청래 \"대통령 지지율 하락? 전통 지지층 등 돌린 것‥전 …" [ref=f40e447] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/ranking/article/214/0001517127?ntype=RANKING&sid=001
+                      - link "MBC" [ref=f40e448] [cursor=pointer]:
+                        - /url: /main/ranking/office.naver?officeId=214
+                  - listitem [ref=f40e450]:
+                    - link [ref=f40e451] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/mnews/ranking/article/437/0000505515?ntype=RANKING&sid=001
+                      - strong [ref=f40e452]: 동영상기사
+                    - generic [ref=f40e455]:
+                      - link "하영, '의사 집안' 공개했다가…증조부 친일 행적 도마 위 …" [ref=f40e456] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/ranking/article/437/0000505515?ntype=RANKING&sid=001
+                      - link "JTBC" [ref=f40e457] [cursor=pointer]:
+                        - /url: /main/ranking/office.naver?officeId=437
+                  - listitem [ref=f40e459]:
+                    - link [ref=f40e460] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/mnews/ranking/article/016/0002682043?ntype=RANKING&sid=001
+                    - generic [ref=f40e463]:
+                      - link "[단독] ‘죽기보다 힘들었다’ 기성용 ‘성폭력 누명’, 변 …" [ref=f40e464] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/ranking/article/016/0002682043?ntype=RANKING&sid=001
+                      - link "헤럴드경제" [ref=f40e465] [cursor=pointer]:
+                        - /url: /main/ranking/office.naver?officeId=016
+                - button "더보기" [ref=f40e467] [cursor=pointer]
+              - iframe [ref=f40e470]:
+                - generic [ref=f41e3]:
+                  - link "광고 이미지 고당도 꿀 수박 1통 12,900원! 대량구매 추가할인 고창행복농장 지금 구매하기" [ref=f41e4] [cursor=pointer]:
+                    - /url: https://g.tivan.naver.com/gfa/c1gnjUbpfnLYF1QUS_5rCWYnE3ZQ44fwaSZTUXurd3yCOsc1dlIKTbzIW4hJHIw82QEqKdFbG57dtfwUsj5Oy_hPJznQKS-YU6NyY5273_lJ8EnM13Aa4GDT1nxc_e6bvOCkuf6B-5uweggeGM_iATfrxiNcHPsPMIPGH7dOsaAeoPHCaBiCFaVvJPD6lcVYjL0o97ga7x-y6bl8AOwoJReCUiHJCZhpXlvJUPhkehKAq-uohYmJpD3rl1TBIv7qy5qW2wh4dqZd62iiAV7TA3FD_kh_4fG2u-xl0qdKAUht5UIruKrkMDTuuvBjH0AaoK8-URG4tSsBE6FVlGwE_1H7Jr78-sFcsF6EO9uHBFnSVKOT4w6hl0x75csr-rg3meA6nUsT6rsiCC8Y1iiZ6e62cguT3ueljdBJfPZuYANS22HjhXbXHQnmkxQ2BdfS2nPCB6cewJ00G-OqbGkWGdttm8mNjSHB7syDl8peNKCE6j_4_7Tol49drSUux2Z52xkrL2wT8Q-6shPCHjlcAn9h-ZK6rQAy4BLRFKfAX-X7DGh_9X-DwerjrekR6Zw5rRc2xvWiiNTtP4nq_le5e1HQqXiZroZYmzxqaUjF--ZS0xzZlmQMrzrE-XtaLlzKMwA0KMbWtv7jZVpu96PQw2VtgZdKKcHLyW3p3s7BO3vS36zfebKUei9U15dkWg0VLmK1YcUAwST12A7mpKvuyGfABa2uklKyHjSNQC_LVyfSokOgkKm-b1MYeqBSRvg-mQc0TpyqZAYt0L-MmlSOGa-J4IUoGUxn8P-7CvFNOI27Dkzvyx2RWhlj_m4CJqonbePVPVPqzaM5iM_Re_CoO8rOFfzXOqR_cwLcLS-hzy_WIBOzXFtXjUzNo30qT6Up3tyzbrAuClnVNvuB8zAQdyprxt8Hqisa8BCTZdE59-EwSUgPtt-c7iqK_VApggDwsWTHU_JToncqz3giqfi8ug8oas8d7PWWu-h2NG6nu06LgtAFCSOmlwcwPH7r6Q6WRLj29xj6z_ybT5u6rVLpev-fy0HeqTlJdpwi4w0_MTstwoecdsgLbUTprx9QhZsNYPHTs6FaZyGgqEmmt_nNJi7qYBXeRuUmfG-Ftan9pcOoD8d94eMwSbVYlsPf0g0dqpFYOJfbdcd5nnwNjPqu24Y4mhZA0WosKpTqGgiw8nL5QAGmLLQb8SOaq6XnV2OWyVUp2OwKe3EAlXi1QiZjtwlMuEjkhCq5RiKCC2nH2WrayDffZJHAIzHunGjhBS7D15DIXjJKXTnfzFlho-2bXKlNFEo_wnoT0wVCV0jUK66KPnNVp-dazLfIde3tB8p9MMbf6PFIaBJqbCSqz-m0Z6YhEuINTvAG_Oys52MKTZRs5KKN6Xkf38iREaYdHpU5egGrUrh928s34d2Ql9mbfg==/
+                    - generic [ref=f41e7]:
+                      - img "광고 이미지" [ref=f41e9]
+                      - generic [ref=f41e10]:
+                        - strong [ref=f41e11]: 고당도 꿀 수박 1통 12,900원!
+                        - paragraph [ref=f41e12]: 대량구매 추가할인
+                      - generic [ref=f41e13]:
+                        - generic [ref=f41e14]: 고창행복농장
+                        - generic [ref=f41e15]: 지금 구매하기
+                  - button "AD" [ref=f41e18] [cursor=pointer]
+              - generic [ref=f40e471]:
+                - heading "분야별 주요뉴스" [level=4] [ref=f40e472]
+                - generic [ref=f40e473]:
+                  - list [ref=f40e474]:
+                    - listitem [ref=f40e475]:
+                      - link "李대통령 \"임기 내 세종 집무실 시대…마지막 국무회의는 세종서\"" [ref=f40e476] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/421/0009107265?sid=100
+                    - listitem [ref=f40e477]:
+                      - link "정청래 “어머니, 도와주세요” 호소에…추미애 “힘내라” 격려" [ref=f40e478] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/009/0005719019?sid=100
+                    - listitem [ref=f40e479]:
+                      - link "선관위 국조특위, '재검표 일정' 두고 충돌" [ref=f40e480] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/214/0001516922?sid=100
+                    - listitem [ref=f40e481]:
+                      - link "\"30년 살면서 이런 진동 처음…한인들도 '죽다 살았다' 이야기\"" [ref=f40e482] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/055/0001379704?sid=104
+                    - listitem [ref=f40e483]:
+                      - link "엔비디아 손잡은 월가 큰손들…AI 인프라에 약 710兆 베팅" [ref=f40e484] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/029/0003041685?sid=105
+                  - list [ref=f40e485]:
+                    - listitem [ref=f40e486]:
+                      - link "인텔, 150억달러 규모 보통주 발행…투자 자금 조달 목적" [ref=f40e487] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/015/0005319379?sid=101
+                    - listitem [ref=f40e488]:
+                      - link "CJ제일제당, 원가 부담 커져 영업익 18.5% 감소…\"수익성 개선 집중\"" [ref=f40e489] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/015/0005319495?sid=101
+                    - listitem [ref=f40e490]:
+                      - link "리센느가 알리는 중소기업 제품…중기부, 미국 LA서 'K컬렉션'" [ref=f40e491] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/001/0016243873?sid=101
+                    - listitem [ref=f40e492]:
+                      - link "AI 반도체도 우주로… 우주청, '우주데이터센터' 산업계 협력 논의" [ref=f40e493] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/469/0000947237?sid=101
+                    - listitem [ref=f40e494]:
+                      - link "[영상]갤폴드8 부수는 손 부들부들...\"삼전 개발자의 복수\" 감탄 쏟아졌다" [ref=f40e495] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/008/0005397675?sid=105
+                  - list [ref=f40e496]:
+                    - listitem [ref=f40e497]:
+                      - link "서울시 사칭, 금은방 키오스크 선구매 유도 사기" [ref=f40e498] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/079/0004177492?sid=102
+                    - listitem [ref=f40e499]:
+                      - link "종합특검, '수호신 TF' 이진우 전 수방사령관 내일 불러 조사" [ref=f40e500] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/214/0001516900?sid=102
+                    - listitem [ref=f40e501]:
+                      - link "'11세 남아 사망' 천안 교회 목사 구속…외부인들이 2차례 신고도" [ref=f40e502] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/437/0000505401?sid=102
+                    - listitem [ref=f40e503]:
+                      - link "경우스님, 조계종 총무원장 출사표…“교구와 함께 불교 대도약 시대 열 것”" [ref=f40e504] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/016/0002681786?sid=103
+                    - listitem [ref=f40e505]:
+                      - link "궁능 관람료 현실화 토론회…토론단 45명 모집" [ref=f40e506] [cursor=pointer]:
+                        - /url: https://n.news.naver.com/mnews/article/056/0012235257?sid=103
+              - link [ref=f40e509] [cursor=pointer]:
+                - /url: https://media.naver.com/channel/settings
+                - img "네이버 메인에서 바로 보는 언론사 편집뉴스 지금 바로 구독해보세요!" [ref=f40e510]
+              - link [ref=f40e513] [cursor=pointer]:
+                - /url: https://media.naver.com/algorithm
+                - img "알고리즘 안내" [ref=f40e514]
+              - link [ref=f40e517] [cursor=pointer]:
+                - /url: https://news.naver.com/ombudsman/guidecenter
+                - img "뉴스 기사와 댓글로 인한 문제 발생 시 24시간 센터로 접수해주세요" [ref=f40e518]
+              - generic [ref=f40e519]:
+                - heading [level=4] [ref=f40e520]:
+                  - link "서비스 안내" [ref=f40e521] [cursor=pointer]:
+                    - /url: https://news.naver.com/main/ombudsman/index.naver
+                - list [ref=f40e522]:
+                  - listitem [ref=f40e523]:
+                    - link "고침 기사 모음" [ref=f40e524] [cursor=pointer]:
+                      - /url: https://news.naver.com/main/ombudsman/errorArticleList.naver?mid=omb
+                  - listitem [ref=f40e525]:
+                    - link "정정·반론·추후 보도 기사 모음" [ref=f40e526] [cursor=pointer]:
+                      - /url: https://news.naver.com/main/ombudsman/revisionArticleList.naver?mid=omb
+                  - listitem [ref=f40e527]:
+                    - link "불공정 선거 보도 기사 모음" [ref=f40e528] [cursor=pointer]:
+                      - /url: https://news.naver.com/main/ombudsman/unfairArticleList.naver?mid=omb
+                - link "서비스 안내 더보기" [ref=f40e529] [cursor=pointer]:
+                  - /url: https://news.naver.com/main/ombudsman/index.naver
+                  - generic [ref=f40e530]: 서비스 안내
+                  - text: 더보기
+  - generic [ref=f40e532]:
+    - generic [ref=f40e533]:
+      - link "이젠 페이지" [ref=f40e534] [cursor=pointer]:
+        - /url: javascript:history.back();
+      - link "맨위로" [ref=f40e536] [cursor=pointer]:
+        - /url: "#"
+    - list [ref=f40e538]:
+      - listitem [ref=f40e539]:
+        - link "로그인" [ref=f40e540] [cursor=pointer]:
+          - /url: https://nid.naver.com/nidlogin.login
+      - listitem [ref=f40e541]:
+        - link "전체서비스" [ref=f40e542] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+      - listitem [ref=f40e543]:
+        - link "서비스안내" [ref=f40e544] [cursor=pointer]:
+          - /url: https://news.naver.com/ombudsman
+      - listitem [ref=f40e545]:
+        - link "오류신고" [ref=f40e546] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_001.naver
+      - listitem [ref=f40e547]:
+        - link "고객센터" [ref=f40e548] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_007.naver
+      - listitem [ref=f40e549]:
+        - 'link "기사배열 원칙 책임자 : 김수향" [ref=f40e550] [cursor=pointer]':
+          - /url: https://news.naver.com/ombudsman/edit
+      - listitem [ref=f40e551]:
+        - generic [ref=f40e552]: "청소년 보호 책임자 : 이정규"
+    - paragraph [ref=f40e553]: 이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+    - link "NAVER" [ref=f40e555] [cursor=pointer]:
+      - /url: https://www.navercorp.com/
