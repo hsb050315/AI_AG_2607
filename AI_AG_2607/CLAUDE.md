@@ -35,12 +35,3 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
   - Anything produced via the Playwright MCP (e.g. browser screenshots, page captures) → `output/playwright/`
 - When creating a new kind of artifact that doesn't fit an existing subfolder, create a new subfolder under `output/` for it rather than leaving it loose at the project root.
 
-## Repository status
-
-This repository is currently empty scaffolding — it contains no source code, build configuration, or tests yet. The only tracked content is `.claude/settings.local.json` (local Claude Code permission settings).
-
-There are no build, lint, or test commands to run because no project has been initialized here.
-
-When code is added to this repository, update this file with:
-- Build/lint/test commands (including how to run a single test)
-- High-level architecture notes once a real structure exists
