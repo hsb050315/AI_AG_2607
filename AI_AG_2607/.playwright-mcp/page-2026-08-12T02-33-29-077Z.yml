@@ -1,0 +1,850 @@
+- generic [ref=f35e2]:
+  - link "본문 바로가기" [ref=f35e3] [cursor=pointer]:
+    - /url: "#ct"
+  - banner [ref=f35e4]:
+    - generic [ref=f35e5]:
+      - generic [ref=f35e8]:
+        - generic [ref=f35e9]:
+          - link "NAVER" [ref=f35e11] [cursor=pointer]:
+            - /url: https://m.naver.com/
+          - generic [ref=f35e13]:
+            - heading [level=1] [ref=f35e14]:
+              - link "선택됨 뉴스" [ref=f35e15] [cursor=pointer]:
+                - /url: https://m.news.naver.com
+            - link "엔터" [ref=f35e18] [cursor=pointer]:
+              - /url: https://m.entertain.naver.com
+            - link "스포츠" [ref=f35e21] [cursor=pointer]:
+              - /url: https://m.sports.naver.com
+            - link "프리미엄" [ref=f35e24] [cursor=pointer]:
+              - /url: https://contents.premium.naver.com
+        - link "검색" [ref=f35e28] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f35e32]:
+        - tablist [ref=f35e33]:
+          - tab "언론사별" [ref=f35e34] [cursor=pointer]
+          - tab "정치" [ref=f35e36] [cursor=pointer]
+          - tab "경제" [ref=f35e38] [cursor=pointer]
+          - tab "사회" [ref=f35e40] [cursor=pointer]
+          - tab "생활/문화" [selected] [ref=f35e42] [cursor=pointer]
+          - tab "IT/과학" [ref=f35e44] [cursor=pointer]
+          - tab "세계" [ref=f35e46] [cursor=pointer]
+          - tab "랭킹" [ref=f35e48] [cursor=pointer]
+          - tab "신문보기" [ref=f35e50] [cursor=pointer]
+          - tab "오피니언" [ref=f35e52] [cursor=pointer]
+          - tab "TV" [ref=f35e54] [cursor=pointer]
+          - tab "팩트체크" [ref=f35e56] [cursor=pointer]
+          - tab "알고리즘 안내" [ref=f35e58] [cursor=pointer]
+          - tab "정정보도 모음" [ref=f35e60] [cursor=pointer]
+        - link "MY" [ref=f35e63] [cursor=pointer]:
+          - /url: https://media.naver.com/my/home
+  - generic [ref=f35e66]:
+    - main [ref=f35e67]:
+      - generic [ref=f35e68]:
+        - generic [ref=f35e69]:
+          - generic [ref=f35e70]:
+            - link "한국경제 한국경제" [ref=f35e71] [cursor=pointer]:
+              - /url: http://www.hankyung.com/
+              - img "한국경제" [ref=f35e73]
+              - generic [ref=f35e74]: 한국경제
+            - button "구독" [ref=f35e76] [cursor=pointer]
+            - button "PICK 안내" [ref=f35e78] [cursor=pointer]:
+              - generic [ref=f35e79]: PICK
+              - generic [ref=f35e80]: 안내
+          - heading "\"드디어 찜통 끝\"…전국 덮친 '극한폭염' 한풀 꺾인다 [날씨]" [level=2] [ref=f35e82]
+          - generic [ref=f35e83]:
+            - generic [ref=f35e84]:
+              - generic [ref=f35e85]: 홍민성 기자
+              - generic [ref=f35e88]:
+                - link [ref=f35e90] [cursor=pointer]:
+                  - /url: https://media.naver.com/journalist/015/76139
+                  - emphasis [ref=f35e91]: 홍민성 기자
+                - generic [ref=f35e92]:
+                  - generic [ref=f35e95]:
+                    - emphasis [ref=f35e96]: 입력
+                    - generic [ref=f35e97]: 2026.08.11. 오후 5:34
+                  - link "기사원문" [ref=f35e98] [cursor=pointer]:
+                    - /url: https://www.hankyung.com/article/2026081149687
+            - generic [ref=f35e99]:
+              - link "댓글 반응" [ref=f35e103] [cursor=pointer]:
+                - /url: /mnews/article/comment/015/0005319679?sid=103
+                - text: 댓글
+                - generic [ref=f35e104]: 반응
+              - generic [ref=f35e105]:
+                - button "텍스트 음성 변환 서비스 사용하기" [ref=f35e107] [cursor=pointer]
+                - link "글자 크기 변경하기" [ref=f35e110] [cursor=pointer]:
+                  - /url: "#"
+                - link "SNS 보내기" [ref=f35e113] [cursor=pointer]:
+                  - /url: "#"
+                - link "인쇄하기" [ref=f35e117] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=f35e119]:
+          - article [ref=f35e121]:
+            - strong [ref=f35e122]: 12일 아침 최저 17~24도 전망대부분 지역 폭염·열대야 벗어나강원·경북 동해안엔 비 예보
+            - generic [ref=f35e123]:
+              - generic [ref=f35e125]:
+                - img "사진=연합뉴스"
+              - emphasis [ref=f35e126]: 사진=연합뉴스
+            - text: 수요일인 12일 전국 대부분 지역이 폭염과 열대야에서 벗어나겠다. 제13호 태풍 돌핀의 영향으로 한반도 주변 기압계가 바뀌면서 최근 이어진 '극한폭염'도 한풀 꺾일 전망이다.기상청에 따르면 12일 전국의 아침 최저기온은 17~24도, 낮 최고기온은 25~33도로 예상된다. 밤 최저기온이 25도 이상인 열대야와 일 최고기온이 33도 이상인 폭염일 기준을 고려하면 대부분 지역에서 폭염과 열대야가 나타나지 않을 것으로 보인다.주요 도시의 예상 최저·최고기온은 서울 22도·32도, 인천 22도·33도, 대전 19도·31도, 광주 21도·32도, 대구 20도·31도, 울산 22도·29도, 부산 23도·31도다.체감온도를 기준으로 발령하는 폭염주의보도 여주동남부·서부, 김포, 화성, 파주남부 등 경기 일부를 제외하고 모두 해제됐다. 폭염주의보는 일 최고 체감온도가 33도 이상인 상태가 이틀 이상 이어질 것으로 예상될 때 내려진다.기온이 내려가는 것은 제13호 태풍 돌핀이 우리나라 남쪽을 지나면서 주변 기압계가 달라졌기 때문이다. 티베트고기압과 북태평양고기압이 한반도를 이중으로 덮었던 상황이 해소됐다.우리나라 북동쪽에 자리한 저기압에서 내려온 건조한 공기가 고기압을 형성한 점도 영향을 미쳤다. 이 고기압 가장자리를 따라 비교적 차고 건조한 북동풍이 유입되면서 극한 무더위에서 벗어나게 됐다.13일 아침 최저기온은 19~24도, 낮 최고기온은 27~34도로 예보됐다. 14일은 각각 20~24도와 27~34도, 15일은 21~25도와 28~33도로 예상된다.북동풍의 영향으로 강원동해안·산지에는 12일 오전부터 비가 내리겠다. 경북동해안·북동산지는 오후부터 비가 시작되겠고, 13일 오후에는 경남해안·동부내륙으로 확대될 전망이다.예상 강수량은 강원동해안·산지와 경북북부동해안·북동산지 20~60㎜다. 경북남부동해안과 부산·울산·경남남해안·경남동부내륙·울릉도·독도에는 10~40㎜의 비가 예상된다.
+          - paragraph [ref=f35e128]:
+            - generic [ref=f35e129]: 홍민성 한경닷컴 기자 mshong@hankyung.com
+          - paragraph [ref=f35e132]: Copyright ⓒ 한국경제. All rights reserved. 무단 전재 및 재배포 금지.
+          - link [ref=f35e134] [cursor=pointer]:
+            - /url: "#"
+            - text: 이 기사는 언론사에서
+            - emphasis [ref=f35e135]: 생활
+            - text: 섹션으로 분류했습니다.
+          - generic [ref=f35e137]:
+            - heading "기자 프로필" [level=4] [ref=f35e138]
+            - generic [ref=f35e142]:
+              - generic [ref=f35e145]:
+                - generic [ref=f35e146]:
+                  - link "홍민성 기자" [ref=f35e147] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/015/76139
+                  - generic [ref=f35e151]:
+                    - link "홍민성 기자":
+                      - /url: https://media.naver.com/journalist/015/76139
+                      - emphasis [ref=f35e154] [cursor=pointer]: 홍민성 기자
+                    - generic [ref=f35e155]: 한국경제
+                - link "구독" [ref=f35e157] [cursor=pointer]:
+                  - /url: "#"
+              - list [ref=f35e160]:
+                - listitem [ref=f35e161]:
+                  - link "\"아이폰 '중티' 나요\" 갤럭시 쓰는 女 늘더니…'놀라운 결과' [홍민성의 테토남]" [ref=f35e162] [cursor=pointer]:
+                    - /url: /mnews/article/015/0005318685?type=journalists
+                - listitem [ref=f35e163]:
+                  - link "\"의사·변호사도 아닌데\"…외신도 놀란 한국의 '1등 신랑감'" [ref=f35e164] [cursor=pointer]:
+                    - /url: /mnews/article/015/0005319827?type=journalists
+          - generic [ref=f35e167]:
+            - link [ref=f35e168] [cursor=pointer]:
+              - /url: "#"
+              - img "한국경제" [ref=f35e171]
+              - generic [ref=f35e172]:
+                - paragraph [ref=f35e173]: 구독
+                - paragraph [ref=f35e174]:
+                  - generic [ref=f35e175]:
+                    - strong [ref=f35e176]: 한국경제 구독하고
+                    - text: 메인에서 바로 만나보세요!
+            - link "언론사홈" [ref=f35e177] [cursor=pointer]:
+              - /url: https://media.naver.com/press/015
+          - generic [ref=f35e178]:
+            - heading [level=3] [ref=f35e179]:
+              - link "한국경제" [ref=f35e180] [cursor=pointer]:
+                - /url: http://www.hankyung.com/
+              - text: 주요뉴스
+              - generic [ref=f35e182]:
+                - text: 해당 언론사에서 선정하며
+                - emphasis [ref=f35e183]: 언론사(아웃링크)
+                - text: 로 이동합니다.
+            - list [ref=f35e184]:
+              - listitem [ref=f35e185]:
+                - link "\"1분 만에 퇴근\"…SK하닉 직원 9.5억 날렸다" [ref=f35e186] [cursor=pointer]:
+                  - /url: https://www.hankyung.com/article/2026081199407
+              - listitem [ref=f35e187]:
+                - link "\"돈 모아주는 터\"…기업 몰린 '명당' 빌딩 정체" [ref=f35e188] [cursor=pointer]:
+                  - /url: https://www.hankyung.com/article/202608114621i
+              - listitem [ref=f35e189]:
+                - link "\"韓에 잭팟\" 기대했는데…마스가 불편한 현실" [ref=f35e190] [cursor=pointer]:
+                  - /url: https://www.hankyung.com/article/202608115442i
+              - listitem [ref=f35e191]:
+                - link "\"회사에 평생을 바치면 뭐하나\"…직장인 한탄" [ref=f35e192] [cursor=pointer]:
+                  - /url: https://www.hankyung.com/article/202608116418i
+              - listitem [ref=f35e193]:
+                - link "\"최악은 지났다면서\"…'삼전닉스' 폭탄 전망" [ref=f35e194] [cursor=pointer]:
+                  - /url: https://www.hankyung.com/article/2026081050241
+          - list [ref=f35e196]:
+            - listitem [ref=f35e197]:
+              - button [ref=f35e198] [cursor=pointer]
+              - link "돈 버는 프로들의 선택! 한경 프리미엄9" [ref=f35e200] [cursor=pointer]:
+                - /url: https://www.hankyung.com/premium9
+            - listitem [ref=f35e201]:
+              - button [ref=f35e202] [cursor=pointer]
+              - link "오늘의 뉴스, 퀴즈로 맞혀보세요!" [ref=f35e204] [cursor=pointer]:
+                - /url: https://www.hankyung.com/game
+          - generic [ref=f35e205]:
+            - heading [level=2] [ref=f35e207]:
+              - emphasis [ref=f35e208]: 한국경제
+              - text: 언론사가 직접 선정한 이슈
+            - list [ref=f35e212]:
+              - listitem [ref=f35e213]:
+                - link "이슈 美·이란 전쟁 트럼프 \"이란 자금, 우리가 통제…탄약 미친듯 생산\" 트럼프 \"이란 자금, 우리가 통제…탄약 미친듯 생산\"" [ref=f35e214] [cursor=pointer]:
+                  - /url: https://media.naver.com/issue/015/2471
+                  - generic [ref=f35e215]:
+                    - generic [ref=f35e216]: 이슈
+                    - strong [ref=f35e217]: 美·이란 전쟁
+                  - generic [ref=f35e218]:
+                    - emphasis [ref=f35e220]: 트럼프 "이란 자금, 우리가 통제…탄약 미친듯 생산"
+                    - img "트럼프 \"이란 자금, 우리가 통제…탄약 미친듯 생산\"" [ref=f35e222]
+              - listitem [ref=f35e223]:
+                - link "이슈 2차 종합특검 종합특검, '언론사 단전·단수' 허석곤 前 소방청장 불구속 기소 종합특검, '언론사 단전·단수' 허석곤 前 소방청장 불구속 기소" [ref=f35e224] [cursor=pointer]:
+                  - /url: https://media.naver.com/issue/015/1682
+                  - generic [ref=f35e225]:
+                    - generic [ref=f35e226]: 이슈
+                    - strong [ref=f35e227]: 2차 종합특검
+                  - generic [ref=f35e228]:
+                    - emphasis [ref=f35e230]: 종합특검, '언론사 단전·단수' 허석곤 前 소방청장 불구속 기소
+                    - img "종합특검, '언론사 단전·단수' 허석곤 前 소방청장 불구속 기소" [ref=f35e232]
+              - listitem [ref=f35e233]:
+                - link "이슈 관세 전쟁 美, 中 겨냥 폴리실리콘 관세 15% 美, 中 겨냥 폴리실리콘 관세 15%" [ref=f35e234] [cursor=pointer]:
+                  - /url: https://media.naver.com/issue/015/554
+                  - generic [ref=f35e235]:
+                    - generic [ref=f35e236]: 이슈
+                    - strong [ref=f35e237]: 관세 전쟁
+                  - generic [ref=f35e238]:
+                    - emphasis [ref=f35e240]: 美, 中 겨냥 폴리실리콘 관세 15%
+                    - img "美, 中 겨냥 폴리실리콘 관세 15%" [ref=f35e242]
+          - generic [ref=f35e243]:
+            - generic [ref=f35e244]:
+              - strong [ref=f35e245]: 이 기사를 추천합니다
+              - button "기사 추천 안내" [ref=f35e246] [cursor=pointer]
+            - generic [ref=f35e247]:
+              - menu:
+                - menuitem "쏠쏠정보 0":
+                  - button "쏠쏠정보 0"
+                - menuitem "흥미진진 0":
+                  - button "흥미진진 0"
+                - menuitem "공감백배 0":
+                  - button "공감백배 0"
+                - menuitem "분석탁월 0":
+                  - button "분석탁월 0"
+                - menuitem "후속강추 0":
+                  - button "후속강추 0"
+      - generic [ref=f35e248]:
+        - generic [ref=f35e249]:
+          - generic [ref=f35e250]:
+            - generic [ref=f35e251]:
+              - generic [ref=f35e253]:
+                - heading [level=2] [ref=f35e255]:
+                  - emphasis [ref=f35e256]: 한국경제
+                  - text: 많이 본 뉴스
+                - text: 오전 10시~11시까지 집계한 결과입니다.
+              - list [ref=f35e257]:
+                - listitem [ref=f35e258]:
+                  - link "1위 촬영 금지 日 혼탕서 카메라 든 한국인 유튜버…\"나라 망신\"" [ref=f35e259] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/015/0005319926?ntype=RANKING
+                    - generic [ref=f35e260]: 1위
+                    - generic [ref=f35e264]: 촬영 금지 日 혼탕서 카메라 든 한국인 유튜버…"나라 망신"
+                - listitem [ref=f35e267]:
+                  - link "2위 삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳" [ref=f35e268] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/015/0005319845?ntype=RANKING
+                    - generic [ref=f35e269]: 2위
+                    - generic [ref=f35e273]: 삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳
+                - listitem [ref=f35e276]:
+                  - link "3위 \"팀장님, 2차는 가챠숍 가요\"…호프집 망할 때 대박 난 곳 [김익환의 부처 핸즈업]" [ref=f35e277] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/015/0005319861?ntype=RANKING
+                    - generic [ref=f35e278]: 3위
+                    - generic [ref=f35e282]: "\"팀장님, 2차는 가챠숍 가요\"…호프집 망할 때 대박 난 곳 [김익환의 부처 핸즈업]"
+                - listitem [ref=f35e285]:
+                  - link "4위 \"옆에 이 車 보이면 무조건 피한다\"…'문콕' 스트레스에 비명" [ref=f35e286] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/015/0005319870?ntype=RANKING
+                    - generic [ref=f35e287]: 4위
+                    - generic [ref=f35e291]: "\"옆에 이 車 보이면 무조건 피한다\"…'문콕' 스트레스에 비명"
+                - listitem [ref=f35e294]:
+                  - link "5위 \"반도체 몰빵 말고 이거 담아라\"…'5배 잭팟' 고수의 비밀 병기" [ref=f35e295] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/015/0005319904?ntype=RANKING
+                    - generic [ref=f35e296]: 5위
+                    - generic [ref=f35e300]: "\"반도체 몰빵 말고 이거 담아라\"…'5배 잭팟' 고수의 비밀 병기"
+                - listitem [ref=f35e303]:
+                  - link "6위 \"친일파 단정 신중해야\"…역사학자, 하영 증조부 논란에 입 열었다" [ref=f35e304] [cursor=pointer]:
+                    - /url: /mnews/ranking/article/015/0005319832?ntype=RANKING
+                    - generic [ref=f35e305]: 6위
+                    - generic [ref=f35e309]: "\"친일파 단정 신중해야\"…역사학자, 하영 증조부 논란에 입 열었다"
+              - link "랭킹 뉴스 더보기" [ref=f35e313] [cursor=pointer]:
+                - /url: https://media.naver.com/press/015/ranking
+            - generic [ref=f35e315]:
+              - heading [level=2] [ref=f35e319]:
+                - emphasis [ref=f35e320]: 한국경제
+                - text: 클립
+              - list [ref=f35e321]:
+                - listitem [ref=f35e322]:
+                  - link "\"위가 파란색?\"…현수막에 이어 불꽃쇼까지 \"위가 파란색?\"…현수막에 이어 불꽃쇼까지" [ref=f35e323] [cursor=pointer]:
+                    - /url: https://m.naver.com/shorts/?mediaId=B4D596294D6CB59479D1CF1B9B7F3DEB3F21&serviceType=NEWS&recType=NEWS&recId=015_165179_articleRead&mediaType=VOD&panelType=vs_news
+                    - img "\"위가 파란색?\"…현수막에 이어 불꽃쇼까지" [ref=f35e326]
+                    - generic [ref=f35e328]: "\"위가 파란색?\"…현수막에 이어 불꽃쇼까지"
+                - listitem [ref=f35e331]:
+                  - link "수술 중 갑자기 ‘쾅’…환자부터 감싼 의료진 수술 중 갑자기 ‘쾅’…환자부터 감싼 의료진" [ref=f35e332] [cursor=pointer]:
+                    - /url: https://m.naver.com/shorts/?mediaId=AEDCDA0C5C82F9423675E293A0962986EC36&serviceType=NEWS&recType=NEWS&recId=015_164835_articleRead&mediaType=VOD&panelType=vs_news
+                    - img "수술 중 갑자기 ‘쾅’…환자부터 감싼 의료진" [ref=f35e335]
+                    - generic [ref=f35e337]: 수술 중 갑자기 ‘쾅’…환자부터 감싼 의료진
+                - listitem [ref=f35e340]:
+                  - link "‘누더기·일관성 없다’ 비판에 李 반박 ‘누더기·일관성 없다’ 비판에 李 반박" [ref=f35e341] [cursor=pointer]:
+                    - /url: https://m.naver.com/shorts/?mediaId=303603DAAD0E5C445D3F977D5A4B782B3374&serviceType=NEWS&recType=NEWS&recId=015_165552_articleRead&mediaType=VOD&panelType=vs_news
+                    - img "‘누더기·일관성 없다’ 비판에 李 반박" [ref=f35e344]
+                    - generic [ref=f35e346]: ‘누더기·일관성 없다’ 비판에 李 반박
+                - listitem [ref=f35e349]:
+                  - link "콜롬비아 7.4 강진…최소 132명 사망 콜롬비아 7.4 강진…최소 132명 사망" [ref=f35e350] [cursor=pointer]:
+                    - /url: https://m.naver.com/shorts/?mediaId=F2D5B7FC9608E533152D384B43DF7CF2AB89&serviceType=NEWS&recType=NEWS&recId=015_165402_articleRead&mediaType=VOD&panelType=vs_news
+                    - img "콜롬비아 7.4 강진…최소 132명 사망" [ref=f35e353]
+                    - generic [ref=f35e355]: 콜롬비아 7.4 강진…최소 132명 사망
+          - generic [ref=f35e359]:
+            - generic [ref=f35e360]:
+              - generic [ref=f35e362]:
+                - heading "이슈 NOW" [level=2] [ref=f35e363]
+                - button "안내" [ref=f35e364] [cursor=pointer]
+              - link "내 구독 이슈" [ref=f35e367] [cursor=pointer]:
+                - /url: https://media.naver.com/channel/issueSetting
+            - generic [ref=f35e368]:
+              - tablist [ref=f35e371]:
+                - tab "내란" [selected] [ref=f35e372] [cursor=pointer]
+                - tab "증시" [ref=f35e373] [cursor=pointer]
+                - tab "AI" [ref=f35e374] [cursor=pointer]
+                - tab "대통령" [ref=f35e375] [cursor=pointer]
+                - tab "부동산대책" [ref=f35e376] [cursor=pointer]
+                - tab "이재명대통령" [ref=f35e377] [cursor=pointer]
+                - tab "개인정보유출" [ref=f35e378] [cursor=pointer]
+                - tab "지방선거" [ref=f35e379] [cursor=pointer]
+                - tab "중동전쟁" [ref=f35e380] [cursor=pointer]
+                - tab "이란" [ref=f35e381] [cursor=pointer]
+              - button "다음" [ref=f35e382] [cursor=pointer]
+            - tabpanel [ref=f35e384]:
+              - generic [ref=f35e385]:
+                - link "# 내란" [ref=f35e386] [cursor=pointer]:
+                  - /url: https://media.naver.com/issue/tag/11
+                  - generic [ref=f35e387]: "#"
+                  - heading "내란" [level=4] [ref=f35e388]
+                - generic [ref=f35e389]:
+                  - generic [ref=f35e390]: 9개 언론사
+                  - generic [ref=f35e391]: 13,906개 기사
+              - list [ref=f35e392]:
+                - listitem [ref=f35e393]:
+                  - generic [ref=f35e394]:
+                    - generic [ref=f35e395]:
+                      - link "단죄의 시간" [ref=f35e396] [cursor=pointer]:
+                        - /url: https://media.naver.com/issue/214/2374
+                        - strong [ref=f35e398]: 단죄의 시간
+                      - button "구독" [ref=f35e399] [cursor=pointer]
+                    - link "'언론사 단전·단수 의혹' 허석곤 전 소방청장 등 재판행" [ref=f35e401] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/article/214/0001517210?iid=2374
+                - listitem [ref=f35e404]:
+                  - generic [ref=f35e405]:
+                    - generic [ref=f35e406]:
+                      - link "尹 파면.. 그 이후" [ref=f35e407] [cursor=pointer]:
+                        - /url: https://media.naver.com/issue/661/1440
+                        - strong [ref=f35e409]: 尹 파면.. 그 이후
+                      - button "구독" [ref=f35e410] [cursor=pointer]
+                    - link "‘영부인 다 수사했냐’ 법정서 따진 김건희… 박지원 “오만방자”" [ref=f35e412] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/article/661/0000081438?iid=1440
+                - listitem [ref=f35e415]:
+                  - generic [ref=f35e416]:
+                    - generic [ref=f35e417]:
+                      - link "윤석열·김건희 재판" [ref=f35e418] [cursor=pointer]:
+                        - /url: https://media.naver.com/issue/056/1720
+                        - strong [ref=f35e420]: 윤석열·김건희 재판
+                      - button "구독" [ref=f35e421] [cursor=pointer]
+                    - link "종합특검, ‘언론사 단전·단수 지시 의혹‘ 허석곤 전 소방청장 불구속 기소" [ref=f35e423] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/article/056/0012235501?iid=1720
+          - generic [ref=f35e426]:
+            - generic [ref=f35e429]:
+              - heading "함께 볼만한 기자" [level=2] [ref=f35e430]
+              - button "안내" [ref=f35e431] [cursor=pointer]
+            - list [ref=f35e433]:
+              - listitem [ref=f35e434]:
+                - link "이효정 그래픽 디자이너 아트북, 한국 공예의 언어 ‘정(情)’ 이효정 그래픽 디자이너 아트북, 한국 공예의 언어 ‘정(情)’" [ref=f35e435] [cursor=pointer]:
+                  - /url: /mnews/article/015/0005319533?type=journalists
+                  - img "이효정 그래픽 디자이너 아트북, 한국 공예의 언어 ‘정(情)’" [ref=f35e438]
+                  - generic [ref=f35e439]: 이효정 그래픽 디자이너 아트북, 한국 공예의 언어 ‘정(情)’
+                - generic [ref=f35e442]:
+                  - link "강은영 기자 강은영 기자" [ref=f35e443] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/015/82012
+                    - img "강은영 기자" [ref=f35e445]
+                    - generic [ref=f35e446]: 강은영 기자
+                  - button "구독" [ref=f35e447] [cursor=pointer]
+              - listitem [ref=f35e449]:
+                - link "가짜인데 왜 무섭지?…'초상현상'에 낚이는 우리들[쪼중만의 공포체험] 가짜인데 왜 무섭지?…'초상현상'에 낚이는 우리들[쪼중만의 공포체험]" [ref=f35e450] [cursor=pointer]:
+                  - /url: /mnews/article/079/0004176716?type=journalists
+                  - img "가짜인데 왜 무섭지?…'초상현상'에 낚이는 우리들[쪼중만의 공포체험]" [ref=f35e453]
+                  - generic [ref=f35e454]: 가짜인데 왜 무섭지?…'초상현상'에 낚이는 우리들[쪼중만의 공포체험]
+                - generic [ref=f35e457]:
+                  - link "양민희 기자 양민희 기자" [ref=f35e458] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/079/74376
+                    - img "양민희 기자" [ref=f35e460]
+                    - generic [ref=f35e461]: 양민희 기자
+                  - button "구독" [ref=f35e462] [cursor=pointer]
+              - listitem [ref=f35e464]:
+                - link "‘고려극장’ 94년史·베토벤 ‘합창’… 연극으로 음악으로 광복 기린다 ‘고려극장’ 94년史·베토벤 ‘합창’… 연극으로 음악으로 광복 기린다" [ref=f35e465] [cursor=pointer]:
+                  - /url: /mnews/article/021/0002810819?type=journalists
+                  - img "‘고려극장’ 94년史·베토벤 ‘합창’… 연극으로 음악으로 광복 기린다" [ref=f35e468]
+                  - generic [ref=f35e469]: ‘고려극장’ 94년史·베토벤 ‘합창’… 연극으로 음악으로 광복 기린다
+                - generic [ref=f35e472]:
+                  - link "박세영 기자 박세영 기자" [ref=f35e473] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/021/74134
+                    - img "박세영 기자" [ref=f35e475]
+                    - generic [ref=f35e476]: 박세영 기자
+                  - button "구독" [ref=f35e477] [cursor=pointer]
+              - listitem [ref=f35e479]:
+                - link "코리아둘레길 4,500km 첫 완주자는 78세 퇴직공무원 [산지컬 100] 코리아둘레길 4,500km 첫 완주자는 78세 퇴직공무원 [산지컬 100]" [ref=f35e480] [cursor=pointer]:
+                  - /url: /mnews/article/094/0000013721?type=journalists
+                  - img "코리아둘레길 4,500km 첫 완주자는 78세 퇴직공무원 [산지컬 100]" [ref=f35e483]
+                  - generic [ref=f35e484]: 코리아둘레길 4,500km 첫 완주자는 78세 퇴직공무원 [산지컬 100]
+                - generic [ref=f35e487]:
+                  - link "서현우 기자 서현우 기자" [ref=f35e488] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/094/77901
+                    - img "서현우 기자" [ref=f35e490]
+                    - generic [ref=f35e491]: 서현우 기자
+                  - button "구독" [ref=f35e492] [cursor=pointer]
+              - listitem [ref=f35e494]:
+                - link "고령자에 흔한 서맥성 부정맥, '무전극선 심박동기'로 합병증 줄인다 고령자에 흔한 서맥성 부정맥, '무전극선 심박동기'로 합병증 줄인다" [ref=f35e495] [cursor=pointer]:
+                  - /url: /mnews/article/346/0000114278?type=journalists
+                  - img "고령자에 흔한 서맥성 부정맥, '무전극선 심박동기'로 합병증 줄인다" [ref=f35e498]
+                  - generic [ref=f35e499]: 고령자에 흔한 서맥성 부정맥, '무전극선 심박동기'로 합병증 줄인다
+                - generic [ref=f35e502]:
+                  - link "이해림 기자 이해림 기자" [ref=f35e503] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/346/78706
+                    - img "이해림 기자" [ref=f35e505]
+                    - generic [ref=f35e506]: 이해림 기자
+                  - button "구독" [ref=f35e507] [cursor=pointer]
+              - listitem [ref=f35e509]:
+                - link "국악찬양에 복음을 싣고, 28년간 영혼구원 전도집회 헌신 국악찬양에 복음을 싣고, 28년간 영혼구원 전도집회 헌신" [ref=f35e510] [cursor=pointer]:
+                  - /url: /mnews/article/005/0001866355?type=journalists
+                  - img "국악찬양에 복음을 싣고, 28년간 영혼구원 전도집회 헌신" [ref=f35e513]
+                  - generic [ref=f35e514]: 국악찬양에 복음을 싣고, 28년간 영혼구원 전도집회 헌신
+                - generic [ref=f35e517]:
+                  - link "전병선 기자 전병선 기자" [ref=f35e518] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/005/36804
+                    - img "전병선 기자" [ref=f35e520]
+                    - generic [ref=f35e521]: 전병선 기자
+                  - button "구독" [ref=f35e522] [cursor=pointer]
+          - generic [ref=f35e524]:
+            - generic [ref=f35e527]:
+              - heading "함께 볼만한 뉴스" [level=2] [ref=f35e528]
+              - button "안내" [ref=f35e529] [cursor=pointer]
+            - list [ref=f35e531]:
+              - listitem [ref=f35e532]:
+                - link "“숨통 트이네” 전국 폭염특보 대부분 해제…열대야주의보도 종료 디지털데일리" [ref=f35e533] [cursor=pointer]:
+                  - /url: /mnews/article/138/0002237446
+                  - generic [ref=f35e534]:
+                    - generic [ref=f35e535]: “숨통 트이네” 전국 폭염특보 대부분 해제…열대야주의보도 종료
+                    - generic [ref=f35e537]: 디지털데일리
+              - listitem [ref=f35e539]:
+                - link "이지현 “침대서 한 발짝도 못 나왔다” 최악 고통…공기로 전파된다는 ‘이 병’ 뭐길래[라이프] 서울신문" [ref=f35e540] [cursor=pointer]:
+                  - /url: /mnews/article/081/0003669360
+                  - generic [ref=f35e541]:
+                    - generic [ref=f35e542]: 이지현 “침대서 한 발짝도 못 나왔다” 최악 고통…공기로 전파된다는 ‘이 병’ 뭐길래[라이프]
+                    - generic [ref=f35e544]: 서울신문
+              - listitem [ref=f35e546]:
+                - link "[날씨] 전국 대부분 폭염특보 해제‥내일부터 동해안 중심 비 MBC" [ref=f35e547] [cursor=pointer]:
+                  - /url: /mnews/article/214/0001517286
+                  - generic [ref=f35e548]:
+                    - generic [ref=f35e549]: "[날씨] 전국 대부분 폭염특보 해제‥내일부터 동해안 중심 비"
+                    - generic [ref=f35e551]: MBC
+              - listitem [ref=f35e553]:
+                - link "하영 측 “친일 단체 명단서 증조부 확인”…하루 만에 ‘사실무근’ 입장 바꿔 경향신문" [ref=f35e554] [cursor=pointer]:
+                  - /url: /mnews/article/032/0003463650
+                  - generic [ref=f35e555]:
+                    - generic [ref=f35e556]: 하영 측 “친일 단체 명단서 증조부 확인”…하루 만에 ‘사실무근’ 입장 바꿔
+                    - generic [ref=f35e558]: 경향신문
+          - list [ref=f35e561]:
+            - listitem [ref=f35e562]:
+              - link "“상하이서 초호화 데이트” 아옳이, 연인과 이어진 계기는 뜻밖의 ‘이것’? 코메디닷컴 코메디닷컴" [ref=f35e563] [cursor=pointer]:
+                - /url: /mnews/article/296/0000103572
+                - generic [ref=f35e566]:
+                  - generic [ref=f35e567]: “상하이서 초호화 데이트” 아옳이, 연인과 이어진 계기는 뜻밖의 ‘이것’?
+                  - generic [ref=f35e569]:
+                    - img "코메디닷컴" [ref=f35e571]
+                    - generic [ref=f35e572]: 코메디닷컴
+            - listitem [ref=f35e573]:
+              - link "“같은 사람 맞아?” 정은표 아들 정지웅, 40kg 감량… 비법은 ‘두 가지’ 헬스조선 헬스조선" [ref=f35e574] [cursor=pointer]:
+                - /url: /mnews/article/346/0000114256
+                - generic [ref=f35e577]:
+                  - generic [ref=f35e578]: “같은 사람 맞아?” 정은표 아들 정지웅, 40kg 감량… 비법은 ‘두 가지’
+                  - generic [ref=f35e580]:
+                    - img "헬스조선" [ref=f35e582]
+                    - generic [ref=f35e583]: 헬스조선
+            - listitem [ref=f35e584]:
+              - link "동영상 01:47 세탁기 넣고 돌리거나 깜빡해도…로또 당첨금 앞으론 '자동 입금' MBN MBN" [ref=f35e585] [cursor=pointer]:
+                - /url: /mnews/article/057/0001963195
+                - generic [ref=f35e588]:
+                  - emphasis [ref=f35e589]: 동영상
+                  - text: 01:47
+                - generic [ref=f35e590]:
+                  - generic [ref=f35e591]: 세탁기 넣고 돌리거나 깜빡해도…로또 당첨금 앞으론 '자동 입금'
+                  - generic [ref=f35e593]:
+                    - img "MBN" [ref=f35e595]
+                    - generic [ref=f35e596]: MBN
+          - list [ref=f35e598]:
+            - listitem [ref=f35e599]:
+              - link "‘제국의 위안부’ 저자 박유하 “하영 증조부 친일 논란은 ‘순결 강박’…일제 치하의 구조적 친일” 조선비즈" [ref=f35e600] [cursor=pointer]:
+                - /url: /mnews/article/366/0001185697
+                - generic [ref=f35e601]:
+                  - generic [ref=f35e602]: ‘제국의 위안부’ 저자 박유하 “하영 증조부 친일 논란은 ‘순결 강박’…일제 치하의 구조적 친일”
+                  - generic [ref=f35e604]: 조선비즈
+            - listitem [ref=f35e606]:
+              - link "\"고구마 튀김 사오랬는데\"…40년 만에 동대구역 찾은 프랑스 입양인 매일신문" [ref=f35e607] [cursor=pointer]:
+                - /url: /mnews/article/088/0001023111
+                - generic [ref=f35e608]:
+                  - generic [ref=f35e609]: "\"고구마 튀김 사오랬는데\"…40년 만에 동대구역 찾은 프랑스 입양인"
+                  - generic [ref=f35e611]: 매일신문
+            - listitem [ref=f35e613]:
+              - link "[단독] 권오을 ‘北 인민공화국’ 발언… 보훈부 “정정·사과 계획 없다” 조선일보" [ref=f35e614] [cursor=pointer]:
+                - /url: /mnews/article/023/0003992511
+                - generic [ref=f35e615]:
+                  - generic [ref=f35e616]: "[단독] 권오을 ‘北 인민공화국’ 발언… 보훈부 “정정·사과 계획 없다”"
+                  - generic [ref=f35e618]: 조선일보
+            - listitem [ref=f35e620]:
+              - link "\"엄살 피우지 마!\" 훈련 투입된 병사, 콜라색 소변…투석 부른 '이 병' 머니투데이" [ref=f35e621] [cursor=pointer]:
+                - /url: /mnews/article/008/0005398590
+                - generic [ref=f35e622]:
+                  - generic [ref=f35e623]: "\"엄살 피우지 마!\" 훈련 투입된 병사, 콜라색 소변…투석 부른 '이 병'"
+                  - generic [ref=f35e625]: 머니투데이
+          - list [ref=f35e628]:
+            - listitem [ref=f35e629]:
+              - link "‘우리 양도차익 줄여볼래요?’… 고가 주택자들 ‘교환 매매’ 부상 국민일보 국민일보" [ref=f35e630] [cursor=pointer]:
+                - /url: /mnews/article/005/0001866364
+                - generic [ref=f35e633]:
+                  - generic [ref=f35e634]: ‘우리 양도차익 줄여볼래요?’… 고가 주택자들 ‘교환 매매’ 부상
+                  - generic [ref=f35e636]:
+                    - img "국민일보" [ref=f35e638]
+                    - generic [ref=f35e639]: 국민일보
+            - listitem [ref=f35e640]:
+              - link "“그냥 점인 줄 알았는데” 방심했다간 큰일…동양인 특히 주의해야 한다는데 [헬시타임] 서울경제 서울경제" [ref=f35e641] [cursor=pointer]:
+                - /url: /mnews/article/011/0004650597
+                - generic [ref=f35e644]:
+                  - generic [ref=f35e645]: “그냥 점인 줄 알았는데” 방심했다간 큰일…동양인 특히 주의해야 한다는데 [헬시타임]
+                  - generic [ref=f35e647]:
+                    - img "서울경제" [ref=f35e649]
+                    - generic [ref=f35e650]: 서울경제
+            - listitem [ref=f35e651]:
+              - link "“비만약 아니다” 107kg 뺀 여성, 감자칩 끊었다는데… 또 실천한 것 뭘까? 헬스조선 헬스조선" [ref=f35e652] [cursor=pointer]:
+                - /url: /mnews/article/346/0000114239
+                - generic [ref=f35e655]:
+                  - generic [ref=f35e656]: “비만약 아니다” 107kg 뺀 여성, 감자칩 끊었다는데… 또 실천한 것 뭘까?
+                  - generic [ref=f35e658]:
+                    - img "헬스조선" [ref=f35e660]
+                    - generic [ref=f35e661]: 헬스조선
+          - list [ref=f35e663]:
+            - listitem [ref=f35e664]:
+              - link "[결혼과 이혼] \"그니까 귀찮게 하지 말라고!\"…휴가 중 '금쪽이 시조카' 폭언에 당한 숙모 아이뉴스24 아이뉴스24" [ref=f35e665] [cursor=pointer]:
+                - /url: /mnews/article/031/0001048950
+                - generic [ref=f35e668]:
+                  - generic [ref=f35e669]: "[결혼과 이혼] \"그니까 귀찮게 하지 말라고!\"…휴가 중 '금쪽이 시조카' 폭언에 당한 숙모"
+                  - generic [ref=f35e671]:
+                    - img "아이뉴스24" [ref=f35e673]
+                    - generic [ref=f35e674]: 아이뉴스24
+            - listitem [ref=f35e675]:
+              - link "펄펄 끓던 전북, 폭염특보 다 풀렸다…\"당분간 선선\" 뉴스1 뉴스1" [ref=f35e676] [cursor=pointer]:
+                - /url: /mnews/article/421/0009108498
+                - generic [ref=f35e679]:
+                  - generic [ref=f35e680]: 펄펄 끓던 전북, 폭염특보 다 풀렸다…"당분간 선선"
+                  - generic [ref=f35e682]:
+                    - img "뉴스1" [ref=f35e684]
+                    - generic [ref=f35e685]: 뉴스1
+            - listitem [ref=f35e686]:
+              - link "[속보] 안철수 \"'한동훈 복당 운동권' 당 쑥대밭 만들어...총선 배제해야\" CJB청주방송 CJB청주방송" [ref=f35e687] [cursor=pointer]:
+                - /url: /mnews/article/655/0000032359
+                - generic [ref=f35e690]:
+                  - generic [ref=f35e691]: "[속보] 안철수 \"'한동훈 복당 운동권' 당 쑥대밭 만들어...총선 배제해야\""
+                  - generic [ref=f35e693]:
+                    - img "CJB청주방송" [ref=f35e695]
+                    - generic [ref=f35e696]: CJB청주방송
+          - list [ref=f35e698]:
+            - listitem [ref=f35e699]:
+              - link "정치" [ref=f35e700] [cursor=pointer]:
+                - /url: https://news.naver.com/section/100
+            - listitem [ref=f35e702]:
+              - link "경제" [ref=f35e703] [cursor=pointer]:
+                - /url: https://news.naver.com/section/101
+            - listitem [ref=f35e705]:
+              - link "사회" [ref=f35e706] [cursor=pointer]:
+                - /url: https://news.naver.com/section/102
+            - listitem [ref=f35e708]:
+              - link "생활/문화" [ref=f35e709] [cursor=pointer]:
+                - /url: https://news.naver.com/section/103
+            - listitem [ref=f35e711]:
+              - link "세계" [ref=f35e712] [cursor=pointer]:
+                - /url: https://news.naver.com/section/104
+            - listitem [ref=f35e714]:
+              - link "IT/과학" [ref=f35e715] [cursor=pointer]:
+                - /url: https://news.naver.com/section/105
+            - listitem [ref=f35e717]:
+              - link "오피니언" [ref=f35e718] [cursor=pointer]:
+                - /url: https://news.naver.com/opinion/home
+            - listitem [ref=f35e720]:
+              - link "랭킹" [ref=f35e721] [cursor=pointer]:
+                - /url: https://m.news.naver.com/rankingList
+            - listitem [ref=f35e723]:
+              - link "신문보기" [ref=f35e724] [cursor=pointer]:
+                - /url: https://news.naver.com/newspaper/home
+            - listitem [ref=f35e726]:
+              - link "프리미엄" [ref=f35e727] [cursor=pointer]:
+                - /url: https://contents.premium.naver.com
+        - generic [ref=f35e729]:
+          - generic [ref=f35e730]:
+            - heading [level=2] [ref=f35e734]:
+              - emphasis [ref=f35e735]: 한국경제
+              - text: 클립
+            - list [ref=f35e736]:
+              - listitem [ref=f35e737]:
+                - link "🥶 한여름에도 ‘12도’…피서객 몰린 광명 🥶 한여름에도 ‘12도’…피서객 몰린 광명" [ref=f35e738] [cursor=pointer]:
+                  - /url: https://m.naver.com/shorts/?mediaId=99F60086502B60C51ED6F3C4080EA7800F08&serviceType=NEWS&recType=NEWS&recId=015_164884_articleRead&mediaType=VOD&panelType=vs_news
+                  - img "🥶 한여름에도 ‘12도’…피서객 몰린 광명" [ref=f35e741]
+                  - generic [ref=f35e743]: 🥶 한여름에도 ‘12도’…피서객 몰린 광명
+              - listitem [ref=f35e746]:
+                - link "이재명 \"육사 쿠데타 또 할 수도\" 이재명 \"육사 쿠데타 또 할 수도\"" [ref=f35e747] [cursor=pointer]:
+                  - /url: https://m.naver.com/shorts/?mediaId=25880E5E20D43AAE6FBBC0F34FF85FA4C9A3&serviceType=NEWS&recType=NEWS&recId=015_164719_articleRead&mediaType=VOD&panelType=vs_news
+                  - img "이재명 \"육사 쿠데타 또 할 수도\"" [ref=f35e750]
+                  - generic [ref=f35e752]: 이재명 "육사 쿠데타 또 할 수도"
+              - listitem [ref=f35e755]:
+                - link "일본 대지진 전조?…사쿠라지마 화산 대폭 일본 대지진 전조?…사쿠라지마 화산 대폭" [ref=f35e756] [cursor=pointer]:
+                  - /url: https://m.naver.com/shorts/?mediaId=7D54DAA4D060C42A48C4416D93C7BDFCF15B&serviceType=NEWS&recType=NEWS&recId=015_164688_articleRead&mediaType=VOD&panelType=vs_news
+                  - img "일본 대지진 전조?…사쿠라지마 화산 대폭" [ref=f35e759]
+                  - generic [ref=f35e761]: 일본 대지진 전조?…사쿠라지마 화산 대폭
+              - listitem [ref=f35e764]:
+                - link "“경복궁 나도 갈 걸”…李대통령과 셀카 인증 “경복궁 나도 갈 걸”…李대통령과 셀카 인증" [ref=f35e765] [cursor=pointer]:
+                  - /url: https://m.naver.com/shorts/?mediaId=5ED214798D52937E13339B09557FB349DE0B&serviceType=NEWS&recType=NEWS&recId=015_165250_articleRead&mediaType=VOD&panelType=vs_news
+                  - img "“경복궁 나도 갈 걸”…李대통령과 셀카 인증" [ref=f35e768]
+                  - generic [ref=f35e770]: “경복궁 나도 갈 걸”…李대통령과 셀카 인증
+          - generic [ref=f35e773]:
+            - generic [ref=f35e776]:
+              - heading "구독 많은 기자" [level=2] [ref=f35e777]
+              - button "안내" [ref=f35e778] [cursor=pointer]
+            - list [ref=f35e780]:
+              - listitem [ref=f35e781]:
+                - link "KT, 직전 분기 대비 영업익34.3% 증가…'AX 사업' 성장세 뚜렷 KT, 직전 분기 대비 영업익34.3% 증가…'AX 사업' 성장세 뚜렷" [ref=f35e782] [cursor=pointer]:
+                  - /url: /mnews/article/015/0005319952?type=journalists
+                  - img "KT, 직전 분기 대비 영업익34.3% 증가…'AX 사업' 성장세 뚜렷" [ref=f35e785]
+                  - generic [ref=f35e786]: KT, 직전 분기 대비 영업익34.3% 증가…'AX 사업' 성장세 뚜렷
+                - generic [ref=f35e789]:
+                  - link "홍민성 기자 홍민성 기자" [ref=f35e790] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/015/76139
+                    - img "홍민성 기자" [ref=f35e792]
+                    - generic [ref=f35e793]: 홍민성 기자
+                  - button "구독" [ref=f35e794] [cursor=pointer]
+              - listitem [ref=f35e796]:
+                - link "\"내 증조부 안상호 친일파, 더럽다\"…하영 논란에 13년전 글 재조명 \"내 증조부 안상호 친일파, 더럽다\"…하영 논란에 13년전 글 재조명" [ref=f35e797] [cursor=pointer]:
+                  - /url: /mnews/article/008/0005398712?type=journalists
+                  - img "\"내 증조부 안상호 친일파, 더럽다\"…하영 논란에 13년전 글 재조명" [ref=f35e800]
+                  - generic [ref=f35e801]: "\"내 증조부 안상호 친일파, 더럽다\"…하영 논란에 13년전 글 재조명"
+                - generic [ref=f35e804]:
+                  - link "전형주 기자 전형주 기자" [ref=f35e805] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/008/76456
+                    - img "전형주 기자" [ref=f35e807]
+                    - generic [ref=f35e808]: 전형주 기자
+                  - button "구독" [ref=f35e809] [cursor=pointer]
+              - listitem [ref=f35e811]:
+                - link "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\" 김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\"" [ref=f35e812] [cursor=pointer]:
+                  - /url: /mnews/article/214/0001516975?type=journalists
+                  - img "김민석 \"야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나\"" [ref=f35e815]
+                  - generic [ref=f35e816]: 김민석 "야당의 개소리도 참았는데, 정청래 '선거 승리' 발언은 너무 화나"
+                - generic [ref=f35e819]:
+                  - link "이기주 기자 이기주 기자" [ref=f35e820] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/214/65768
+                    - img "이기주 기자" [ref=f35e822]
+                    - generic [ref=f35e823]: 이기주 기자
+                  - button "구독" [ref=f35e824] [cursor=pointer]
+              - listitem [ref=f35e826]:
+                - link "“무더기 상폐 현실화하나”…오늘 운명 갈리는 ‘23개 종목’ 뭐길래 “무더기 상폐 현실화하나”…오늘 운명 갈리는 ‘23개 종목’ 뭐길래" [ref=f35e827] [cursor=pointer]:
+                  - /url: /mnews/article/009/0005719811?type=journalists
+                  - img "“무더기 상폐 현실화하나”…오늘 운명 갈리는 ‘23개 종목’ 뭐길래" [ref=f35e830]
+                  - generic [ref=f35e831]: “무더기 상폐 현실화하나”…오늘 운명 갈리는 ‘23개 종목’ 뭐길래
+                - generic [ref=f35e834]:
+                  - link "류영상 기자 류영상 기자" [ref=f35e835] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/009/23135
+                    - img "류영상 기자" [ref=f35e837]
+                    - generic [ref=f35e838]: 류영상 기자
+                  - button "구독" [ref=f35e839] [cursor=pointer]
+              - listitem [ref=f35e841]:
+                - link "송영길 “李 지지율 하락, 부동산 때문…정청래 ‘코어 이탈’ 진단은 돌팔이” 송영길 “李 지지율 하락, 부동산 때문…정청래 ‘코어 이탈’ 진단은 돌팔이”" [ref=f35e842] [cursor=pointer]:
+                  - /url: /mnews/article/025/0003543850?type=journalists
+                  - img "송영길 “李 지지율 하락, 부동산 때문…정청래 ‘코어 이탈’ 진단은 돌팔이”" [ref=f35e845]
+                  - generic [ref=f35e846]: 송영길 “李 지지율 하락, 부동산 때문…정청래 ‘코어 이탈’ 진단은 돌팔이”
+                - generic [ref=f35e849]:
+                  - link "김지혜 기자 김지혜 기자" [ref=f35e850] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/025/26211
+                    - img "김지혜 기자" [ref=f35e852]
+                    - generic [ref=f35e853]: 김지혜 기자
+                  - button "구독" [ref=f35e854] [cursor=pointer]
+              - listitem [ref=f35e856]:
+                - link "서울서 여자들 찍던 몰카남, 잡고보니 20대 중국인 서울서 여자들 찍던 몰카남, 잡고보니 20대 중국인" [ref=f35e857] [cursor=pointer]:
+                  - /url: /mnews/article/119/0003120717?type=journalists
+                  - img "서울서 여자들 찍던 몰카남, 잡고보니 20대 중국인" [ref=f35e860]
+                  - generic [ref=f35e861]: 서울서 여자들 찍던 몰카남, 잡고보니 20대 중국인
+                - generic [ref=f35e864]:
+                  - link "이지희 기자 이지희 기자" [ref=f35e865] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/119/74986
+                    - img "이지희 기자" [ref=f35e867]
+                    - generic [ref=f35e868]: 이지희 기자
+                  - button "구독" [ref=f35e869] [cursor=pointer]
+          - generic [ref=f35e871]:
+            - generic [ref=f35e873]:
+              - heading [level=2] [ref=f35e875]:
+                - emphasis [ref=f35e876]: 한국경제
+                - text: 댓글 많은 뉴스
+              - text: 오전 8시~11시까지 집계한 결과입니다.
+            - list [ref=f35e877]:
+              - listitem [ref=f35e878]:
+                - link "1위 촬영 금지 日 혼탕서 카메라 든 한국인 유튜버…\"나라 망신\"" [ref=f35e879] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/015/0005319926?ntype=RANKING
+                  - generic [ref=f35e880]: 1위
+                  - generic [ref=f35e884]: 촬영 금지 日 혼탕서 카메라 든 한국인 유튜버…"나라 망신"
+              - listitem [ref=f35e887]:
+                - link "2위 \"팀장님, 2차는 가챠숍 가요\"…호프집 망할 때 대박 난 곳 [김익환의 부처 핸즈업]" [ref=f35e888] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/015/0005319861?ntype=RANKING
+                  - generic [ref=f35e889]: 2위
+                  - generic [ref=f35e893]: "\"팀장님, 2차는 가챠숍 가요\"…호프집 망할 때 대박 난 곳 [김익환의 부처 핸즈업]"
+              - listitem [ref=f35e896]:
+                - link "3위 \"집값 내려가 속상한데 엎친 데 덮쳤다\"…송도 아파트 '발칵' [주간이집]" [ref=f35e897] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/015/0005319866?ntype=RANKING
+                  - generic [ref=f35e898]: 3위
+                  - generic [ref=f35e902]: "\"집값 내려가 속상한데 엎친 데 덮쳤다\"…송도 아파트 '발칵' [주간이집]"
+              - listitem [ref=f35e905]:
+                - link "4위 \"옆에 이 車 보이면 무조건 피한다\"…'문콕' 스트레스에 비명" [ref=f35e906] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/015/0005319870?ntype=RANKING
+                  - generic [ref=f35e907]: 4위
+                  - generic [ref=f35e911]: "\"옆에 이 車 보이면 무조건 피한다\"…'문콕' 스트레스에 비명"
+              - listitem [ref=f35e914]:
+                - link "5위 \"삼성전자, 조정 끝 상승 추세 시작…주주환원 700조원 예상\"-KB" [ref=f35e915] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/015/0005319887?ntype=RANKING
+                  - generic [ref=f35e916]: 5위
+                  - generic [ref=f35e920]: "\"삼성전자, 조정 끝 상승 추세 시작…주주환원 700조원 예상\"-KB"
+              - listitem [ref=f35e923]:
+                - link "6위 \"반도체 몰빵 말고 이거 담아라\"…'5배 잭팟' 고수의 비밀 병기" [ref=f35e924] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/015/0005319904?ntype=RANKING
+                  - generic [ref=f35e925]: 6위
+                  - generic [ref=f35e929]: "\"반도체 몰빵 말고 이거 담아라\"…'5배 잭팟' 고수의 비밀 병기"
+            - link "랭킹 뉴스 더보기" [ref=f35e933] [cursor=pointer]:
+              - /url: https://media.naver.com/press/015/ranking?type=comment
+          - list [ref=f35e936]:
+            - listitem [ref=f35e937]:
+              - link "이제 폭염 끝? 40도 끓더니 '최저 17도' 뚝…\"가을 같아\" JTBC" [ref=f35e938] [cursor=pointer]:
+                - /url: /mnews/article/437/0000505677
+                - generic [ref=f35e939]:
+                  - generic [ref=f35e940]: 이제 폭염 끝? 40도 끓더니 '최저 17도' 뚝…"가을 같아"
+                  - generic [ref=f35e942]: JTBC
+            - listitem [ref=f35e944]:
+              - link "\"말이 갯벌에 빠졌어요\"…밀물 차오르는데 '아찔했던 순간' 한국경제" [ref=f35e945] [cursor=pointer]:
+                - /url: /mnews/article/015/0005319672
+                - generic [ref=f35e946]:
+                  - generic [ref=f35e947]: "\"말이 갯벌에 빠졌어요\"…밀물 차오르는데 '아찔했던 순간'"
+                  - generic [ref=f35e949]: 한국경제
+            - listitem [ref=f35e951]:
+              - link "李 대통령에 중도층·40대도 돌아섰다…지지율 42.9% 매일신문" [ref=f35e952] [cursor=pointer]:
+                - /url: /mnews/article/088/0001023210
+                - generic [ref=f35e953]:
+                  - generic [ref=f35e954]: 李 대통령에 중도층·40대도 돌아섰다…지지율 42.9%
+                  - generic [ref=f35e956]: 매일신문
+            - listitem [ref=f35e958]:
+              - link "중국 덮친 13호 태풍 ‘돌핀’ 이어 15호 태풍 ‘찬홈’ 日열도 접근⋯한반도 영향 미칠까 강원일보" [ref=f35e959] [cursor=pointer]:
+                - /url: /mnews/article/087/0001210690
+                - generic [ref=f35e960]:
+                  - generic [ref=f35e961]: 중국 덮친 13호 태풍 ‘돌핀’ 이어 15호 태풍 ‘찬홈’ 日열도 접근⋯한반도 영향 미칠까
+                  - generic [ref=f35e963]: 강원일보
+          - list [ref=f35e966]:
+            - listitem [ref=f35e967]:
+              - link "\"낙동강 보 개방하면 녹조 증가\" 주장 '거짓' [오마이팩트] 오마이뉴스 오마이뉴스" [ref=f35e968] [cursor=pointer]:
+                - /url: /mnews/article/047/0002525263
+                - generic [ref=f35e971]:
+                  - generic [ref=f35e972]: "\"낙동강 보 개방하면 녹조 증가\" 주장 '거짓' [오마이팩트]"
+                  - generic [ref=f35e974]:
+                    - img "오마이뉴스" [ref=f35e976]
+                    - generic [ref=f35e977]: 오마이뉴스
+            - listitem [ref=f35e978]:
+              - link "한국선 흔한 과일인데…일본선 '훔쳐갈 만큼 귀한 몸', 사회문제 된 과일 아시아경제 아시아경제" [ref=f35e979] [cursor=pointer]:
+                - /url: /mnews/article/277/0005801566
+                - generic [ref=f35e982]:
+                  - generic [ref=f35e983]: 한국선 흔한 과일인데…일본선 '훔쳐갈 만큼 귀한 몸', 사회문제 된 과일
+                  - generic [ref=f35e985]:
+                    - img "아시아경제" [ref=f35e987]
+                    - generic [ref=f35e988]: 아시아경제
+            - listitem [ref=f35e989]:
+              - link "밀물 앞두고 “달리던 말이 뻘에 빠졌다” 신고…해경 삽 들고 파내 구조 디지털타임스 디지털타임스" [ref=f35e990] [cursor=pointer]:
+                - /url: /mnews/article/029/0003041869
+                - generic [ref=f35e993]:
+                  - generic [ref=f35e994]: 밀물 앞두고 “달리던 말이 뻘에 빠졌다” 신고…해경 삽 들고 파내 구조
+                  - generic [ref=f35e996]:
+                    - img "디지털타임스" [ref=f35e998]
+                    - generic [ref=f35e999]: 디지털타임스
+          - list [ref=f35e1001]:
+            - listitem [ref=f35e1002]:
+              - link "에어컨 많이 틀어 걱정했는데…‘이 버튼’ 하나 눌렀더니 전기요금 반토막 서울경제 서울경제" [ref=f35e1003] [cursor=pointer]:
+                - /url: /mnews/article/011/0004650783
+                - generic [ref=f35e1006]:
+                  - generic [ref=f35e1007]: 에어컨 많이 틀어 걱정했는데…‘이 버튼’ 하나 눌렀더니 전기요금 반토막
+                  - generic [ref=f35e1009]:
+                    - img "서울경제" [ref=f35e1011]
+                    - generic [ref=f35e1012]: 서울경제
+            - listitem [ref=f35e1013]:
+              - link "'꿈의 직장' 삼전닉스 아니었다…만족 1위는 '이곳' 뉴시스 뉴시스" [ref=f35e1014] [cursor=pointer]:
+                - /url: /mnews/article/003/0014121804
+                - generic [ref=f35e1017]:
+                  - generic [ref=f35e1018]: "'꿈의 직장' 삼전닉스 아니었다…만족 1위는 '이곳'"
+                  - generic [ref=f35e1020]:
+                    - img "뉴시스" [ref=f35e1022]
+                    - generic [ref=f35e1023]: 뉴시스
+            - listitem [ref=f35e1024]:
+              - link "보조금 고갈에 중국차 밀려오는데…'하투'까지 덮친 車업계 노컷뉴스 노컷뉴스" [ref=f35e1025] [cursor=pointer]:
+                - /url: /mnews/article/079/0004177778
+                - generic [ref=f35e1028]:
+                  - generic [ref=f35e1029]: 보조금 고갈에 중국차 밀려오는데…'하투'까지 덮친 車업계
+                  - generic [ref=f35e1031]:
+                    - img "노컷뉴스" [ref=f35e1033]
+                    - generic [ref=f35e1034]: 노컷뉴스
+          - list [ref=f35e1036]:
+            - listitem [ref=f35e1037]:
+              - link "[속보]서울 가양동 아파트 화재로 2명 사망··· 뇌병변 어머니와 아들 경향신문 경향신문" [ref=f35e1038] [cursor=pointer]:
+                - /url: /mnews/article/032/0003463622
+                - generic [ref=f35e1041]:
+                  - generic [ref=f35e1042]: "[속보]서울 가양동 아파트 화재로 2명 사망··· 뇌병변 어머니와 아들"
+                  - generic [ref=f35e1044]:
+                    - img "경향신문" [ref=f35e1046]
+                    - generic [ref=f35e1047]: 경향신문
+            - listitem [ref=f35e1048]:
+              - link "“남편 9억 빚 다 갚아줬다” 엄청난 수입 자랑했는데…유튜버 ‘돈 벌기’ 더 어려워진다 헤럴드경제 헤럴드경제" [ref=f35e1049] [cursor=pointer]:
+                - /url: /mnews/article/016/0002682521
+                - generic [ref=f35e1052]:
+                  - generic [ref=f35e1053]: “남편 9억 빚 다 갚아줬다” 엄청난 수입 자랑했는데…유튜버 ‘돈 벌기’ 더 어려워진다
+                  - generic [ref=f35e1055]:
+                    - img "헤럴드경제" [ref=f35e1057]
+                    - generic [ref=f35e1058]: 헤럴드경제
+            - listitem [ref=f35e1059]:
+              - link "[단독] '송파옆' 성남골프장에 8000가구 공급 추진 한국경제 한국경제" [ref=f35e1060] [cursor=pointer]:
+                - /url: /mnews/article/015/0005319694
+                - generic [ref=f35e1063]:
+                  - generic [ref=f35e1064]: "[단독] '송파옆' 성남골프장에 8000가구 공급 추진"
+                  - generic [ref=f35e1066]:
+                    - img "한국경제" [ref=f35e1068]
+                    - generic [ref=f35e1069]: 한국경제
+          - generic [ref=f35e1070]:
+            - heading [level=2] [ref=f35e1074]:
+              - emphasis [ref=f35e1075]: 한국경제
+              - text: 헤드라인
+            - list [ref=f35e1076]:
+              - listitem [ref=f35e1077]:
+                - link "\"팀장님, 2차는 가챠숍 가요\"…호프집 망할 때 대박 난 곳 [김익환의 부처 핸즈업]" [ref=f35e1078] [cursor=pointer]:
+                  - /url: /mnews/article/015/0005319861
+              - listitem [ref=f35e1084]:
+                - link "삼성전자 8000억 풀자 난리 났다…뜻밖의 '대박' 터진 곳" [ref=f35e1085] [cursor=pointer]:
+                  - /url: /mnews/article/015/0005319845
+              - listitem [ref=f35e1091]:
+                - link "\"다음 숙청 대상은 누구\"…中서 '시진핑 살생부'까지 돈 받고 샌다" [ref=f35e1092] [cursor=pointer]:
+                  - /url: /mnews/article/015/0005319994
+              - listitem [ref=f35e1098]:
+                - link "송영길 \"李 지지율 떨어진 건 부동산…1주택 세금 손대지 말라\"" [ref=f35e1099] [cursor=pointer]:
+                  - /url: /mnews/article/015/0005319980
+              - listitem [ref=f35e1105]:
+                - link "촬영 금지 日 혼탕서 카메라 든 한국인 유튜버…\"나라 망신\"" [ref=f35e1106] [cursor=pointer]:
+                  - /url: /mnews/article/015/0005319926
+              - listitem [ref=f35e1112]:
+                - link "\"친일파 후손 집엔 냉장고 5대\"…하영, 독립운동가 후손과 대비" [ref=f35e1113] [cursor=pointer]:
+                  - /url: /mnews/article/015/0005319982
+    - generic: mobile
+  - contentinfo [ref=f35e1121]:
+    - paragraph [ref=f35e1122]:
+      - generic [ref=f35e1123]:
+        - link "로그인" [ref=f35e1125] [cursor=pointer]:
+          - /url: https://nid.naver.com/nidlogin.login?svctype=262144
+        - link "전체서비스" [ref=f35e1127] [cursor=pointer]:
+          - /url: https://m.naver.com/services.html?f=svc.news
+      - generic [ref=f35e1128]:
+        - link "서비스안내" [ref=f35e1130] [cursor=pointer]:
+          - /url: https://news.naver.com/ombudsman
+        - link "오류신고" [ref=f35e1132] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_001.naver
+        - link "고객센터" [ref=f35e1134] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_007.naver
+      - generic [ref=f35e1135]:
+        - 'link "기사배열 책임자 : 김수향" [ref=f35e1136] [cursor=pointer]':
+          - /url: https://news.naver.com/ombudsman/edit
+        - generic [ref=f35e1137]: "청소년 보호 책임자 : 이정규"
+      - generic [ref=f35e1138]: 각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 한국경제
+      - generic [ref=f35e1139]: 이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+      - link "NAVER" [ref=f35e1141] [cursor=pointer]:
+        - /url: https://www.navercorp.com

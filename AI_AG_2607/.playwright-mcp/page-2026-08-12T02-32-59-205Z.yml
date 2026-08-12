@@ -1,0 +1,818 @@
+- generic [ref=f15e2]:
+  - link "본문 바로가기" [ref=f15e3] [cursor=pointer]:
+    - /url: "#ct"
+  - banner [ref=f15e4]:
+    - generic [ref=f15e5]:
+      - generic [ref=f15e8]:
+        - generic [ref=f15e9]:
+          - link "NAVER" [ref=f15e11] [cursor=pointer]:
+            - /url: https://m.naver.com/
+          - generic [ref=f15e13]:
+            - heading [level=1] [ref=f15e14]:
+              - link "선택됨 뉴스" [ref=f15e15] [cursor=pointer]:
+                - /url: https://m.news.naver.com
+            - link "엔터" [ref=f15e18] [cursor=pointer]:
+              - /url: https://m.entertain.naver.com
+            - link "스포츠" [ref=f15e21] [cursor=pointer]:
+              - /url: https://m.sports.naver.com
+            - link "프리미엄" [ref=f15e24] [cursor=pointer]:
+              - /url: https://contents.premium.naver.com
+        - link "검색" [ref=f15e28] [cursor=pointer]:
+          - /url: javascript:;
+      - generic [ref=f15e32]:
+        - tablist [ref=f15e33]:
+          - tab "언론사별" [ref=f15e34] [cursor=pointer]
+          - tab "정치" [ref=f15e36] [cursor=pointer]
+          - tab "경제" [ref=f15e38] [cursor=pointer]
+          - tab "사회" [ref=f15e40] [cursor=pointer]
+          - tab "생활/문화" [selected] [ref=f15e42] [cursor=pointer]
+          - tab "IT/과학" [ref=f15e44] [cursor=pointer]
+          - tab "세계" [ref=f15e46] [cursor=pointer]
+          - tab "랭킹" [ref=f15e48] [cursor=pointer]
+          - tab "신문보기" [ref=f15e50] [cursor=pointer]
+          - tab "오피니언" [ref=f15e52] [cursor=pointer]
+          - tab "TV" [ref=f15e54] [cursor=pointer]
+          - tab "팩트체크" [ref=f15e56] [cursor=pointer]
+          - tab "알고리즘 안내" [ref=f15e58] [cursor=pointer]
+          - tab "정정보도 모음" [ref=f15e60] [cursor=pointer]
+        - link "MY" [ref=f15e63] [cursor=pointer]:
+          - /url: https://media.naver.com/my/home
+  - generic [ref=f15e66]:
+    - main [ref=f15e67]:
+      - generic [ref=f15e68]:
+        - generic [ref=f15e69]:
+          - generic [ref=f15e70]:
+            - link "세계일보 세계일보" [ref=f15e71] [cursor=pointer]:
+              - /url: http://www.segye.com
+              - img "세계일보" [ref=f15e73]
+              - generic [ref=f15e74]: 세계일보
+            - button "구독" [ref=f15e76] [cursor=pointer]
+            - button "PICK 안내" [ref=f15e78] [cursor=pointer]:
+              - generic [ref=f15e79]: PICK
+              - generic [ref=f15e80]: 안내
+          - heading "강원·경북 동해안 중심으로 비…무더위는 지속 [오늘날씨]" [level=2] [ref=f15e82]
+          - generic [ref=f15e83]:
+            - generic [ref=f15e84]:
+              - img "김동환 기자" [ref=f15e86]
+              - generic [ref=f15e87]:
+                - link [ref=f15e89] [cursor=pointer]:
+                  - /url: https://media.naver.com/journalist/022/72648
+                  - emphasis [ref=f15e90]: 김동환 기자
+                - generic [ref=f15e91]:
+                  - generic [ref=f15e94]:
+                    - emphasis [ref=f15e95]: 입력
+                    - generic [ref=f15e96]: 2026.08.12. 오전 6:11
+                  - link "기사원문" [ref=f15e97] [cursor=pointer]:
+                    - /url: https://www.segye.com/newsView/20260812503425?OutUrl=naver
+            - generic [ref=f15e98]:
+              - link "댓글 반응" [ref=f15e102] [cursor=pointer]:
+                - /url: /mnews/article/comment/022/0004150300?sid=103
+                - text: 댓글
+                - generic [ref=f15e103]: 반응
+              - generic [ref=f15e104]:
+                - button "텍스트 음성 변환 서비스 사용하기" [ref=f15e106] [cursor=pointer]
+                - link "글자 크기 변경하기" [ref=f15e109] [cursor=pointer]:
+                  - /url: "#"
+                - link "SNS 보내기" [ref=f15e112] [cursor=pointer]:
+                  - /url: "#"
+                - link "인쇄하기" [ref=f15e116] [cursor=pointer]:
+                  - /url: "#"
+        - generic [ref=f15e118]:
+          - article [ref=f15e120]:
+            - generic [ref=f15e121]: 미세먼지 농도는 전 권역에서 ‘좋음’ 수준
+            - text: 수요일인 12일은 전국에 가끔 구름이 많은 가운데 강원 동해안과 경북 동해안을 중심으로 비가 내리겠다.
+            - table [ref=f15e122]:
+              - rowgroup [ref=f15e123]:
+                - row [ref=f15e124]:
+                  - cell [ref=f15e125]
+                - row [ref=f15e129]:
+                  - cell "궂은 날씨를 보인 지난 9일 강원 속초 해수욕장에 높은 파도로 인한 수영 금지 안내문이 게시돼 있다. 연합뉴스" [ref=f15e130]
+            - text: 오전에 강원 동해안·산지에 비가 내리기 시작해 오후부터는 경북 동해안·북동 산지로 강우가 확대되겠다. 예상 강수량은 12~14일 사흘간 강원 동해안·산지와 경북 동해안·북동 산지 20~60㎜다. 부산·울산에도 오후부터 내일 새벽 사이 0.1㎜ 미만의 빗방울이 떨어지는 곳이 있겠다. 당분간 아침 기온은 평년과 비슷하거나 조금 낮고, 낮 기온은 평년과 비슷하겠다. 일부 경기도에 폭염특보가 발효된 가운데 당분간 수도권과 충남권, 남부지방을 중심으로 최고 체감온도가 33도 안팎으로 오르겠다. 이날 오전 5시 현재 기온은 서울 21.9도, 인천 23.1도, 수원 22.0도, 춘천 17.0도, 강릉 20.0도, 청주 21.2도, 대전 20.3도, 전주 20.1도, 광주 21.5도, 제주 23.9도, 대구 19.3도, 부산 22.6도, 울산 22.3도, 창원 22.5도 등이다. 낮 최고기온은 서울 33도, 인천 33도, 수원 32도, 춘천 30도, 강릉 26도, 청주 32도, 대전 31도, 전주 33도, 광주 33도, 대구 31도, 부산 31도, 제주 30도 등으로 예상된다. 바다의 물결은 동해 앞바다에서 1.0~3.5m, 서해 앞바다에서 0.5~1.0m, 남해 앞바다에서 0.5~2.5m로 일겠다. 안쪽 먼바다(해안선에서 약 200㎞ 내의 먼바다)의 파고는 동해 1.5~4.0m, 서해 0.5~3.0m, 남해 1.0~3.5m로 예상된다. 미세먼지 농도는 전 권역에서 ‘좋음’ 수준을 보이겠다.
+          - paragraph [ref=f15e132]:
+            - generic [ref=f15e133]: 김동환 기자 kimcharr@segye.com
+          - paragraph [ref=f15e136]: Copyright ⓒ 세계일보. All rights reserved. 무단 전재 및 재배포 금지.
+          - link [ref=f15e138] [cursor=pointer]:
+            - /url: "#"
+            - text: 이 기사는 언론사에서
+            - emphasis [ref=f15e139]: 생활
+            - text: 섹션으로 분류했습니다.
+          - generic [ref=f15e141]:
+            - heading "기자 프로필" [level=4] [ref=f15e142]
+            - generic [ref=f15e146]:
+              - generic [ref=f15e149]:
+                - generic [ref=f15e150]:
+                  - link [ref=f15e151] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/022/72648
+                    - img "김동환 기자" [ref=f15e153]
+                  - generic [ref=f15e154]:
+                    - link "김동환 기자":
+                      - /url: https://media.naver.com/journalist/022/72648
+                      - emphasis [ref=f15e157] [cursor=pointer]: 김동환 기자
+                    - generic [ref=f15e158]: 세계일보
+                - link "구독" [ref=f15e160] [cursor=pointer]:
+                  - /url: "#"
+              - list [ref=f15e163]:
+                - listitem [ref=f15e164]:
+                  - link "“4대째 의사” 하영 발언에…100여년 전 ‘대정친목회’ 재조명" [ref=f15e165] [cursor=pointer]:
+                    - /url: /mnews/article/022/0004150122?type=journalists
+                - listitem [ref=f15e166]:
+                  - link "[속보] 조국 “중국 최고법원도 금지한 996노동제…김정관, 알고도 주장했나”" [ref=f15e167] [cursor=pointer]:
+                    - /url: /mnews/article/022/0004149496?type=journalists
+          - generic [ref=f15e170]:
+            - link [ref=f15e171] [cursor=pointer]:
+              - /url: "#"
+              - img "세계일보" [ref=f15e174]
+              - generic [ref=f15e175]:
+                - paragraph [ref=f15e176]: 구독
+                - paragraph [ref=f15e177]:
+                  - generic [ref=f15e178]:
+                    - strong [ref=f15e179]: 세계일보 구독하고
+                    - text: 메인에서 바로 만나보세요!
+            - link "언론사홈" [ref=f15e180] [cursor=pointer]:
+              - /url: https://media.naver.com/press/022
+          - generic [ref=f15e181]:
+            - heading [level=3] [ref=f15e182]:
+              - link "세계일보" [ref=f15e183] [cursor=pointer]:
+                - /url: http://www.segye.com
+              - text: 주요뉴스
+              - generic [ref=f15e185]:
+                - text: 해당 언론사에서 선정하며
+                - emphasis [ref=f15e186]: 언론사(아웃링크)
+                - text: 로 이동합니다.
+            - list [ref=f15e187]:
+              - listitem [ref=f15e188]:
+                - link "하우스 푸어 겪은 신봉선, 매달 100만원씩 10년 묻어두자 벌어진 일" [ref=f15e189] [cursor=pointer]:
+                  - /url: https://www.segye.com/r.jsp?aid=20260706517383&utm_source=naver&utm_medium=news&utm_campaign=portal
+              - listitem [ref=f15e190]:
+                - link "17년 만에 빚 청산한 이상민, 연봉 15억 공개 뒤에 숨겨진 진짜 시험대" [ref=f15e191] [cursor=pointer]:
+                  - /url: https://www.segye.com/r.jsp?aid=20260708514959&utm_source=naver&utm_medium=news&utm_campaign=portal
+              - listitem [ref=f15e192]:
+                - link "13억에 팔린 냅킨 한 장… 열세 살 소년 메시의 운명을 바꿨다" [ref=f15e193] [cursor=pointer]:
+                  - /url: https://www.segye.com/r.jsp?aid=20260810521384&utm_source=naver&utm_medium=news&utm_campaign=portal
+              - listitem [ref=f15e194]:
+                - link "통장 잔고 3000원 품었던 영탁, 행사비 3800만원 벌자 벌어진 일" [ref=f15e195] [cursor=pointer]:
+                  - /url: https://www.segye.com/r.jsp?aid=20260619510389&utm_source=naver&utm_medium=news&utm_campaign=portal
+              - listitem [ref=f15e196]:
+                - link "연기로만 끝내지 않았다…김지원·이성경·박신혜가 1억원씩 내놓은 이유" [ref=f15e197] [cursor=pointer]:
+                  - /url: https://www.segye.com/r.jsp?aid=20260810519164&utm_source=naver&utm_medium=news&utm_campaign=portal
+          - generic [ref=f15e198]:
+            - heading [level=2] [ref=f15e200]:
+              - emphasis [ref=f15e201]: 세계일보
+              - text: 언론사가 직접 선정한 이슈
+            - generic [ref=f15e202]:
+              - list [ref=f15e205]:
+                - listitem [ref=f15e206]:
+                  - link "이슈 건강·생활 플러스 46세 공효진이 밀가루 대신 먹는 면…건강에도 좋을까 46세 공효진이 밀가루 대신 먹는 면…건강에도 좋을까" [ref=f15e207] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/022/2422
+                    - generic [ref=f15e208]:
+                      - generic [ref=f15e209]: 이슈
+                      - strong [ref=f15e210]: 건강·생활 플러스
+                    - generic [ref=f15e211]:
+                      - emphasis [ref=f15e213]: 46세 공효진이 밀가루 대신 먹는 면…건강에도 좋을까
+                      - img "46세 공효진이 밀가루 대신 먹는 면…건강에도 좋을까" [ref=f15e215]
+                - listitem [ref=f15e216]:
+                  - link "이슈 일상톡톡 “오전 6시 되자마자 마감”…6억→3억 주담대, ‘새벽 5시 오픈런’ 벌어진 이유 “오전 6시 되자마자 마감”…6억→3억 주담대, ‘새벽 5시 오픈런’ 벌어진 이유" [ref=f15e217] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/022/2360
+                    - generic [ref=f15e218]:
+                      - generic [ref=f15e219]: 이슈
+                      - strong [ref=f15e220]: 일상톡톡
+                    - generic [ref=f15e221]:
+                      - emphasis [ref=f15e223]: “오전 6시 되자마자 마감”…6억→3억 주담대, ‘새벽 5시 오픈런’ 벌어진 이유
+                      - img "“오전 6시 되자마자 마감”…6억→3억 주담대, ‘새벽 5시 오픈런’ 벌어진 이유" [ref=f15e225]
+                - listitem [ref=f15e226]:
+                  - link "이슈 탐사기획-노인과 교도소 교도소도 먼저 늙은 日… 수용자 새 삶 찾아줘 교도소도 먼저 늙은 日… 수용자 새 삶 찾아줘" [ref=f15e227] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/022/2227
+                    - generic [ref=f15e228]:
+                      - generic [ref=f15e229]: 이슈
+                      - strong [ref=f15e230]: 탐사기획-노인과 교도소
+                    - generic [ref=f15e231]:
+                      - emphasis [ref=f15e233]: 교도소도 먼저 늙은 日… 수용자 새 삶 찾아줘
+                      - img "교도소도 먼저 늙은 日… 수용자 새 삶 찾아줘" [ref=f15e235]
+                - listitem [ref=f15e236]:
+                  - link "이슈 세계초대석 김태헌 대한출판문화협회 회장 “AI 시대일수록 인간의 사고력 담은 책의 가치는 더 커져” 김태헌 대한출판문화협회 회장 “AI 시대일수록 인간의 사고력 담은 책의 가치는 더 커져”" [ref=f15e237] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/022/664
+                    - generic [ref=f15e238]:
+                      - generic [ref=f15e239]: 이슈
+                      - strong [ref=f15e240]: 세계초대석
+                    - generic [ref=f15e241]:
+                      - emphasis [ref=f15e243]: 김태헌 대한출판문화협회 회장 “AI 시대일수록 인간의 사고력 담은 책의 가치는 더 커져”
+                      - img "김태헌 대한출판문화협회 회장 “AI 시대일수록 인간의 사고력 담은 책의 가치는 더 커져”" [ref=f15e245]
+                - listitem [ref=f15e246]:
+                  - link "이슈 부동산+ “제2의 강남은 없다”… ‘GTX’보다 먼저 봐야 할 핵심 기준 “제2의 강남은 없다”… ‘GTX’보다 먼저 봐야 할 핵심 기준" [ref=f15e247] [cursor=pointer]:
+                    - /url: https://media.naver.com/issue/022/1715
+                    - generic [ref=f15e248]:
+                      - generic [ref=f15e249]: 이슈
+                      - strong [ref=f15e250]: 부동산+
+                    - generic [ref=f15e251]:
+                      - emphasis [ref=f15e253]: “제2의 강남은 없다”… ‘GTX’보다 먼저 봐야 할 핵심 기준
+                      - img "“제2의 강남은 없다”… ‘GTX’보다 먼저 봐야 할 핵심 기준" [ref=f15e255]
+              - button "다음" [ref=f15e256] [cursor=pointer]
+          - generic [ref=f15e258]:
+            - generic [ref=f15e259]:
+              - strong [ref=f15e260]: 이 기사를 추천합니다
+              - button "기사 추천 안내" [ref=f15e261] [cursor=pointer]
+            - generic [ref=f15e262]:
+              - menu:
+                - menuitem "쏠쏠정보 0":
+                  - button "쏠쏠정보 0"
+                - menuitem "흥미진진 0":
+                  - button "흥미진진 0"
+                - menuitem "공감백배 0":
+                  - button "공감백배 0"
+                - menuitem "분석탁월 0":
+                  - button "분석탁월 0"
+                - menuitem "후속강추 0":
+                  - button "후속강추 0"
+      - generic [ref=f15e263]:
+        - generic [ref=f15e264]:
+          - generic [ref=f15e266]:
+            - generic [ref=f15e268]:
+              - heading [level=2] [ref=f15e270]:
+                - emphasis [ref=f15e271]: 세계일보
+                - text: 많이 본 뉴스
+              - text: 오전 10시~11시까지 집계한 결과입니다.
+            - list [ref=f15e272]:
+              - listitem [ref=f15e273]:
+                - link "1위 ‘부동산 큰손’ 박찬호, 800억 빌딩으론 부족했나… MLB 구단까지 [권준영의 머니볼]" [ref=f15e274] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150269?ntype=RANKING
+                  - generic [ref=f15e275]: 1위
+                  - generic [ref=f15e279]: ‘부동산 큰손’ 박찬호, 800억 빌딩으론 부족했나… MLB 구단까지 [권준영의 머니볼]
+              - listitem [ref=f15e282]:
+                - link "2위 [속보] 대법원 “‘유령주식 배당오류’ 삼성증권, 국민연금에 손해배상”" [ref=f15e283] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150359?ntype=RANKING
+                  - generic [ref=f15e284]: 2위
+                  - generic [ref=f15e288]: "[속보] 대법원 “‘유령주식 배당오류’ 삼성증권, 국민연금에 손해배상”"
+              - listitem [ref=f15e291]:
+                - link "3위 영화 찍고 집가던 대학생 3명 전원 사망…중앙선 침범 이유 조사" [ref=f15e292] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150343?ntype=RANKING
+                  - generic [ref=f15e293]: 3위
+                  - generic [ref=f15e297]: 영화 찍고 집가던 대학생 3명 전원 사망…중앙선 침범 이유 조사
+              - listitem [ref=f15e300]:
+                - link "4위 “오전 6시 되자마자 마감”…6억→3억 주담대, ‘새벽 5시 오픈런’ 벌어진 이유 [일상톡톡 플러스]" [ref=f15e301] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150261?ntype=RANKING
+                  - generic [ref=f15e302]: 4위
+                  - generic [ref=f15e306]: “오전 6시 되자마자 마감”…6억→3억 주담대, ‘새벽 5시 오픈런’ 벌어진 이유 [일상톡톡 플러스]
+              - listitem [ref=f15e309]:
+                - link "5위 골프 치는 트럼프 곁 지킨 ‘어벤저’…암살 위협 속 철통 경호" [ref=f15e310] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150307?ntype=RANKING
+                  - generic [ref=f15e311]: 5위
+                  - generic [ref=f15e315]: 골프 치는 트럼프 곁 지킨 ‘어벤저’…암살 위협 속 철통 경호
+              - listitem [ref=f15e318]:
+                - link "6위 “아침 vs 저녁, 언제 뛸까?”…폭염 속 ‘운동법’ 따로 있다" [ref=f15e319] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150333?ntype=RANKING
+                  - generic [ref=f15e320]: 6위
+                  - generic [ref=f15e324]: “아침 vs 저녁, 언제 뛸까?”…폭염 속 ‘운동법’ 따로 있다
+            - link "랭킹 뉴스 더보기" [ref=f15e328] [cursor=pointer]:
+              - /url: https://media.naver.com/press/022/ranking
+          - generic [ref=f15e331]:
+            - generic [ref=f15e332]:
+              - generic [ref=f15e334]:
+                - heading "이슈 NOW" [level=2] [ref=f15e335]
+                - button "안내" [ref=f15e336] [cursor=pointer]
+              - link "내 구독 이슈" [ref=f15e339] [cursor=pointer]:
+                - /url: https://media.naver.com/channel/issueSetting
+            - generic [ref=f15e340]:
+              - tablist [ref=f15e343]:
+                - tab "중동전쟁" [selected] [ref=f15e344] [cursor=pointer]
+                - tab "선관위" [ref=f15e345] [cursor=pointer]
+                - tab "지방선거" [ref=f15e346] [cursor=pointer]
+                - tab "개인정보유출" [ref=f15e347] [cursor=pointer]
+                - tab "AI" [ref=f15e348] [cursor=pointer]
+                - tab "부동산대책" [ref=f15e349] [cursor=pointer]
+                - tab "이재명대통령" [ref=f15e350] [cursor=pointer]
+                - tab "이란" [ref=f15e351] [cursor=pointer]
+                - tab "인공지능" [ref=f15e352] [cursor=pointer]
+                - tab "폭염" [ref=f15e353] [cursor=pointer]
+              - button "다음" [ref=f15e354] [cursor=pointer]
+            - tabpanel [ref=f15e356]:
+              - generic [ref=f15e357]:
+                - link "# 중동전쟁" [ref=f15e358] [cursor=pointer]:
+                  - /url: https://media.naver.com/issue/tag/42
+                  - generic [ref=f15e359]: "#"
+                  - heading "중동전쟁" [level=4] [ref=f15e360]
+                - generic [ref=f15e361]:
+                  - generic [ref=f15e362]: 10개 언론사
+                  - generic [ref=f15e363]: 8,046개 기사
+              - list [ref=f15e364]:
+                - listitem [ref=f15e365]:
+                  - generic [ref=f15e366]:
+                    - generic [ref=f15e367]:
+                      - link "美-이란 전쟁" [ref=f15e368] [cursor=pointer]:
+                        - /url: https://media.naver.com/issue/020/315
+                        - strong [ref=f15e370]: 美-이란 전쟁
+                      - button "구독" [ref=f15e371] [cursor=pointer]
+                    - link "“美, 이란서 패트리엇 절반 이상 소진…타지역서 빼와야 할수도”" [ref=f15e373] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/article/020/0003740299?iid=315
+                - listitem [ref=f15e376]:
+                  - generic [ref=f15e377]:
+                    - generic [ref=f15e378]:
+                      - link "중동發 경제 쇼크" [ref=f15e379] [cursor=pointer]:
+                        - /url: https://media.naver.com/issue/014/2572
+                        - strong [ref=f15e381]: 중동發 경제 쇼크
+                      - button "구독" [ref=f15e382] [cursor=pointer]
+                    - link "美에너지장관 \"걸프원유 수출 회복세\" vs 에너지정보청 \"내년까지 생산차질\"" [ref=f15e384] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/article/014/0005560412?iid=2572
+                - listitem [ref=f15e387]:
+                  - generic [ref=f15e388]:
+                    - generic [ref=f15e389]:
+                      - link "美·이란 갈등" [ref=f15e390] [cursor=pointer]:
+                        - /url: https://media.naver.com/issue/119/2341
+                        - strong [ref=f15e392]: 美·이란 갈등
+                      - button "구독" [ref=f15e393] [cursor=pointer]
+                    - link "이란 안보수장 “동결자금 반환 전엔 호르무즈 개방 없다”" [ref=f15e395] [cursor=pointer]:
+                      - /url: https://n.news.naver.com/article/119/0003120833?iid=2341
+          - generic [ref=f15e398]:
+            - generic [ref=f15e401]:
+              - heading "함께 볼만한 기자" [level=2] [ref=f15e402]
+              - button "안내" [ref=f15e403] [cursor=pointer]
+            - list [ref=f15e405]:
+              - listitem [ref=f15e406]:
+                - link "그냥 먹기만 해선 안 봐… 외국인이 좋아하는 K먹방은 ‘쿡방’ 그냥 먹기만 해선 안 봐… 외국인이 좋아하는 K먹방은 ‘쿡방’" [ref=f15e407] [cursor=pointer]:
+                  - /url: /mnews/article/023/0003992275?type=journalists
+                  - img "그냥 먹기만 해선 안 봐… 외국인이 좋아하는 K먹방은 ‘쿡방’" [ref=f15e410]
+                  - generic [ref=f15e411]: 그냥 먹기만 해선 안 봐… 외국인이 좋아하는 K먹방은 ‘쿡방’
+                - generic [ref=f15e414]:
+                  - link "백수진 기자 백수진 기자" [ref=f15e415] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/023/79853
+                    - img "백수진 기자" [ref=f15e417]
+                    - generic [ref=f15e418]: 백수진 기자
+                  - button "구독" [ref=f15e419] [cursor=pointer]
+              - listitem [ref=f15e421]:
+                - link "전통과 현대의 몸짓 만나… 신명나는 한국 춤 한마당 전통과 현대의 몸짓 만나… 신명나는 한국 춤 한마당" [ref=f15e422] [cursor=pointer]:
+                  - /url: /mnews/article/009/0005719549?type=journalists
+                  - img "전통과 현대의 몸짓 만나… 신명나는 한국 춤 한마당" [ref=f15e425]
+                  - generic [ref=f15e426]: 전통과 현대의 몸짓 만나… 신명나는 한국 춤 한마당
+                - generic [ref=f15e429]:
+                  - link "김대은 기자 김대은 기자" [ref=f15e430] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/009/76650
+                    - img "김대은 기자" [ref=f15e432]
+                    - generic [ref=f15e433]: 김대은 기자
+                  - button "구독" [ref=f15e434] [cursor=pointer]
+              - listitem [ref=f15e436]:
+                - link "신작 흥행에 깜짝 실적…NC·펄어비스 동반 질주 동영상 02:10 신작 흥행에 깜짝 실적…NC·펄어비스 동반 질주" [ref=f15e437] [cursor=pointer]:
+                  - /url: /mnews/article/215/0001261993?type=journalists
+                  - generic [ref=f15e439]:
+                    - img "신작 흥행에 깜짝 실적…NC·펄어비스 동반 질주" [ref=f15e440]
+                    - generic [ref=f15e441]:
+                      - emphasis [ref=f15e442]: 동영상
+                      - text: 02:10
+                  - generic [ref=f15e443]: 신작 흥행에 깜짝 실적…NC·펄어비스 동반 질주
+                - generic [ref=f15e446]:
+                  - link "박승원 기자 박승원 기자" [ref=f15e447] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/215/38415
+                    - img "박승원 기자" [ref=f15e449]
+                    - generic [ref=f15e450]: 박승원 기자
+                  - button "구독" [ref=f15e451] [cursor=pointer]
+              - listitem [ref=f15e453]:
+                - link "부산항 화물차 뒷바퀴 조명등 부착 캠페인…밤길 안전 개선 부산항 화물차 뒷바퀴 조명등 부착 캠페인…밤길 안전 개선" [ref=f15e454] [cursor=pointer]:
+                  - /url: /mnews/article/001/0016245216?type=journalists
+                  - img "부산항 화물차 뒷바퀴 조명등 부착 캠페인…밤길 안전 개선" [ref=f15e457]
+                  - generic [ref=f15e458]: 부산항 화물차 뒷바퀴 조명등 부착 캠페인…밤길 안전 개선
+                - generic [ref=f15e461]:
+                  - link "박창수 기자 박창수 기자" [ref=f15e462] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/001/27438
+                    - img "박창수 기자" [ref=f15e464]
+                    - generic [ref=f15e465]: 박창수 기자
+                  - button "구독" [ref=f15e466] [cursor=pointer]
+              - listitem [ref=f15e468]:
+                - link "캐나다 잠수함 수주 실패서 본 '나토의 벽'…K방산 돌파구는? 캐나다 잠수함 수주 실패서 본 '나토의 벽'…K방산 돌파구는?" [ref=f15e469] [cursor=pointer]:
+                  - /url: /mnews/article/079/0004177907?type=journalists
+                  - img "캐나다 잠수함 수주 실패서 본 '나토의 벽'…K방산 돌파구는?" [ref=f15e472]
+                  - generic [ref=f15e473]: 캐나다 잠수함 수주 실패서 본 '나토의 벽'…K방산 돌파구는?
+                - generic [ref=f15e476]:
+                  - link "서민선 기자 서민선 기자" [ref=f15e477] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/079/72980
+                    - img "서민선 기자" [ref=f15e479]
+                    - generic [ref=f15e480]: 서민선 기자
+                  - button "구독" [ref=f15e481] [cursor=pointer]
+              - listitem [ref=f15e483]:
+                - link "40여 개국 국립도서관 부산 선언 “AI시대 지식 신뢰성 지켜야” 40여 개국 국립도서관 부산 선언 “AI시대 지식 신뢰성 지켜야”" [ref=f15e484] [cursor=pointer]:
+                  - /url: /mnews/article/023/0003992434?type=journalists
+                  - img "40여 개국 국립도서관 부산 선언 “AI시대 지식 신뢰성 지켜야”" [ref=f15e487]
+                  - generic [ref=f15e488]: 40여 개국 국립도서관 부산 선언 “AI시대 지식 신뢰성 지켜야”
+                - generic [ref=f15e491]:
+                  - link "박진성 기자 박진성 기자" [ref=f15e492] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/023/80078
+                    - img "박진성 기자" [ref=f15e494]
+                    - generic [ref=f15e495]: 박진성 기자
+                  - button "구독" [ref=f15e496] [cursor=pointer]
+          - generic [ref=f15e498]:
+            - generic [ref=f15e501]:
+              - heading "함께 볼만한 뉴스" [level=2] [ref=f15e502]
+              - button "안내" [ref=f15e503] [cursor=pointer]
+            - list [ref=f15e505]:
+              - listitem [ref=f15e506]:
+                - link "아침 최저 17도로 '선선' 낮엔 무더위…동해안 지역 비[오늘날씨] 이데일리" [ref=f15e507] [cursor=pointer]:
+                  - /url: /mnews/article/018/0006349884
+                  - generic [ref=f15e508]:
+                    - generic [ref=f15e509]: 아침 최저 17도로 '선선' 낮엔 무더위…동해안 지역 비[오늘날씨]
+                    - generic [ref=f15e511]: 이데일리
+              - listitem [ref=f15e513]:
+                - link "“뇌혈관에 치명적”… 저녁에 피해야 할 ‘최악의 음식’, 뭐야? 헬스조선" [ref=f15e514] [cursor=pointer]:
+                  - /url: /mnews/article/346/0000114242
+                  - generic [ref=f15e515]:
+                    - generic [ref=f15e516]: “뇌혈관에 치명적”… 저녁에 피해야 할 ‘최악의 음식’, 뭐야?
+                    - generic [ref=f15e518]: 헬스조선
+              - listitem [ref=f15e520]:
+                - link "하영 측 “친일 단체 명단서 증조부 확인”…하루 만에 ‘사실무근’ 입장 바꿔 경향신문" [ref=f15e521] [cursor=pointer]:
+                  - /url: /mnews/article/032/0003463650
+                  - generic [ref=f15e522]:
+                    - generic [ref=f15e523]: 하영 측 “친일 단체 명단서 증조부 확인”…하루 만에 ‘사실무근’ 입장 바꿔
+                    - generic [ref=f15e525]: 경향신문
+              - listitem [ref=f15e527]:
+                - link "이지현 “침대서 한 발짝도 못 나왔다” 최악 고통…공기로 전파된다는 ‘이 병’ 뭐길래[라이프] 서울신문" [ref=f15e528] [cursor=pointer]:
+                  - /url: /mnews/article/081/0003669360
+                  - generic [ref=f15e529]:
+                    - generic [ref=f15e530]: 이지현 “침대서 한 발짝도 못 나왔다” 최악 고통…공기로 전파된다는 ‘이 병’ 뭐길래[라이프]
+                    - generic [ref=f15e532]: 서울신문
+          - list [ref=f15e535]:
+            - listitem [ref=f15e536]:
+              - link "“오늘 저녁 식탁에서 당장 치워라”… 뇌졸중 위험 2배 높이는 ‘이 반찬’ [헬시타임] 서울경제 서울경제" [ref=f15e537] [cursor=pointer]:
+                - /url: /mnews/article/011/0004650797
+                - generic [ref=f15e540]:
+                  - generic [ref=f15e541]: “오늘 저녁 식탁에서 당장 치워라”… 뇌졸중 위험 2배 높이는 ‘이 반찬’ [헬시타임]
+                  - generic [ref=f15e543]:
+                    - img "서울경제" [ref=f15e545]
+                    - generic [ref=f15e546]: 서울경제
+            - listitem [ref=f15e547]:
+              - link "“상하이서 초호화 데이트” 아옳이, 연인과 이어진 계기는 뜻밖의 ‘이것’? 코메디닷컴 코메디닷컴" [ref=f15e548] [cursor=pointer]:
+                - /url: /mnews/article/296/0000103572
+                - generic [ref=f15e551]:
+                  - generic [ref=f15e552]: “상하이서 초호화 데이트” 아옳이, 연인과 이어진 계기는 뜻밖의 ‘이것’?
+                  - generic [ref=f15e554]:
+                    - img "코메디닷컴" [ref=f15e556]
+                    - generic [ref=f15e557]: 코메디닷컴
+            - listitem [ref=f15e558]:
+              - link "제15호 태풍 찬홈 영향 동해안에 비…제17호 태풍 낭카 발생 예상, 이동경로는? 부산일보 부산일보" [ref=f15e559] [cursor=pointer]:
+                - /url: /mnews/article/082/0001393527
+                - generic [ref=f15e562]:
+                  - generic [ref=f15e563]: 제15호 태풍 찬홈 영향 동해안에 비…제17호 태풍 낭카 발생 예상, 이동경로는?
+                  - generic [ref=f15e565]:
+                    - img "부산일보" [ref=f15e567]
+                    - generic [ref=f15e568]: 부산일보
+          - list [ref=f15e570]:
+            - listitem [ref=f15e571]:
+              - link "촬영 금지 日 혼탕서 카메라 든 한국인 유튜버…\"나라 망신\" 한국경제" [ref=f15e572] [cursor=pointer]:
+                - /url: /mnews/article/015/0005319926
+                - generic [ref=f15e573]:
+                  - generic [ref=f15e574]: 촬영 금지 日 혼탕서 카메라 든 한국인 유튜버…"나라 망신"
+                  - generic [ref=f15e576]: 한국경제
+            - listitem [ref=f15e578]:
+              - link "“아침 vs 저녁, 언제 뛸까?”…폭염 속 ‘운동법’ 따로 있다 세계일보" [ref=f15e579] [cursor=pointer]:
+                - /url: /mnews/article/022/0004150333
+                - generic [ref=f15e580]:
+                  - generic [ref=f15e581]: “아침 vs 저녁, 언제 뛸까?”…폭염 속 ‘운동법’ 따로 있다
+                  - generic [ref=f15e583]: 세계일보
+            - listitem [ref=f15e585]:
+              - link "“남편 9억 빚 다 갚아줬다” 엄청난 수입 자랑했는데…유튜버 ‘돈 벌기’ 더 어려워진다 헤럴드경제" [ref=f15e586] [cursor=pointer]:
+                - /url: /mnews/article/016/0002682521
+                - generic [ref=f15e587]:
+                  - generic [ref=f15e588]: “남편 9억 빚 다 갚아줬다” 엄청난 수입 자랑했는데…유튜버 ‘돈 벌기’ 더 어려워진다
+                  - generic [ref=f15e590]: 헤럴드경제
+            - listitem [ref=f15e592]:
+              - link "‘제국의 위안부’ 저자 박유하 “하영 증조부 친일 논란은 ‘순결 강박’…일제 치하의 구조적 친일” 조선비즈" [ref=f15e593] [cursor=pointer]:
+                - /url: /mnews/article/366/0001185697
+                - generic [ref=f15e594]:
+                  - generic [ref=f15e595]: ‘제국의 위안부’ 저자 박유하 “하영 증조부 친일 논란은 ‘순결 강박’…일제 치하의 구조적 친일”
+                  - generic [ref=f15e597]: 조선비즈
+          - list [ref=f15e600]:
+            - listitem [ref=f15e601]:
+              - link "김민석 “조작기소 취소가 원칙”…한동훈 “李대통령 공소취소 사실상 선언한 것” 국민일보 국민일보" [ref=f15e602] [cursor=pointer]:
+                - /url: /mnews/article/005/0001866399
+                - generic [ref=f15e605]:
+                  - generic [ref=f15e606]: 김민석 “조작기소 취소가 원칙”…한동훈 “李대통령 공소취소 사실상 선언한 것”
+                  - generic [ref=f15e608]:
+                    - img "국민일보" [ref=f15e610]
+                    - generic [ref=f15e611]: 국민일보
+            - listitem [ref=f15e612]:
+              - link "집 내놨다던 靑 다주택자들, 대부분 안 팔고 떠났다 조선일보 조선일보" [ref=f15e613] [cursor=pointer]:
+                - /url: /mnews/article/023/0003992512
+                - generic [ref=f15e616]:
+                  - generic [ref=f15e617]: 집 내놨다던 靑 다주택자들, 대부분 안 팔고 떠났다
+                  - generic [ref=f15e619]:
+                    - img "조선일보" [ref=f15e621]
+                    - generic [ref=f15e622]: 조선일보
+            - listitem [ref=f15e623]:
+              - link "서울의대 교수 “사후세계 있다”…방광암 걸리자 와인 마신 이유 중앙일보 중앙일보" [ref=f15e624] [cursor=pointer]:
+                - /url: /mnews/article/025/0003543669
+                - generic [ref=f15e627]:
+                  - generic [ref=f15e628]: 서울의대 교수 “사후세계 있다”…방광암 걸리자 와인 마신 이유
+                  - generic [ref=f15e630]:
+                    - img "중앙일보" [ref=f15e632]
+                    - generic [ref=f15e633]: 중앙일보
+          - list [ref=f15e635]:
+            - listitem [ref=f15e636]:
+              - link "“부부가 다 암에 걸렸어요”…여성, 남성의 암 1위 보니 “식습관도 큰 영향” 코메디닷컴 코메디닷컴" [ref=f15e637] [cursor=pointer]:
+                - /url: /mnews/article/296/0000103558
+                - generic [ref=f15e640]:
+                  - generic [ref=f15e641]: “부부가 다 암에 걸렸어요”…여성, 남성의 암 1위 보니 “식습관도 큰 영향”
+                  - generic [ref=f15e643]:
+                    - img "코메디닷컴" [ref=f15e645]
+                    - generic [ref=f15e646]: 코메디닷컴
+            - listitem [ref=f15e647]:
+              - link "\"남들도 찍길래\"…촬영 금지 일본 온천서 카메라 든 한국 여성 시끌 뉴스1 뉴스1" [ref=f15e648] [cursor=pointer]:
+                - /url: /mnews/article/421/0009108907
+                - generic [ref=f15e651]:
+                  - generic [ref=f15e652]: "\"남들도 찍길래\"…촬영 금지 일본 온천서 카메라 든 한국 여성 시끌"
+                  - generic [ref=f15e654]:
+                    - img "뉴스1" [ref=f15e656]
+                    - generic [ref=f15e657]: 뉴스1
+            - listitem [ref=f15e658]:
+              - link "“간 망가져” 의사 경고 나왔다… 샐러드 잘못 먹다가 ‘날벼락’, 무슨 일? 헬스조선 헬스조선" [ref=f15e659] [cursor=pointer]:
+                - /url: /mnews/article/346/0000114262
+                - generic [ref=f15e662]:
+                  - generic [ref=f15e663]: “간 망가져” 의사 경고 나왔다… 샐러드 잘못 먹다가 ‘날벼락’, 무슨 일?
+                  - generic [ref=f15e665]:
+                    - img "헬스조선" [ref=f15e667]
+                    - generic [ref=f15e668]: 헬스조선
+          - list [ref=f15e670]:
+            - listitem [ref=f15e671]:
+              - link "정치" [ref=f15e672] [cursor=pointer]:
+                - /url: https://news.naver.com/section/100
+            - listitem [ref=f15e674]:
+              - link "경제" [ref=f15e675] [cursor=pointer]:
+                - /url: https://news.naver.com/section/101
+            - listitem [ref=f15e677]:
+              - link "사회" [ref=f15e678] [cursor=pointer]:
+                - /url: https://news.naver.com/section/102
+            - listitem [ref=f15e680]:
+              - link "생활/문화" [ref=f15e681] [cursor=pointer]:
+                - /url: https://news.naver.com/section/103
+            - listitem [ref=f15e683]:
+              - link "세계" [ref=f15e684] [cursor=pointer]:
+                - /url: https://news.naver.com/section/104
+            - listitem [ref=f15e686]:
+              - link "IT/과학" [ref=f15e687] [cursor=pointer]:
+                - /url: https://news.naver.com/section/105
+            - listitem [ref=f15e689]:
+              - link "오피니언" [ref=f15e690] [cursor=pointer]:
+                - /url: https://news.naver.com/opinion/home
+            - listitem [ref=f15e692]:
+              - link "랭킹" [ref=f15e693] [cursor=pointer]:
+                - /url: https://m.news.naver.com/rankingList
+            - listitem [ref=f15e695]:
+              - link "신문보기" [ref=f15e696] [cursor=pointer]:
+                - /url: https://news.naver.com/newspaper/home
+            - listitem [ref=f15e698]:
+              - link "프리미엄" [ref=f15e699] [cursor=pointer]:
+                - /url: https://contents.premium.naver.com
+        - generic [ref=f15e701]:
+          - generic [ref=f15e702]:
+            - generic [ref=f15e705]:
+              - heading "구독이 늘어난 기자" [level=2] [ref=f15e706]
+              - button "안내" [ref=f15e707] [cursor=pointer]
+            - list [ref=f15e709]:
+              - listitem [ref=f15e710]:
+                - link "“치킨 맛, 기름이 좌우한다”…BBQ·교촌·bhc ‘튀김유·주방관리’ 경쟁 “치킨 맛, 기름이 좌우한다”…BBQ·교촌·bhc ‘튀김유·주방관리’ 경쟁" [ref=f15e711] [cursor=pointer]:
+                  - /url: /mnews/article/022/0004150325?type=journalists
+                  - img "“치킨 맛, 기름이 좌우한다”…BBQ·교촌·bhc ‘튀김유·주방관리’ 경쟁" [ref=f15e714]
+                  - generic [ref=f15e715]: “치킨 맛, 기름이 좌우한다”…BBQ·교촌·bhc ‘튀김유·주방관리’ 경쟁
+                - generic [ref=f15e718]:
+                  - link "김현주 기자 김현주 기자" [ref=f15e719] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/022/59968
+                    - img "김현주 기자" [ref=f15e721]
+                    - generic [ref=f15e722]: 김현주 기자
+                  - button "구독" [ref=f15e723] [cursor=pointer]
+              - listitem [ref=f15e725]:
+                - link "박지원 \"'영부인 다 수사했냐'는 김건희, 바뀐 세상 몰라\" 박지원 \"'영부인 다 수사했냐'는 김건희, 바뀐 세상 몰라\"" [ref=f15e726] [cursor=pointer]:
+                  - /url: /mnews/article/018/0006349471?type=journalists
+                  - img "박지원 \"'영부인 다 수사했냐'는 김건희, 바뀐 세상 몰라\"" [ref=f15e729]
+                  - generic [ref=f15e730]: 박지원 "'영부인 다 수사했냐'는 김건희, 바뀐 세상 몰라"
+                - generic [ref=f15e733]:
+                  - link "홍수현 기자 홍수현 기자" [ref=f15e734] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/018/79319
+                    - img "홍수현 기자" [ref=f15e736]
+                    - generic [ref=f15e737]: 홍수현 기자
+                  - button "구독" [ref=f15e738] [cursor=pointer]
+              - listitem [ref=f15e740]:
+                - link "[리얼]일본 혼탕서 카메라 켠 女한국인 유튜버 [리얼]일본 혼탕서 카메라 켠 女한국인 유튜버" [ref=f15e741] [cursor=pointer]:
+                  - /url: /mnews/article/021/0002810854?type=journalists
+                  - img "[리얼]일본 혼탕서 카메라 켠 女한국인 유튜버" [ref=f15e744]
+                  - generic [ref=f15e745]: "[리얼]일본 혼탕서 카메라 켠 女한국인 유튜버"
+                - generic [ref=f15e748]:
+                  - link "임정환 기자 임정환 기자" [ref=f15e749] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/021/77669
+                    - img "임정환 기자" [ref=f15e751]
+                    - generic [ref=f15e752]: 임정환 기자
+                  - button "구독" [ref=f15e753] [cursor=pointer]
+              - listitem [ref=f15e755]:
+                - link "\"추석 전 30만원씩 뿌린다\" 경제회복지원금 530억 논란 터진 지자체 \"추석 전 30만원씩 뿌린다\" 경제회복지원금 530억 논란 터진 지자체" [ref=f15e756] [cursor=pointer]:
+                  - /url: /mnews/article/088/0001023011?type=journalists
+                  - img "\"추석 전 30만원씩 뿌린다\" 경제회복지원금 530억 논란 터진 지자체" [ref=f15e759]
+                  - generic [ref=f15e760]: "\"추석 전 30만원씩 뿌린다\" 경제회복지원금 530억 논란 터진 지자체"
+                - generic [ref=f15e763]:
+                  - link "김유진 기자 김유진 기자" [ref=f15e764] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/088/80327
+                    - img "김유진 기자" [ref=f15e766]
+                    - generic [ref=f15e767]: 김유진 기자
+                  - button "구독" [ref=f15e768] [cursor=pointer]
+              - listitem [ref=f15e770]:
+                - link "\"내 증조부 안상호 친일파, 더럽다\"…하영 논란에 13년전 글 재조명 \"내 증조부 안상호 친일파, 더럽다\"…하영 논란에 13년전 글 재조명" [ref=f15e771] [cursor=pointer]:
+                  - /url: /mnews/article/008/0005398712?type=journalists
+                  - img "\"내 증조부 안상호 친일파, 더럽다\"…하영 논란에 13년전 글 재조명" [ref=f15e774]
+                  - generic [ref=f15e775]: "\"내 증조부 안상호 친일파, 더럽다\"…하영 논란에 13년전 글 재조명"
+                - generic [ref=f15e778]:
+                  - link "전형주 기자 전형주 기자" [ref=f15e779] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/008/76456
+                    - img "전형주 기자" [ref=f15e781]
+                    - generic [ref=f15e782]: 전형주 기자
+                  - button "구독" [ref=f15e783] [cursor=pointer]
+              - listitem [ref=f15e785]:
+                - link "의사·변호사와 어깨 나란히…외신도 깜짝 놀란 한국의 ‘반도체 신랑감’ 열풍 의사·변호사와 어깨 나란히…외신도 깜짝 놀란 한국의 ‘반도체 신랑감’ 열풍" [ref=f15e786] [cursor=pointer]:
+                  - /url: /mnews/article/011/0004650914?type=journalists
+                  - img "의사·변호사와 어깨 나란히…외신도 깜짝 놀란 한국의 ‘반도체 신랑감’ 열풍" [ref=f15e789]
+                  - generic [ref=f15e790]: 의사·변호사와 어깨 나란히…외신도 깜짝 놀란 한국의 ‘반도체 신랑감’ 열풍
+                - generic [ref=f15e793]:
+                  - link "남윤정 기자 남윤정 기자" [ref=f15e794] [cursor=pointer]:
+                    - /url: https://media.naver.com/journalist/011/80136
+                    - img "남윤정 기자" [ref=f15e796]
+                    - generic [ref=f15e797]: 남윤정 기자
+                  - button "구독" [ref=f15e798] [cursor=pointer]
+          - generic [ref=f15e800]:
+            - generic [ref=f15e802]:
+              - heading [level=2] [ref=f15e804]:
+                - emphasis [ref=f15e805]: 세계일보
+                - text: 댓글 많은 뉴스
+              - text: 오전 8시~11시까지 집계한 결과입니다.
+            - list [ref=f15e806]:
+              - listitem [ref=f15e807]:
+                - link "1위 李 대통령, 구윤철에 “세금 바꾸면 욕먹어… 무조건 기어서 다니시라”" [ref=f15e808] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150309?ntype=RANKING
+                  - generic [ref=f15e809]: 1위
+                  - generic [ref=f15e813]: 李 대통령, 구윤철에 “세금 바꾸면 욕먹어… 무조건 기어서 다니시라”
+              - listitem [ref=f15e816]:
+                - link "2위 “오전 6시 되자마자 마감”…6억→3억 주담대, ‘새벽 5시 오픈런’ 벌어진 이유 [일상톡톡 플러스]" [ref=f15e817] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150261?ntype=RANKING
+                  - generic [ref=f15e818]: 2위
+                  - generic [ref=f15e822]: “오전 6시 되자마자 마감”…6억→3억 주담대, ‘새벽 5시 오픈런’ 벌어진 이유 [일상톡톡 플러스]
+              - listitem [ref=f15e825]:
+                - link "3위 ‘부동산 큰손’ 박찬호, 800억 빌딩으론 부족했나… MLB 구단까지 [권준영의 머니볼]" [ref=f15e826] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150269?ntype=RANKING
+                  - generic [ref=f15e827]: 3위
+                  - generic [ref=f15e831]: ‘부동산 큰손’ 박찬호, 800억 빌딩으론 부족했나… MLB 구단까지 [권준영의 머니볼]
+              - listitem [ref=f15e834]:
+                - link "4위 “89조 벌었는데 목표가 4만원 뚝”…삼성전자 덮친 ‘2027년 경고’ [숫자 뒤의 진실]" [ref=f15e835] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150262?ntype=RANKING
+                  - generic [ref=f15e836]: 4위
+                  - generic [ref=f15e840]: “89조 벌었는데 목표가 4만원 뚝”…삼성전자 덮친 ‘2027년 경고’ [숫자 뒤의 진실]
+              - listitem [ref=f15e843]:
+                - link "5위 [속보] 대법원 “‘유령주식 배당오류’ 삼성증권, 국민연금에 손해배상”" [ref=f15e844] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150359?ntype=RANKING
+                  - generic [ref=f15e845]: 5위
+                  - generic [ref=f15e849]: "[속보] 대법원 “‘유령주식 배당오류’ 삼성증권, 국민연금에 손해배상”"
+              - listitem [ref=f15e852]:
+                - link "6위 증가하는 소비자 불만, 유해물질 수백배…‘중국계 커머스’의 위기" [ref=f15e853] [cursor=pointer]:
+                  - /url: /mnews/ranking/article/022/0004150302?ntype=RANKING
+                  - generic [ref=f15e854]: 6위
+                  - generic [ref=f15e858]: 증가하는 소비자 불만, 유해물질 수백배…‘중국계 커머스’의 위기
+            - link "랭킹 뉴스 더보기" [ref=f15e862] [cursor=pointer]:
+              - /url: https://media.naver.com/press/022/ranking?type=comment
+          - list [ref=f15e865]:
+            - listitem [ref=f15e866]:
+              - link "과거 성추행 삼촌 찾아오자 흉기 들고 맞선 30대女…대법 판단은? 동아일보" [ref=f15e867] [cursor=pointer]:
+                - /url: /mnews/article/020/0003740278
+                - generic [ref=f15e868]:
+                  - generic [ref=f15e869]: 과거 성추행 삼촌 찾아오자 흉기 들고 맞선 30대女…대법 판단은?
+                  - generic [ref=f15e871]: 동아일보
+            - listitem [ref=f15e873]:
+              - link "태풍 찬홈이 몰고 온 동풍에 동해안 비…전국 낮 25∼33도 연합뉴스" [ref=f15e874] [cursor=pointer]:
+                - /url: /mnews/article/001/0016246038
+                - generic [ref=f15e875]:
+                  - generic [ref=f15e876]: 태풍 찬홈이 몰고 온 동풍에 동해안 비…전국 낮 25∼33도
+                  - generic [ref=f15e878]: 연합뉴스
+            - listitem [ref=f15e880]:
+              - link "\"고구마 튀김 사오랬는데\"…40년 만에 동대구역 찾은 프랑스 입양인 매일신문" [ref=f15e881] [cursor=pointer]:
+                - /url: /mnews/article/088/0001023111
+                - generic [ref=f15e882]:
+                  - generic [ref=f15e883]: "\"고구마 튀김 사오랬는데\"…40년 만에 동대구역 찾은 프랑스 입양인"
+                  - generic [ref=f15e885]: 매일신문
+            - listitem [ref=f15e887]:
+              - link "수년 기다렸는데 분양가 40% 뛰었다…사전청약 당첨자 ‘한숨’ [이집저집] 세계일보" [ref=f15e888] [cursor=pointer]:
+                - /url: /mnews/article/022/0004150279
+                - generic [ref=f15e889]:
+                  - generic [ref=f15e890]: 수년 기다렸는데 분양가 40% 뛰었다…사전청약 당첨자 ‘한숨’ [이집저집]
+                  - generic [ref=f15e892]: 세계일보
+          - list [ref=f15e895]:
+            - listitem [ref=f15e896]:
+              - link "[속보] 안철수 \"'한동훈 복당 운동권' 당 쑥대밭 만들어...총선 배제해야\" CJB청주방송 CJB청주방송" [ref=f15e897] [cursor=pointer]:
+                - /url: /mnews/article/655/0000032359
+                - generic [ref=f15e900]:
+                  - generic [ref=f15e901]: "[속보] 안철수 \"'한동훈 복당 운동권' 당 쑥대밭 만들어...총선 배제해야\""
+                  - generic [ref=f15e903]:
+                    - img "CJB청주방송" [ref=f15e905]
+                    - generic [ref=f15e906]: CJB청주방송
+            - listitem [ref=f15e907]:
+              - link "20대 대학생 3명, 중앙선 침범해 덤프트럭과 정면 충돌... 모두 숨져 파이낸셜뉴스 파이낸셜뉴스" [ref=f15e908] [cursor=pointer]:
+                - /url: /mnews/article/014/0005560285
+                - generic [ref=f15e911]:
+                  - generic [ref=f15e912]: 20대 대학생 3명, 중앙선 침범해 덤프트럭과 정면 충돌... 모두 숨져
+                  - generic [ref=f15e914]:
+                    - img "파이낸셜뉴스" [ref=f15e916]
+                    - generic [ref=f15e917]: 파이낸셜뉴스
+            - listitem [ref=f15e918]:
+              - link "태풍 '찬홈' 북상에…아시아나, 도쿄·센다이 노선 비정상 운항 예고 뉴시스 뉴시스" [ref=f15e919] [cursor=pointer]:
+                - /url: /mnews/article/003/0014120457
+                - generic [ref=f15e922]:
+                  - generic [ref=f15e923]: 태풍 '찬홈' 북상에…아시아나, 도쿄·센다이 노선 비정상 운항 예고
+                  - generic [ref=f15e925]:
+                    - img "뉴시스" [ref=f15e927]
+                    - generic [ref=f15e928]: 뉴시스
+          - list [ref=f15e930]:
+            - listitem [ref=f15e931]:
+              - link "의사·변호사와 어깨 나란히…외신도 깜짝 놀란 한국의 ‘반도체 신랑감’ 열풍 서울경제 서울경제" [ref=f15e932] [cursor=pointer]:
+                - /url: /mnews/article/011/0004650914
+                - generic [ref=f15e935]:
+                  - generic [ref=f15e936]: 의사·변호사와 어깨 나란히…외신도 깜짝 놀란 한국의 ‘반도체 신랑감’ 열풍
+                  - generic [ref=f15e938]:
+                    - img "서울경제" [ref=f15e940]
+                    - generic [ref=f15e941]: 서울경제
+            - listitem [ref=f15e942]:
+              - link "경남 농경지 1천955㏊ 폭염 가뭄 피해…도 \"농업용수 확보 총력\"(종합) 연합뉴스 연합뉴스" [ref=f15e943] [cursor=pointer]:
+                - /url: /mnews/article/001/0016244805
+                - generic [ref=f15e946]:
+                  - generic [ref=f15e947]: 경남 농경지 1천955㏊ 폭염 가뭄 피해…도 "농업용수 확보 총력"(종합)
+                  - generic [ref=f15e949]:
+                    - img "연합뉴스" [ref=f15e951]
+                    - generic [ref=f15e952]: 연합뉴스
+            - listitem [ref=f15e953]:
+              - link "트럭 충돌 차량서 숨진 20대 남녀 3명…영화 찍고 집가던 대학생들이었다 디지털타임스 디지털타임스" [ref=f15e954] [cursor=pointer]:
+                - /url: /mnews/article/029/0003041892
+                - generic [ref=f15e957]:
+                  - generic [ref=f15e958]: 트럭 충돌 차량서 숨진 20대 남녀 3명…영화 찍고 집가던 대학생들이었다
+                  - generic [ref=f15e960]:
+                    - img "디지털타임스" [ref=f15e962]
+                    - generic [ref=f15e963]: 디지털타임스
+          - list [ref=f15e965]:
+            - listitem [ref=f15e966]:
+              - link "“캔맥주 마셨죠? 10만원입니다” 화들짝…‘야맥’ 즐겼다가 과태료 문다는 청계천 상황 서울신문 서울신문" [ref=f15e967] [cursor=pointer]:
+                - /url: /mnews/article/081/0003669659
+                - generic [ref=f15e970]:
+                  - generic [ref=f15e971]: “캔맥주 마셨죠? 10만원입니다” 화들짝…‘야맥’ 즐겼다가 과태료 문다는 청계천 상황
+                  - generic [ref=f15e973]:
+                    - img "서울신문" [ref=f15e975]
+                    - generic [ref=f15e976]: 서울신문
+            - listitem [ref=f15e977]:
+              - link "동영상 12:11 태풍 '돌핀'에 쑥대밭 된 중국…콜롬비아 21세기 최악의 지진 [뉴스와이드] MBN MBN" [ref=f15e978] [cursor=pointer]:
+                - /url: /mnews/article/057/0001963154
+                - generic [ref=f15e981]:
+                  - emphasis [ref=f15e982]: 동영상
+                  - text: 12:11
+                - generic [ref=f15e983]:
+                  - generic [ref=f15e984]: 태풍 '돌핀'에 쑥대밭 된 중국…콜롬비아 21세기 최악의 지진 [뉴스와이드]
+                  - generic [ref=f15e986]:
+                    - img "MBN" [ref=f15e988]
+                    - generic [ref=f15e989]: MBN
+            - listitem [ref=f15e990]:
+              - link "백화점도 편의점도 웃었다···1000만 ‘방한 외국인’ 덕에 경향신문 경향신문" [ref=f15e991] [cursor=pointer]:
+                - /url: /mnews/article/032/0003463646
+                - generic [ref=f15e994]:
+                  - generic [ref=f15e995]: 백화점도 편의점도 웃었다···1000만 ‘방한 외국인’ 덕에
+                  - generic [ref=f15e997]:
+                    - img "경향신문" [ref=f15e999]
+                    - generic [ref=f15e1000]: 경향신문
+          - generic [ref=f15e1001]:
+            - heading [level=2] [ref=f15e1005]:
+              - emphasis [ref=f15e1006]: 세계일보
+              - text: 헤드라인
+            - list [ref=f15e1007]:
+              - listitem [ref=f15e1008]:
+                - link "폭염에 채솟값 ↑, 중동전쟁에 라면·빵값 ↑… ‘더블 악재’ 현실화하나 [수민이가 궁금해요]" [ref=f15e1009] [cursor=pointer]:
+                  - /url: /mnews/article/022/0004150362
+              - listitem [ref=f15e1015]:
+                - link "‘부동산 큰손’ 박찬호, 800억 빌딩으론 부족했나… MLB 구단까지 [권준영의 머니볼]" [ref=f15e1016] [cursor=pointer]:
+                  - /url: /mnews/article/022/0004150269
+              - listitem [ref=f15e1022]:
+                - link "“오전 6시 되자마자 마감”…6억→3억 주담대, ‘새벽 5시 오픈런’ 벌어진 이유 [일상톡톡 플러스]" [ref=f15e1023] [cursor=pointer]:
+                  - /url: /mnews/article/022/0004150261
+              - listitem [ref=f15e1029]:
+                - link "日 “北 탄도미사일 최소 1발 690㎞ 비행…베이징 경로로 엄중 항의”" [ref=f15e1030] [cursor=pointer]:
+                  - /url: /mnews/article/022/0004150346
+              - listitem [ref=f15e1036]:
+                - link "영화 찍고 집가던 대학생 3명 전원 사망…중앙선 침범 이유 조사" [ref=f15e1037] [cursor=pointer]:
+                  - /url: /mnews/article/022/0004150343
+              - listitem [ref=f15e1043]:
+                - link "천하람 , 머리 짧게 자르고 논산훈련소 입소…현역 의원 최초 ‘훈련병’ 생활" [ref=f15e1044] [cursor=pointer]:
+                  - /url: /mnews/article/022/0004150370
+    - generic: mobile
+  - contentinfo [ref=f15e1052]:
+    - paragraph [ref=f15e1053]:
+      - generic [ref=f15e1054]:
+        - link "로그인" [ref=f15e1056] [cursor=pointer]:
+          - /url: https://nid.naver.com/nidlogin.login?svctype=262144
+        - link "전체서비스" [ref=f15e1058] [cursor=pointer]:
+          - /url: https://m.naver.com/services.html?f=svc.news
+      - generic [ref=f15e1059]:
+        - link "서비스안내" [ref=f15e1061] [cursor=pointer]:
+          - /url: https://news.naver.com/ombudsman
+        - link "오류신고" [ref=f15e1063] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_001.naver
+        - link "고객센터" [ref=f15e1065] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/news/news_007.naver
+      - generic [ref=f15e1066]:
+        - 'link "기사배열 책임자 : 김수향" [ref=f15e1067] [cursor=pointer]':
+          - /url: https://news.naver.com/ombudsman/edit
+        - generic [ref=f15e1068]: "청소년 보호 책임자 : 이정규"
+      - generic [ref=f15e1069]: 각 언론사가 직접 콘텐츠를 편집합니다. ⓒ 세계일보
+      - generic [ref=f15e1070]: 이 콘텐츠의 저작권은 저작권자 또는 제공처에 있으며, 이를 무단 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.
+      - link "NAVER" [ref=f15e1072] [cursor=pointer]:
+        - /url: https://www.navercorp.com

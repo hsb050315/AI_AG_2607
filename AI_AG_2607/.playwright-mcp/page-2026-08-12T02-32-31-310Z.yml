@@ -1,0 +1,723 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - link "메뉴 영역으로 바로가기" [ref=e2] [cursor=pointer]:
+      - /url: "#lnb"
+    - link "본문 영역으로 바로가기" [ref=e4] [cursor=pointer]:
+      - /url: "#content"
+  - generic [ref=e6]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e11]:
+          - heading [level=1] [ref=e12]:
+            - link "NAVER" [ref=e13] [cursor=pointer]:
+              - /url: https://www.naver.com
+          - search [ref=e15]:
+            - group "검색" [ref=e16]:
+              - combobox "검색어를 입력해 주세요." [ref=e18]:
+                - text: 날씨
+                - generic:
+                  - generic:
+                    - dialog "자동완성 레이어"
+              - button "한글 입력기" [ref=e20] [cursor=pointer]
+              - button "검색" [ref=e22] [cursor=pointer]
+        - generic [ref=e24]:
+          - strong [ref=e25]: 사용자 링크
+          - list [ref=e26]:
+            - listitem [ref=e27]:
+              - link "로그인" [ref=e28] [cursor=pointer]:
+                - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fwhere%3Dnews%26query%3D%25EB%2582%25A0%25EC%2594%25A8
+            - listitem [ref=e32]:
+              - link "서비스 더보기" [ref=e33] [cursor=pointer]:
+                - /url: javascript:;
+      - generic [ref=e36]:
+        - generic [ref=e38]:
+          - generic [ref=e39]:
+            - tab "전체" [ref=e41] [cursor=pointer]
+            - tab "뉴스" [selected] [ref=e44] [cursor=pointer]
+            - tab "AI new" [ref=e46] [cursor=pointer]:
+              - text: AI
+              - generic [ref=e47]: new
+            - tab "블로그" [ref=e50] [cursor=pointer]
+            - tab "카페" [ref=e52] [cursor=pointer]
+            - tab "클립" [ref=e54] [cursor=pointer]
+            - tab "이미지" [ref=e56] [cursor=pointer]
+            - tab "지식iN" [ref=e58] [cursor=pointer]
+            - tab "동영상" [ref=e60] [cursor=pointer]
+            - tab "쇼핑" [ref=e62] [cursor=pointer]
+            - tab "어학사전" [ref=e64] [cursor=pointer]
+          - button "더보기" [ref=e66] [cursor=pointer]
+        - list [ref=e69]:
+          - listitem [ref=e70]:
+            - button "공유" [ref=e71] [cursor=pointer]
+    - main [ref=e72]:
+      - generic [ref=e73]:
+        - heading "날씨 뉴스검색 결과" [level=1] [ref=e74]
+        - generic [ref=e75]:
+          - generic [ref=e78]:
+            - button "검색옵션 열기" [ref=e80] [cursor=pointer]: 옵션
+            - listbox "정렬 필터를 선택하세요" [ref=e82]:
+              - option "관련도순" [selected] [ref=e83] [cursor=pointer]
+              - option "최신순" [ref=e84] [cursor=pointer]
+              - link "모바일 메인 언론사" [ref=e86] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=e89]:
+            - link "언론사 선정 언론사가 선정한 주요기사 혹은 심층기획 기사입니다. 네이버 메인에서 보고 싶은 언론사를 구독하세요." [ref=e91] [cursor=pointer]:
+              - /url: https://news.naver.com/main/static/channelPromotion.html
+              - generic [ref=e92]: 언론사 선정
+              - generic [ref=e93]:
+                - text: 언론사가 선정한 주요기사 혹은 심층기획 기사입니다.
+                - strong [ref=e94]: 네이버 메인에서 보고 싶은 언론사
+                - text: 를 구독하세요.
+            - list [ref=e96]:
+              - generic [ref=e100]:
+                - generic [ref=e101]:
+                  - generic [ref=e102]:
+                    - generic [ref=e103]:
+                      - link "뉴시스의 프로필 이미지 새 창 열림" [ref=e105] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/003
+                        - img "뉴시스의 프로필 이미지" [ref=e108]
+                        - generic [ref=e109]: 새 창 열림
+                      - link "뉴시스 새 창 열림" [ref=e112] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/003
+                        - generic [ref=e113]: 뉴시스
+                        - generic [ref=e114]: 새 창 열림
+                      - generic [ref=e117]:
+                        - generic [ref=e119]: 11시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e124] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/003/0014121527?sid=102
+                          - generic [ref=e125]: 네이버뉴스
+                          - generic [ref=e126]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e128] [cursor=pointer]
+                  - generic [ref=e133]:
+                    - generic [ref=e134]:
+                      - link "아침저녁은 선선, 한낮 33도 더위…동해안 비[오늘날씨] 새 창 열림" [ref=e135] [cursor=pointer]:
+                        - /url: https://www.newsis.com/view/NISX20260811_0003745242
+                        - generic [ref=e136]:
+                          - text: 아침저녁은 선선, 한낮 33도 더위…동해안 비[오늘
+                          - mark [ref=e137]: 날씨
+                          - text: "]"
+                        - generic [ref=e138]: 새 창 열림
+                      - link "수요일인 12일은 아침저녁으로 비교적 선선하겠지만, 낮에는 기온이 33도까지 오르며 무덥겠다. 동해안을 중심으로는 비가 내리겠다. 이날 기상청은 \"전국에 가끔 구름이 많겠으나 강원 영동과 경상권 해안은 대체로 흐리겠다\"고 예보했다. 최근 이어진 극심한 폭염의 기세는 다소 꺾였지만 낮... 새 창 열림" [ref=e139] [cursor=pointer]:
+                        - /url: https://www.newsis.com/view/NISX20260811_0003745242
+                        - generic [ref=e140]: 수요일인 12일은 아침저녁으로 비교적 선선하겠지만, 낮에는 기온이 33도까지 오르며 무덥겠다. 동해안을 중심으로는 비가 내리겠다. 이날 기상청은 "전국에 가끔 구름이 많겠으나 강원 영동과 경상권 해안은 대체로 흐리겠다"고 예보했다. 최근 이어진 극심한 폭염의 기세는 다소 꺾였지만 낮...
+                        - generic [ref=e141]: 새 창 열림
+                    - link "아침저녁은 선선, 한낮 33도 더위…동해안 비[오늘<mark>날씨</mark>]의 이미지 새 창 열림" [ref=e142] [cursor=pointer]:
+                      - /url: https://www.newsis.com/view/NISX20260811_0003745242
+                      - img "아침저녁은 선선, 한낮 33도 더위…동해안 비[오늘<mark>날씨</mark>]의 이미지" [ref=e144]
+                      - generic [ref=e146]: 새 창 열림
+                  - generic [ref=e149]:
+                    - generic [ref=e150]:
+                      - link "[오늘 날씨]선선한 아침 뒤 다시 '폭염'…낮 최고 33도, 곳곳 비 소식도 새 창 열림" [ref=e151] [cursor=pointer]:
+                        - /url: https://www.sidae.com/article/2026081114555149212
+                        - generic [ref=e152]:
+                          - text: "[오늘"
+                          - mark [ref=e153]: 날씨
+                          - text: "]선선한 아침 뒤 다시 '폭염'…낮 최고 33도, 곳곳 비 소식도"
+                        - generic [ref=e154]: 새 창 열림
+                      - generic [ref=e156]:
+                        - generic [ref=e157]: 동행미디어 시대
+                        - generic [ref=e161]:
+                          - generic [ref=e163]: 6시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e168] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/417/0001155073?sid=102
+                            - generic [ref=e169]: 네이버뉴스
+                            - generic [ref=e170]: 새 창 열림
+                    - generic [ref=e171]:
+                      - link "[오늘의 날씨] 아침 최저 17도까지 '뚝'…낮엔 33도 무더위 새 창 열림" [ref=e172] [cursor=pointer]:
+                        - /url: https://news.tf.co.kr/read/livingculture/2353053.htm
+                        - generic [ref=e173]:
+                          - text: "[오늘의"
+                          - mark [ref=e174]: 날씨
+                          - text: "] 아침 최저 17도까지 '뚝'…낮엔 33도 무더위"
+                        - generic [ref=e175]: 새 창 열림
+                      - generic [ref=e177]:
+                        - generic [ref=e178]: 더팩트
+                        - generic [ref=e180]:
+                          - generic [ref=e182]: 11시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e187] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/629/0000523681?sid=103
+                            - generic [ref=e188]: 네이버뉴스
+                            - generic [ref=e189]: 새 창 열림
+                    - generic [ref=e190]:
+                      - link "수도권·남부 한낮 33도 '후텁지근'…동해안 최대 60㎜ 비 [오늘날씨] 새 창 열림" [ref=e191] [cursor=pointer]:
+                        - /url: https://www.news1.kr/society/incident-accident/6256102
+                        - generic [ref=e192]:
+                          - text: 수도권·남부 한낮 33도 '후텁지근'…동해안 최대 60㎜ 비 [오늘
+                          - mark [ref=e193]: 날씨
+                          - text: "]"
+                        - generic [ref=e194]: 새 창 열림
+                      - generic [ref=e196]:
+                        - generic [ref=e197]: 뉴스1
+                        - generic [ref=e199]:
+                          - generic [ref=e201]: 5시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e206] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/421/0009108938?sid=102
+                            - generic [ref=e207]: 네이버뉴스
+                            - generic [ref=e208]: 새 창 열림
+                    - generic [ref=e209]:
+                      - link "아침 최저 17도로 '선선' 낮엔 무더위…동해안 지역 비[오늘날씨] 새 창 열림" [ref=e210] [cursor=pointer]:
+                        - /url: https://www.edaily.co.kr/news/newspath.asp?newsid=02489526645546664
+                        - generic [ref=e211]:
+                          - text: 아침 최저 17도로 '선선' 낮엔 무더위…동해안 지역 비[오늘
+                          - mark [ref=e212]: 날씨
+                          - text: "]"
+                        - generic [ref=e213]: 새 창 열림
+                      - generic [ref=e215]:
+                        - generic [ref=e216]: 이데일리
+                        - generic [ref=e218]:
+                          - generic [ref=e220]: 5시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e225] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/018/0006349884?sid=103
+                            - generic [ref=e226]: 네이버뉴스
+                            - generic [ref=e227]: 새 창 열림
+                  - link "관련뉴스 10건 전체보기" [ref=e230] [cursor=pointer]:
+                    - /url: "?de=&docid=0030014121527&ds=&field=0&mynews=0&news_office_checked=&nso=so%3Ar%2Cp%3Aall%2Ca%3Aall&office_section_code=0&office_type=0&pd=-1&photo=0&qdt=0&query=%EB%82%A0%EC%94%A8&related=1&sm=tab_tnw&sort=0&ssc=tab.news.all"
+                - generic [ref=e232]:
+                  - generic [ref=e233]:
+                    - generic [ref=e234]:
+                      - link "세계일보의 프로필 이미지 새 창 열림" [ref=e236] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/022
+                        - img "세계일보의 프로필 이미지" [ref=e239]
+                        - generic [ref=e240]: 새 창 열림
+                      - link "세계일보 새 창 열림" [ref=e243] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/022
+                        - generic [ref=e244]: 세계일보
+                        - generic [ref=e245]: 새 창 열림
+                      - generic [ref=e248]:
+                        - generic [ref=e250]: 5시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e255] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/022/0004150300?sid=103
+                          - generic [ref=e256]: 네이버뉴스
+                          - generic [ref=e257]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e259] [cursor=pointer]
+                  - generic [ref=e264]:
+                    - generic [ref=e265]:
+                      - link "강원·경북 동해안 중심으로 비…무더위는 지속 [오늘날씨] 새 창 열림" [ref=e266] [cursor=pointer]:
+                        - /url: https://www.segye.com/newsView/20260812503425?OutUrl=naver
+                        - generic [ref=e267]:
+                          - text: 강원·경북 동해안 중심으로 비…무더위는 지속 [오늘
+                          - mark [ref=e268]: 날씨
+                          - text: "]"
+                        - generic [ref=e269]: 새 창 열림
+                      - link "궂은 날씨를 보인 지난 9일 강원 속초 해수욕장에 높은 파도로 인한 수영 금지 안내문이 게시돼 있다. 연합뉴스 오전에 강원 동해안·산지에 비가 내리기 시작해 오후부터는 경북 동해안·북동 산지로 강우가 확대되겠다. 예상 강수량은 12~14일 사흘간 강원 동해안·산지와 경북 동해안·북동... 새 창 열림" [ref=e270] [cursor=pointer]:
+                        - /url: https://www.segye.com/newsView/20260812503425?OutUrl=naver
+                        - generic [ref=e271]:
+                          - text: 궂은
+                          - mark [ref=e272]: 날씨
+                          - text: 를 보인 지난 9일 강원 속초 해수욕장에 높은 파도로 인한 수영 금지 안내문이 게시돼 있다. 연합뉴스 오전에 강원 동해안·산지에 비가 내리기 시작해 오후부터는 경북 동해안·북동 산지로 강우가 확대되겠다. 예상 강수량은 12~14일 사흘간 강원 동해안·산지와 경북 동해안·북동...
+                        - generic [ref=e273]: 새 창 열림
+                    - link "강원·경북 동해안 중심으로 비…무더위는 지속 [오늘<mark>날씨</mark>]의 이미지 새 창 열림" [ref=e274] [cursor=pointer]:
+                      - /url: https://www.segye.com/newsView/20260812503425?OutUrl=naver
+                      - img "강원·경북 동해안 중심으로 비…무더위는 지속 [오늘<mark>날씨</mark>]의 이미지" [ref=e276]
+                      - generic [ref=e278]: 새 창 열림
+                  - generic [ref=e282]:
+                    - link "[오늘의 날씨] 동해안에 최대 60㎜ 비…한낮엔 33도까지 새 창 열림" [ref=e283] [cursor=pointer]:
+                      - /url: https://www.sedaily.com/article/20078321?ref=naver
+                      - generic [ref=e284]:
+                        - text: "[오늘의"
+                        - mark [ref=e285]: 날씨
+                        - text: "] 동해안에 최대 60㎜ 비…한낮엔 33도까지"
+                      - generic [ref=e286]: 새 창 열림
+                    - generic [ref=e288]:
+                      - generic [ref=e289]: 서울경제
+                      - generic [ref=e291]:
+                        - generic [ref=e293]: 5시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e298] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/011/0004650833?sid=103
+                          - generic [ref=e299]: 네이버뉴스
+                          - generic [ref=e300]: 새 창 열림
+                - generic [ref=e302]:
+                  - generic [ref=e303]:
+                    - generic [ref=e304]:
+                      - link "연합뉴스의 프로필 이미지 새 창 열림" [ref=e306] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/001
+                        - img "연합뉴스의 프로필 이미지" [ref=e309]
+                        - generic [ref=e310]: 새 창 열림
+                      - link "연합뉴스 새 창 열림" [ref=e313] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/001
+                        - generic [ref=e314]: 연합뉴스
+                        - generic [ref=e315]: 새 창 열림
+                      - generic [ref=e318]:
+                        - generic [ref=e320]: 15시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e325] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/001/0016245701?sid=102
+                          - generic [ref=e326]: 네이버뉴스
+                          - generic [ref=e327]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e329] [cursor=pointer]
+                  - generic [ref=e334]:
+                    - generic [ref=e335]:
+                      - link "[날씨] 강원-경북 동해안·산지에 비…최대 60㎜ 예보 새 창 열림" [ref=e336] [cursor=pointer]:
+                        - /url: https://www.yna.co.kr/view/AKR20260811156800004?input=1195m
+                        - generic [ref=e337]:
+                          - text: "["
+                          - mark [ref=e338]: 날씨
+                          - text: "] 강원-경북 동해안·산지에 비…최대 60㎜ 예보"
+                        - generic [ref=e339]: 새 창 열림
+                      - 'link "다음은 12일 지역별 날씨 전망. [오전, 오후](최저∼최고기온) <오전, 오후 강수 확률> ▲ 서울 : [맑음, 맑음] (22∼32) <0, 0> ▲ 인천 : [맑음, 맑음] (22∼33) <0, 0> ▲ 수원 : [맑음, 맑음] (21∼32) <0, 0> ▲ 춘천 : [맑음, 맑음] (19∼29) <0, 0> ▲ 강릉 : [흐리고 한때 비, 흐리고 비] (21∼25) <60, 80... 새 창 열림" [ref=e340] [cursor=pointer]':
+                        - /url: https://www.yna.co.kr/view/AKR20260811156800004?input=1195m
+                        - generic [ref=e341]:
+                          - text: 다음은 12일 지역별
+                          - mark [ref=e342]: 날씨
+                          - text: "전망. [오전, 오후](최저∼최고기온) <오전, 오후 강수 확률> ▲ 서울 : [맑음, 맑음] (22∼32) <0, 0> ▲ 인천 : [맑음, 맑음] (22∼33) <0, 0> ▲ 수원 : [맑음, 맑음] (21∼32) <0, 0> ▲ 춘천 : [맑음, 맑음] (19∼29) <0, 0> ▲ 강릉 : [흐리고 한때 비, 흐리고 비] (21∼25) <60, 80..."
+                        - generic [ref=e343]: 새 창 열림
+                    - link "[<mark>날씨</mark>] 강원-경북 동해안·산지에 비…최대 60㎜ 예보의 이미지 새 창 열림" [ref=e344] [cursor=pointer]:
+                      - /url: https://www.yna.co.kr/view/AKR20260811156800004?input=1195m
+                      - img "[<mark>날씨</mark>] 강원-경북 동해안·산지에 비…최대 60㎜ 예보의 이미지" [ref=e346]
+                      - generic [ref=e348]: 새 창 열림
+                  - generic [ref=e352]:
+                    - link "[내일날씨] 선선한 아침·무더운 낮…동해안엔 비 새 창 열림" [ref=e353] [cursor=pointer]:
+                      - /url: https://www.yna.co.kr/view/AKR20260811008400004?input=1195m
+                      - generic [ref=e354]:
+                        - text: "[내일"
+                        - mark [ref=e355]: 날씨
+                        - text: "] 선선한 아침·무더운 낮…동해안엔 비"
+                      - generic [ref=e356]: 새 창 열림
+                    - generic [ref=e358]:
+                      - generic [ref=e359]: 연합뉴스
+                      - generic [ref=e361]:
+                        - generic [ref=e363]: 1일 전
+                        - link "네이버뉴스 새 창 열림" [ref=e368] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/001/0016243696?sid=102
+                          - generic [ref=e369]: 네이버뉴스
+                          - generic [ref=e370]: 새 창 열림
+                - generic [ref=e372]:
+                  - generic [ref=e373]:
+                    - generic [ref=e374]:
+                      - link "한국경제의 프로필 이미지 새 창 열림" [ref=e376] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/015
+                        - img "한국경제의 프로필 이미지" [ref=e379]
+                        - generic [ref=e380]: 새 창 열림
+                      - link "한국경제 새 창 열림" [ref=e383] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/015
+                        - generic [ref=e384]: 한국경제
+                        - generic [ref=e385]: 새 창 열림
+                      - generic [ref=e388]:
+                        - generic [ref=e390]: 17시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e395] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/015/0005319679?sid=103
+                          - generic [ref=e396]: 네이버뉴스
+                          - generic [ref=e397]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e399] [cursor=pointer]
+                  - generic [ref=e404]:
+                    - generic [ref=e405]:
+                      - link "\"드디어 찜통 끝\"…전국 덮친 '극한폭염' 한풀 꺾인다 [날씨] 새 창 열림" [ref=e406] [cursor=pointer]:
+                        - /url: https://www.hankyung.com/article/2026081149687
+                        - generic [ref=e407]:
+                          - text: "\"드디어 찜통 끝\"…전국 덮친 '극한폭염' 한풀 꺾인다 ["
+                          - mark [ref=e408]: 날씨
+                          - text: "]"
+                        - generic [ref=e409]: 새 창 열림
+                      - link "수요일인 12일 전국 대부분 지역이 폭염과 열대야에서 벗어나겠다. 제13호 태풍 돌핀의 영향으로 한반도 주변 기압계가 바뀌면서 최근 이어진 '극한폭염'도 한풀 꺾일 전망이다. 기상청에 따르면 12일 전국의 아침 최저기온은 17~24도, 낮 최고기온은 25~33도로 예상된다. 밤 최저기온이 25도 이상인... 새 창 열림" [ref=e410] [cursor=pointer]:
+                        - /url: https://www.hankyung.com/article/2026081149687
+                        - generic [ref=e411]: 수요일인 12일 전국 대부분 지역이 폭염과 열대야에서 벗어나겠다. 제13호 태풍 돌핀의 영향으로 한반도 주변 기압계가 바뀌면서 최근 이어진 '극한폭염'도 한풀 꺾일 전망이다. 기상청에 따르면 12일 전국의 아침 최저기온은 17~24도, 낮 최고기온은 25~33도로 예상된다. 밤 최저기온이 25도 이상인...
+                        - generic [ref=e412]: 새 창 열림
+                    - link "&quot;드디어 찜통 끝&quot;…전국 덮친 '극한폭염' 한풀 꺾인다 [<mark>날씨</mark>]의 이미지 새 창 열림" [ref=e413] [cursor=pointer]:
+                      - /url: https://www.hankyung.com/article/2026081149687
+                      - img "&quot;드디어 찜통 끝&quot;…전국 덮친 '극한폭염' 한풀 꺾인다 [<mark>날씨</mark>]의 이미지" [ref=e415]
+                      - generic [ref=e417]: 새 창 열림
+                  - generic [ref=e420]:
+                    - generic [ref=e421]:
+                      - link "[내일날씨]전국 폭염·열대야 벗어난다…낮 최고 33도 새 창 열림" [ref=e422] [cursor=pointer]:
+                        - /url: https://view.asiae.co.kr/article/2026081117594600515
+                        - generic [ref=e423]:
+                          - text: "[내일"
+                          - mark [ref=e424]: 날씨
+                          - text: "]전국 폭염·열대야 벗어난다…낮 최고 33도"
+                        - generic [ref=e425]: 새 창 열림
+                      - generic [ref=e427]:
+                        - generic [ref=e428]: 아시아경제
+                        - generic [ref=e432]:
+                          - generic [ref=e434]: 17시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e439] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/277/0005801741?sid=102
+                            - generic [ref=e440]: 네이버뉴스
+                            - generic [ref=e441]: 새 창 열림
+                    - generic [ref=e442]:
+                      - link "[내일날씨] 광복절까진 '폭염' 없을 것…'태풍 돌핀'이 이중돔 깨트려 새 창 열림" [ref=e443] [cursor=pointer]:
+                        - /url: http://www.inews24.com/view/1994028
+                        - generic [ref=e444]:
+                          - text: "[내일"
+                          - mark [ref=e445]: 날씨
+                          - text: "] 광복절까진 '폭염' 없을 것…'태풍 돌핀'이 이중돔 깨트려"
+                        - generic [ref=e446]: 새 창 열림
+                      - generic [ref=e448]:
+                        - generic [ref=e449]: 아이뉴스24
+                        - generic [ref=e453]:
+                          - generic [ref=e455]: 17시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e460] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/031/0001048904?sid=103
+                            - generic [ref=e461]: 네이버뉴스
+                            - generic [ref=e462]: 새 창 열림
+                - generic [ref=e464]:
+                  - generic [ref=e465]:
+                    - generic [ref=e466]:
+                      - link "매일경제의 프로필 이미지 새 창 열림" [ref=e468] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/009
+                        - img "매일경제의 프로필 이미지" [ref=e471]
+                        - generic [ref=e472]: 새 창 열림
+                      - link "매일경제 새 창 열림" [ref=e475] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/009
+                        - generic [ref=e476]: 매일경제
+                        - generic [ref=e477]: 새 창 열림
+                      - generic [ref=e480]:
+                        - generic [ref=e482]: 1일 전
+                        - link "네이버뉴스 새 창 열림" [ref=e487] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/009/0005719336?sid=103
+                          - generic [ref=e488]: 네이버뉴스
+                          - generic [ref=e489]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e491] [cursor=pointer]
+                  - generic [ref=e496]:
+                    - generic [ref=e497]:
+                      - link "“조상님 선견지명 입추매직 또 통했네”…아침기온 17도에 폭염 잊었다... 새 창 열림" [ref=e498] [cursor=pointer]:
+                        - /url: https://www.mk.co.kr/article/12123826
+                        - generic [ref=e499]: “조상님 선견지명 입추매직 또 통했네”…아침기온 17도에 폭염 잊었다...
+                        - generic [ref=e500]: 새 창 열림
+                      - link "전국 대부분 지역이 대체로 맑겠지만 강원영동은 흐린 날씨가 예상된다. 오전부터 강원 동해안과 산지에 비가 시작돼 밤에는 경북 동해안과 북동 산지로 확대되겠다. 12~13일 이틀간 예상 강수량은 △강원 동해안·산지, 경북 북부 동해안·북동 산지 20~60㎜ △경북 남부 동해안 10~40㎜다. 강릉의 낮... 새 창 열림" [ref=e501] [cursor=pointer]:
+                        - /url: https://www.mk.co.kr/article/12123826
+                        - generic [ref=e502]:
+                          - text: 전국 대부분 지역이 대체로 맑겠지만 강원영동은 흐린
+                          - mark [ref=e503]: 날씨
+                          - text: 가 예상된다. 오전부터 강원 동해안과 산지에 비가 시작돼 밤에는 경북 동해안과 북동 산지로 확대되겠다. 12~13일 이틀간 예상 강수량은 △강원 동해안·산지, 경북 북부 동해안·북동 산지 20~60㎜ △경북 남부 동해안 10~40㎜다. 강릉의 낮...
+                        - generic [ref=e504]: 새 창 열림
+                    - link "“조상님 선견지명 입추매직 또 통했네”…아침기온 17도에 폭염 잊었다...의 이미지 새 창 열림" [ref=e505] [cursor=pointer]:
+                      - /url: https://www.mk.co.kr/article/12123826
+                      - img "“조상님 선견지명 입추매직 또 통했네”…아침기온 17도에 폭염 잊었다...의 이미지" [ref=e507]
+                      - generic [ref=e509]: 새 창 열림
+                  - generic [ref=e512]:
+                    - generic [ref=e513]:
+                      - link "아침은 '선선' 낮엔 '33도 무더위'…동해안 지역 비 소식[내일날씨] 새 창 열림" [ref=e514] [cursor=pointer]:
+                        - /url: https://www.edaily.co.kr/news/newspath.asp?newsid=06422246645546336
+                        - generic [ref=e515]:
+                          - text: 아침은 '선선' 낮엔 '33도 무더위'…동해안 지역 비 소식[내일
+                          - mark [ref=e516]: 날씨
+                          - text: "]"
+                        - generic [ref=e517]: 새 창 열림
+                      - generic [ref=e519]:
+                        - generic [ref=e520]: 이데일리
+                        - generic [ref=e522]:
+                          - generic [ref=e524]: 17시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e529] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/018/0006349777?sid=103
+                            - generic [ref=e530]: 네이버뉴스
+                            - generic [ref=e531]: 새 창 열림
+                    - generic [ref=e532]:
+                      - link "[내일 날씨]아침 '17도' 선선…낮에는 다시 무더위, 동해안은 비 소식 새 창 열림" [ref=e533] [cursor=pointer]:
+                        - /url: https://www.sidae.com/article/2026081114242824812
+                        - generic [ref=e534]:
+                          - text: "[내일"
+                          - mark [ref=e535]: 날씨
+                          - text: "]아침 '17도' 선선…낮에는 다시 무더위, 동해안은 비 소식"
+                        - generic [ref=e536]: 새 창 열림
+                      - generic [ref=e538]:
+                        - generic [ref=e539]: 동행미디어 시대
+                        - generic [ref=e543]:
+                          - generic [ref=e545]: 20시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e550] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/417/0001155024?sid=102
+                            - generic [ref=e551]: 네이버뉴스
+                            - generic [ref=e552]: 새 창 열림
+                    - generic [ref=e553]:
+                      - link "아침엔 선선하다 한낮 33도…동해안 비[내일날씨] 새 창 열림" [ref=e554] [cursor=pointer]:
+                        - /url: https://www.newsis.com/view/NISX20260811_0003744985
+                        - generic [ref=e555]:
+                          - text: 아침엔 선선하다 한낮 33도…동해안 비[내일
+                          - mark [ref=e556]: 날씨
+                          - text: "]"
+                        - generic [ref=e557]: 새 창 열림
+                      - generic [ref=e559]:
+                        - generic [ref=e560]: 뉴시스
+                        - generic [ref=e562]:
+                          - generic [ref=e564]: 18시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e569] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/003/0014121147?sid=102
+                            - generic [ref=e570]: 네이버뉴스
+                            - generic [ref=e571]: 새 창 열림
+                    - generic [ref=e572]:
+                      - link "아침엔 최저 17도, 한낮 최고 33도…동해안 최고 60㎜ 비 [내일날씨] 새 창 열림" [ref=e573] [cursor=pointer]:
+                        - /url: https://www.news1.kr/society/environment/6255057
+                        - generic [ref=e574]:
+                          - text: 아침엔 최저 17도, 한낮 최고 33도…동해안 최고 60㎜ 비 [내일
+                          - mark [ref=e575]: 날씨
+                          - text: "]"
+                        - generic [ref=e576]: 새 창 열림
+                      - generic [ref=e578]:
+                        - generic [ref=e579]: 뉴스1
+                        - generic [ref=e581]:
+                          - generic [ref=e583]: 1일 전
+                          - link "네이버뉴스 새 창 열림" [ref=e588] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/421/0009107117?sid=101
+                            - generic [ref=e589]: 네이버뉴스
+                            - generic [ref=e590]: 새 창 열림
+                - generic [ref=e592]:
+                  - generic [ref=e593]:
+                    - generic [ref=e594]:
+                      - link "뉴스1의 프로필 이미지 새 창 열림" [ref=e596] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/421
+                        - img "뉴스1의 프로필 이미지" [ref=e599]
+                        - generic [ref=e600]: 새 창 열림
+                      - link "뉴스1 새 창 열림" [ref=e603] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/421
+                        - generic [ref=e604]: 뉴스1
+                        - generic [ref=e605]: 새 창 열림
+                      - generic [ref=e606]:
+                        - generic [ref=e608]: 2시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e613] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/421/0009109080?sid=101
+                          - generic [ref=e614]: 네이버뉴스
+                          - generic [ref=e615]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e617] [cursor=pointer]
+                  - generic [ref=e622]:
+                    - generic [ref=e623]:
+                      - link "선선해진 날씨에 가을 옷 판매 ↑…W컨셉, 레더·스웨이드 기획전 새 창 열림" [ref=e624] [cursor=pointer]:
+                        - /url: https://www.news1.kr/industry/distribution/6256235
+                        - generic [ref=e625]:
+                          - text: 선선해진
+                          - mark [ref=e626]: 날씨
+                          - text: 에 가을 옷 판매 ↑…W컨셉, 레더·스웨이드 기획전
+                        - generic [ref=e627]: 새 창 열림
+                      - link "패션 플랫폼 W컨셉은 절기상 입추가 지나고 선선한 바람이 불기 시작하자 가을 의류를 찾는 고객이 급증하며 관련 상품 수요가 빠르게 늘고 있다고 12일 밝혔다. 기상청에 따르면 이달 초 최고기온이 40도를 넘는 극한 폭염이 둘째 주부터 한풀 꺾이면서 전국에 내려졌던 열대야 주의보도 해제되고 있다.... 새 창 열림" [ref=e628] [cursor=pointer]:
+                        - /url: https://www.news1.kr/industry/distribution/6256235
+                        - generic [ref=e629]: 패션 플랫폼 W컨셉은 절기상 입추가 지나고 선선한 바람이 불기 시작하자 가을 의류를 찾는 고객이 급증하며 관련 상품 수요가 빠르게 늘고 있다고 12일 밝혔다. 기상청에 따르면 이달 초 최고기온이 40도를 넘는 극한 폭염이 둘째 주부터 한풀 꺾이면서 전국에 내려졌던 열대야 주의보도 해제되고 있다....
+                        - generic [ref=e630]: 새 창 열림
+                    - link "선선해진 <mark>날씨</mark>에 가을 옷 판매 ↑…W컨셉, 레더·스웨이드 기획전의 이미지 새 창 열림" [ref=e631] [cursor=pointer]:
+                      - /url: https://www.news1.kr/industry/distribution/6256235
+                      - img "선선해진 <mark>날씨</mark>에 가을 옷 판매 ↑…W컨셉, 레더·스웨이드 기획전의 이미지" [ref=e633]
+                      - generic [ref=e635]: 새 창 열림
+                - generic [ref=e637]:
+                  - generic [ref=e638]:
+                    - generic [ref=e639]:
+                      - link "연합뉴스TV의 프로필 이미지 새 창 열림" [ref=e641] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/422
+                        - img "연합뉴스TV의 프로필 이미지" [ref=e644]
+                        - generic [ref=e645]: 새 창 열림
+                      - link "연합뉴스TV 새 창 열림" [ref=e648] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/422
+                        - generic [ref=e649]: 연합뉴스TV
+                        - generic [ref=e650]: 새 창 열림
+                      - generic [ref=e653]:
+                        - generic [ref=e655]: 2시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e660] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/422/0000894872?sid=103
+                          - generic [ref=e661]: 네이버뉴스
+                          - generic [ref=e662]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e664] [cursor=pointer]
+                  - generic [ref=e669]:
+                    - generic [ref=e670]:
+                      - link "[날씨] '숨통 조금 트였다' 폭염특보 대부분 해제…동해안 비 새 창 열림" [ref=e671] [cursor=pointer]:
+                        - /url: http://www.yonhapnewstv.co.kr/news/MYH20260812091300k76
+                        - generic [ref=e672]:
+                          - text: "["
+                          - mark [ref=e673]: 날씨
+                          - text: "] '숨통 조금 트였다' 폭염특보 대부분 해제…동해안 비"
+                        - generic [ref=e674]: 새 창 열림
+                      - link "연일 바다도 요란합니다. 동해상에는 강한 바람이 불면서 물결이 최고 4m까지 높게 일겠고요. 해안가에는 너울까지 강하게 밀려오겠습니다. 당분간 내륙 곳곳에 소나기가 지나겠고요. 광복절 연휴에는 전국의 하늘빛이 흐릴 전망입니다. 지금까지 날씨였습니다. (이소연 기상캐스터) 새 창 열림" [ref=e675] [cursor=pointer]:
+                        - /url: http://www.yonhapnewstv.co.kr/news/MYH20260812091300k76
+                        - generic [ref=e676]:
+                          - text: 연일 바다도 요란합니다. 동해상에는 강한 바람이 불면서 물결이 최고 4m까지 높게 일겠고요. 해안가에는 너울까지 강하게 밀려오겠습니다. 당분간 내륙 곳곳에 소나기가 지나겠고요. 광복절 연휴에는 전국의 하늘빛이 흐릴 전망입니다. 지금까지
+                          - mark [ref=e677]: 날씨
+                          - text: 였습니다. (이소연 기상캐스터)
+                        - generic [ref=e678]: 새 창 열림
+                    - link "[<mark>날씨</mark>] '숨통 조금 트였다' 폭염특보 대부분 해제…동해안 비의 이미지 새 창 열림" [ref=e679] [cursor=pointer]:
+                      - /url: http://www.yonhapnewstv.co.kr/news/MYH20260812091300k76
+                      - img "[<mark>날씨</mark>] '숨통 조금 트였다' 폭염특보 대부분 해제…동해안 비의 이미지" [ref=e681]
+                      - generic [ref=e685]: 새 창 열림
+                - generic [ref=e687]:
+                  - generic [ref=e688]:
+                    - generic [ref=e689]:
+                      - link "KBS의 프로필 이미지 새 창 열림" [ref=e691] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/056
+                        - img "KBS의 프로필 이미지" [ref=e694]
+                        - generic [ref=e695]: 새 창 열림
+                      - link "KBS 새 창 열림" [ref=e698] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/056
+                        - generic [ref=e699]: KBS
+                        - generic [ref=e700]: 새 창 열림
+                      - generic [ref=e701]:
+                        - generic [ref=e703]: 4시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e708] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/056/0012235987?sid=103
+                          - generic [ref=e709]: 네이버뉴스
+                          - generic [ref=e710]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e712] [cursor=pointer]
+                  - generic [ref=e717]:
+                    - generic [ref=e718]:
+                      - link "[출근길 날씨] 서쪽 맑고 낮더위…동해안 비 새 창 열림" [ref=e719] [cursor=pointer]:
+                        - /url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634672&ref=A
+                        - generic [ref=e720]:
+                          - text: "[출근길"
+                          - mark [ref=e721]: 날씨
+                          - text: "] 서쪽 맑고 낮더위…동해안 비"
+                        - generic [ref=e722]: 새 창 열림
+                      - link "현재 기온은 대전 19.6도, 부산 22.7도 가리키고 있습니다. 낮 기온은 청주 32도, 강릉 25도 등 동해안은 30도 아래에 머무는 곳이 많겠습니다. 주 후반에는 내륙에 소나기가 자주 내리겠습니다. 당분간 예년 이맘때의 낮더위가 이어지겠습니다. 지금까지 날씨 전해드렸습니다. 박소연 기상캐스터/그래픽:김유진 새 창 열림" [ref=e723] [cursor=pointer]:
+                        - /url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634672&ref=A
+                        - generic [ref=e724]:
+                          - text: 현재 기온은 대전 19.6도, 부산 22.7도 가리키고 있습니다. 낮 기온은 청주 32도, 강릉 25도 등 동해안은 30도 아래에 머무는 곳이 많겠습니다. 주 후반에는 내륙에 소나기가 자주 내리겠습니다. 당분간 예년 이맘때의 낮더위가 이어지겠습니다. 지금까지
+                          - mark [ref=e725]: 날씨
+                          - text: 전해드렸습니다. 박소연 기상캐스터/그래픽:김유진
+                        - generic [ref=e726]: 새 창 열림
+                    - link "[출근길 <mark>날씨</mark>] 서쪽 맑고 낮더위…동해안 비의 이미지 새 창 열림" [ref=e727] [cursor=pointer]:
+                      - /url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634672&ref=A
+                      - img "[출근길 <mark>날씨</mark>] 서쪽 맑고 낮더위…동해안 비의 이미지" [ref=e729]
+                      - generic [ref=e733]: 새 창 열림
+                  - generic [ref=e737]:
+                    - link "[출근길 날씨] 선선한 아침, 낮더위 계속…동해안 비 새 창 열림" [ref=e738] [cursor=pointer]:
+                      - /url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8634630&ref=A
+                      - generic [ref=e739]:
+                        - text: "[출근길"
+                        - mark [ref=e740]: 날씨
+                        - text: "] 선선한 아침, 낮더위 계속…동해안 비"
+                      - generic [ref=e741]: 새 창 열림
+                    - generic [ref=e743]:
+                      - generic [ref=e744]: KBS
+                      - generic [ref=e746]:
+                        - generic [ref=e748]: 5시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e753] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/056/0012235956?sid=103
+                          - generic [ref=e754]: 네이버뉴스
+                          - generic [ref=e755]: 새 창 열림
+                - generic [ref=e757]:
+                  - generic [ref=e758]:
+                    - generic [ref=e759]:
+                      - link "YTN의 프로필 이미지 새 창 열림" [ref=e761] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/052
+                        - img "YTN의 프로필 이미지" [ref=e764]
+                        - generic [ref=e765]: 새 창 열림
+                      - link "YTN 새 창 열림" [ref=e768] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/052
+                        - generic [ref=e769]: YTN
+                        - generic [ref=e770]: 새 창 열림
+                      - generic [ref=e773]:
+                        - generic [ref=e775]: 3시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e780] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/052/0002392093?sid=103
+                          - generic [ref=e781]: 네이버뉴스
+                          - generic [ref=e782]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e784] [cursor=pointer]
+                  - generic [ref=e789]:
+                    - generic [ref=e790]:
+                      - link "[출근길 YTN 날씨 8/12] 출근길 20℃ 안팎, 낮엔 더위 계속...동해안 비바... 새 창 열림" [ref=e791] [cursor=pointer]:
+                        - /url: https://www.ytn.co.kr/_ln/0108_202608120738102962
+                        - generic [ref=e792]:
+                          - text: "[출근길 YTN"
+                          - mark [ref=e793]: 날씨
+                          - text: 8/12] 출근길 20℃ 안팎, 낮엔 더위 계속...동해안 비바...
+                        - generic [ref=e794]: 새 창 열림
+                      - link "끝으로 출근길 날씨 살펴보겠습니다. YTN 야외 스튜디오 연결합니다. 원이다 캐스터! 네, 원이다입니다. 날씨가 많이 선선해졌습니다. 오늘 아침 상황 어떻습니까? [캐스터] 네, 열대야 없이 쾌적함이 감도는 아침입니다. 밤사이 찬 공기가 내려오면서 현재 서울 기온은 22도로, 어제보다 또 예년보다 2도가량... 새 창 열림" [ref=e795] [cursor=pointer]:
+                        - /url: https://www.ytn.co.kr/_ln/0108_202608120738102962
+                        - generic [ref=e796]:
+                          - text: 끝으로 출근길
+                          - mark [ref=e797]: 날씨
+                          - text: 살펴보겠습니다. YTN 야외 스튜디오 연결합니다. 원이다 캐스터! 네, 원이다입니다.
+                          - mark [ref=e798]: 날씨
+                          - text: 가 많이 선선해졌습니다. 오늘 아침 상황 어떻습니까? [캐스터] 네, 열대야 없이 쾌적함이 감도는 아침입니다. 밤사이 찬 공기가 내려오면서 현재 서울 기온은 22도로, 어제보다 또 예년보다 2도가량...
+                        - generic [ref=e799]: 새 창 열림
+                    - link "[출근길 YTN <mark>날씨</mark> 8/12] 출근길 20℃ 안팎, 낮엔 더위 계속...동해안 비바...의 이미지 새 창 열림" [ref=e800] [cursor=pointer]:
+                      - /url: https://www.ytn.co.kr/_ln/0108_202608120738102962
+                      - img "[출근길 YTN <mark>날씨</mark> 8/12] 출근길 20℃ 안팎, 낮엔 더위 계속...동해안 비바...의 이미지" [ref=e802]
+                      - generic [ref=e806]: 새 창 열림
+                  - generic [ref=e809]:
+                    - generic [ref=e810]:
+                      - link "[날씨] 아침 선선, 낮엔 이맘때 더위...동해안 강풍 동반 비 새 창 열림" [ref=e811] [cursor=pointer]:
+                        - /url: https://www.ytn.co.kr/_ln/0108_202608120650224897
+                        - generic [ref=e812]:
+                          - text: "["
+                          - mark [ref=e813]: 날씨
+                          - text: "] 아침 선선, 낮엔 이맘때 더위...동해안 강풍 동반 비"
+                        - generic [ref=e814]: 새 창 열림
+                      - generic [ref=e816]:
+                        - generic [ref=e817]: YTN
+                        - generic [ref=e821]:
+                          - generic [ref=e823]: 4시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e828] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/052/0002392084?sid=103
+                            - generic [ref=e829]: 네이버뉴스
+                            - generic [ref=e830]: 새 창 열림
+                    - generic [ref=e831]:
+                      - link "[날씨] 쾌적한 아침 공기, 한낮엔 예년 더위...동해안 점차 비 새 창 열림" [ref=e832] [cursor=pointer]:
+                        - /url: https://www.ytn.co.kr/_ln/0108_202608120908362294
+                        - generic [ref=e833]:
+                          - text: "["
+                          - mark [ref=e834]: 날씨
+                          - text: "] 쾌적한 아침 공기, 한낮엔 예년 더위...동해안 점차 비"
+                        - generic [ref=e835]: 새 창 열림
+                      - generic [ref=e837]:
+                        - generic [ref=e838]: YTN
+                        - generic [ref=e840]:
+                          - generic [ref=e842]: 2시간 전
+                          - link "네이버뉴스 새 창 열림" [ref=e847] [cursor=pointer]:
+                            - /url: https://n.news.naver.com/mnews/article/052/0002392128?sid=103
+                            - generic [ref=e848]: 네이버뉴스
+                            - generic [ref=e849]: 새 창 열림
+                - generic [ref=e851]:
+                  - generic [ref=e852]:
+                    - generic [ref=e853]:
+                      - link "MBC의 프로필 이미지 새 창 열림" [ref=e855] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/214
+                        - img "MBC의 프로필 이미지" [ref=e858]
+                        - generic [ref=e859]: 새 창 열림
+                      - link "MBC 새 창 열림" [ref=e862] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/214
+                        - generic [ref=e863]: MBC
+                        - generic [ref=e864]: 새 창 열림
+                      - generic [ref=e865]:
+                        - generic [ref=e867]: 11시간 전
+                        - link "네이버뉴스 새 창 열림" [ref=e872] [cursor=pointer]:
+                          - /url: https://n.news.naver.com/mnews/article/214/0001517297?sid=102
+                          - generic [ref=e873]: 네이버뉴스
+                          - generic [ref=e874]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=e876] [cursor=pointer]
+                  - generic [ref=e881]:
+                    - generic [ref=e882]:
+                      - link "[날씨] 전국 가끔 구름 많고 아침에 선선..낮부터 다시 무더위 새 창 열림" [ref=e883] [cursor=pointer]:
+                        - /url: https://imnews.imbc.com/news/2026/society/article/6844063_36918.html
+                        - generic [ref=e884]:
+                          - text: "["
+                          - mark [ref=e885]: 날씨
+                          - text: "] 전국 가끔 구름 많고 아침에 선선..낮부터 다시 무더위"
+                        - generic [ref=e886]: 새 창 열림
+                      - link "수요일인 오늘은 전국에 가끔 구름이 많은 가운데, 아침에 20도 안팎으로 선선하다가 낮부터 다시 더워지겠습니다. 오전에 강원 동해안·산지에서, 오후에는 경북 동해안·북동 산지 등에서 곳에 따라 비가 내리겠습니다. 예상 강수량은 내일까지 강원 동해안·산지와 경북 북부 동해안·북동 산지 20에서... 새 창 열림" [ref=e887] [cursor=pointer]:
+                        - /url: https://imnews.imbc.com/news/2026/society/article/6844063_36918.html
+                        - generic [ref=e888]: 수요일인 오늘은 전국에 가끔 구름이 많은 가운데, 아침에 20도 안팎으로 선선하다가 낮부터 다시 더워지겠습니다. 오전에 강원 동해안·산지에서, 오후에는 경북 동해안·북동 산지 등에서 곳에 따라 비가 내리겠습니다. 예상 강수량은 내일까지 강원 동해안·산지와 경북 북부 동해안·북동 산지 20에서...
+                        - generic [ref=e889]: 새 창 열림
+                    - link "[<mark>날씨</mark>] 전국 가끔 구름 많고 아침에 선선..낮부터 다시 무더위의 이미지 새 창 열림" [ref=e890] [cursor=pointer]:
+                      - /url: https://imnews.imbc.com/news/2026/society/article/6844063_36918.html
+                      - img "[<mark>날씨</mark>] 전국 가끔 구름 많고 아침에 선선..낮부터 다시 무더위의 이미지" [ref=e892]
+                      - generic [ref=e894]: 새 창 열림
+            - link "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요." [ref=e896] [cursor=pointer]:
+              - /url: https://help.naver.com/alias/news/news_21.naver
+        - generic [ref=e909]:
+          - link [ref=e910] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001
+            - generic [ref=e912]:
+              - strong [ref=e913]: 여름의 기록, 포인트로 환전하세요
+              - paragraph [ref=e914]: 클립 올리면 매월 포인트 최대 12만원
+          - link [ref=e915] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcwidgetbottom&campaign_id=2512-shopping-024&material=N&target=https%3A%2F%2Fmkt.naver.com%2Fstore_discovery%3Fdtm_detail%3DN%26dtm_source%3Dnaver_pcwidgetbottom%26dtm_medium%3Dmktatrb_mn%26dtm_campaign%3D2512-shopping-024
+            - generic [ref=e917]:
+              - strong [ref=e918]: 여름을 마무리 하는
+              - paragraph [ref=e919]: 스토어 랭킹 공개
+          - link [ref=e920] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2606-knockit-001&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fonsale%2F6a729972790f733cbe660266%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2606-knockit-001
+            - generic [ref=e922]:
+              - strong [ref=e923]: 러닝 아이템도 노크잇에서
+              - paragraph [ref=e924]: 멤버십은 최대 10% 적립
+          - link [ref=e925] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2607-naverAI-001&target=https%3A%2F%2Fmkt.naver.com%2Faitab%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2607-naverAI-001
+            - generic [ref=e927]:
+              - strong [ref=e928]: 끝까지 끝내주는 AI, 네이버 AI탭
+              - paragraph [ref=e929]: 검색이 대화가 되다
+    - generic [ref=e930]:
+      - link "맨위로" [ref=e932] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e935]:
+        - link "전체서비스" [ref=e937] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+        - link "이용약관" [ref=e939] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/service.html
+        - link [ref=e941] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/privacy.html
+          - strong [ref=e942]: 개인정보처리방침
+        - link "검색 고객센터" [ref=e944] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/search/integration/main.naver
+        - link "© NAVER Corp." [ref=e946] [cursor=pointer]:
+          - /url: https://www.navercorp.com/
