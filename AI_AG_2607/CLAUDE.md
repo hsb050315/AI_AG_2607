@@ -21,9 +21,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Task workflow
 
-- Default to acting autonomously: proceed with small, contained changes (typical edits, additions, single-file work) without stopping to ask for approval first.
-- Require a plan + explicit approval (e.g. "yes", "진행", "ok") only for tasks that are large-scale or high-impact — e.g. changes that restructure the file/folder layout, or that interfere with or affect multiple other parts of the project. For those, write the plan as a short numbered step list in the chat reply, then stop and wait. Do not proceed on silence or an ambiguous reply.
-- Use the task list tool (TaskCreate/TaskUpdate) to track progress on multi-step work, but only when the task is substantial enough to warrant it — don't create todo items for every small action. Minor/trivial steps don't need an explicit todo entry.
+- Before starting any task, first break it down into a todo list (via TaskCreate) and show it to the user, no matter how small the task is.
+- Require a plan + explicit approval (e.g. "yes", "진행", "ok") only for tasks that are large-scale or high-impact — e.g. changes that restructure the file/folder layout, or that interfere with or affect multiple other parts of the project. For those, wait for approval before executing; do not proceed on silence or an ambiguous reply. Smaller, contained changes (typical edits, additions, single-file work) can proceed right after the todo list is shown, without waiting for separate approval.
+- While work is in progress, keep the todo list visible and current — update each item's status (in_progress/completed) via TaskUpdate as you go, so the user can always see what's currently being worked on.
 - This gate never applies to purely conversational/informational replies, or to read-only inspection (e.g. reading files, `git status`, `git log`, `git diff`) that changes no file and no repository state.
 
 ## Output folder conventions
@@ -31,7 +31,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - All work artifacts go under `output/`, organized by kind:
   - Reports (docx/txt pairs) → `output/reports/`
   - Research spreadsheets (xlsx) → `output/research/`
-  - Screenshots → `output/screenshots/`
-  - Anything produced via the Playwright MCP (e.g. browser screenshots, page captures) → `output/playwright/`
+  - Screenshots, including ones captured via the Playwright MCP (browser screenshots, page captures) → `output/screenshots/`
+  - Design/template search results (e.g. Canva template search and detail-page screenshots) → `output/references/image/`
 - When creating a new kind of artifact that doesn't fit an existing subfolder, create a new subfolder under `output/` for it rather than leaving it loose at the project root.
 
