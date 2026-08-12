@@ -1,5 +1,6 @@
 """python-pptx 기반 심플 발표자료(16:9) 생성 템플릿."""
 
+import copy
 import os
 
 from pptx import Presentation
@@ -58,6 +59,95 @@ def _extract_theme_accent1(prs):
     except Exception:
         return None
     return None
+
+
+def duplicate_slide(prs, index):
+    """prs 내 index번째 슬라이드를 복제해 맨 뒤에 추가한다 (이미지/서식 포함, 같은 prs 안에서만 동작).
+
+    Canva 등에서 내보낸 pptx는 배경/그래픽이 슬라이드 레이아웃이 아니라 각 슬라이드에 직접
+    그려져 있는 경우가 많다. 이런 템플릿의 비주얼을 재사용하려면 `new_presentation(template_path=...)`
+    로 연 뒤 이 함수로 실제 슬라이드를 복제하고, `remove_shapes`/`set_shape_text`/`set_shape_bullets`로
+    복제본의 도형만 다듬어 쓰는 편이 `template_path`의 빈 레이아웃 방식보다 훨씬 원본에 가깝다.
+    """
+    source = prs.slides[index]
+    dest = prs.slides.add_slide(source.slide_layout)
+    for shp in list(dest.shapes):
+        shp._element.getparent().remove(shp._element)
+    for shp in source.shapes:
+        dest.shapes._spTree.append(copy.deepcopy(shp._element))
+
+    # 관계(rId)는 대상 파트에 새로 추가되며 원본과 다른 rId를 받을 수 있으므로,
+    # old rId -> new rId 매핑을 만들어 복제된 도형 XML의 r:id/r:embed 참조를 갱신한다.
+    rid_map = {}
+    for rid, rel in source.part.rels.items():
+        if "notesSlide" in rel.reltype:
+            continue
+        if rel.is_external:
+            new_rid = dest.part.relate_to(rel.target_ref, rel.reltype, is_external=True)
+        else:
+            new_rid = dest.part.relate_to(rel.target_part, rel.reltype)
+        rid_map[rid] = new_rid
+
+    r_ns = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    for el in dest.shapes._spTree.iter():
+        for attr in list(el.attrib):
+            if attr.startswith("{%s}" % r_ns):
+                old_rid = el.attrib[attr]
+                if old_rid in rid_map:
+                    el.attrib[attr] = rid_map[old_rid]
+    return dest
+
+
+def delete_slide(prs, index):
+    """prs에서 index번째 슬라이드를 제거한다."""
+    sldIdLst = prs.slides._sldIdLst
+    sldId = list(sldIdLst)[index]
+    rId = sldId.get(qn("r:id"))
+    prs.part.drop_rel(rId)
+    sldIdLst.remove(sldId)
+
+
+def remove_shapes(slide, names):
+    """이름(shape.name)이 names에 포함되는 도형을 슬라이드에서 제거한다."""
+    for shp in list(slide.shapes):
+        if shp.name in names:
+            shp._element.getparent().remove(shp._element)
+
+
+def set_shape_text(shape, text):
+    """도형의 첫 번째 런(run) 서식은 유지한 채 텍스트만 교체하고, 나머지 문단은 제거한다."""
+    tf = shape.text_frame
+    paras = list(tf.paragraphs)
+    first = paras[0]
+    if first.runs:
+        first.runs[0].text = text
+        for r in first.runs[1:]:
+            r._r.getparent().remove(r._r)
+    else:
+        first.text = text
+    for p in paras[1:]:
+        p._p.getparent().remove(p._p)
+
+
+def set_shape_bullets(shape, lines, bullet_prefix="•  "):
+    """도형의 첫 문단 서식을 복제해 여러 줄(bullet) 텍스트를 채운다."""
+    tf = shape.text_frame
+    paras = list(tf.paragraphs)
+    first = paras[0]
+    for p in paras[1:]:
+        p._p.getparent().remove(p._p)
+    set_shape_text(shape, f"{bullet_prefix}{lines[0]}" if lines else "")
+    first = tf.paragraphs[0]
+    for line in lines[1:]:
+        new_p_el = copy.deepcopy(first._p)
+        first._p.getparent().append(new_p_el)
+        new_p = tf.paragraphs[-1]
+        if new_p.runs:
+            new_p.runs[0].text = f"{bullet_prefix}{line}"
+            for r in new_p.runs[1:]:
+                r._r.getparent().remove(r._r)
+        else:
+            new_p.text = f"{bullet_prefix}{line}"
 
 
 def new_presentation(main_color=None, template_path=None):
