@@ -1,0 +1,54 @@
+Airbnb 기업 조사 보고서
+(공인 출처만 활용 — 출처 불분명 자료 배제)
+
+■ 핵심 요약
+Airbnb(에어비앤비, Nasdaq: ABNB)는 2008년 8월 미국 샌프란시스코에서 Brian Chesky, Joe Gebbia, Nathan Blecharczyk가 공동창업한 숙박·체험 공유 온라인 마켓플레이스 기업이다. 2020년 12월 나스닥에 상장했으며 2025년 말 기준 직원 약 8,200명, 2025 회계연도 매출 약 122억 달러·순이익 약 25억 달러를 기록했다. 2026년 들어 매출 성장세가 가속화되어 2분기 실적 발표 후 연간 가이던스를 두 차례 상향 조정했으며, 장보기 배달·렌터카·리조트 패스 등으로 서비스 영역을 확장하고 AI 도입을 가속화하는 것이 최근 핵심 흐름이다.
+
+■ 상세 내용
+
+1. 회사 개요
+- 설립: 2008년 8월 (샌프란시스코에서 서비스 론칭)
+- 본사: 미국 캘리포니아주 샌프란시스코 (888 Brannan Street)
+- 창업자: Brian Chesky(CEO 겸 이사회 의장), Joe Gebbia, Nathan Blecharczyk(최고전략책임자, CSO)
+- Joe Gebbia는 2022년 Airbnb 경영진에서 물러났으나 이사회 멤버 및 주요 주주 지위는 유지 중이며, 2025년 2월 일론 머스크의 정부효율성부서(DOGE)에 개인 자격으로 합류해 논란이 됐다. Airbnb는 "Joe는 개인 자격으로 참여한 것이며 그의 개인적 견해가 Airbnb의 입장을 대변하지 않는다"고 공식 입장을 밝혔다. (Forbes, TechCrunch 확인)
+
+2. 사업 모델
+숙소(Homes/Stays), 체험(Experiences), 서비스(Services)를 연결하는 온라인 마켓플레이스를 운영하며, 예약이 성사될 때마다 호스트·게스트 양측에서 수수료를 받는 중개 모델이다. 5백만 명 이상의 호스트가 220여 개 국가·지역에서 활동 중이며 누적 게스트 도착 건수가 25억 건을 넘었다(Wikipedia 인용, 회사 발표 수치 기반).
+
+2026년 들어 "여행 전체를 아우르는 플랫폼"으로의 확장을 강화하고 있다: 장보기 배달, 렌터카, 공항 픽업, 수하물 보관 서비스를 신설했고, 일부 호텔 편의시설을 하루 단위로 이용할 수 있는 "리조트 패스"를 도입했다.
+
+3. 규모 (직원·재무·상장)
+- 직원 수: 2025년 말 기준 약 8,200명 (2025 Form 10-K). 별도로 커뮤니티 지원 업무를 담당하는 제3자 협력 인력이 약 13,000명 존재.
+- 상장 여부·티커: Nasdaq 상장, 티커 ABNB(Class A), S&P 500·나스닥100 구성 종목.
+- FY2025(2025 회계연도) 실적: 매출 약 122.4억 달러(전년 대비 약 10% 성장), 순이익 약 25.1억 달러(전년 대비 감소 — 4분기 순이익이 세금 관련 일회성 비용 9천만 달러 및 신규 성장·정책 투자로 인해 전년 동기(4.61억 달러) 대비 3.41억 달러로 줄어든 영향).
+- 2026년 2분기(최신 분기) 실적: 매출 36.1억 달러(전년 동기 대비 +17%), 총예약가치(GBV) 272억 달러(+16%), 순이익 8.16억 달러(전년 대비 +1.74억 달러), Adjusted EBITDA 13억 달러(마진 35%, +21%). 예약 박수(Nights and Seats Booked)는 전년 대비 10% 증가, 앱 예약은 23% 증가.
+- 2026년 가이던스: 3분기 매출 46.9억~47.7억 달러(전년 대비 15~17% 성장) 예상, 연간 매출 성장률 전망을 기존 "낮은~중간 두 자릿수"에서 "중간 두 자릿수 이상"으로 두 차례 상향 조정.
+
+4. 최근 주요 동향 (최근 1~2년)
+- AI 도입 가속: 2026년 상반기 출시 기능 수가 전년 동기 대비 약 80% 증가했으며, AI 어시스턴트가 전체 고객 문의의 약 45%를 사람 개입 없이 해결, 예약당 고객지원 비용이 약 16% 감소.
+- 파티 방지 기술(Anti-party technology): 2025~2026년에도 계속 운영 중인 정책으로, 위험도가 높은 예약을 사전에 걸러내거나 대체 숙소로 유도. 2025년 7월 4일 연휴 기간 미국에서 2만 명 이상의 예약을 차단·전환. Airbnb 공식 뉴스룸(news.airbnb.com) 및 Forbes, Fox Business가 보도.
+- 스포츠 스폰서십: 2025~2026년 FIFA 클럽 월드컵 3년 후원 계약 체결.
+- 서비스 사업 확장: Airbnb Services에 장보기 배달, 렌터카, 공항 픽업, 수하물 보관 등을 추가.
+- 호스트 결제·정산 정책 변경 관련: 2025년 6월경 호스트 대상 결제 조건 변경이 있었다는 보도가 다수의 호스트 커뮤니티/부동산 관리 매체(신뢰도 검증이 어려운 블로그성 사이트 위주)에서 발견되나, Reuters·Bloomberg·AP 등 주요 언론사나 Airbnb 공식 뉴스룸에서 이를 직접 확인할 수 있는 출처는 찾지 못했다. 이 항목은 "신뢰 가능한 출처를 찾지 못함"으로 표시하며 사실로 단정하지 않는다.
+
+5. 기업 미션
+Airbnb 공식 뉴스룸(news.airbnb.com)에 반복적으로 명시된 미션 문구: "to create a world where anyone can belong anywhere" (누구나 어디에서든 소속감을 느낄 수 있는 세상을 만든다). 다만 특정 개별 기사 페이지에 대한 직접 접근(WebFetch)은 403 오류로 차단되어, 검색 스니펫을 통해 다수의 news.airbnb.com 게시물(안티레이시즘 자료, 접근성 기능 발표 등)에서 동일 문구가 반복 인용되는 것을 확인했다. 별도의 "비전 선언문(vision statement)"은 공식 출처에서 명확히 확인되지 않았다.
+
+■ 출처
+- Airbnb — Wikipedia: https://en.wikipedia.org/wiki/Airbnb
+- Airbnb, Inc. Form 10-K FY2025 (SEC EDGAR): https://www.sec.gov/Archives/edgar/data/1559720/000155972026000004/abnb-20251231.htm
+- Airbnb, Inc. Form 8-K FY2025 (SEC EDGAR): https://www.sec.gov/Archives/edgar/data/1559720/000119312525109934/d40594dex991.htm
+- Airbnb Investor Relations — Q2 2026 Results 발표: https://investors.airbnb.com/press-releases/news-details/2026/Airbnb-Announces-Second-Quarter-2026-Results/default.aspx
+- Airbnb Investor Relations — Q4 및 FY2025 Results 발표: https://investors.airbnb.com/press-releases/news-details/2026/Airbnb-Announces-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx
+- Airbnb Newsroom — Q4 2025 financial results: https://news.airbnb.com/airbnb-q4-2025-financial-results/
+- Airbnb Newsroom — Q2 2026 financial results: https://news.airbnb.com/airbnb-q2-2026-financial-results/
+- Airbnb Newsroom — Cracking down on summer holiday parties with anti-party technology: https://news.airbnb.com/cracking-down-on-summer-holiday-parties-with-anti-party-technology/
+- Airbnb Newsroom — Antiracism and Allyship Resources (미션 문구 확인): https://news.airbnb.com/en-uk/antiracism-and-allyship-resources-for-the-airbnb-community/
+- Bloomberg — Airbnb Raises 2026 Revenue Forecast Again on Strong US, European Travel Demand: https://www.bloomberg.com/news/articles/2026-08-06/airbnb-lifts-2026-outlook-again-on-robust-us-european-travel
+- CNBC — Airbnb shares rise on company's revenue beat, rosy guidance: https://www.cnbc.com/2026/02/12/q4-airbnb-abnb-earnings-2025.html
+- Forbes — Airbnb Cracks Down On Out-Of-Control Parties This Summer: https://www.forbes.com/sites/michaelgoldstein/2026/06/30/airbnb-cracks-down-on-out-of-control-parties-this-summer/
+- Forbes — Airbnb Distances Itself From Billionaire Co-Founder Joe Gebbia, A Musk Ally Working For DOGE: https://www.forbes.com/sites/suzannerowankelleher/2025/03/05/airbnb-distances-billionaire-cofounder-doge-musk/
+- Fox Business — Airbnb deploys anti-party technology ahead of July 4 holiday weekend: https://www.foxbusiness.com/lifestyle/airbnb-deploys-anti-party-technology-ahead-july-4-weekend
+- TechCrunch — Airbnb co-founder Joe Gebbia takes wraps off his first assignment for DOGE: https://techcrunch.com/2025/02/27/airbnb-co-founder-joe-gebbia-takes-wraps-off-his-first-assignment-for-doge/
+
+참고: SEC EDGAR와 news.airbnb.com의 일부 개별 페이지, Bloomberg 특정 기사, CNBC 기사는 WebFetch 직접 접근 시 403 오류가 발생해 전문을 읽지 못했고, 검색 스니펫으로 교차 검증했다. 재무 수치는 SEC 8-K 공시·투자자 페이지·CNBC·Bloomberg 등 복수 출처에서 상호 일치함을 확인했다.
