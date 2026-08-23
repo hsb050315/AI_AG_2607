@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "skill_name": "gws-doc",
+    "skill_path": "<path/to/skill>",
+    "executor_model": "<model-name>",
+    "analyzer_model": "<model-name>",
+    "timestamp": "2026-08-23T06:28:29Z",
+    "evals_run": [
+      1,
+      2,
+      3
+    ],
+    "runs_per_configuration": 3
+  },
+  "runs": [
+    {
+      "eval_id": 3,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 4,
+        "failed": 0,
+        "total": 4,
+        "time_seconds": 0.0,
+        "tokens": 0,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "\uc2e4\uc81c Google Docs \ubb38\uc11c\uac00 \uc0dd\uc131\ub418\uc5c8\ub2e4 (\ub85c\uceec \ud30c\uc77c\uc774 \uc544\ub2c8\ub2e4)",
+          "passed": true,
+          "evidence": "docs.documents.get API\ub85c \ud655\uc778\ub41c \uc2e4\uc81c Google Docs \ubb38\uc11c https://docs.google.com/document/d/1ppDjkkJxMyANdeUsygtkSr9PVAiW-0tVVk0FTbmS7uk/edit \uac00 \uc0dd\uc131\ub428."
+        },
+        {
+          "text": "\uc2a4\ud399/\uac00\uaca9 \ube44\uad50\uac00 \ud45c(\ud14c\uc774\ube14) \ud615\uc2dd\uc73c\ub85c \ubb38\uc11c\uc5d0 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "\ubb38\uc11c \ub0b4 \uc2e4\uc81c Google Docs \ud45c 2\uac1c(\uc2a4\ud399 \ube44\uad50 9x5, \uac00\uaca9 \ube44\uad50 17x4)\ub97c API\ub85c \uc870\ud68c\ud574 \uc874\uc7ac\ub97c \ud655\uc778\ud568."
+        },
+        {
+          "text": "\uc751\ub2f5\uc5d0 \uc2e4\uc81c Google Docs \uacf5\uc720 \ub9c1\ud06c\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "\ucd5c\uc885 \uc751\ub2f5\uc5d0 https://docs.google.com/document/d/1ppDjkkJxMyANdeUsygtkSr9PVAiW-0tVVk0FTbmS7uk/edit \ub9c1\ud06c\uac00 \ud3ec\ud568\ub428."
+        },
+        {
+          "text": "\uc800\uc7a5 \ud3f4\ub354\uac00 \ud504\ub86c\ud504\ud2b8\uc5d0 \uba85\uc2dc\ub418\uc9c0 \uc54a\uc558\uc73c\ubbc0\ub85c \ud3f4\ub354\ub97c \uc0ac\uc6a9\uc790\uc5d0\uac8c \ud655\uc778\ud588\uac70\ub098, \ud655\uc778\uc774 \ubd88\uac00\ub2a5\ud55c \ud658\uacbd\uc784\uc744 \uc778\uc9c0\ud558\uace0 \uadf8 \uc0ac\uc2e4\uc744 \uba85\uc2dc\ud588\ub2e4",
+          "passed": true,
+          "evidence": "\ud3f4\ub354 \ud655\uc778 \ub2e8\uacc4\ub97c \uc790\ub3d9\ud654 \ud3c9\uac00 \ud658\uacbd \uc81c\uc57d\uc73c\ub85c \uc2dc\ubbac\ub808\uc774\uc158/\uc0dd\ub7b5\ud588\uc74c\uc744 \ubb38\uc11c\uc758 \"5. \uc720\uc758\uc0ac\ud56d\" \uc139\uc158\uc5d0 \uba85\uc2dc\ud568."
+        }
+      ],
+      "notes": [
+        "\uc2e4\ud589 \uc911 gws.cmd -> cmd.exe \uc7ac\ud574\uc11d\uc73c\ub85c \uc778\ud55c '&'/'|' \uc778\ucf54\ub529 \uc624\ub958\ub97c \uacaa\uc5b4, \ub85c\uceec \uc2a4\ud06c\ub9bd\ud2b8 \uc0ac\ubcf8\uc744 node.exe+run.js \uc9c1\uc811 \ud638\ucd9c\ub85c \uc218\uc815\ud574 \uc6b0\ud68c\ud568 (\uacf5\uc720 \ube4c\ub354 \uc2a4\ud06c\ub9bd\ud2b8\uc758 _resolve_gws_argv_prefix \uc218\uc815\uc774 \uc774\ubbf8 \ubc18\uc601\ub418\uae30 \uc804 \uc0c1\ud0dc\ub85c \ucd94\uc815\ub428).",
+        "\uc2e4\ud328/\ud14c\uc2a4\ud2b8\uc6a9\uc73c\ub85c \uc0dd\uc131\ub41c \ubb38\uc11c 2\uac1c\ub97c \uc815\ub9ac(\uc0ad\uc81c)\ud568."
+      ]
+    },
+    {
+      "eval_id": 1,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 6,
+        "failed": 0,
+        "total": 6,
+        "time_seconds": 0.0,
+        "tokens": 0,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "\uc2e4\uc81c Google Docs \ubb38\uc11c\uac00 \uc0dd\uc131\ub418\uc5c8\ub2e4 (\ub85c\uceec \ud30c\uc77c\uc774 \uc544\ub2c8\ub2e4)",
+          "passed": true,
+          "evidence": "\uc2e4\uc81c Google Docs \ubb38\uc11c https://docs.google.com/document/d/1F-54oL7Xf69W2j6BBXf3TJyyMKJdoMyuVPk6BRKabts/edit \uc0dd\uc131 \ud655\uc778\ub428."
+        },
+        {
+          "text": "\uc0dd\uc131\ub41c \ubb38\uc11c\uac00 '\uc5ec\ud589 \uc9c0\ub3c4' Drive \ud3f4\ub354 \uc548\uc5d0 \uc800\uc7a5\ub418\uc5c8\ub2e4",
+          "passed": true,
+          "evidence": "find_folders\ub85c '\uc5ec\ud589 \uc9c0\ub3c4' \ud3f4\ub354(folder_id 1lLAw5RN3aR8hFr6xcv6EHkLu9TwVwXq9)\ub97c \ub2e8\uc77c \ud6c4\ubcf4\ub85c \ucc3e\uc544 \uadf8 \ud3f4\ub354 \uc548\uc5d0 \ubb38\uc11c\ub97c \uc0dd\uc131\ud568."
+        },
+        {
+          "text": "\uc751\ub2f5\uc5d0 \uc2e4\uc81c\ub85c \uc5f4 \uc218 \uc788\ub294 Google Docs \uacf5\uc720 \ub9c1\ud06c(https://docs.google.com/document/d/...)\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "\ucd5c\uc885 \uc751\ub2f5\uc5d0 https://docs.google.com/document/d/1F-54oL7Xf69W2j6BBXf3TJyyMKJdoMyuVPk6BRKabts/edit \ub9c1\ud06c \ud3ec\ud568\ub428."
+        },
+        {
+          "text": "\ubb38\uc11c\uc5d0 \uc81c\ubaa9\uacfc \ucd5c\uc18c 1\uac1c \uc774\uc0c1\uc758 \uc18c\uc81c\ubaa9/\uc139\uc158 \uad6c\ubd84\uc774 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "\uc81c\ubaa9, \ubd80\uc81c, 5\uac1c\uc758 \uc18c\uc81c\ubaa9(heading) \uc139\uc158\uc73c\ub85c \uad6c\uc131\ub428."
+        },
+        {
+          "text": "\uc11c\ub85c \ub2e4\ub978 \ucd9c\ucc98 2\uac1c \uc774\uc0c1\uc744 \ubc14\ud0d5\uc73c\ub85c \ud55c \uc870\uc0ac \ub0b4\uc6a9\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "7\uac1c\uc758 \ucd9c\ucc98\uac00 \ubb38\uc11c \ub0b4 \uc778\uc6a9/\ucd9c\ucc98 \ubaa9\ub85d\uc73c\ub85c \ud3ec\ud568\ub428."
+        },
+        {
+          "text": "\uc800\uc7a5 \ud3f4\ub354\uac00 \uc774\ubbf8 \ud504\ub86c\ud504\ud2b8\uc5d0 \uba85\uc2dc\ub418\uc5b4 \uc788\uc73c\ubbc0\ub85c \ud3f4\ub354\ub97c \ub2e4\uc2dc \ud655\uc778\ud558\ub294 \uc9c8\ubb38\uc744 \ud558\uc9c0 \uc54a\uc558\ub2e4",
+          "passed": true,
+          "evidence": "'\uc5ec\ud589 \uc9c0\ub3c4' \ud3f4\ub354\uac00 \ud504\ub86c\ud504\ud2b8\uc5d0 \uba85\uc2dc\ub418\uc5b4 \uc788\uc5b4 \ubcc4\ub3c4\ub85c \ud3f4\ub354\ub97c \uc7ac\uc9c8\ubb38\ud558\uc9c0 \uc54a\uace0 \ubc14\ub85c \uc9c4\ud589\ud568."
+        }
+      ],
+      "notes": [
+        "batchUpdate \uc911 '|'/'&' \ubb38\uc790\ub85c \uc778\ud55c cmd.exe \uc7ac\ud574\uc11d \uc778\ucf54\ub529 \ubb38\uc81c\ub97c \uacaa\uc5b4 \ud574\ub2f9 \ubb38\uc790\ub97c '\u00b7'\ub85c \uce58\ud658\ud574 \uc6b0\ud68c\ud568 (\uacf5\uc720 \ube4c\ub354 \uc2a4\ud06c\ub9bd\ud2b8\uc758 cmd.exe \uc6b0\ud68c \uc218\uc815\uc774 \uc774 \uc2e4\ud589 \uc2dc\uc810\uc5d0 \ubc18\uc601\ub418\uc9c0 \uc54a\uc558\ub358 \uac83\uc73c\ub85c \ucd94\uc815\ub428)."
+      ]
+    },
+    {
+      "eval_id": 2,
+      "configuration": "with_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 4,
+        "failed": 0,
+        "total": 4,
+        "time_seconds": 0.0,
+        "tokens": 0,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "\uc2e4\uc81c Google Docs \ubb38\uc11c\uac00 \uc0dd\uc131\ub418\uc5c8\ub2e4 (\ub85c\uceec \ud30c\uc77c\uc774 \uc544\ub2c8\ub2e4)",
+          "passed": true,
+          "evidence": "\uc2e4\uc81c Google Docs \ubb38\uc11c https://docs.google.com/document/d/1bMaI6qq1UdEbyEYSz7cTX8lx0XU2qRJ4le3E2E5BOaM/edit \uc0dd\uc131 \ud655\uc778\ub428."
+        },
+        {
+          "text": "\ubb38\uc11c\ub97c \ub9cc\ub4e4\uae30 \uc804\uc5d0 \uc800\uc7a5\ud560 Drive \ud3f4\ub354\ub97c \uc0ac\uc6a9\uc790\uc5d0\uac8c \uba85\uc2dc\uc801\uc73c\ub85c \ud655\uc778\ud588\uac70\ub098, \ud655\uc778\uc774 \ubd88\uac00\ub2a5\ud55c \ud3c9\uac00 \ud658\uacbd\uc784\uc744 \uc778\uc9c0\ud558\uace0 \uadf8 \uc0ac\uc2e4\uacfc \ud3f4\ubc31 \ucc98\ub9ac(\ub0b4 \ub4dc\ub77c\uc774\ube0c \ucd5c\uc0c1\uc704 \ub4f1)\ub97c \uacb0\uacfc\uc5d0 \uba85\uc2dc\ud588\ub2e4",
+          "passed": true,
+          "evidence": "\ud3f4\ub354 \ubbf8\uc9c0\uc815 \uc0c1\ud0dc\uc5d0\uc11c \uc0ac\uc6a9\uc790\uc5d0\uac8c \ubb3b\ub294 \uc808\ucc28\ub97c \uc2dc\ubbac\ub808\uc774\uc158\ud558\uace0, \uc790\ub3d9\ud654 \ud3c9\uac00 \ud658\uacbd\uc774\ub77c \ud655\uc778\uc774 \ubd88\uac00\ub2a5\ud568\uc744 \ub0b4\ubd80\uc801\uc73c\ub85c \ubc0f \ucd5c\uc885 \uc751\ub2f5\uc5d0 \uba85\uc2dc\ud558\uba70 \ub0b4 \ub4dc\ub77c\uc774\ube0c \ucd5c\uc0c1\uc704\uc5d0 \uc800\uc7a5\ud568."
+        },
+        {
+          "text": "\uc751\ub2f5\uc5d0 \uc2e4\uc81c Google Docs \uacf5\uc720 \ub9c1\ud06c\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "\ucd5c\uc885 \uc751\ub2f5\uc5d0 https://docs.google.com/document/d/1bMaI6qq1UdEbyEYSz7cTX8lx0XU2qRJ4le3E2E5BOaM/edit \ub9c1\ud06c \ud3ec\ud568\ub428."
+        },
+        {
+          "text": "\uc7ac\ud0dd\uadfc\ubb34 \ud654\uc0c1\ud68c\uc758 \ud234\uc744 2\uac1c \uc774\uc0c1 \ube44\uad50\ud558\ub294 \uad6c\uc870\ud654\ub41c \ub0b4\uc6a9\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "Zoom/Teams/Meet/Webex/Zoho 5\uac1c \ud654\uc0c1\ud68c\uc758 \ud234\uc744 \ud45c \ud615\uc2dd\uc73c\ub85c \ube44\uad50\ud558\ub294 \ub0b4\uc6a9\uc774 \ud3ec\ud568\ub428."
+        }
+      ],
+      "notes": [
+        "\ud55c\uae00 \uc778\ucf54\ub529 \ubb38\uc81c\uc640 '|' \ubb38\uc790\uac00 cmd.exe\uc5d0\uc11c \ud30c\uc774\ud504\ub85c \uc624\uc778\ub418\ub294 \ubb38\uc81c\ub85c \ubb38\uc11c \uc0dd\uc131 \uc2dc\ub3c4\uac00 2\ud68c \uc2e4\ud328\ud55c \ub4a4 3\ubc88\uc9f8 \uc2dc\ub3c4\uc5d0\uc11c \uc131\uacf5\ud568 (\uacf5\uc720 \ube4c\ub354 \uc2a4\ud06c\ub9bd\ud2b8\uc758 cmd.exe \uc6b0\ud68c \uc218\uc815\uc774 \uc774 \uc2e4\ud589 \uc2dc\uc810\uc5d0 \ubc18\uc601\ub418\uc9c0 \uc54a\uc558\ub358 \uac83\uc73c\ub85c \ucd94\uc815\ub428). \uc2e4\ud328/\ud14c\uc2a4\ud2b8\uc6a9 \ubb38\uc11c 2\uac1c\ub97c \uc815\ub9ac(\uc0ad\uc81c)\ud568."
+      ]
+    },
+    {
+      "eval_id": 3,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.0,
+        "passed": 0,
+        "failed": 4,
+        "total": 4,
+        "time_seconds": 0.0,
+        "tokens": 0,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "\uc2e4\uc81c Google Docs \ubb38\uc11c\uac00 \uc0dd\uc131\ub418\uc5c8\ub2e4 (\ub85c\uceec \ud30c\uc77c\uc774 \uc544\ub2c8\ub2e4)",
+          "passed": false,
+          "evidence": "Google Docs \ub3c4\uad6c\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc5b4 \ub85c\uceec \ud30c\uc77c output/reports/\uc544\uc774\ud3f016_\uac24\ub7ed\uc2dcS26_\ube44\uad50.txt \ub9cc \uc791\uc131\ub428. \uc2e4\uc81c Docs \ubb38\uc11c\ub294 \uc0dd\uc131\ub418\uc9c0 \uc54a\uc74c."
+        },
+        {
+          "text": "\uc2a4\ud399/\uac00\uaca9 \ube44\uad50\uac00 \ud45c(\ud14c\uc774\ube14) \ud615\uc2dd\uc73c\ub85c \ubb38\uc11c\uc5d0 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": false,
+          "evidence": "\ub85c\uceec .txt \ud30c\uc77c \uc548\uc5d0 \ub9c8\ud06c\ub2e4\uc6b4 \ud45c \ud615\uc2dd\uc73c\ub85c\ub9cc \uc874\uc7ac\ud558\uba70, \uc774\ub294 Google Docs \ubb38\uc11c \ub0b4 \ud45c\uac00 \uc544\ub2c8\ub2e4."
+        },
+        {
+          "text": "\uc751\ub2f5\uc5d0 \uc2e4\uc81c Google Docs \uacf5\uc720 \ub9c1\ud06c\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": false,
+          "evidence": "\uc2e4\uc81c Docs \ubb38\uc11c\uac00 \uc5c6\uc73c\ubbc0\ub85c \uacf5\uc720 \ub9c1\ud06c\uac00 \uc874\uc7ac\ud558\uc9c0 \uc54a\uc74c."
+        },
+        {
+          "text": "\uc800\uc7a5 \ud3f4\ub354\uac00 \ud504\ub86c\ud504\ud2b8\uc5d0 \uba85\uc2dc\ub418\uc9c0 \uc54a\uc558\uc73c\ubbc0\ub85c \ud3f4\ub354\ub97c \uc0ac\uc6a9\uc790\uc5d0\uac8c \ud655\uc778\ud588\uac70\ub098, \ud655\uc778\uc774 \ubd88\uac00\ub2a5\ud55c \ud658\uacbd\uc784\uc744 \uc778\uc9c0\ud558\uace0 \uadf8 \uc0ac\uc2e4\uc744 \uba85\uc2dc\ud588\ub2e4",
+          "passed": false,
+          "evidence": "Google Docs \uc800\uc7a5 \uc790\uccb4\uac00 \uc774\ub8e8\uc5b4\uc9c0\uc9c0 \uc54a\uc544 \ud3f4\ub354 \ud655\uc778 \uc808\ucc28\ub3c4 \uc5c6\uc5c8\uc74c."
+        }
+      ],
+      "notes": []
+    },
+    {
+      "eval_id": 1,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 1.0,
+        "passed": 6,
+        "failed": 0,
+        "total": 6,
+        "time_seconds": 0.0,
+        "tokens": 0,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "\uc2e4\uc81c Google Docs \ubb38\uc11c\uac00 \uc0dd\uc131\ub418\uc5c8\ub2e4 (\ub85c\uceec \ud30c\uc77c\uc774 \uc544\ub2c8\ub2e4)",
+          "passed": true,
+          "evidence": "baseline \uc5d0\uc774\uc804\ud2b8\uac00 reference-memory \ub9e5\ub77d\uc73c\ub85c gws CLI\uc5d0 \uc9c1\uc811 \uc811\uadfc \uac00\ub2a5\ud588\uace0, \uc774\ub97c \uc218\ub3d9\uc73c\ub85c \uc0ac\uc6a9\ud574 \uc2e4\uc81c \ubb38\uc11c https://docs.google.com/document/d/1uWrz0-0smIGbD3_AAGknxnI1QRSJGgvrdfRWgLbMgZE/edit?usp=drivesdk \ub97c \uc0dd\uc131\ud568."
+        },
+        {
+          "text": "\uc0dd\uc131\ub41c \ubb38\uc11c\uac00 '\uc5ec\ud589 \uc9c0\ub3c4' Drive \ud3f4\ub354 \uc548\uc5d0 \uc800\uc7a5\ub418\uc5c8\ub2e4",
+          "passed": true,
+          "evidence": "gws drive files list\ub85c '\uc5ec\ud589 \uc9c0\ub3c4' \ud3f4\ub354\ub97c \ucc3e\uace0 addParents/removeParents\ub85c \ubb38\uc11c\ub97c \ud574\ub2f9 \ud3f4\ub354\ub85c \uc774\ub3d9\uc2dc\ud0b4."
+        },
+        {
+          "text": "\uc751\ub2f5\uc5d0 \uc2e4\uc81c\ub85c \uc5f4 \uc218 \uc788\ub294 Google Docs \uacf5\uc720 \ub9c1\ud06c(https://docs.google.com/document/d/...)\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "\ucd5c\uc885 \uc751\ub2f5\uc5d0 https://docs.google.com/document/d/1uWrz0-0smIGbD3_AAGknxnI1QRSJGgvrdfRWgLbMgZE/edit?usp=drivesdk \ub9c1\ud06c \ud3ec\ud568\ub428."
+        },
+        {
+          "text": "\ubb38\uc11c\uc5d0 \uc81c\ubaa9\uacfc \ucd5c\uc18c 1\uac1c \uc774\uc0c1\uc758 \uc18c\uc81c\ubaa9/\uc139\uc158 \uad6c\ubd84\uc774 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "\uc81c\ubaa9\uacfc \uc18c\uc81c\ubaa9 \uad6c\uc870\ub97c \uac16\ucd98 \ubb38\uc11c\ub85c \ud655\uc778\ub428."
+        },
+        {
+          "text": "\uc11c\ub85c \ub2e4\ub978 \ucd9c\ucc98 2\uac1c \uc774\uc0c1\uc744 \ubc14\ud0d5\uc73c\ub85c \ud55c \uc870\uc0ac \ub0b4\uc6a9\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "\ubcf5\uc218 \ucd9c\ucc98\ub97c \ubc14\ud0d5\uc73c\ub85c \ud55c \uc870\uc0ac \ub0b4\uc6a9\uc774 \ubb38\uc11c\uc5d0 \ud3ec\ud568\ub428."
+        },
+        {
+          "text": "\uc800\uc7a5 \ud3f4\ub354\uac00 \uc774\ubbf8 \ud504\ub86c\ud504\ud2b8\uc5d0 \uba85\uc2dc\ub418\uc5b4 \uc788\uc73c\ubbc0\ub85c \ud3f4\ub354\ub97c \ub2e4\uc2dc \ud655\uc778\ud558\ub294 \uc9c8\ubb38\uc744 \ud558\uc9c0 \uc54a\uc558\ub2e4",
+          "passed": true,
+          "evidence": "'\uc5ec\ud589 \uc9c0\ub3c4' \ud3f4\ub354\uac00 \ud504\ub86c\ud504\ud2b8\uc5d0 \uba85\uc2dc\ub418\uc5b4 \uc788\uc5b4 \uc7ac\uc9c8\ubb38 \uc5c6\uc774 \ubc14\ub85c \ud574\ub2f9 \ud3f4\ub354\ub97c \ucc3e\uc544 \uc774\ub3d9\uc2dc\ud0b4."
+        }
+      ],
+      "notes": [
+        "\uc774 baseline \uc2e4\ud589\uc740 reference-memory\ub97c \ud1b5\ud574 gws CLI\uc5d0 \uc9c1\uc811 \uc811\uadfc \uac00\ub2a5\ud588\uae30 \ub54c\ubb38\uc5d0 with_skill\uacfc \ub3d9\uc77c\ud558\uac8c 6\uac1c assertion\uc744 \ubaa8\ub450 \ud1b5\uacfc\ud568 - \uc774 eval\uc740 \uc2a4\ud0ac\uc758 \ucc28\ubcc4\uc801 \uac00\uce58\ub97c \uc798 \ub4dc\ub7ec\ub0b4\uc9c0 \ubabb\ud560 \uc218 \uc788\uc74c."
+      ]
+    },
+    {
+      "eval_id": 2,
+      "configuration": "without_skill",
+      "run_number": 1,
+      "result": {
+        "pass_rate": 0.25,
+        "passed": 1,
+        "failed": 3,
+        "total": 4,
+        "time_seconds": 0.0,
+        "tokens": 0,
+        "tool_calls": 0,
+        "errors": 0
+      },
+      "expectations": [
+        {
+          "text": "\uc2e4\uc81c Google Docs \ubb38\uc11c\uac00 \uc0dd\uc131\ub418\uc5c8\ub2e4 (\ub85c\uceec \ud30c\uc77c\uc774 \uc544\ub2c8\ub2e4)",
+          "passed": false,
+          "evidence": "Google Docs \ub3c4\uad6c\ub97c \uc0ac\uc6a9\ud560 \uc218 \uc5c6\uc5b4 \ub85c\uceec \ud30c\uc77c \ud654\uc0c1\ud68c\uc758_\ud234_\ube44\uad50.txt \ub9cc \uc791\uc131\ub428. \uc2e4\uc81c Docs \ubb38\uc11c\ub294 \uc0dd\uc131\ub418\uc9c0 \uc54a\uc74c."
+        },
+        {
+          "text": "\ubb38\uc11c\ub97c \ub9cc\ub4e4\uae30 \uc804\uc5d0 \uc800\uc7a5\ud560 Drive \ud3f4\ub354\ub97c \uc0ac\uc6a9\uc790\uc5d0\uac8c \uba85\uc2dc\uc801\uc73c\ub85c \ud655\uc778\ud588\uac70\ub098, \ud655\uc778\uc774 \ubd88\uac00\ub2a5\ud55c \ud3c9\uac00 \ud658\uacbd\uc784\uc744 \uc778\uc9c0\ud558\uace0 \uadf8 \uc0ac\uc2e4\uacfc \ud3f4\ubc31 \ucc98\ub9ac(\ub0b4 \ub4dc\ub77c\uc774\ube0c \ucd5c\uc0c1\uc704 \ub4f1)\ub97c \uacb0\uacfc\uc5d0 \uba85\uc2dc\ud588\ub2e4",
+          "passed": false,
+          "evidence": "Google Docs \uc800\uc7a5 \uc790\uccb4\uac00 \uc774\ub8e8\uc5b4\uc9c0\uc9c0 \uc54a\uc544 \ud3f4\ub354 \ud655\uc778 \uc808\ucc28\ub3c4 \uc874\uc7ac\ud558\uc9c0 \uc54a\uc74c."
+        },
+        {
+          "text": "\uc751\ub2f5\uc5d0 \uc2e4\uc81c Google Docs \uacf5\uc720 \ub9c1\ud06c\uac00 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": false,
+          "evidence": "\uc2e4\uc81c Docs \ubb38\uc11c\uac00 \uc5c6\uc73c\ubbc0\ub85c \uacf5\uc720 \ub9c1\ud06c\uac00 \uc874\uc7ac\ud558\uc9c0 \uc54a\uc74c."
+        },
+        {
+          "text": "\uc7ac\ud0dd\uadfc\ubb34 \ud654\uc0c1\ud68c\uc758 \ud234\uc744 2\uac1c \uc774\uc0c1 \ube44\uad50\ud558\ub294 \uad6c\uc870\ud654\ub41c \ub0b4\uc6a9\uc774 \ud3ec\ud568\ub418\uc5b4 \uc788\ub2e4",
+          "passed": true,
+          "evidence": "\ub85c\uceec .txt \ud30c\uc77c \uc548\uc5d0 Zoom/Meet/Teams/Webex 4\uac1c \ud234\uc744 \ube44\uad50\ud558\ub294 \ud45c \ud615\uc2dd \ub0b4\uc6a9\uc774 \ud3ec\ud568\ub428."
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": {
+        "mean": 1.0,
+        "stddev": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "time_seconds": {
+        "mean": 0.0,
+        "stddev": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "tokens": {
+        "mean": 0.0,
+        "stddev": 0.0,
+        "min": 0,
+        "max": 0
+      }
+    },
+    "without_skill": {
+      "pass_rate": {
+        "mean": 0.4167,
+        "stddev": 0.5204,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "time_seconds": {
+        "mean": 0.0,
+        "stddev": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "tokens": {
+        "mean": 0.0,
+        "stddev": 0.0,
+        "min": 0,
+        "max": 0
+      }
+    },
+    "delta": {
+      "pass_rate": "+0.58",
+      "time_seconds": "+0.0",
+      "tokens": "+0"
+    }
+  },
+  "notes": [
+    "eval-folder-specified without_skill run passed all 6 assertions because the baseline agent had reference-memory access to the gws CLI and used it manually — this eval may not clearly demonstrate the skill's differentiated value; consider a stricter baseline (no CLI memory) or a harder eval for the next iteration.",
+    "Several with_skill runs (eval-folder-unspecified, eval-folder-specified) hit a cmd.exe reinterpretation bug with '|'/'&' characters during document creation, worked around manually mid-run. The shared builder scripts (gws_docs_builder.py) were already fixed for this bug, but these eval runs appear to predate that fix being in place — the pass rate is genuine, but expect fewer workarounds needed on a re-run against the current skill version.",
+    "time_seconds and tokens are 0 for all runs because no timing.json files were captured during these eval runs — the pass-rate comparison is reliable, but there is no time/token efficiency data for this iteration."
+  ]
+}

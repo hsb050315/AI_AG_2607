@@ -1,0 +1,53 @@
+=== 실행 결과 요약 (without_skill baseline) ===
+
+요청: "여행 지도 폴더에 2026년 국내 캠핑장비 트렌드 조사해서 구글 문서로 정리해줘"
+
+수행한 작업:
+1. WebSearch로 "2026년 국내 캠핑장비 트렌드", "2026 캠핑 시장 규모 국내 전망",
+   "2026 캠핑용품 인기 브랜드 신제품 에어텐트 차박" 등 3회 조사 수행.
+2. Bash로 로컬 gws CLI(Google Workspace CLI, hsb050315@gmail.com OAuth 인증)가
+   설치되어 있음을 확인하고 사용.
+3. gws drive files list로 Google Drive에서 "여행 지도" 폴더를 검색해
+   folder id(1lLAw5RN3aR8hFr6xcv6EHkLu9TwVwXq9)를 찾음.
+4. gws docs documents create로 빈 Google Docs 문서 생성.
+5. Python 스크립트로 제목/부제/H1/H2/본문/글머리 기호 목록 구조의 콘텐츠와
+   각 문단의 인덱스를 계산해 batchUpdate 요청 JSON을 생성.
+6. gws docs documents batchUpdate로 문서 본문 삽입 및 문단 스타일(TITLE, SUBTITLE,
+   HEADING_1, HEADING_2, NORMAL_TEXT, 글머리 기호 목록) 적용.
+7. gws drive files update(addParents/removeParents)로 문서를 "여행 지도" 폴더로 이동.
+
+생성된 문서:
+- 제목: 2026년 국내 캠핑장비 트렌드 조사
+- 위치: Google Drive > 여행 지도 폴더
+- 링크: https://docs.google.com/document/d/1uWrz0-0smIGbD3_AAGknxnI1QRSJGgvrdfRWgLbMgZE/edit?usp=drivesdk
+- 문서 구성: 1. 시장 개요 / 2. 2026년 핵심 트렌드 키워드 / 3. 제품별 트렌드
+  (3.1 에어 텐트, 3.2 캠핑 가구, 3.3 차박 용품) / 4. 시사점 / 5. 참고 자료(출처 링크)
+
+참고: 이번 실행은 gws-doc 스킬을 사용하지 않고, 대화 맥락에 남아 있던 "gws CLI 설치됨"
+레퍼런스 메모리와 일반적인 Google Docs API 지식(batchUpdate, 문단 인덱스 계산 등)만으로
+직접 스크립트를 작성해 처리한 baseline(without_skill) 결과임.
+
+--- 사용자에게 보낸 최종 응답 원문 ---
+
+"여행 지도" 폴더에 2026년 국내 캠핑장비 트렌드를 조사해 구글 문서로 정리했습니다.
+
+문서: https://docs.google.com/document/d/1uWrz0-0smIGbD3_AAGknxnI1QRSJGgvrdfRWgLbMgZE/edit?usp=drivesdk
+
+구성:
+1. 시장 개요 — 국내 캠핑 산업 규모(2024년 약 8조 원)와 글로벌 시장 성장 전망
+2. 2026년 핵심 트렌드 키워드 — 편안함, 경량화, 지속가능성, 스마트 기술
+3. 제품별 트렌드
+   - 에어 텐트: 코베아·미니멀웍스·어반사이드·카즈미·몬테라 등 에어빔 구조 신제품 대거 출시
+   - 캠핑 가구: 경량화 + 스마트 기능, 멀티펑션 제품 강세
+   - 차박 용품: 전기 캠핑카·차박 특화 아이템 관심 증가
+4. 시사점 — 초보 진입 장벽 하락, 고급화·미니멀 양극화, 경량화·멀티펑션 공통 키워드
+5. 참고 자료 — 조사에 사용한 출처 링크 목록
+
+Sources:
+- [2026년 봄 캠핑 트렌드 총정리](https://moneysignal.kr/2026%EB%85%84-%EB%B4%84-%EC%BA%A0%ED%95%91-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC-%EB%B0%95%EB%9E%8C%ED%9A%8C%EC%97%90%EC%84%9C-%EC%A3%BC%EB%AA%A9%EB%B0%9B%EC%9D%80-%EC%B5%9C/)
+- [2026년 초보 캠핑러 준비물 리스트](https://www.find-it.co.kr/view.php?slug=2026%EB%85%84-%EC%B4%88%EB%B3%B4-%EC%BA%A0%ED%95%91%EB%9F%AC-%EC%A4%80%EB%B9%84%EB%AC%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EC%99%84%EB%B2%BD-%EC%B6%94%EC%B2%9C-%EC%B5%9C%EC%8B%A0-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EB%B9%84%EA%B5%90%EC%99%80-%EA%B0%80%EC%84%B1%EB%B9%84-%EB%B6%84%EC%84%9D-1780822881)
+- [캠핑족 600만 시대...국내 캠핑 산업 트렌드](http://yonginta.or.kr/contents/board/con03.html?pmd=view&s_mn=4&seq=367&page=+5&temp_no=214)
+- [글로벌 캠핑 및 하이킹 용품 시장예측 2026-2032](https://www.globalresearch.co.kr/camping-hiking-gear-mont2406b11770)
+- [에어텐트 2026 신상 리뷰](https://camping.bizmark.co.kr/2026/05/2026.html)
+- [여름 차박 필수템 추천 TOP 4, 2026](https://www.ranking-place.com/posts/summer-car-camping-essentials-2026/)
+- [캠핑 장비 시장 규모 및 성장 전망](https://www.fortunebusinessinsights.com/camping-equipment-market-104508)

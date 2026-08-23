@@ -1,0 +1,47 @@
+=== 최종 사용자 응답 (전체 텍스트) ===
+
+아이폰 16과 갤럭시 S26 최신 플래그십 스펙/가격을 조사해서 정리했습니다.
+
+먼저 안내드릴 점: 현재 세션에는 실제 Google Docs(구글 문서)를 생성할 수 있는 도구가 연결되어 있지 않아, 요청하신 대로 "구글 문서"로 직접 만들어드리지는 못했습니다. 대신 동일한 내용을 잘 정리된 로컬 텍스트 파일로 작성해 저장했습니다 (output/reports/아이폰16_갤럭시S26_비교.txt). 이 내용을 그대로 복사해서 Google Docs에 붙여넣으시면 되고, 이후 Google Docs 생성이 가능한 도구가 연결되면 자동으로 문서를 만들어 드릴 수 있습니다.
+
+## 아이폰 16 vs 갤럭시 S26 스펙/가격 비교
+
+두 제품 모두 각 브랜드의 표준(기본형) 플래그십 라인업입니다. 아이폰 16은 2024년 9월 출시, 갤럭시 S26은 2026년 3월 출시되었습니다. (참고: 애플의 최신 라인업은 아이폰 17 계열이지만, 요청하신 "아이폰 16" 기준으로 정리했습니다.)
+
+| 항목 | 아이폰 16 | 갤럭시 S26 |
+|---|---|---|
+| 출시일 | 2024년 9월 | 2026년 3월 11일 |
+| 칩셋 | Apple A18 (6코어 CPU, 5코어 GPU, 16코어 뉴럴엔진) | Samsung Exynos 2600 (S5E9965) |
+| 디스플레이 | 6.1형 OLED, 60Hz, 1179x2556, 최대 2000니트 | 6.3형 (AMOLED 계열) |
+| RAM | 8GB | 12GB |
+| 저장용량 | 128/256/512GB | 256/512GB |
+| 후면 카메라 | 4800만(메인, f/1.6) + 1200만(초광각, f/2.2) | 5000만 + 1200만 + 1000만 (트리플) |
+| 전면 카메라 | 1200만 화소 | 1200만 화소 |
+| 배터리 | 동영상 재생 최대 22시간, 20W/30W 고속충전 | 4300mAh |
+| OS | iOS 18 | Android (One UI, Galaxy AI) |
+| 가격 | $699부터 (128GB, 미국 기준) | $1,099.99부터 (미국 기준) / £879부터 (영국 기준) |
+
+참고사항:
+- 갤럭시 S26 Ultra(상위 모델)는 Snapdragon 8 Elite Gen 5, 16GB RAM, 최대 1TB 저장, 6.9형 디스플레이, 2억 화소 메인카메라(가변 조리개 f/1.4~f/4.0), 5000mAh 배터리를 갖춘 별도 라인업입니다.
+- 아이폰 16 Plus는 6.7형 디스플레이 모델로 $799(128GB)부터 시작합니다.
+- 가격은 판매처/국가/프로모션에 따라 달라질 수 있으며, 2026년 8월 기준 조사 결과입니다.
+
+출처:
+- Apple 공식 - iPhone 16 Tech Specs: https://support.apple.com/en-us/121029
+- Apple 공식 - iPhone 16 and iPhone 16 Plus Technical Specifications: https://www.apple.com/iphone-16/specs/
+- Smartprix - Apple iPhone 16 Price (Aug 2026): https://us.smartprix.com/mobiles/apple-iphone-16-ppd1cv5ak11g
+- Kimovil - Apple iPhone 16 Price and specifications: https://www.kimovil.com/en/where-to-buy-apple-iphone-16
+- TechRadar - iPhone 16 specs: https://www.techradar.com/phones/iphone/iphone-16-specs
+- Tech Advisor - Samsung Galaxy S26 Release Date, Price & Specs: https://www.techadvisor.com/article/2586501/samsung-galaxy-s26-release-date-price-specs-ultimate-guide.html
+- Samsung 공식(인도) - Galaxy S26 & S26+: https://www.samsung.com/in/smartphones/galaxy-s26/
+- 91mobiles - Samsung Galaxy S26 Full Specifications & Price: https://www.91mobiles.com/samsung-galaxy-s26-price-in-india
+- GSMArena - Samsung Galaxy S26 Ultra Full Specifications: https://www.gsmarena.com/samsung_galaxy_s26_ultra_5g-14320.php
+- PhoneArena - Galaxy S26 price predictions: https://www.phonearena.com/news/galaxy-s26-price-predictions_id176620
+
+=== 실제로 생성한 산출물 ===
+
+Google Docs 문서는 생성하지 못했습니다 (세션에 Google Docs 작성 도구가 연결되어 있지 않음, gws-doc 스킬 미사용).
+대신 위 비교 내용 전체를 로컬 텍스트 파일로 작성하여 저장했습니다:
+경로: C:\Users\popo_edu\Desktop\2\AI_AG_2607\output\reports\아이폰16_갤럭시S26_비교.txt
+
+이 파일은 프로젝트의 기존 output/reports/ 폴더 관례를 따라 한국어로 작성된 비교표+요약+출처를 포함한 일반 텍스트 문서입니다.

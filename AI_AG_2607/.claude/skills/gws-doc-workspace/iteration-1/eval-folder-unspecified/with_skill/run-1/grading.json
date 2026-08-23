@@ -1,0 +1,32 @@
+{
+  "expectations": [
+    {
+      "text": "실제 Google Docs 문서가 생성되었다 (로컬 파일이 아니다)",
+      "passed": true,
+      "evidence": "실제 Google Docs 문서 https://docs.google.com/document/d/1bMaI6qq1UdEbyEYSz7cTX8lx0XU2qRJ4le3E2E5BOaM/edit 생성 확인됨."
+    },
+    {
+      "text": "문서를 만들기 전에 저장할 Drive 폴더를 사용자에게 명시적으로 확인했거나, 확인이 불가능한 평가 환경임을 인지하고 그 사실과 폴백 처리(내 드라이브 최상위 등)를 결과에 명시했다",
+      "passed": true,
+      "evidence": "폴더 미지정 상태에서 사용자에게 묻는 절차를 시뮬레이션하고, 자동화 평가 환경이라 확인이 불가능함을 내부적으로 및 최종 응답에 명시하며 내 드라이브 최상위에 저장함."
+    },
+    {
+      "text": "응답에 실제 Google Docs 공유 링크가 포함되어 있다",
+      "passed": true,
+      "evidence": "최종 응답에 https://docs.google.com/document/d/1bMaI6qq1UdEbyEYSz7cTX8lx0XU2qRJ4le3E2E5BOaM/edit 링크 포함됨."
+    },
+    {
+      "text": "재택근무 화상회의 툴을 2개 이상 비교하는 구조화된 내용이 포함되어 있다",
+      "passed": true,
+      "evidence": "Zoom/Teams/Meet/Webex/Zoho 5개 화상회의 툴을 표 형식으로 비교하는 내용이 포함됨."
+    }
+  ],
+  "summary": {"passed": 4, "failed": 0, "total": 4, "pass_rate": 1.0},
+  "user_notes_summary": {
+    "uncertainties": [],
+    "needs_review": [],
+    "workarounds": [
+      "한글 인코딩 문제와 '|' 문자가 cmd.exe에서 파이프로 오인되는 문제로 문서 생성 시도가 2회 실패한 뒤 3번째 시도에서 성공함 (공유 빌더 스크립트의 cmd.exe 우회 수정이 이 실행 시점에 반영되지 않았던 것으로 추정됨). 실패/테스트용 문서 2개를 정리(삭제)함."
+    ]
+  }
+}

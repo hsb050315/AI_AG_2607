@@ -1,0 +1,116 @@
+2026년 재택근무용 화상회의 툴 비교
+(Google Docs 생성 기능이 없어 로컬 문서로 대신 작성한 결과물)
+
+==================================================
+1. 개요
+==================================================
+재택/원격근무 환경에서 널리 쓰이는 화상회의 툴 중 2026년 기준으로
+많이 언급되는 Zoom, Google Meet, Microsoft Teams, Cisco Webex 4종을
+비교했습니다. 시장 점유율, 요금제, 주요 기능, 장단점을 기준으로
+정리했으며, 팀 상황별 추천안을 함께 제시합니다.
+
+
+==================================================
+2. 시장 점유율 (2026년 기준)
+==================================================
+- Zoom            : 약 50~56%  (업계 1위, 온라인 강의/웨비나에서도 강세)
+- Microsoft Teams : 약 23%     (Microsoft 365 생태계와 강하게 결합)
+- Cisco Webex     : 약 8~11%   (보안이 중요한 산업군에서 선호)
+- Google Meet     : 약 4~5.5%  (Google Workspace 사용자에게 무료 제공)
+
+※ 출처마다 수치 편차가 있어 대략적인 범위로 표기했습니다.
+
+
+==================================================
+3. 툴별 상세 비교
+==================================================
+
+[1] Zoom
+- 강점 : 가장 안정적인 화질/음질(적응형 비트레이트로 저속 회선에서도
+         화면이 잘 끊기지 않음), AI Companion(회의 요약/액션아이템
+         자동 생성), 웨비나·대규모 이벤트 기능이 성숙함
+- 무료 플랜 : 최대 100명, 그룹 통화 40분 제한
+- 유료 플랜 : Pro 약 $13~16/월(사용자당), 웨비나 애드온 $79/월~,
+              이벤트 애드온 $99/월~
+- 적합한 대상 : 화질/안정성이 최우선인 팀, 웨비나·대규모 온라인
+                강의를 진행하는 조직
+
+[2] Google Meet
+- 강점 : Gmail 계정만 있으면 누구나 무료 사용 가능, Google
+         Workspace(캘린더/드라이브/문서)와의 매끄러운 연동, UI가
+         가장 단순해서 진입장벽이 낮음
+- 무료 플랜 : 최대 100명, 1시간 제한
+- 유료 플랜 : 클라우드 녹화 등은 Google Workspace Business Starter
+              $6/사용자/월 이상 필요
+- 적합한 대상 : 이미 Google Workspace를 쓰는 팀, 별도 학습 없이
+                바로 쓸 가벼운 툴이 필요한 소규모 팀
+
+[3] Microsoft Teams
+- 강점 : Microsoft 365(Word/Excel/Outlook 등)와 완전 통합, 채팅·
+         파일공유·회의가 하나의 앱에서 처리됨, 비용 대비 효율이
+         가장 좋음
+- 무료 플랜 : 최대 100명, 60분 제한
+- 유료 플랜 : 약 $4/사용자/월(일부 플랜), AI 기능(Teams Premium)은
+              +$10/사용자/월
+- 적합한 대상 : 이미 Microsoft 365를 도입한 조직, 채팅/문서/회의를
+                한 생태계에서 통합 관리하고 싶은 팀
+
+[4] Cisco Webex
+- 강점 : 보안·컴플라이언스가 가장 강력함(금융/의료 등 규제 산업에서
+         선호), AI 기반 노이즈 제거·번역 기능
+- 무료 플랜 : 최대 100명, 40분 제한
+- 유료 플랜 : Webex Meet $12/라이선스/월(연간 결제)~
+- 적합한 대상 : 보안이 최우선인 산업군(금융, 공공, 의료), 이미
+                Cisco 인프라를 쓰는 조직
+
+
+==================================================
+4. 요약 비교표
+==================================================
+항목          | Zoom          | Google Meet   | MS Teams      | Webex
+--------------|---------------|---------------|---------------|---------------
+시장 점유율   | 50~56%        | 4~5.5%        | 23%           | 8~11%
+무료 인원     | 100명         | 100명         | 100명         | 100명
+무료 시간제한 | 40분          | 60분          | 60분          | 40분
+최저 유료가   | 약 $13~16/월  | $6/월(WS 포함)| 약 $4/월      | $12/월
+AI 기능       | 강함(유료)    | 보통          | 강함(추가과금)| 강함(보안특화)
+최대 강점     | 화질/안정성   | 접근성/무료   | 생태계 통합   | 보안
+추천 대상     | 대규모/웨비나 | Google 사용자 | MS365 사용자  | 규제 산업
+
+
+==================================================
+5. 결론 및 추천
+==================================================
+- Google Workspace를 이미 쓰고 있다면          -> Google Meet
+- Microsoft 365(Outlook/Teams 채팅)를 쓴다면   -> Microsoft Teams
+- 화질/안정성, 웨비나·대규모 온라인 강의 중심  -> Zoom
+- 금융/의료 등 보안 규제가 엄격한 조직         -> Cisco Webex
+
+특정 생태계에 종속되어 있지 않은 일반적인 재택근무 소규모 팀이라면
+Google Meet 또는 Microsoft Teams처럼 이미 쓰고 있는 협업툴과
+번들로 제공되는 화상회의 기능을 우선 활용하는 것이 비용 효율적이며,
+대규모 세미나/웨비나가 잦다면 Zoom을 별도로 검토하는 것을 추천합니다.
+
+
+==================================================
+출처
+==================================================
+- https://vibe.us/blog/best-video-conferencing-tools/
+- https://www.teleprompter.com/blog/google-meet-vs-zoom
+- https://www.guideflow.com/blog/video-conferencing-software-teams
+- https://bknddevelopment.com/best/best-video-conferencing-tools/
+- https://ratethetool.com/zoom-vs-microsoft-teams-vs-google-meet-2026/
+- https://hteny.com/blog/video-conferencing-remote-workers
+- https://www.dailygrowthinsights.com/post/video-conferencing-comparison-2026-zoom-vs-teams-vs-google-meet-feature-chart-and-breakdown
+- https://toolradar.com/guides/best-video-conferencing-software
+- https://www.larksuite.com/ko_kr/blog/video-conferencing-software
+- https://content.rview.com/ko/blog/best-remote-control-comparison-2026/
+- https://reviewinsight.blog/2026/04/20/2025-%ED%98%91%EC%97%85%ED%88%B4-20%EC%A2%85-%EC%A2%85%EB%A5%98%EB%B3%84-%ED%95%B5%EC%8B%AC%EA%B8%B0%EB%8A%A5-%EC%A0%95%EB%A6%AC-%EC%97%85%EB%AC%B4-%EC%9C%A0%ED%98%95%EB%B3%84-%EC%B6%94%EC%B2%9C/
+- https://boardmix.com/kr/reviews/online-meeting-softwares/
+- https://zapier.com/blog/best-zoom-alternatives/
+- https://qualtir.com/blog/zoom-alternatives-2026
+- https://atonementlicensing.com/blog/zoom-vs-teams-webex-2026/
+- https://learn.g2.com/webex-vs-zoom
+- https://newtechgroup.com/en/best-video-conferencing-platforms-2026/
+- https://appscoutly.com/reviews/zoom-vs-meet-vs-teams-2026
+- https://learn.g2.com/zoom-vs-teams
