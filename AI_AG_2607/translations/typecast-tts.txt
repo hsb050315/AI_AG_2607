@@ -1,0 +1,76 @@
+typecast-tts: 타입캐스트 API를 이용한 텍스트 음성 변환
+
+타입캐스트 REST API(`https://api.typecast.ai/v1/text-to-speech`)를 사용해 텍스트를 음성으로 변환하는 스킬입니다. 매번 직접 HTTP 요청을 짜지 말고, 번들된 `scripts/typecast_tts.py` 헬퍼를 그대로 사용하세요.
+
+## 사전 준비
+
+- 사용자가 직접 `TYPECAST_API_KEY` 환경변수를 설정해야 합니다 (타입캐스트 스튜디오 → 개발자 도구 → API → API 키에서 발급).
+- **사용자에게 키 값을 채팅에 붙여넣으라고 요청하지 말고, 실제 키 값을 직접 입력하거나 보지 않습니다.** 환경변수가 없으면 아래 "API 키 설정 방법"을 안내하고 대기합니다 — 키 없이 진행하지 않습니다.
+
+## 기본 보이스
+
+사용자가 다른 캐릭터를 지정하지 않으면 다음을 사용합니다:
+
+- **이름:** 서현 (아나운서)
+- **voice_id:** `tc_69f2e455ea79fd197aa0476f`
+
+다른 보이스를 쓰려면 `https://studio.typecast.ai/developers/api/voices`에서 직접 찾아보거나 Claude에게 찾아달라고 요청한 뒤 그 `voice_id`를 대신 넘기면 됩니다.
+
+## 스크립트 사용법
+
+```python
+import sys
+sys.path.insert(0, "<이 스킬 폴더>/scripts")
+from typecast_tts import generate_speech
+
+output_path = generate_speech(
+    text="안녕하세요, 타입캐스트 테스트입니다.",
+    voice_id="tc_69f2e455ea79fd197aa0476f",  # 서현 (아나운서), 기본값
+    output_path="output/audio/sample.wav",     # 임의 경로, 상위 폴더는 자동 생성됨
+    audio_format="wav",                          # "wav" 또는 "mp3"
+)
+print(output_path)
+```
+
+`generate_speech(text, voice_id=DEFAULT_VOICE_ID, output_path=None, model="ssfm-v30", language=None, audio_format="wav", emotion_preset=None, emotion_intensity=None, audio_pitch=None, audio_tempo=None)`
+
+- `text` — 필수, 1~2000자.
+- `voice_id` — 기본값은 서현. `tc_` 접두사는 기본 제공 보이스, `uc_` 접두사는 사용자가 복제한 보이스.
+- `output_path` — 생성된 오디오를 저장할 경로. 생략 시 임시 파일에 저장 후 그 경로를 반환. 이 프로젝트의 출력물 규칙에 따라 생성된 오디오는 `output/audio/` 아래에 저장합니다.
+- `model` — `ssfm-v30`(기본값, 권장) 또는 `ssfm-v21`.
+- `language` — ISO 639-3 코드(`kor`, `eng`, `jpn`, `zho` 등), 생략 시 자동 감지.
+- `emotion_preset` — `normal, happy, sad, angry, whisper, toneup, tonedown` 중 하나.
+- `emotion_intensity` — 0.0~2.0, `emotion_preset`과 함께 사용.
+- `audio_pitch` — -12~12 반음.
+- `audio_tempo` — 0.5~2.0 (재생 속도).
+
+실패 시 함수는 HTTP 상태 코드와 응답 본문을 담은 명확한 예외를 발생시킵니다 — 무작정 재시도하지 말고 이 메시지를 사용자에게 전달하세요.
+
+## API 키 설정 방법
+
+사용자가 직접 설정하도록 안내합니다. 예를 들어 PowerShell에서 현재 세션에 설정하려면:
+
+```powershell
+$env:TYPECAST_API_KEY = "..."
+```
+
+또는 저장소 루트의 `.env` 파일(이미 `.gitignore`에 포함됨)에 `TYPECAST_API_KEY=...` 한 줄을 넣어 영구적으로 저장한 뒤 스크립트 실행 전에 로드할 수도 있습니다. 어느 경우든 Claude가 실제 키 값을 직접 입력하지 않습니다.
+
+## 에러 코드
+
+| 코드 | 의미 |
+|------|------|
+| 400 | 잘못된 파라미터 |
+| 401 | 유효하지 않거나 누락된 API 키 |
+| 402 | 크레딧 부족 |
+| 403 | 접근 거부 (레거시 키, 휴면 계정, 권한 문제) |
+| 404 | 보이스/모델을 찾을 수 없음 |
+| 422 | 유효성 검증 오류 |
+| 429 | 요청 한도 초과 |
+| 500 | 서버 오류 |
+
+## 하지 말아야 할 것
+
+- 스크립트나 채팅 어디에도 API 키를 하드코딩하지 않습니다.
+- 생성된 `.env` 파일이나 민감한 사용자 텍스트가 담긴 오디오 결과물을 커밋하지 않습니다.
+- 원시 `requests.post(...)` 호출을 직접 작성하지 않고 항상 `scripts/typecast_tts.py`를 거칩니다.
