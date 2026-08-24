@@ -85,6 +85,29 @@ def find_folders(name_query):
     return resp.get("files", [])
 
 
+def create_folder(name, parent_id=None):
+    """Google Drive에 폴더를 생성한다. parent_id를 주면 그 폴더 안에 생성된다.
+    반환값: 생성된 폴더의 id (str)"""
+    body = {"name": name, "mimeType": "application/vnd.google-apps.folder"}
+    if parent_id:
+        body["parents"] = [parent_id]
+    resp = _gws_call(
+        ["drive", "files", "create"],
+        params={"fields": "id,name,parents"},
+        json_body=body,
+    )
+    return resp["id"]
+
+
+def set_anyone_reader_permission(document_id):
+    """문서를 '링크가 있는 모든 사용자 - 뷰어'로 공개 설정한다."""
+    return _gws_call(
+        ["drive", "permissions", "create"],
+        params={"fileId": document_id, "fields": "id"},
+        json_body={"role": "reader", "type": "anyone"},
+    )
+
+
 def create_document(title, folder_id=None):
     """Google Docs 문서를 생성한다. folder_id를 주면 그 폴더 안에 바로 생성된다
     (생성 후 이동시키는 방식은 공유 드라이브/권한 문제로 실패하는 경우가 많아 사용하지 않는다).
