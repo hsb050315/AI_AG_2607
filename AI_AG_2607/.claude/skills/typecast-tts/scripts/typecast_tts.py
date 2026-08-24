@@ -1,13 +1,17 @@
 """Typecast TTS API helper.
 
 Calls https://api.typecast.ai/v1/text-to-speech using the TYPECAST_API_KEY
-environment variable. See SKILL.md in the parent folder for usage.
+environment variable (loaded from a repo-root .env file if present).
+See SKILL.md in the parent folder for usage.
 """
 
 import os
 import tempfile
 
 import requests
+from dotenv import load_dotenv, find_dotenv
+
+load_dotenv(find_dotenv(usecwd=True))
 
 API_URL = "https://api.typecast.ai/v1/text-to-speech"
 DEFAULT_VOICE_ID = "tc_69f2e455ea79fd197aa0476f"  # 서현 (Announcer)

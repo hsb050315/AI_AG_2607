@@ -48,13 +48,15 @@ print(output_path)
 
 ## API 키 설정 방법
 
-사용자가 직접 설정하도록 안내합니다. 예를 들어 PowerShell에서 현재 세션에 설정하려면:
+권장하는 방법은 사용자가 저장소 루트에 직접 `.env` 파일(이미 `.gitignore`에 포함됨)을 만들고 다음 한 줄을 넣는 것입니다:
 
-```powershell
-$env:TYPECAST_API_KEY = "..."
+```
+TYPECAST_API_KEY=...
 ```
 
-또는 저장소 루트의 `.env` 파일(이미 `.gitignore`에 포함됨)에 `TYPECAST_API_KEY=...` 한 줄을 넣어 영구적으로 저장한 뒤 스크립트 실행 전에 로드할 수도 있습니다. 어느 경우든 Claude가 실제 키 값을 직접 입력하지 않습니다.
+`scripts/typecast_tts.py`는 임포트 시 `python-dotenv`를 통해 이 파일을 자동으로 읽어들이므로, 어떤 셸/프로세스에서 스크립트를 실행하든 상관없이 동작합니다 — 새 터미널 세션마다 환경변수를 다시 설정할 필요가 없습니다. PowerShell 세션에서 `$env:TYPECAST_API_KEY = "..."`로 설정하는 방법도 동작하지만, 그 특정 세션/프로세스에서만 유효합니다.
+
+Claude는 `.env` 파일이든 어디든 실제 키 값을 직접 입력하지 않습니다 — 사용자가 직접 입력/붙여넣어야 합니다.
 
 ## 에러 코드
 

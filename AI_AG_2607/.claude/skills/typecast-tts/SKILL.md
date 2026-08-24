@@ -53,13 +53,15 @@ The function raises a clear exception with the HTTP status and response body on 
 
 ## Setting the API key
 
-Guide the user to set it themselves, for example in PowerShell for the current session:
+The recommended way: the user creates a `.env` file at the repo root themselves (already covered by `.gitignore`) containing one line:
 
-```powershell
-$env:TYPECAST_API_KEY = "..."
+```
+TYPECAST_API_KEY=...
 ```
 
-Or persist it in a local `.env` file at the repo root (already covered by `.gitignore`) with a line `TYPECAST_API_KEY=...`, then load it before running the script. Claude should never fill in the actual key value in either case.
+`scripts/typecast_tts.py` auto-loads this file via `python-dotenv` on import, so it works regardless of which shell/process runs the script — no need to re-set an environment variable in every new terminal session. Setting `$env:TYPECAST_API_KEY = "..."` in a PowerShell session also works, but only for that specific session/process.
+
+Claude should never fill in the actual key value in the `.env` file or anywhere else — the user must type/paste it themselves.
 
 ## Error codes
 
