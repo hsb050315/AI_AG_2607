@@ -203,6 +203,43 @@ def add_paragraph(document_id, text):
     )
 
 
+def add_emphasized_paragraph(document_id, text, bold=True, red=True):
+    """본문 문단을 추가하고, 필요 시 굵게+빨간색 텍스트 스타일을 적용한다.
+    가장 중요한 부분을 강조 표시할 때 add_paragraph 대신 사용한다."""
+    doc = get_document(document_id)
+    start_index = _end_of_body_index(doc)
+    line = text + "\n"
+    batch_update(
+        document_id,
+        [{"insertText": {"endOfSegmentLocation": {}, "text": line}}],
+    )
+    if not (bold or red):
+        return
+    end_index = start_index + len(text)
+    text_style = {}
+    fields = []
+    if bold:
+        text_style["bold"] = True
+        fields.append("bold")
+    if red:
+        text_style["foregroundColor"] = {
+            "color": {"rgbColor": {"red": 0.8, "green": 0.0, "blue": 0.0}}
+        }
+        fields.append("foregroundColor")
+    batch_update(
+        document_id,
+        [
+            {
+                "updateTextStyle": {
+                    "range": {"startIndex": start_index, "endIndex": end_index},
+                    "textStyle": text_style,
+                    "fields": ",".join(fields),
+                }
+            }
+        ],
+    )
+
+
 def add_bullet_list(document_id, items):
     """items(문자열 리스트)를 글머리 기호 목록으로 문서 끝에 추가한다."""
     if not items:
