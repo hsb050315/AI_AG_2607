@@ -26,6 +26,13 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - While work is in progress, keep the todo list visible and current — update each item's status (in_progress/completed) via TaskUpdate as you go, so the user can always see what's currently being worked on.
 - This gate never applies to purely conversational/informational replies, or to read-only inspection (e.g. reading files, `git status`, `git log`, `git diff`) that changes no file and no repository state.
 
+## Skill creation
+
+- When asked to create a new skill (including when the skill-creator skill is invoked), build it in one efficient pass: collect the requirements, write `SKILL.md` plus any supporting files, and stop.
+- Do NOT test during initial creation — no evals, no benchmarks, no variance analysis, no trial runs, no test/verification subagents. Skip skill-creator's testing and benchmarking phases entirely unless the user explicitly asks for testing.
+- Keep the process lean so context does not bloat and auto-compact is not triggered: read only what is needed, do not re-read large reference files, do not dump full file contents you do not need, prefer targeted reads over whole-file reads.
+- After the files are written, give a short summary of what was created and let the user try it. Only iterate or test if the user reports a problem or asks for it.
+
 ## Output folder conventions
 
 - All work artifacts go under `output/`, organized by kind:
