@@ -1,0 +1,647 @@
+- generic [ref=f1e1]:
+  - region [ref=f1e1260]:
+    - generic [ref=f1e1262]:
+      - generic [ref=f1e1270]:
+        - heading "디자인 공유" [level=4] [ref=f1e1272]
+        - generic [ref=f1e1276]:
+          - button "방문자 0명" [ref=f1e1278] [cursor=pointer]
+          - button "공유 설정" [ref=f1e1283] [cursor=pointer]
+      - generic [ref=f1e1286]:
+        - generic [ref=f1e1287]:
+          - generic [ref=f1e1288]:
+            - generic [ref=f1e1289]:
+              - paragraph [ref=f1e1290]: 접근 권한이 있는 팀원
+              - button [ref=f1e1291] [cursor=pointer]:
+                - paragraph [ref=f1e1297]: 사용자 추가
+            - generic [ref=f1e1298]:
+              - list [ref=f1e1299]:
+                - listitem [ref=f1e1300]:
+                  - button "함승보(소유자)" [ref=f1e1302] [cursor=pointer]
+              - button "사용자 추가" [ref=f1e1306] [cursor=pointer]
+          - generic [ref=f1e1309]:
+            - generic [ref=f1e1311]:
+              - paragraph [ref=f1e1315]: 액세스 수준
+              - combobox "접근 권한 수준" [ref=f1e1321] [cursor=pointer]:
+                - paragraph [ref=f1e1328]:
+                  - generic [ref=f1e1329]: 본인만 액세스 가능
+            - generic [ref=f1e1331]:
+              - button "링크 복사" [ref=f1e1335] [cursor=pointer]
+              - button "링크 맞춤 설정" [ref=f1e1338] [cursor=pointer]
+        - separator [ref=f1e1341]
+        - generic [ref=f1e1342]:
+          - button "다운로드" [ref=f1e1344] [cursor=pointer]:
+            - paragraph [ref=f1e1347]:
+              - generic [ref=f1e1348]: 다운로드
+          - button "프레젠테이션" [ref=f1e1350] [cursor=pointer]:
+            - paragraph [ref=f1e1353]:
+              - generic [ref=f1e1354]: 프레젠테이션
+          - button "공개 보기 링크" [ref=f1e1356] [cursor=pointer]:
+            - paragraph [ref=f1e1359]:
+              - generic [ref=f1e1360]: 공개 보기 링크
+          - button "카카오톡" [ref=f1e1362] [cursor=pointer]:
+            - paragraph [ref=f1e1365]:
+              - generic [ref=f1e1366]: 카카오톡
+          - button "프레젠테이션 및 녹화" [ref=f1e1368] [cursor=pointer]:
+            - paragraph [ref=f1e1371]:
+              - generic [ref=f1e1372]: 프레젠테이션 및 녹화
+          - button "웹사이트" [ref=f1e1374] [cursor=pointer]:
+            - paragraph [ref=f1e1377]:
+              - generic [ref=f1e1378]: 웹사이트
+          - button "Microsoft PowerPoint" [ref=f1e1380] [cursor=pointer]:
+            - paragraph [ref=f1e1383]:
+              - generic [ref=f1e1384]: Microsoft PowerPoint
+          - button "모두 보기" [ref=f1e1387] [cursor=pointer]:
+            - paragraph [ref=f1e1390]:
+              - generic [ref=f1e1391]: 모두 보기
+  - generic [ref=f1e5]:
+    - heading "Canva 편집기" [level=1] [ref=f1e7]
+    - generic [ref=f1e8]: 로드 완료
+    - generic [ref=f1e10]:
+      - paragraph [ref=f1e12]:
+        - link "내비게이션 건너뛰기" [ref=f1e13] [cursor=pointer]:
+          - /url: "#_r_0_2"
+      - paragraph [ref=f1e16]:
+        - link "주요 콘텐츠로 건너뛰기" [ref=f1e17] [cursor=pointer]:
+          - /url: "#_r_0_3"
+      - generic [ref=f1e19]:
+        - banner [ref=f1e20]:
+          - menubar "메인" [ref=f1e22]:
+            - group "문서 관리" [ref=f1e24]:
+              - menuitem "홈" [ref=f1e27] [cursor=pointer]
+              - menuitem "파일" [ref=f1e31] [cursor=pointer]
+              - menuitem "크기 조정" [ref=f1e35] [cursor=pointer]
+              - menuitem "편집 중" [ref=f1e40] [cursor=pointer]
+              - menuitem "변경 사항이 모두 저장됨" [ref=f1e52] [cursor=pointer]
+            - group "공유 및 게시" [ref=f1e54]:
+              - menuitem "무료 체험 시작하기" [ref=f1e56] [cursor=pointer]
+              - button "함승보" [ref=f1e62] [cursor=pointer]
+              - menuitem "분석" [ref=f1e66] [cursor=pointer]
+              - menuitem "모든 댓글 보기" [ref=f1e69] [cursor=pointer]
+              - generic [ref=f1e72]:
+                - menuitem "프레젠테이션" [ref=f1e1394] [cursor=pointer]
+                - menuitem "모든 프레젠테이션 모드" [ref=f1e1398] [cursor=pointer]
+              - menuitem "공유" [ref=f1e87] [cursor=pointer]
+        - generic [ref=f1e90]:
+          - complementary [ref=f1e91]:
+            - heading "측면 패널" [level=2] [ref=f1e93]
+            - tablist "측면 패널" [ref=f1e100]:
+              - tab "추천 템플릿" [ref=f1e101] [cursor=pointer]
+              - tab "요소" [ref=f1e106] [cursor=pointer]
+              - tab "텍스트" [ref=f1e111] [cursor=pointer]
+              - tab [ref=f1e116] [cursor=pointer]:
+                - generic "브랜드 센터" [ref=f1e117]: Pro
+              - tab [ref=f1e126] [cursor=pointer]:
+                - generic "업로드 항목" [ref=f1e128]:
+                  - generic "업로드 항목" [ref=f1e131]
+              - tab "도구" [ref=f1e135] [cursor=pointer]
+              - tab [ref=f1e140] [cursor=pointer]:
+                - generic "프로젝트" [ref=f1e142]:
+                  - generic "프로젝트" [ref=f1e145]
+              - tab "앱" [ref=f1e149] [cursor=pointer]
+              - tab "차트" [ref=f1e155] [cursor=pointer]
+          - generic [ref=f1e160]:
+            - generic:
+              - button "캔버스 진입점"
+            - main "캔버스" [ref=f1e161]:
+              - generic [ref=f1e163]:
+                - generic [ref=f1e165]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - application
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic [ref=f1e177]:
+                                              - paragraph [ref=f1e180]: Startup
+                                              - generic:
+                                                - generic:
+                                                  - paragraph: Startup
+                                            - paragraph [ref=f1e204]: Pitch Deck
+                                            - paragraph [ref=f1e211]: Business Presentation
+                                            - paragraph [ref=f1e218]: Salford & Co.
+                                        - application "Canvas 콘텐츠":
+                                          - group "1페이지":
+                                            - group "Startup":
+                                              - paragraph:
+                                                - strong: Startup
+                                            - img "Brand Design Logo"
+                                            - group "Salford & Co.":
+                                              - paragraph: Salford & Co.
+                                            - img "어두운 파란색 및 직사각형"
+                                            - group "Pitch Deck":
+                                              - paragraph: Pitch Deck
+                                            - group "Business Presentation":
+                                              - paragraph: Business Presentation
+                                            - img "직사각형"
+                - navigation "페이지" [ref=f1e219]:
+                  - generic [ref=f1e226]:
+                    - heading "페이지 썸네일" [level=2] [ref=f1e230]
+                    - paragraph [ref=f1e232]:
+                      - link "페이지 썸네일 끝으로 건너뛰기" [ref=f1e233] [cursor=pointer]:
+                        - /url: "#page-navigator-end"
+                    - generic [ref=f1e241]:
+                      - list "페이지" [ref=f1e242]:
+                        - listitem [ref=f1e243]:
+                          - generic [ref=f1e245]:
+                            - generic [ref=f1e249] [cursor=pointer]:
+                              - button "1 페이지" [ref=f1e250]:
+                                - generic [ref=f1e263]:
+                                  - generic [ref=f1e270]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f1e275]:
+                                    - paragraph [ref=f1e278]: Startup
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Startup
+                                  - generic [ref=f1e293]:
+                                    - img "Brand Design Logo"
+                                  - paragraph [ref=f1e300]: Pitch Deck
+                                  - paragraph [ref=f1e307]: Business Presentation
+                                  - paragraph [ref=f1e314]: Salford & Co.
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "페이지 옵션"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "1"
+                                      - paragraph: "-"
+                                      - textbox "페이지 제목" [ref=f1e319]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "추가" [ref=f1e322] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "페이지 추가" [ref=f1e324] [cursor=pointer]
+                                      - menuitem "전환 효과 추가" [ref=f1e326] [cursor=pointer]
+                        - listitem [ref=f1e328]:
+                          - generic [ref=f1e330]:
+                            - generic [ref=f1e334] [cursor=pointer]:
+                              - button "2 페이지" [ref=f1e335]:
+                                - generic [ref=f1e348]:
+                                  - generic [ref=f1e355]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f1e360]:
+                                    - paragraph [ref=f1e363]: Introduction
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Introduction
+                                  - paragraph [ref=f1e370]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - generic [ref=f1e375]:
+                                    - generic:
+                                      - img "Close-Up Photo of Accounting Documents"
+                                  - generic [ref=f1e380]:
+                                    - generic:
+                                      - img "Modern Building Facade"
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "페이지 옵션"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "2"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "페이지 제목" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "추가" [ref=f1e386] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "페이지 추가" [ref=f1e388] [cursor=pointer]
+                                      - menuitem "전환 효과 추가" [ref=f1e390] [cursor=pointer]
+                        - listitem [ref=f1e392]:
+                          - generic [ref=f1e394]:
+                            - generic [ref=f1e398] [cursor=pointer]:
+                              - button "3 페이지" [ref=f1e399]:
+                                - generic [ref=f1e412]:
+                                  - generic [ref=f1e419]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f1e424]:
+                                    - paragraph [ref=f1e427]: Company Overview
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Company Overview
+                                  - paragraph [ref=f1e434]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - paragraph [ref=f1e441]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - generic [ref=f1e446]:
+                                    - generic:
+                                      - img "Miniature Business Professionals Analyzing Market Trends"
+                                  - generic [ref=f1e451]:
+                                    - generic:
+                                      - img "Business Presentation in a Modern Office"
+                                  - paragraph [ref=f1e458]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "페이지 옵션"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "3"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "페이지 제목" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "추가" [ref=f1e464] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "페이지 추가" [ref=f1e466] [cursor=pointer]
+                                      - menuitem "전환 효과 추가" [ref=f1e468] [cursor=pointer]
+                        - listitem [ref=f1e470]:
+                          - generic [ref=f1e472]:
+                            - generic [ref=f1e476] [cursor=pointer]:
+                              - button "4 페이지" [ref=f1e477]:
+                                - generic [ref=f1e490]:
+                                  - generic [ref=f1e497]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f1e502]:
+                                    - paragraph [ref=f1e505]: Our Vision
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Our Vision
+                                  - paragraph [ref=f1e512]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - paragraph [ref=f1e527]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f1e534]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f1e541]: Vision 02
+                                  - paragraph [ref=f1e548]: Vision 01
+                                  - generic [ref=f1e553]:
+                                    - generic:
+                                      - img "Business Meeting Discussion Among Professionals"
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "페이지 옵션"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "4"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "페이지 제목" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "추가" [ref=f1e559] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "페이지 추가" [ref=f1e561] [cursor=pointer]
+                                      - menuitem "전환 효과 추가" [ref=f1e563] [cursor=pointer]
+                        - listitem [ref=f1e565]:
+                          - generic [ref=f1e567]:
+                            - generic [ref=f1e571] [cursor=pointer]:
+                              - button "5 페이지" [ref=f1e572]:
+                                - generic [ref=f1e585]:
+                                  - generic [ref=f1e592]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f1e597]:
+                                    - paragraph [ref=f1e600]: Our Mission
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Our Mission
+                                  - paragraph [ref=f1e607]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - paragraph [ref=f1e622]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f1e629]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f1e636]: Mission 02
+                                  - paragraph [ref=f1e643]: Mission 01
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "페이지 옵션"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "5"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "페이지 제목" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "추가" [ref=f1e654] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "페이지 추가" [ref=f1e656] [cursor=pointer]
+                                      - menuitem "전환 효과 추가" [ref=f1e658] [cursor=pointer]
+                        - listitem [ref=f1e660]:
+                          - generic [ref=f1e662]:
+                            - generic [ref=f1e666] [cursor=pointer]:
+                              - button "6 페이지" [ref=f1e667]:
+                                - generic [ref=f1e680]:
+                                  - generic [ref=f1e687]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f1e692]:
+                                    - paragraph [ref=f1e695]: Our Solutions
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Our Solutions
+                                  - paragraph [ref=f1e702]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - generic [ref=f1e707]:
+                                    - generic:
+                                      - img "Asian Business Adviser Meeting to Analyze"
+                                  - paragraph [ref=f1e722]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f1e729]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f1e736]: Solution 02
+                                  - paragraph [ref=f1e743]: Solution 01
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "페이지 옵션"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "6"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "페이지 제목" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "추가" [ref=f1e749] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "페이지 추가" [ref=f1e751] [cursor=pointer]
+                                      - menuitem "전환 효과 추가" [ref=f1e753] [cursor=pointer]
+                        - listitem [ref=f1e755]:
+                          - generic [ref=f1e757]:
+                            - generic [ref=f1e761] [cursor=pointer]:
+                              - button "7 페이지" [ref=f1e762]:
+                                - generic [ref=f1e775]:
+                                  - generic [ref=f1e782]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f1e796]:
+                                    - generic:
+                                      - img "Two accountant discussion analysis sharing calculations abou"
+                                  - generic [ref=f1e800]:
+                                    - paragraph [ref=f1e803]: Our Services
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Our Services
+                                  - paragraph [ref=f1e810]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - paragraph [ref=f1e817]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f1e824]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f1e831]: Service 02
+                                  - paragraph [ref=f1e838]: Service 01
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "페이지 옵션"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "7"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "페이지 제목" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "추가" [ref=f1e844] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "페이지 추가" [ref=f1e846] [cursor=pointer]
+                                      - menuitem "전환 효과 추가" [ref=f1e848] [cursor=pointer]
+                        - listitem [ref=f1e850]:
+                          - generic [ref=f1e852]:
+                            - generic [ref=f1e856] [cursor=pointer]:
+                              - button "8 페이지" [ref=f1e857]:
+                                - generic [ref=f1e870]:
+                                  - generic [ref=f1e877]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f1e882]:
+                                    - paragraph [ref=f1e885]: Market Analysis
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Market Analysis
+                                  - paragraph [ref=f1e892]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - paragraph [ref=f1e899]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - generic [ref=f1e908]:
+                                    - generic:
+                                      - img "business analysis"
+                                  - img [ref=f1e911]:
+                                    - generic [ref=f1e915]:
+                                      - generic [ref=f1e918]:
+                                        - generic [ref=f1e919]: Series 1
+                                        - generic [ref=f1e926]: Series 2
+                                      - generic [ref=f1e938]:
+                                        - generic [ref=f1e940]:
+                                          - generic [ref=f1e941]: Item 1
+                                          - generic [ref=f1e942]: Item 2
+                                          - generic [ref=f1e943]: Item 3
+                                        - generic [ref=f1e945]:
+                                          - generic [ref=f1e946]: "0"
+                                          - generic [ref=f1e947]: "5"
+                                          - generic [ref=f1e948]: "10"
+                                          - generic [ref=f1e949]: "15"
+                                          - generic [ref=f1e950]: "20"
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "페이지 옵션"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "8"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "페이지 제목" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "추가" [ref=f1e972] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "페이지 추가" [ref=f1e974] [cursor=pointer]
+                                      - menuitem "전환 효과 추가" [ref=f1e976] [cursor=pointer]
+                        - listitem [ref=f1e978]:
+                          - generic [ref=f1e980]:
+                            - generic [ref=f1e984] [cursor=pointer]:
+                              - button "9 페이지" [ref=f1e985]:
+                                - generic [ref=f1e998]:
+                                  - generic [ref=f1e1005]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f1e1010]:
+                                    - generic [ref=f1e1012]:
+                                      - paragraph [ref=f1e1013]: Our
+                                      - paragraph [ref=f1e1014]: Team
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Our
+                                        - paragraph: Team
+                                  - paragraph [ref=f1e1022]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - paragraph [ref=f1e1029]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - generic [ref=f1e1042]:
+                                    - generic:
+                                      - img "Man Wearing Black Suit Jacket and Pants"
+                                  - generic [ref=f1e1047]:
+                                    - generic:
+                                      - img "Smiling Businessman in Downtown"
+                                  - generic [ref=f1e1056]:
+                                    - generic:
+                                      - img "Portrait of Successful Businessman Standing with Arms Crossed"
+                                  - generic [ref=f1e1062]:
+                                    - paragraph [ref=f1e1063]: Ketut
+                                    - paragraph [ref=f1e1064]: Susilo
+                                  - generic [ref=f1e1070]:
+                                    - paragraph [ref=f1e1071]: Drew
+                                    - paragraph [ref=f1e1072]: Feig
+                                  - generic [ref=f1e1078]:
+                                    - paragraph [ref=f1e1079]: Aaron
+                                    - paragraph [ref=f1e1080]: Loeb
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "페이지 옵션"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "9"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "페이지 제목" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "추가" [ref=f1e1086] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "페이지 추가" [ref=f1e1088] [cursor=pointer]
+                                      - menuitem "전환 효과 추가" [ref=f1e1090] [cursor=pointer]
+                        - listitem [ref=f1e1092]:
+                          - generic [ref=f1e1093]:
+                            - button "10 페이지" [ref=f1e1099] [cursor=pointer]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - paragraph: "10"
+                                    - paragraph: "-"
+                                    - paragraph [ref=f1e1108]
+                      - generic [ref=f1e1113]:
+                        - button "페이지 추가" [ref=f1e1117] [cursor=pointer]
+                        - button "페이지 유형 추가" [ref=f1e1123] [cursor=pointer]
+                    - paragraph [ref=f1e1127]:
+                      - link "페이지 썸네일 시작 부분으로 돌아가기" [ref=f1e1128] [cursor=pointer]:
+                        - /url: "#page-navigator-start"
+            - contentinfo [ref=f1e1130]:
+              - generic [ref=f1e1131]:
+                - generic [ref=f1e1132]:
+                  - button "발표자 노트" [ref=f1e1136] [cursor=pointer]
+                  - button "타이머 보기" [ref=f1e1142] [cursor=pointer]:
+                    - generic [ref=f1e1144]: 타이머
+                - generic [ref=f1e1145]:
+                  - slider "확대/축소" [ref=f1e1160] [cursor=pointer]: "-0.864"
+                  - combobox "확대/축소 옵션" [ref=f1e1167] [cursor=pointer]:
+                    - generic [ref=f1e1168]: 42%
+                  - button "페이지" [expanded] [ref=f1e1173] [cursor=pointer]
+                  - button "1 / 10" [ref=f1e1179] [cursor=pointer]
+                  - button "그리드뷰" [ref=f1e1185] [cursor=pointer]
+                  - button "전체 화면 프레젠테이션" [ref=f1e1190] [cursor=pointer]
+                  - button "고객 지원" [ref=f1e1196] [cursor=pointer]
+  - generic [ref=f1e1200]: 캔버스
+  - generic [ref=f1e1201]: 기본 탐색에는 문서 수준 옵션에 대한 버튼이 있습니다. 버튼 간에 전환하려면 왼쪽과 오른쪽 화살표 키를 사용하고 Enter 키를 눌러 활성화하세요. 캔버스로 건너뛰려면 “Ctrl+F2” 키를 누르세요.
+  - generic [ref=f1e1202]: 캔버스는 여러분의 디자인이 펼쳐지는 곳입니다. 페이지를 둘러보려면 Enter 키를 누르세요. 페이지의 그룹이나 요소를 둘러보려면 다시 Enter 키를 누르세요. 다음 페이지, 그룹 또는 요소로 이동하려면 Tab 키를 누르세요. 도구 모음을 작동하려면 “Ctrl+F1” 키를 사용하세요. 요소를 선택한 다음 화살표 키를 사용하여 움직이고, “,” 키와 “.” 키를 사용하여 회전하고, 화살표 키와 “Ctrl” 키를 사용하여 크기를 조정하세요. 모든 키는 “Shift 키” 키를 사용하여 단위를 늘릴 수 있습니다.
+  - generic [ref=f1e1203]: 측면 패널에서는 템플릿을 적용하거나 요소를 추가할 수 있습니다. 캔버스로 건너뛰려면 “Ctrl+F2” 키를 누르세요.
+  - generic [ref=f1e1204]: 왼쪽과 오른쪽 화살표 키를 사용하여 페이지를 선택할 수 있어요. 첫 번째 또는 마지막 페이지로 바로 이동하려면 Home 및 End 키를 사용하세요.
+  - generic [ref=f1e1205]: 페이지 추가
+  - generic [ref=f1e1206]: 전환 효과 추가
+  - generic [ref=f1e1207]: 페이지 추가
+  - generic [ref=f1e1208]: 페이지 유형 추가
+  - generic [ref=f1e1209]: 페이지 추가
+  - generic [ref=f1e1210]: 전환 효과 추가
+  - generic [ref=f1e1211]: 발표자 노트
+  - generic [ref=f1e1212]: 타이머 보기
+  - generic [ref=f1e1213]: 확대/축소
+  - generic [ref=f1e1214]: 페이지 썸네일 숨기기
+  - generic [ref=f1e1215]: 페이지로 이동
+  - generic [ref=f1e1216]: 그리드뷰
+  - generic [ref=f1e1217]: 변경 사항이 모두 저장됨
+  - generic [ref=f1e1218]: 페이지 추가
+  - generic [ref=f1e1219]: 전환 효과 추가
+  - generic [ref=f1e1220]: 페이지 추가
+  - generic [ref=f1e1221]: 전환 효과 추가
+  - generic [ref=f1e1222]: 페이지 추가
+  - generic [ref=f1e1223]: 전환 효과 추가
+  - generic [ref=f1e1224]: 페이지 추가
+  - generic [ref=f1e1225]: 전환 효과 추가
+  - generic [ref=f1e1226]: 페이지 추가
+  - generic [ref=f1e1227]: 전환 효과 추가
+  - generic [ref=f1e1228]: 페이지 추가
+  - generic [ref=f1e1229]: 전환 효과 추가
+  - generic [ref=f1e1230]: 페이지 추가
+  - generic [ref=f1e1231]: 전환 효과 추가
+  - generic [ref=f1e1232]: 전체 화면 프레젠테이션
+  - generic [ref=f1e1233]: 홈
+  - generic [ref=f1e1234]: 고객 지원
+  - generic [ref=f1e1235]: 분석
+  - generic [ref=f1e1236]: 공유
+  - generic [ref=f1e1237]: 이 버튼은 고객님의 디자인을 공유하고 인쇄하기 위한 모든 옵션이 있는 메뉴를 엽니다.
+  - generic [ref=f1e1400]: 공유 설정
+  - generic [ref=f1e1401]: 사용자 추가
+  - generic [ref=f1e1402]: 전체 화면 표시
+  - generic [ref=f1e1403]: 모든 프레젠테이션 모드
+  - generic [ref=f1e1404]: 함승보(소유자)
+  - generic [ref=f1e1405]: 본인만 액세스 가능

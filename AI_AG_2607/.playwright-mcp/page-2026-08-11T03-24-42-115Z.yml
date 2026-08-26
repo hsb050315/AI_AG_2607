@@ -1,0 +1,265 @@
+- generic [ref=f523e1]:
+  - generic [ref=f523e4]:
+    - paragraph [ref=f523e6]:
+      - link "내비게이션 건너뛰기" [ref=f523e7] [cursor=pointer]:
+        - /url: "#_r_1_"
+    - paragraph [ref=f523e10]:
+      - link "주요 콘텐츠로 건너뛰기" [ref=f523e11] [cursor=pointer]:
+        - /url: "#_r_0_"
+    - paragraph [ref=f523e196]:
+      - link "“도움말” 버튼으로 건너뛰기" [ref=f523e197] [cursor=pointer]:
+        - /url: "#_r_3_"
+    - generic [ref=f523e13]:
+      - navigation "메인 메뉴" [ref=f523e199]:
+        - generic [ref=f523e200]:
+          - button "측면 탐색 전환" [ref=f523e204] [cursor=pointer]
+          - generic [ref=f523e208]:
+            - button "디자인 만들기" [ref=f523e211] [cursor=pointer]
+            - paragraph [ref=f523e215]:
+              - generic [ref=f523e216]: 만들기
+          - generic [ref=f523e217]:
+            - link "홈" [ref=f523e222] [cursor=pointer]:
+              - /url: /?pl=1
+              - paragraph [ref=f523e226]: 홈
+            - link "프로젝트" [ref=f523e232] [cursor=pointer]:
+              - /url: /projects
+              - paragraph [ref=f523e236]: 프로젝트
+            - link "템플릿" [ref=f523e242] [cursor=pointer]:
+              - /url: /templates/
+              - paragraph [ref=f523e246]: 템플릿
+            - link "프린트 스토어" [ref=f523e252] [cursor=pointer]:
+              - /url: /print-shop
+              - paragraph [ref=f523e256]: 프린트 스토어
+            - link "브랜드 센터" [ref=f523e262] [cursor=pointer]:
+              - /url: /brand
+              - generic [ref=f523e264]:
+                - generic [ref=f523e265]: Pro
+                - paragraph [ref=f523e271]: 브랜드 센터
+            - link "Canva AI" [ref=f523e277] [cursor=pointer]:
+              - /url: /ai
+              - paragraph [ref=f523e281]: Canva AI
+            - button "더 보기" [ref=f523e287] [cursor=pointer]:
+              - paragraph [ref=f523e291]: 더 보기
+        - generic [ref=f523e292]:
+          - button "읽지 않은 알림 0개" [ref=f523e297] [cursor=pointer]
+          - button "추가 계정 및 팀 옵션" [ref=f523e305] [cursor=pointer]
+      - generic [ref=f523e78]:
+        - button "고객 지원" [ref=f523e318] [cursor=pointer]
+        - main [ref=f523e79]:
+          - generic [ref=f523e80]:
+            - search [ref=f523e325]:
+              - generic [ref=f523e328]:
+                - combobox "검색" [ref=f523e333]
+                - button "검색 제출하기" [ref=f523e335]
+            - generic [ref=f523e84]:
+              - generic: 주요 콘텐츠
+              - generic [ref=f523e340]:
+                - navigation "이동 경로" [ref=f523e342]:
+                  - list [ref=f523e343]:
+                    - listitem [ref=f523e344]:
+                      - link "홈" [ref=f523e345] [cursor=pointer]:
+                        - /url: /ko_kr/
+                    - listitem [ref=f523e347]
+                    - listitem [ref=f523e348]:
+                      - link "템플릿" [ref=f523e349] [cursor=pointer]:
+                        - /url: /templates/
+                    - listitem [ref=f523e351]
+                    - listitem [ref=f523e352]:
+                      - link "프레젠테이션" [ref=f523e353] [cursor=pointer]:
+                        - /url: /ko_kr/presentations/templates/
+                    - listitem [ref=f523e355]
+                    - listitem [ref=f523e356]:
+                      - generic [ref=f523e357]: Black Blue and White Modern Startup Pitch Deck Presentation
+                - generic [ref=f523e359]:
+                  - 'region "슬라이드쇼: Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f523e361]':
+                    - link "이 템플릿 맞춤 편집" [ref=f523e364] [cursor=pointer]:
+                      - /url: /design?create&type=TACQ-gtv2Yk&template=EAG9gUM82IY&category=tAExRLg81RI&analyticsCorrelationId=473a98a5-bf1f-44db-ab43-5b170a8142d0
+                      - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f523e368]
+                      - generic:
+                        - generic:
+                          - text: ⁠
+                          - generic [ref=f523e369]: (새 디자인 탭 또는 창에서 열기)
+                    - generic [ref=f523e372]:
+                      - generic [ref=f523e373]:
+                        - button "1페이지" [pressed] [ref=f523e376] [cursor=pointer]
+                        - button "2페이지" [ref=f523e385] [cursor=pointer]
+                        - button "3페이지" [ref=f523e394] [cursor=pointer]
+                        - button "4페이지" [ref=f523e403] [cursor=pointer]
+                        - button "5페이지" [ref=f523e412] [cursor=pointer]
+                        - button "6페이지" [ref=f523e421] [cursor=pointer]
+                        - button "7페이지" [ref=f523e430] [cursor=pointer]
+                        - button "8페이지" [ref=f523e439] [cursor=pointer]
+                        - button "9페이지" [ref=f523e448] [cursor=pointer]
+                        - button "10페이지" [ref=f523e457] [cursor=pointer]
+                      - button "목록의 다음 페이지" [ref=f523e465] [cursor=pointer]
+                  - generic [ref=f523e468]:
+                    - generic [ref=f523e469]:
+                      - heading "Black Blue and White Modern Startup Pitch Deck Presentation" [level=1] [ref=f523e470]
+                      - paragraph [ref=f523e471]: 프레젠테이션 • 1920×1080 px
+                    - generic [ref=f523e473]:
+                      - paragraph [ref=f523e476]:
+                        - text: "제공:"
+                        - link "Nirmana Visual" [ref=f523e477] [cursor=pointer]:
+                          - /url: /p/nirmanavisual/
+                      - button "팔로우" [ref=f523e479] [cursor=pointer]
+                    - generic [ref=f523e481]:
+                      - link "이 템플릿 맞춤 편집하기 (새 디자인 탭 또는 창에서 열기)" [active] [ref=f523e484] [cursor=pointer]:
+                        - /url: /design?create&type=TACQ-gtv2Yk&template=EAG9gUM82IY&category=tAExRLg81RI&analyticsCorrelationId=d75296eb-a2d5-4644-8539-c9977f700eef
+                        - generic [ref=f523e485]: 이 템플릿 맞춤 편집하기
+                        - generic: (새 디자인 탭 또는 창에서 열기)
+                      - button "별표 표시" [ref=f523e489] [cursor=pointer]
+                      - button "작업 더보기" [ref=f523e495] [cursor=pointer]
+                - generic [ref=f523e499]:
+                  - generic [ref=f523e505]:
+                    - heading "비슷한 버전" [level=2] [ref=f523e509]
+                    - generic [ref=f523e513]:
+                      - generic [ref=f523e514]:
+                        - group [ref=f523e518]:
+                          - generic [ref=f523e519]:
+                            - link "미리 보기, Black and Green Modern Finance Business Report Presentation, 템플릿" [ref=f523e522] [cursor=pointer]:
+                              - /url: /templates/EAGRROhNK04-black-and-green-modern-finance-business-report-presentation/
+                              - generic [ref=f523e523]:
+                                - img "Black and Green Modern Finance Business Report Presentation" [ref=f523e527]
+                                - generic [ref=f523e528]: 1/10
+                            - generic [ref=f523e534]:
+                              - button "별표 표시(Black and Green Modern Finance Business Report Presentation)" [ref=f523e536] [cursor=pointer]
+                              - button "Black and Green Modern Finance Business Report Presentation에 대한 작업 더 보기" [ref=f523e540] [cursor=pointer]
+                        - group [ref=f523e545]:
+                          - generic [ref=f523e546]:
+                            - link "미리 보기, Blue Modern Business Pitch Deck Presentation, 템플릿" [ref=f523e549] [cursor=pointer]:
+                              - /url: /templates/EAG3553TZoQ-blue-modern-business-pitch-deck-presentation/
+                              - generic [ref=f523e550]:
+                                - img "Blue Modern Business Pitch Deck Presentation" [ref=f523e554]
+                                - generic [ref=f523e555]: 1/10
+                            - generic [ref=f523e561]:
+                              - button "별표 표시(Blue Modern Business Pitch Deck Presentation)" [ref=f523e563] [cursor=pointer]
+                              - button "Blue Modern Business Pitch Deck Presentation에 대한 작업 더 보기" [ref=f523e567] [cursor=pointer]
+                        - group [ref=f523e572]:
+                          - generic [ref=f523e573]:
+                            - link "미리 보기, Pink and Gray Modern Startup Pitch Deck Presentation, 템플릿" [ref=f523e576] [cursor=pointer]:
+                              - /url: /templates/EAG8MOK2vK4-pink-and-gray-modern-startup-pitch-deck-presentation/
+                              - generic [ref=f523e577]:
+                                - img "Pink and Gray Modern Startup Pitch Deck Presentation" [ref=f523e581]
+                                - generic [ref=f523e582]: 1/11
+                            - generic [ref=f523e588]:
+                              - button "별표 표시(Pink and Gray Modern Startup Pitch Deck Presentation)" [ref=f523e590] [cursor=pointer]
+                              - button "Pink and Gray Modern Startup Pitch Deck Presentation에 대한 작업 더 보기" [ref=f523e594] [cursor=pointer]
+                      - generic [ref=f523e596]:
+                        - group [ref=f523e600]:
+                          - generic [ref=f523e601]:
+                            - link "미리 보기, Blue Modern Investor Pitch Deck Presentation, 템플릿" [ref=f523e604] [cursor=pointer]:
+                              - /url: /templates/EAG5NxZ_Mkg-blue-modern-investor-pitch-deck-presentation/
+                              - generic [ref=f523e605]:
+                                - img "Blue Modern Investor Pitch Deck Presentation" [ref=f523e609]
+                                - generic [ref=f523e610]: 1/10
+                            - generic [ref=f523e621]:
+                              - button "별표 표시(Blue Modern Investor Pitch Deck Presentation)" [ref=f523e623] [cursor=pointer]
+                              - button "Blue Modern Investor Pitch Deck Presentation에 대한 작업 더 보기" [ref=f523e627] [cursor=pointer]
+                        - group [ref=f523e632]:
+                          - generic [ref=f523e633]:
+                            - link "미리 보기, Blue Modern Business Pitch Deck Presentation, 템플릿" [ref=f523e636] [cursor=pointer]:
+                              - /url: /templates/EAGqHmiqF2M-blue-modern-business-pitch-deck-presentation/
+                              - generic [ref=f523e637]:
+                                - img "Blue Modern Business Pitch Deck Presentation" [ref=f523e641]
+                                - generic [ref=f523e642]: 1/12
+                            - generic [ref=f523e653]:
+                              - button "별표 표시(Blue Modern Business Pitch Deck Presentation)" [ref=f523e655] [cursor=pointer]
+                              - button "Blue Modern Business Pitch Deck Presentation에 대한 작업 더 보기" [ref=f523e659] [cursor=pointer]
+                        - group [ref=f523e664]:
+                          - generic [ref=f523e665]:
+                            - link "미리 보기, Blue and Black Minimalist Business Presentation, 템플릿" [ref=f523e668] [cursor=pointer]:
+                              - /url: /templates/EAG-br-I9-c-blue-and-black-minimalist-business-presentation/
+                              - generic [ref=f523e669]:
+                                - img "Blue and Black Minimalist Business Presentation" [ref=f523e673]
+                                - generic [ref=f523e674]: 1/11
+                            - generic [ref=f523e685]:
+                              - button "별표 표시(Blue and Black Minimalist Business Presentation)" [ref=f523e687] [cursor=pointer]
+                              - button "Blue and Black Minimalist Business Presentation에 대한 작업 더 보기" [ref=f523e691] [cursor=pointer]
+                        - group [ref=f523e696]:
+                          - link "미리 보기, Navy Blue Corporate Business Proposal Presentation, 템플릿" [ref=f523e700] [cursor=pointer]:
+                            - /url: /templates/EAGPgLtBXwg-navy-blue-corporate-business-proposal-presentation/
+                            - generic [ref=f523e701]:
+                              - img "Navy Blue Corporate Business Proposal Presentation" [ref=f523e705]
+                              - generic [ref=f523e706]: 1/10
+                      - generic [ref=f523e709]:
+                        - group [ref=f523e713]:
+                          - generic [ref=f523e714]:
+                            - link "미리 보기, Blue and Purple Dynamic Startup Pitch Deck Presentation, 템플릿" [ref=f523e717] [cursor=pointer]:
+                              - /url: /templates/EAGypYvoZwE-blue-and-purple-dynamic-startup-pitch-deck-presentation/
+                              - generic [ref=f523e718]:
+                                - img "Blue and Purple Dynamic Startup Pitch Deck Presentation" [ref=f523e722]
+                                - generic [ref=f523e723]: 1/15
+                            - generic [ref=f523e734]:
+                              - button "별표 표시(Blue and Purple Dynamic Startup Pitch Deck Presentation)" [ref=f523e736] [cursor=pointer]
+                              - button "Blue and Purple Dynamic Startup Pitch Deck Presentation에 대한 작업 더 보기" [ref=f523e740] [cursor=pointer]
+                        - group [ref=f523e745]:
+                          - generic [ref=f523e746]:
+                            - link "미리 보기, Blue Black and White Futuristic Tech Presentation, 템플릿" [ref=f523e749] [cursor=pointer]:
+                              - /url: /templates/EAHFyUwH5z8-blue-black-and-white-futuristic-tech-presentation/
+                              - generic [ref=f523e750]:
+                                - img "Blue Black and White Futuristic Tech Presentation" [ref=f523e754]
+                                - generic [ref=f523e755]: 1/10
+                            - generic [ref=f523e766]:
+                              - button "별표 표시(Blue Black and White Futuristic Tech Presentation)" [ref=f523e768] [cursor=pointer]
+                              - button "Blue Black and White Futuristic Tech Presentation에 대한 작업 더 보기" [ref=f523e772] [cursor=pointer]
+                        - group [ref=f523e777]:
+                          - generic [ref=f523e778]:
+                            - link "미리 보기, Purple and White Modern Startup Pitch Deck Presentation, 템플릿" [ref=f523e781] [cursor=pointer]:
+                              - /url: /templates/EAG0V6PCrrI-purple-and-white-modern-startup-pitch-deck-presentation/
+                              - generic [ref=f523e782]:
+                                - img "Purple and White Modern Startup Pitch Deck Presentation" [ref=f523e786]
+                                - generic [ref=f523e787]: 1/10
+                            - generic [ref=f523e793]:
+                              - button "별표 표시(Purple and White Modern Startup Pitch Deck Presentation)" [ref=f523e795] [cursor=pointer]
+                              - button "Purple and White Modern Startup Pitch Deck Presentation에 대한 작업 더 보기" [ref=f523e799] [cursor=pointer]
+                  - group "더 많은 항목 둘러보기" [ref=f523e803]:
+                    - generic [ref=f523e805]:
+                      - heading "더 많은 항목 둘러보기" [level=2] [ref=f523e811]
+                      - tabpanel [ref=f523e816]:
+                        - generic [ref=f523e818]:
+                          - generic "더 많은 항목 둘러보기" [ref=f523e819]:
+                            - link [ref=f523e824] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=black
+                              - paragraph [ref=f523e826]: black
+                            - link [ref=f523e831] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=white
+                              - paragraph [ref=f523e833]: white
+                            - link [ref=f523e838] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=blue
+                              - paragraph [ref=f523e840]: blue
+                            - link [ref=f523e845] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=startup
+                              - paragraph [ref=f523e847]: startup
+                            - link [ref=f523e852] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=pitch-deck
+                              - paragraph [ref=f523e854]: pitch deck
+                            - link [ref=f523e859] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=business-presentation
+                              - paragraph [ref=f523e861]: business presentation
+                            - link [ref=f523e866] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=pitch
+                              - paragraph [ref=f523e868]: pitch
+                            - link [ref=f523e873] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=deck
+                              - paragraph [ref=f523e875]: deck
+                            - link [ref=f523e880] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=business
+                              - paragraph [ref=f523e882]: business
+                            - link [ref=f523e887] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=presentation
+                              - paragraph [ref=f523e889]: presentation
+                            - link [ref=f523e894] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=company
+                              - paragraph [ref=f523e896]: company
+                            - link [ref=f523e901] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=modern
+                              - paragraph [ref=f523e903]: modern
+                            - link [ref=f523e908] [cursor=pointer]:
+                              - /url: /ko_kr/templates/?query=clean
+                              - paragraph [ref=f523e910]: clean
+                          - 'button "목록의 다음 페이지: 더 많은 항목 둘러보기" [ref=f523e911] [cursor=pointer]'
+  - generic [ref=f523e912]: 메뉴 열기
+  - generic [ref=f523e913]: 만들기
+  - generic [ref=f523e914]: 알림
+  - generic [ref=f523e915]: 수천 가지 템플릿을 검색해 보세요.
+  - generic [ref=f523e916]: 고객 지원

@@ -1,0 +1,560 @@
+- generic [active] [ref=f496e1]:
+  - generic [ref=f496e3]: Loading
+  - generic [ref=f496e5]:
+    - paragraph [ref=f496e7]:
+      - link "Skip to main content" [ref=f496e8] [cursor=pointer]:
+        - /url: "#_r_0_"
+    - banner [ref=f496e11]:
+      - generic [ref=f496e15]:
+        - link "Canva home" [ref=f496e18] [cursor=pointer]:
+          - /url: https://www.canva.com/
+        - navigation [ref=f496e25]:
+          - list [ref=f496e26]:
+            - listitem [ref=f496e27]:
+              - button "Design" [ref=f496e28] [cursor=pointer]
+            - listitem [ref=f496e30]:
+              - button "Product" [ref=f496e31] [cursor=pointer]
+            - listitem [ref=f496e33]:
+              - button "Plans" [ref=f496e34] [cursor=pointer]
+            - listitem [ref=f496e36]:
+              - button "Business" [ref=f496e37] [cursor=pointer]
+            - listitem [ref=f496e39]:
+              - button "Education" [ref=f496e40] [cursor=pointer]
+            - listitem [ref=f496e42]:
+              - button "Help" [ref=f496e43] [cursor=pointer]
+        - generic [ref=f496e47]:
+          - button "Sign up" [ref=f496e49] [cursor=pointer]
+          - button "Log in" [ref=f496e51] [cursor=pointer]
+    - main [ref=f496e53]:
+      - generic [ref=f496e54]:
+        - navigation "Breadcrumb" [ref=f496e56]:
+          - list [ref=f496e57]:
+            - listitem [ref=f496e58]:
+              - link "Home" [ref=f496e59] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f496e61]
+            - listitem [ref=f496e62]:
+              - link "Templates" [ref=f496e63] [cursor=pointer]:
+                - /url: /templates/
+            - listitem [ref=f496e65]
+            - listitem [ref=f496e66]:
+              - link "Presentations" [ref=f496e67] [cursor=pointer]:
+                - /url: /presentations/templates/
+            - listitem [ref=f496e69]
+            - listitem [ref=f496e70]:
+              - generic [ref=f496e71]: Green Modern Sustainable Living Nature Presentation
+        - generic [ref=f496e72]:
+          - generic [ref=f496e78]:
+            - 'region "Slideshow: Green Modern Sustainable Living Nature Presentation" [ref=f496e80]':
+              - img "Green Modern Sustainable Living Nature Presentation" [ref=f496e89]
+              - generic [ref=f496e94]:
+                - generic: Start of list
+                - paragraph [ref=f496e97]:
+                  - link "Skip to end of list" [ref=f496e98] [cursor=pointer]:
+                    - /url: "#_r_eg_"
+                - generic [ref=f496e100]:
+                  - button "Page 1" [pressed] [ref=f496e103] [cursor=pointer]
+                  - button "Page 2" [ref=f496e112] [cursor=pointer]
+                  - button "Page 3" [ref=f496e121] [cursor=pointer]
+                  - button "Page 4" [ref=f496e130] [cursor=pointer]
+                  - button "Page 5" [ref=f496e139] [cursor=pointer]
+                  - button "Page 6" [ref=f496e148] [cursor=pointer]
+                  - button "Page 7" [ref=f496e157] [cursor=pointer]
+                  - button "Page 8" [ref=f496e166] [cursor=pointer]
+                  - button "Page 9" [ref=f496e175] [cursor=pointer]
+                  - button "Page 10" [ref=f496e184] [cursor=pointer]
+                - button "Next page of list" [ref=f496e194] [cursor=pointer]
+                - paragraph [ref=f496e197]:
+                  - link "Skip to start of list" [ref=f496e198] [cursor=pointer]:
+                    - /url: "#_r_ef_"
+                - generic: End of list
+            - generic [ref=f496e203]:
+              - generic [ref=f496e204]:
+                - heading "Green Modern Sustainable Living Nature Presentation" [level=1] [ref=f496e205]
+                - generic [ref=f496e206]:
+                  - link "justiceproject" [ref=f496e207] [cursor=pointer]:
+                    - /url: /p/justiceproject/
+                  - paragraph [ref=f496e208]:
+                    - text: Presentation by
+                    - link "Justice Project" [ref=f496e210] [cursor=pointer]:
+                      - /url: /p/justiceproject/
+              - link "Customize free template" [ref=f496e212] [cursor=pointer]:
+                - /url: https://www.canva.com/design?create&type=TACQ-gtv2Yk&template=EAF_sRRW3Vw&category=tAExRLg81RI&analyticsCorrelationId=cc483ffb-1ad7-42c6-a84b-49e4774a7c78&locale=en
+            - list [ref=f496e218]:
+              - listitem [ref=f496e219]:
+                - heading [level=3] [ref=f496e220]:
+                  - button [ref=f496e221] [cursor=pointer]:
+                    - heading "Details" [level=2] [ref=f496e224]
+          - generic [ref=f496e230]:
+            - heading "More like this" [level=2] [ref=f496e240]
+            - generic [ref=f496e247]:
+              - generic [ref=f496e248]:
+                - group [ref=f496e258]:
+                  - link "Preview free Green and White Modern Sustainable Development Presentation template, 12 pages" [ref=f496e262] [cursor=pointer]:
+                    - /url: /templates/EAGhNc_elxY-green-and-white-modern-sustainable-development-presentation/
+                    - generic [ref=f496e263]:
+                      - img "Green and White Modern Sustainable Development Presentation" [ref=f496e268]
+                      - generic [ref=f496e271]:
+                        - generic [ref=f496e272]: 1 of 12
+                        - generic [ref=f496e273]: 12 slides
+                - group [ref=f496e282]:
+                  - link "Preview pro Green Illustrated Environment Presentation template" [ref=f496e286] [cursor=pointer]:
+                    - /url: /templates/EAHLtvePuo0-green-illustrated-environment-presentation/
+                    - generic "Green Illustrated Environment Presentation" [ref=f496e291]
+                  - generic [ref=f496e293]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                  - button "Play" [ref=f496e297] [cursor=pointer]
+                - group [ref=f496e307]:
+                  - link "Preview pro Green Teal and White Modern Corporate Professional Annual Report Presentation template, 13 pages" [ref=f496e311] [cursor=pointer]:
+                    - /url: /templates/EAHJjMDSMrQ-green-teal-and-white-modern-corporate-professional-annual-report-presentation/
+                    - generic [ref=f496e312]:
+                      - img "Green Teal and White Modern Corporate Professional Annual Report Presentation" [ref=f496e317]
+                      - generic [ref=f496e320]:
+                        - generic [ref=f496e321]: 1 of 13
+                        - generic [ref=f496e322]: 13 slides
+                  - generic [ref=f496e324]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f496e333]:
+                  - link "Preview free Green Modern Environment Presentation template, 10 pages" [ref=f496e337] [cursor=pointer]:
+                    - /url: /templates/EAG0sdKl7Xk-green-modern-environment-presentation/
+                    - generic [ref=f496e338]:
+                      - img "Green Modern Environment Presentation" [ref=f496e343]
+                      - generic [ref=f496e346]:
+                        - generic [ref=f496e347]: 1 of 10
+                        - generic [ref=f496e348]: 10 slides
+                - group [ref=f496e357]:
+                  - link "Preview pro Green Minimalist Modern Sustainable Living Presentation template, 12 pages" [ref=f496e361] [cursor=pointer]:
+                    - /url: /templates/EAG8mQhBpFQ-green-minimalist-modern-sustainable-living-presentation/
+                    - generic [ref=f496e362]:
+                      - img "Green Minimalist Modern Sustainable Living Presentation" [ref=f496e367]
+                      - generic [ref=f496e370]:
+                        - generic [ref=f496e371]: 1 of 12
+                        - generic [ref=f496e372]: 12 slides
+                  - generic [ref=f496e374]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f496e383]:
+                  - link "Preview free Green White Simple Nature Project Presentation template, 13 pages" [ref=f496e387] [cursor=pointer]:
+                    - /url: /templates/EAGnn029H0g-green-white-simple-nature-project-presentation/
+                    - generic [ref=f496e388]:
+                      - img "Green White Simple Nature Project Presentation" [ref=f496e394]
+                      - generic [ref=f496e397]:
+                        - generic [ref=f496e398]: 1 of 13
+                        - generic [ref=f496e399]: 13 slides
+                - group [ref=f496e408]:
+                  - link "Preview pro Green and White Geometric Modern Forests Presentation template, 12 pages" [ref=f496e412] [cursor=pointer]:
+                    - /url: /templates/EAGwInq3IzA-green-and-white-geometric-modern-forests-presentation/
+                    - generic [ref=f496e413]:
+                      - img "Green and White Geometric Modern Forests Presentation" [ref=f496e419]
+                      - generic [ref=f496e422]:
+                        - generic [ref=f496e423]: 1 of 12
+                        - generic [ref=f496e424]: 12 slides
+                  - generic [ref=f496e426]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f496e435]:
+                  - link "Preview free Blue and Green Modern Renewable Energy Presentation template, 10 pages" [ref=f496e439] [cursor=pointer]:
+                    - /url: /templates/EAGwbdA1jfY-blue-and-green-modern-renewable-energy-presentation/
+                    - generic [ref=f496e440]:
+                      - img "Blue and Green Modern Renewable Energy Presentation" [ref=f496e446]
+                      - generic [ref=f496e449]:
+                        - generic [ref=f496e450]: 1 of 10
+                        - generic [ref=f496e451]: 10 slides
+                - group [ref=f496e460]:
+                  - link "Preview pro Yellow Black Modern Animals Conservation Presentation template, 10 pages" [ref=f496e464] [cursor=pointer]:
+                    - /url: /templates/EAHKwzK8Wak-yellow-black-modern-animals-conservation-presentation/
+                    - generic [ref=f496e465]:
+                      - img "Yellow Black Modern Animals Conservation Presentation" [ref=f496e471]
+                      - generic [ref=f496e474]:
+                        - generic [ref=f496e475]: 1 of 10
+                        - generic [ref=f496e476]: 10 slides
+                  - generic [ref=f496e478]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f496e487]:
+                  - link "Preview free Black Minimalist Environmental Sustainability Presentation template, 10 pages" [ref=f496e491] [cursor=pointer]:
+                    - /url: /templates/EAGT_-Q0rmU-black-minimalist-environmental-sustainability-presentation/
+                    - generic [ref=f496e492]:
+                      - img "Black Minimalist Environmental Sustainability Presentation" [ref=f496e498]
+                      - generic [ref=f496e501]:
+                        - generic [ref=f496e502]: 1 of 10
+                        - generic [ref=f496e503]: 10 slides
+                - group [ref=f496e512]:
+                  - link "Preview pro Green Bold Birds Presentation template, 10 pages" [ref=f496e516] [cursor=pointer]:
+                    - /url: /templates/EAHLfC694bA-green-bold-birds-presentation/
+                    - generic [ref=f496e517]:
+                      - img "Green Bold Birds Presentation" [ref=f496e523]
+                      - generic [ref=f496e526]:
+                        - generic [ref=f496e527]: 1 of 10
+                        - generic [ref=f496e528]: 10 slides
+                  - generic [ref=f496e530]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f496e539]:
+                  - link "Preview free Beige and Brown Neutral Painting Slow Living Presentation template" [ref=f496e543] [cursor=pointer]:
+                    - /url: /templates/EAGvlqc7jrk-beige-and-brown-neutral-painting-slow-living-presentation/
+                    - generic "Beige and Brown Neutral Painting Slow Living Presentation" [ref=f496e548]
+                  - button "Play" [ref=f496e552] [cursor=pointer]
+                - group [ref=f496e562]:
+                  - link "Preview pro Green Blue Modern Wildlife Presentation template, 10 pages" [ref=f496e566] [cursor=pointer]:
+                    - /url: /templates/EAHLZHaoiF8-green-blue-modern-wildlife-presentation/
+                    - generic [ref=f496e567]:
+                      - img "Green Blue Modern Wildlife Presentation" [ref=f496e573]
+                      - generic [ref=f496e576]:
+                        - generic [ref=f496e577]: 1 of 10
+                        - generic [ref=f496e578]: 10 slides
+                  - generic [ref=f496e580]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f496e589]:
+                  - link "Preview free Green and White Minimal Sustainable Living Presentation template, 13 pages" [ref=f496e593] [cursor=pointer]:
+                    - /url: /templates/EAGFT4qbqsA-green-and-white-minimal-sustainable-living-presentation/
+                    - generic [ref=f496e594]:
+                      - img "Green and White Minimal Sustainable Living Presentation" [ref=f496e600]
+                      - generic [ref=f496e603]:
+                        - generic [ref=f496e604]: 1 of 13
+                        - generic [ref=f496e605]: 13 slides
+                - group [ref=f496e614]:
+                  - link "Preview pro Green White and Grey Simple Modern River Conservation Presentation template, 12 pages" [ref=f496e618] [cursor=pointer]:
+                    - /url: /templates/EAG-RjMHBic-green-white-and-grey-simple-modern-river-conservation-presentation/
+                    - generic [ref=f496e619]:
+                      - img "Green White and Grey Simple Modern River Conservation Presentation" [ref=f496e625]
+                      - generic [ref=f496e628]:
+                        - generic [ref=f496e629]: 1 of 12
+                        - generic [ref=f496e630]: 12 slides
+                  - generic [ref=f496e632]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f496e641]:
+                  - link "Preview pro Yellow Modern Wildlife Presentation template, 10 pages" [ref=f496e645] [cursor=pointer]:
+                    - /url: /templates/EAHAOiDI4QU-yellow-modern-wildlife-presentation/
+                    - generic [ref=f496e646]:
+                      - img "Yellow Modern Wildlife Presentation" [ref=f496e652]
+                      - generic [ref=f496e655]:
+                        - generic [ref=f496e656]: 1 of 10
+                        - generic [ref=f496e657]: 10 slides
+                  - generic [ref=f496e659]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f496e668]:
+                  - link "Preview free Green and White Clean Nature Presentation template, 10 pages" [ref=f496e672] [cursor=pointer]:
+                    - /url: /templates/EAGarq2KxCw-green-and-white-clean-nature-presentation/
+                    - generic [ref=f496e673]:
+                      - img "Green and White Clean Nature Presentation" [ref=f496e679]
+                      - generic [ref=f496e682]:
+                        - generic [ref=f496e683]: 1 of 10
+                        - generic [ref=f496e684]: 10 slides
+                - group [ref=f496e693]:
+                  - link "Preview free Pink Brown Geometric Charity Project Presentation template, 10 pages" [ref=f496e697] [cursor=pointer]:
+                    - /url: /templates/EAHBlWSi7Mc-pink-brown-geometric-charity-project-presentation/
+                    - generic [ref=f496e698]:
+                      - img "Pink Brown Geometric Charity Project Presentation" [ref=f496e704]
+                      - generic [ref=f496e707]:
+                        - generic [ref=f496e708]: 1 of 10
+                        - generic [ref=f496e709]: 10 slides
+                - group [ref=f496e718]:
+                  - link "Preview free Black Green Modern Nature Presentation template, 10 pages" [ref=f496e722] [cursor=pointer]:
+                    - /url: /templates/EAG_ObllEUc-black-green-modern-nature-presentation/
+                    - generic [ref=f496e723]:
+                      - img "Black Green Modern Nature Presentation" [ref=f496e729]
+                      - generic [ref=f496e732]:
+                        - generic [ref=f496e733]: 1 of 10
+                        - generic [ref=f496e734]: 10 slides
+                - group [ref=f496e743]:
+                  - link "Preview free Green Modern Professional Urgency of Environmental Presentation template, 12 pages" [ref=f496e747] [cursor=pointer]:
+                    - /url: /templates/EAG8shGipIU-green-modern-professional-urgency-of-environmental-presentation/
+                    - generic [ref=f496e748]:
+                      - img "Green Modern Professional Urgency of Environmental Presentation" [ref=f496e754]
+                      - generic [ref=f496e757]:
+                        - generic [ref=f496e758]: 1 of 12
+                        - generic [ref=f496e759]: 12 slides
+                - group [ref=f496e768]:
+                  - link "Preview free Upschool Be the Change Lesson 3 - Global Sustainable Goals 170 Actions template, 21 pages" [ref=f496e772] [cursor=pointer]:
+                    - /url: /templates/EAGNoutsrZQ-upschool-be-the-change-lesson-3-global-sustainable-goals-170-actions/
+                    - generic [ref=f496e773]:
+                      - img "Upschool Be the Change Lesson 3 - Global Sustainable Goals 170 Actions" [ref=f496e779]
+                      - generic [ref=f496e782]:
+                        - generic [ref=f496e783]: 1 of 21
+                        - generic [ref=f496e784]: 21 slides
+                - group [ref=f496e793]:
+                  - link "Preview free Green and Beige Modern Natural Sustainable Development Presentation template, 11 pages" [ref=f496e797] [cursor=pointer]:
+                    - /url: /templates/EAG-rPgQRjQ-green-and-beige-modern-natural-sustainable-development-presentation/
+                    - generic [ref=f496e798]:
+                      - img "Green and Beige Modern Natural Sustainable Development Presentation" [ref=f496e804]
+                      - generic [ref=f496e807]:
+                        - generic [ref=f496e808]: 1 of 11
+                        - generic [ref=f496e809]: 11 slides
+                - group [ref=f496e818]:
+                  - link "Preview free Blue Green and Orange Modern Climate Change Presentation template, 10 pages" [ref=f496e822] [cursor=pointer]:
+                    - /url: /templates/EAG2N8azfQc-blue-green-and-orange-modern-climate-change-presentation/
+                    - generic [ref=f496e823]:
+                      - img "Blue Green and Orange Modern Climate Change Presentation" [ref=f496e829]
+                      - generic [ref=f496e832]:
+                        - generic [ref=f496e833]: 1 of 10
+                        - generic [ref=f496e834]: 10 slides
+                - group [ref=f496e843]:
+                  - link "Preview free Green and White Modern Nature Presentation template, 11 pages" [ref=f496e847] [cursor=pointer]:
+                    - /url: /templates/EAGiYGfWwwI-green-and-white-modern-nature-presentation/
+                    - generic [ref=f496e848]:
+                      - img "Green and White Modern Nature Presentation" [ref=f496e854]
+                      - generic [ref=f496e857]:
+                        - generic [ref=f496e858]: 1 of 11
+                        - generic [ref=f496e859]: 11 slides
+                - group [ref=f496e868]:
+                  - link "Preview free Green Modern Sustainable Development Presentation template, 10 pages" [ref=f496e872] [cursor=pointer]:
+                    - /url: /templates/EAHDuH3j_d4-green-modern-sustainable-development-presentation/
+                    - generic [ref=f496e873]:
+                      - img "Green Modern Sustainable Development Presentation" [ref=f496e879]
+                      - generic [ref=f496e882]:
+                        - generic [ref=f496e883]: 1 of 10
+                        - generic [ref=f496e884]: 10 slides
+              - button "Next page of list" [ref=f496e887] [cursor=pointer]
+    - generic [ref=f496e889]:
+      - paragraph [ref=f496e891]:
+        - link "Skip to end of footer" [ref=f496e892] [cursor=pointer]:
+          - /url: "#_r_6_"
+      - contentinfo [ref=f496e894]:
+        - generic [ref=f496e896]:
+          - generic [ref=f496e903]:
+            - generic [ref=f496e906]:
+              - heading "Download Canva for free" [level=2] [ref=f496e908]
+              - generic [ref=f496e911]:
+                - link "Windows" [ref=f496e913] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/windows/
+                - link "Mac" [ref=f496e916] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/mac/
+            - navigation [ref=f496e920]:
+              - list [ref=f496e922]:
+                - listitem [ref=f496e923]:
+                  - heading "Product" [level=2] [ref=f496e925]
+                  - list "Product" [ref=f496e927]:
+                    - listitem [ref=f496e928]:
+                      - link "Latest launches" [ref=f496e929] [cursor=pointer]:
+                        - /url: https://www.canva.com/launches/
+                    - listitem [ref=f496e931]:
+                      - link "Visual Suite" [ref=f496e932] [cursor=pointer]:
+                        - /url: https://www.canva.com/visual-suite/
+                    - listitem [ref=f496e934]:
+                      - link "Canva AI" [ref=f496e935] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-ai/
+                    - listitem [ref=f496e937]:
+                      - link "Brand management" [ref=f496e938] [cursor=pointer]:
+                        - /url: https://www.canva.com/solutions/brand-management-tools/
+                    - listitem [ref=f496e940]:
+                      - link "Social media" [ref=f496e941] [cursor=pointer]:
+                        - /url: https://www.canva.com/social-media/
+                    - listitem [ref=f496e943]:
+                      - link "Features" [ref=f496e944] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/
+                    - listitem [ref=f496e946]:
+                      - link "Print" [ref=f496e947] [cursor=pointer]:
+                        - /url: https://www.canva.com/print/
+                    - listitem [ref=f496e949]:
+                      - link "Apps Marketplace" [ref=f496e950] [cursor=pointer]:
+                        - /url: https://www.canva.com/apps/
+                    - listitem [ref=f496e952]:
+                      - link "Affinity" [ref=f496e953] [cursor=pointer]:
+                        - /url: https://www.affinity.studio/
+                - listitem [ref=f496e958]:
+                  - heading "Plans" [level=2] [ref=f496e960]
+                  - list "Plans" [ref=f496e962]:
+                    - listitem [ref=f496e963]:
+                      - link "Pricing" [ref=f496e964] [cursor=pointer]:
+                        - /url: https://www.canva.com/pricing/
+                    - listitem [ref=f496e966]:
+                      - link "Pro" [ref=f496e967] [cursor=pointer]:
+                        - /url: https://www.canva.com/pro/
+                    - listitem [ref=f496e969]:
+                      - link "Business" [ref=f496e970] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-business/
+                    - listitem [ref=f496e972]:
+                      - link "Enterprise" [ref=f496e973] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/
+                    - listitem [ref=f496e975]:
+                      - link "Education" [ref=f496e976] [cursor=pointer]:
+                        - /url: https://www.canva.com/education/
+                    - listitem [ref=f496e978]:
+                      - link "Higher education" [ref=f496e979] [cursor=pointer]:
+                        - /url: https://www.canva.com/for-campus/
+                    - listitem [ref=f496e981]:
+                      - link "Nonprofits" [ref=f496e982] [cursor=pointer]:
+                        - /url: https://www.canva.com/nonprofits/
+                    - listitem [ref=f496e984]:
+                      - link "Contact Sales" [ref=f496e985] [cursor=pointer]:
+                        - /url: https://www.canva.com/contact-sales/
+                - listitem [ref=f496e987]:
+                  - heading "About" [level=2] [ref=f496e989]
+                  - list "About" [ref=f496e991]:
+                    - listitem [ref=f496e992]:
+                      - link "About Canva" [ref=f496e993] [cursor=pointer]:
+                        - /url: https://www.canva.com/about/
+                    - listitem [ref=f496e995]:
+                      - link "Newsroom" [ref=f496e996] [cursor=pointer]:
+                        - /url: https://www.canva.com/newsroom/news/
+                    - listitem [ref=f496e998]:
+                      - link "Events" [ref=f496e999] [cursor=pointer]:
+                        - /url: https://www.canva.com/events/
+                    - listitem [ref=f496e1001]:
+                      - link "Canva Originals" [ref=f496e1002] [cursor=pointer]:
+                        - /url: https://shop.canva.com/
+                    - listitem [ref=f496e1004]:
+                      - link "Careers" [ref=f496e1005] [cursor=pointer]:
+                        - /url: https://www.lifeatcanva.com/en
+                    - listitem [ref=f496e1010]:
+                      - link "Social impact" [ref=f496e1011] [cursor=pointer]:
+                        - /url: https://www.canva.com/step-two/
+                    - listitem [ref=f496e1013]:
+                      - link "Sustainability" [ref=f496e1014] [cursor=pointer]:
+                        - /url: https://www.canva.com/sustainability/
+                    - listitem [ref=f496e1016]:
+                      - link "Case studies" [ref=f496e1017] [cursor=pointer]:
+                        - /url: https://www.canva.com/case-studies/
+                - listitem [ref=f496e1019]:
+                  - heading "Community" [level=2] [ref=f496e1021]
+                  - list "Community" [ref=f496e1023]:
+                    - listitem [ref=f496e1024]:
+                      - link "Canva Communities" [ref=f496e1025] [cursor=pointer]:
+                        - /url: https://www.canva.com/community/
+                    - listitem [ref=f496e1027]:
+                      - link "Creators" [ref=f496e1028] [cursor=pointer]:
+                        - /url: https://www.canva.com/creators/
+                    - listitem [ref=f496e1030]:
+                      - link "Affiliates" [ref=f496e1031] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/canva-affiliate-marketing-program/
+                    - listitem [ref=f496e1033]:
+                      - link "Canva Represents Fund" [ref=f496e1034] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-represents/
+                    - listitem [ref=f496e1036]:
+                      - link "Content partners" [ref=f496e1037] [cursor=pointer]:
+                        - /url: https://www.canva.com/partners/content/
+                    - listitem [ref=f496e1039]:
+                      - link "Business partner directory" [ref=f496e1040] [cursor=pointer]:
+                        - /url: https://partners.canva.com/directory/
+                    - listitem [ref=f496e1042]:
+                      - link "Canva Developers" [ref=f496e1043] [cursor=pointer]:
+                        - /url: https://www.canva.com/developers/
+                - listitem [ref=f496e1048]:
+                  - heading "Inspiration" [level=2] [ref=f496e1050]
+                  - list "Inspiration" [ref=f496e1052]:
+                    - listitem [ref=f496e1053]:
+                      - link "Design Trends" [ref=f496e1054] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-trends/
+                    - listitem [ref=f496e1056]:
+                      - link "AI creativity podcast" [ref=f496e1057] [cursor=pointer]:
+                        - /url: https://promptedpodcast.com/
+                    - listitem [ref=f496e1062]:
+                      - link "Learn blog" [ref=f496e1063] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/
+                    - listitem [ref=f496e1065]:
+                      - link "Templates Marketplace" [ref=f496e1066] [cursor=pointer]:
+                        - /url: https://www.canva.com/templates/
+                    - listitem [ref=f496e1068]:
+                      - link "Font pairing" [ref=f496e1069] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+                    - listitem [ref=f496e1071]:
+                      - link "Color wheel" [ref=f496e1072] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-wheel/
+                    - listitem [ref=f496e1074]:
+                      - link "Colors" [ref=f496e1075] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/
+                    - listitem [ref=f496e1077]:
+                      - link "Color palette generator" [ref=f496e1078] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-palette-generator/
+                - listitem [ref=f496e1080]:
+                  - heading "Help" [level=2] [ref=f496e1082]
+                  - list "Help" [ref=f496e1084]:
+                    - listitem [ref=f496e1085]:
+                      - link "Help Center" [ref=f496e1086] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/
+                    - listitem [ref=f496e1088]:
+                      - link "Security" [ref=f496e1089] [cursor=pointer]:
+                        - /url: https://www.canva.com/security/
+                    - listitem [ref=f496e1091]:
+                      - link "Trust Center" [ref=f496e1092] [cursor=pointer]:
+                        - /url: https://www.canva.com/trust/
+                    - listitem [ref=f496e1094]:
+                      - link "Canva Safe AI" [ref=f496e1095] [cursor=pointer]:
+                        - /url: https://www.canva.com/safe-ai-canva-shield/
+                    - listitem [ref=f496e1097]:
+                      - link "Accessibility" [ref=f496e1098] [cursor=pointer]:
+                        - /url: https://www.canva.com/accessibility/
+                    - listitem [ref=f496e1100]:
+                      - link "Enterprise services" [ref=f496e1101] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/professional-services/
+                    - listitem [ref=f496e1103]:
+                      - link "Design School" [ref=f496e1104] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-school/
+                    - listitem [ref=f496e1109]:
+                      - link "Sitemap" [ref=f496e1110] [cursor=pointer]:
+                        - /url: https://www.canva.com/sitemap/
+                - listitem [ref=f496e1112]:
+                  - heading "Tools" [level=2] [ref=f496e1114]
+                  - list "Tools" [ref=f496e1116]:
+                    - listitem [ref=f496e1117]:
+                      - link "QR code generator" [ref=f496e1118] [cursor=pointer]:
+                        - /url: https://www.canva.com/qr-code-generator/
+                    - listitem [ref=f496e1120]:
+                      - link "AI logo generator" [ref=f496e1121] [cursor=pointer]:
+                        - /url: https://www.canva.com/ai-logo-generator/
+                    - listitem [ref=f496e1123]:
+                      - link "Signature generator" [ref=f496e1124] [cursor=pointer]:
+                        - /url: https://www.canva.com/signature-generator/
+                    - listitem [ref=f496e1126]:
+                      - link "Business name generator" [ref=f496e1127] [cursor=pointer]:
+                        - /url: https://www.canva.com/business-name-generator/
+                    - listitem [ref=f496e1129]:
+                      - link "PDF converter" [ref=f496e1130] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-converter/
+                    - listitem [ref=f496e1132]:
+                      - link "PDF to JPG converter" [ref=f496e1133] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-to-jpg-converter/
+                    - listitem [ref=f496e1135]:
+                      - link "JPG to PDF converter" [ref=f496e1136] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/jpg-to-pdf-converter/
+                    - listitem [ref=f496e1138]:
+                      - link "Graph maker" [ref=f496e1139] [cursor=pointer]:
+                        - /url: https://www.canva.com/graphs/
+          - generic [ref=f496e1143]:
+            - generic [ref=f496e1150]:
+              - link "LinkedIn" [ref=f496e1152] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/canva
+                - generic: (opens in a new tab or window)
+              - link "Instagram" [ref=f496e1156] [cursor=pointer]:
+                - /url: https://www.instagram.com/canva/
+                - generic: (opens in a new tab or window)
+              - link "Facebook" [ref=f496e1160] [cursor=pointer]:
+                - /url: https://www.facebook.com/canva
+                - generic: (opens in a new tab or window)
+              - link "TikTok" [ref=f496e1164] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@canva
+                - generic: (opens in a new tab or window)
+              - link "Pinterest" [ref=f496e1168] [cursor=pointer]:
+                - /url: https://au.pinterest.com/canva/
+                - generic: (opens in a new tab or window)
+              - link "X" [ref=f496e1172] [cursor=pointer]:
+                - /url: https://x.com/canva
+                - generic: (opens in a new tab or window)
+              - link "YouTube" [ref=f496e1176] [cursor=pointer]:
+                - /url: https://www.youtube.com/@canva
+                - generic: (opens in a new tab or window)
+            - generic [ref=f496e1181]:
+              - generic [ref=f496e1185]:
+                - link "Privacy" [ref=f496e1187] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/privacy-policy/
+                - link "Terms" [ref=f496e1191] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/terms-of-use/
+              - paragraph [ref=f496e1196]: © 2026 All Rights Reserved
+      - paragraph [ref=f496e1198]:
+        - link "Skip to start of footer" [ref=f496e1199] [cursor=pointer]:
+          - /url: "#_r_5_"

@@ -1,0 +1,225 @@
+- iframe [active] [ref=f85e2]:
+  - generic [active] [ref=f86e1]:
+    - generic [ref=f86e3]:
+      - generic [ref=f86e36]:
+        - heading [level=1] [ref=f86e37]:
+          - link "NAVER" [ref=f86e38] [cursor=pointer]:
+            - /url: https://www.naver.com/
+          - link "blog" [ref=f86e40] [cursor=pointer]:
+            - /url: https://section.blog.naver.com
+        - generic [ref=f86e42]:
+          - generic [ref=f86e851]: 자동저장 오후 12:14
+          - generic [ref=f86e43]:
+            - button "저장" [ref=f86e44] [cursor=pointer]
+            - button "임시저장된 글 보기, 0개" [ref=f86e45] [cursor=pointer]: "0"
+          - button "발행" [ref=f86e48] [cursor=pointer]
+          - button "더보기" [ref=f86e56] [cursor=pointer]
+      - generic [ref=f86e63]:
+        - generic [ref=f86e65]:
+          - banner [ref=f86e66]:
+            - list [ref=f86e68]:
+              - listitem [ref=f86e69]:
+                - button "사진 추가" [ref=f86e70] [cursor=pointer]:
+                  - generic [ref=f86e72]: 사진
+              - listitem [ref=f86e73]:
+                - button "MYBOX 추가" [ref=f86e74] [cursor=pointer]:
+                  - generic [ref=f86e76]: MYBOX
+              - listitem [ref=f86e77]:
+                - button "동영상 추가" [ref=f86e78] [cursor=pointer]:
+                  - generic [ref=f86e80]: 동영상
+              - listitem [ref=f86e81]:
+                - button "스티커 추가" [ref=f86e82] [cursor=pointer]:
+                  - generic [ref=f86e84]: 스티커
+              - listitem [ref=f86e85]:
+                - generic [ref=f86e86]:
+                  - button "인용구 추가" [ref=f86e87] [cursor=pointer]
+                  - button "인용구 선택" [ref=f86e89] [cursor=pointer]
+                  - generic [ref=f86e91]: 인용구
+              - listitem [ref=f86e92]:
+                - generic [ref=f86e93]:
+                  - button "구분선 추가" [ref=f86e94] [cursor=pointer]
+                  - button "구분선 선택" [ref=f86e96] [cursor=pointer]
+                  - generic [ref=f86e98]: 구분선
+              - listitem [ref=f86e99]:
+                - button "링크 추가" [ref=f86e100] [cursor=pointer]:
+                  - generic [ref=f86e102]: 링크
+              - listitem [ref=f86e103]:
+                - button "파일 추가" [ref=f86e104] [cursor=pointer]:
+                  - generic [ref=f86e106]: 파일
+              - listitem [ref=f86e107]:
+                - button "일정 추가" [ref=f86e108] [cursor=pointer]:
+                  - generic [ref=f86e110]: 일정
+              - listitem [ref=f86e111]:
+                - button "소스코드 추가" [ref=f86e112] [cursor=pointer]:
+                  - generic [ref=f86e114]: 소스코드
+              - listitem [ref=f86e115]:
+                - button "표 추가" [ref=f86e116] [cursor=pointer]:
+                  - generic [ref=f86e118]: 표
+              - listitem [ref=f86e119]:
+                - button "수식 추가" [ref=f86e120] [cursor=pointer]:
+                  - generic [ref=f86e122]: 수식
+              - listitem [ref=f86e123]
+              - listitem [ref=f86e126]:
+                - button "장소 추가" [ref=f86e127] [cursor=pointer]:
+                  - generic [ref=f86e129]: 장소
+              - listitem [ref=f86e130]:
+                - button "내돈내산 상품 첨부" [ref=f86e131] [cursor=pointer]:
+                  - generic [ref=f86e133]: 내돈내산
+              - listitem [ref=f86e134]:
+                - button "글감 검색 열기" [ref=f86e135] [cursor=pointer]:
+                  - generic [ref=f86e137]: 글감
+              - listitem
+              - listitem [ref=f86e138]:
+                - button "내 클립 열기" [ref=f86e139] [cursor=pointer]:
+                  - generic [ref=f86e141]: 내 클립
+              - listitem [ref=f86e142]:
+                - button "라이브러리 열기" [ref=f86e143] [cursor=pointer]:
+                  - generic [ref=f86e145]: 라이브러리
+              - listitem [ref=f86e146]:
+                - button "템플릿 열기" [ref=f86e147] [cursor=pointer]:
+                  - generic [ref=f86e149]: 템플릿
+            - list [ref=f86e151]:
+              - listitem [ref=f86e152]:
+                - button "문단 서식 변경" [ref=f86e154] [cursor=pointer]: 본문
+              - listitem [ref=f86e155]:
+                - button "서체 변경" [ref=f86e157] [cursor=pointer]: 나눔고딕
+              - listitem [ref=f86e158]:
+                - button "글자 크기 변경" [ref=f86e160] [cursor=pointer]: "16"
+              - listitem [ref=f86e161]
+              - listitem [ref=f86e164]:
+                - button "굵기 적용" [ref=f86e165] [cursor=pointer]:
+                  - generic [ref=f86e167]: 굵게
+              - listitem [ref=f86e168]:
+                - button "기울이기 적용" [ref=f86e169] [cursor=pointer]:
+                  - generic [ref=f86e171]: 기울이기
+              - listitem [ref=f86e172]:
+                - button "밑줄 적용" [ref=f86e173] [cursor=pointer]:
+                  - generic [ref=f86e175]: 밑줄
+              - listitem [ref=f86e176]:
+                - button "취소선 적용" [ref=f86e177] [cursor=pointer]:
+                  - generic [ref=f86e179]: 취소선
+              - listitem [ref=f86e180]:
+                - button [ref=f86e182] [cursor=pointer]:
+                  - generic [ref=f86e186]: 글자색
+              - listitem [ref=f86e187]:
+                - button "글자 배경색 변경" [ref=f86e189] [cursor=pointer]:
+                  - generic [ref=f86e193]: 배경색
+              - listitem [ref=f86e194]
+              - listitem [ref=f86e197]:
+                - button "정렬 열기" [ref=f86e199] [cursor=pointer]:
+                  - generic [ref=f86e201]: 정렬
+              - listitem [ref=f86e202]:
+                - button "줄간격 열기" [ref=f86e204] [cursor=pointer]:
+                  - generic [ref=f86e206]: 줄간격
+              - listitem [ref=f86e207]:
+                - button "목록 열기" [ref=f86e209] [cursor=pointer]:
+                  - generic [ref=f86e211]: 목록
+              - listitem [ref=f86e212]
+              - listitem [ref=f86e215]:
+                - button "머리글자 적용" [ref=f86e216] [cursor=pointer]:
+                  - generic [ref=f86e218]: 머리글자
+              - listitem [ref=f86e219]:
+                - button "위첨자 적용" [ref=f86e220] [cursor=pointer]:
+                  - generic [ref=f86e222]: 위첨자
+              - listitem [ref=f86e223]:
+                - button "아래첨자 적용" [ref=f86e224] [cursor=pointer]:
+                  - generic [ref=f86e226]: 아래첨자
+              - listitem [ref=f86e227]:
+                - button "특수문자 열기" [ref=f86e228] [cursor=pointer]:
+                  - generic [ref=f86e230]: 특수문자
+              - listitem [ref=f86e231]:
+                - button "링크 입력 열기" [ref=f86e233] [cursor=pointer]:
+                  - generic [ref=f86e235]: 링크
+              - listitem [ref=f86e236]
+              - listitem [ref=f86e239]:
+                - button "번역" [ref=f86e240] [cursor=pointer]
+              - listitem [ref=f86e242]
+              - listitem [ref=f86e245]:
+                - button "맞춤법" [ref=f86e246] [cursor=pointer]
+          - generic [ref=f86e249]:
+            - generic [ref=f86e250]:
+              - article [ref=f86e254]:
+                - paragraph [ref=f86e614]: 써니 (Sunny, 2011)
+                - generic [ref=f86e620]:
+                  - paragraph [ref=f86e621]: 오늘의 영화는 의외로 흥행했었던 한국 영화를 소개하겠습니다. 써니는 학창시절 친구들의 우정을 소재로 그 시대를 직간접적으로 보여주면서 사람들의 향수를 자극하여 복고 열풍을 또 한번 일으켰습니다. 친구라는 진부할 수 있는 소재였지만 '엄마의 학창시절은 어땠을까'라는 생각을 하게 하는 영화라 재미있게 봤었습니다.
+                  - paragraph [ref=f86e622]
+                  - paragraph [ref=f86e623]: ※영화를 보지 않은 분들에게는 스포일러가 될 수 있으니 주의 부탁드립니다
+                - separator [ref=f86e630]
+                - generic [ref=f86e631]:
+                  - button [ref=f86e632]
+                  - paragraph [ref=f86e639]: 써니 (Sunny, 2011)
+                - paragraph [ref=f86e645]
+                - generic [ref=f86e656]:
+                  - paragraph [ref=f86e657]: 전라도 벌교 전학생 나미는 긴장하면 터져 나오는 사투리 탓에 첫날부터 날라리들의 놀림감이 된다. 이때 범상치 않는 포스의 친구들이 어리버리한 그녀를 도와주는데... 진덕여고 의리짱 춘화, 쌍꺼풀에 목숨 건 못난이 장미, 욕배틀 대표주자 진희, 괴력의 다구발 문학소녀 금옥, 미스코리아를 꿈꾸는 사차원 복희 그리고 도도한 얼음공주 수지. 나미는 이들의 새 멤버가 되어 경쟁그룹 ‘소녀시대’와의 맞짱 대결에서 할머니로부터 전수받은 사투리 욕 신공으로 위기 상황을 모면하는 대활약을 펼친다.
+                  - paragraph [ref=f86e658]
+                  - paragraph [ref=f86e659]: 일곱 명의 단짝 친구들은 언제까지나 함께 하자는 맹세로 칠공주 ‘써니’를 결성하고 학교 축제 때 선보일 공연을 야심차게 준비하지만 축제 당일 뜻밖의 사고가 일어나 뿔뿔이 흩어지게 된다. 그로부터 25년 후 잘 나가는 남편과 예쁜 딸을 둔 나미의 삶은 무언가 2% 부족하다. 어느 날 ‘써니짱’ 춘화와 마주친 나미는 재회의 기쁨을 나누며, ‘써니’ 멤버들을 찾아 나서기로 결심하는데...가족에게만 매어있던 일상에서 벗어나 추억 속 친구들을 찾아나선 나미는 그 시절 눈부신 우정을 떠올리며 가장 행복했던 순간의 자신과 만나게 된다.
+                - paragraph [ref=f86e667]: 잔뜩 긴장한 전학생 나미
+                - generic [ref=f86e672]:
+                  - paragraph [ref=f86e673]
+                  - paragraph [ref=f86e674]
+                - generic [ref=f86e685]:
+                  - paragraph [ref=f86e686]: 써니를 보면 그 때 그 당시를 떠올리게 하는 많은 요소들과 디테일이 있는 데 과하지 않고 마치 내가 주인공과 같은 느낌을 줍니다.
+                  - paragraph [ref=f86e687]: 입는 옷부터 DJ 오빠까지... 그 추억 속에는 항상 '친구'가 함께였다는 걸 강조하고 싶었던 것 같았습니다.
+                  - paragraph [ref=f86e688]: 중간 중간 웃음 요소도 있고, 아역을 맡았던 배우들이 맞춤옷을 입은 듯 배역에 맞는 뛰어난 연기 덕도 큰 몫을 했던 것 같습니다.
+                - paragraph [ref=f86e696]: 왼쪽부터 진희, 춘화, 수지, 장미, 나미, 복희, 금옥
+                - button [ref=f86e698]
+                - generic [ref=f86e704]:
+                  - button [ref=f86e705]
+                  - paragraph [ref=f86e715]: 가장 찬란한 순간, 우리는 하나였다
+                - generic [ref=f86e720]:
+                  - paragraph [ref=f86e721]
+                  - paragraph [ref=f86e722]
+                - generic [ref=f86e733]:
+                  - paragraph [ref=f86e734]:
+                    - generic [ref=f86e735]: 친구
+                  - paragraph [ref=f86e736]: 친한 친구들을 보면 가끔은 어떻게 친구가 되었더라..라는 친구들이 있습니다. 전학 온 나미는 리더 춘화의 마음에 들어 금방 춘화와 그 주변 친구들과 함께 어울려다니게 되죠. 그러나... 위기가 없는 친구 관계는 있기힘들죠.
+                  - paragraph [ref=f86e737]: 수지는 써니 멤버에 끼게 된 나미를 마음에 들어하지 않았습니다. 수지와 친하게 지내고 싶어했던 나미는 수지에게 찾아가 함께 술을 마시게 되는데요, 속마음을 털어낸 후 제일 친하게 되었습니다.
+                - generic [ref=f86e748]:
+                  - paragraph [ref=f86e749]
+                  - paragraph [ref=f86e750]: 친하기만 한 친구는 없죠, 친했지만 사이가 틀어진 친구도 있었습니다. 상미는 원래는 함께 어울려다녔지만 리더인 춘화가 본드를 마시는 행동을 싫어해 멀어졌습니다. 그래서인지 상미는 새로 나미를 못마땅해하며 해코지를 하려했지만 춘화에 의해 제지되었습니다.
+                  - paragraph [ref=f86e751]: 개인적으로 써니에서 상미역을 맡았던 천우희 배우의 연기를 굉장히 좋아했습니다. 정말 본드를 한 것과 같은 신들린 듯한 연기와
+                  - paragraph [ref=f86e752]: 본인 때문에 일어나게 된 일에 흔들리는 눈빛과 감정을 보이지만 말로 전할 수 없는 복잡미묘함때문에 가장 기억에 남았습니다.
+                - generic [ref=f86e763]:
+                  - paragraph [ref=f86e764]
+                  - paragraph [ref=f86e765]:
+                    - generic [ref=f86e766]: 공감
+                  - paragraph [ref=f86e767]: 부족한 것 하나 없지만, 무언가 활력이 되고 위로가 되어줄 것을 찾다보면 결국 친구들과의 행복한 추억을 떠올리게 되듯
+                  - paragraph [ref=f86e768]: 영화에서는 그런 점에서 사람들의 공감을 잘 이끌어냈던 것 같습니다.
+                  - paragraph [ref=f86e769]: 결국엔 돈으로 해결하는 느낌이 없지 않아 있어 좀 아쉬웠지만 그것도 현실적이긴 하네요.
+                - button [ref=f86e780]
+                - generic [ref=f86e793]:
+                  - paragraph [ref=f86e794]
+                  - paragraph [ref=f86e795]
+                  - paragraph [ref=f86e796]
+                - generic [ref=f86e807]:
+                  - paragraph [ref=f86e808]: 영화 써니 포스터를 보면 학창시절 7명의 친구들이 있지만, 어른이 되었을 때는 6명의 주인공들만 보이고 왼쪽 상단에 나머지 한명의 어깨만 노출되어 누군가 있다는 존재만 표시하고 있습니다. 역할을 보면 성인이 된 수지가 가려져 있는데요,
+                  - paragraph [ref=f86e809]: 영화를 보고 감독은 어떤 의미로 수지의 역을 숨겨두었는 지 추측해보세요 :)
+                - paragraph [ref=f86e824]
+                - generic [ref=f86e831]:
+                  - button [ref=f86e832]
+                  - generic [ref=f86e839]:
+                    - img "써니" [ref=f86e842]
+                    - generic [ref=f86e843]:
+                      - generic [ref=f86e844]: 써니
+                      - generic [ref=f86e845]: 강형철
+              - button "본문 추가" [ref=f86e847]
+            - generic [ref=f86e268]:
+              - generic [ref=f86e269] [cursor=pointer]
+              - generic [ref=f86e270]: 추가할 컴포넌트를 선택하세요.
+          - list [ref=f86e428]:
+            - listitem [ref=f86e429]:
+              - button "PC 화면" [ref=f86e430] [cursor=pointer]
+            - listitem [ref=f86e432]:
+              - link "도움말" [ref=f86e433] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f86e437]:
+            - generic [ref=f86e439]:
+              - button "카테고리 열기" [ref=f86e441] [cursor=pointer]:
+                - generic [ref=f86e443]: 전체 글감
+              - generic [ref=f86e445]:
+                - button "검색" [ref=f86e446] [cursor=pointer]
+                - textbox "글감을 검색해 보세요." [ref=f86e447]
+            - button "접기" [ref=f86e448] [cursor=pointer]
+        - generic: 본문 컴포넌트 오
+    - iframe [ref=f86e450]:
+      

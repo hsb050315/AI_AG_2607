@@ -1,0 +1,23 @@
+[      23ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://www.canva.com/design?create&type=TACQ-gtv2Yk&template=EAG9gUM82IY&category=tAExRLg81RI&analyticsCorrelationId=fcade18e-c9be-4bbd-8206-755a3c037ef3:0
+[    1516ms] [LOG] ripple[DAHR8xiSFao:YGTSn56qjT2zwUdeE(0-0,0)]: subscribing to channel @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[    1540ms] [INFO] ripple[DAHR8xiSFao:YGTSn56qjT2zwUdeE(0-0,0)]: unsubscribing from channel @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[    1542ms] [INFO] websocket_client: 1786418683311 connecting... @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[    2573ms] [INFO] websocket_client: connected @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[    2573ms] [LOG] ripple[DAHR8xiSFao:YGTSn56qjT2zwUdeE(0-0,0)]: subscribing to channel @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[    2574ms] [INFO] websocket_client: status CONNECTED @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[    2842ms] [INFO] websocket_client: request id a29421034a00de6f @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[    8365ms] [LOG] %cCanva는 TypeScript, React, MobX, RxJS, PostCSS, webpack, 그리고 사랑을 듬뿍 담아 만들어졌습니다. text-shadow: #a0f9fa 0 0 2px; font-family: monospace; font-size: 1.4em; @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[    8365ms] [LOG] %cCanva에서 일하고 싶으신가요? https://www.canva.com/careers/을(를) 확인해 보세요. text-shadow: #a0f9fa 0 0 2px; font-family: monospace; font-size: 1.4em; @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[    8365ms] [LOG] %cCanva에서 일하고 싶으신가요? https://www.canva.com/developers/에서 API 및 SDK를 확인해 보세요. text-shadow: #a0f9fa 0 0 2px; font-family: monospace; font-size: 1.4em; @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   16249ms] [INFO] [payment-config-debug] getPaymentConfig response {country: KR, currency: KRW, tBB: Array(6), $ZB: undefined, dfc: d} @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   25460ms] [INFO] [payment-config-debug] getPaymentConfig response {country: KR, currency: KRW, tBB: Array(6), $ZB: undefined, dfc: d} @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59984ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59985ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59986ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59988ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59989ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59991ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59992ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59994ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59995ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0
+[   59998ms] [WARNING] 'expr' should only be used inside other reactive functions. @ https://static.canva.com/web/f153749557653733.sentry_browser.js:0

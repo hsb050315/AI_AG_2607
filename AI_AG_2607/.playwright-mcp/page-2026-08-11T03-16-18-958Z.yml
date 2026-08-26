@@ -1,0 +1,866 @@
+- generic [active] [ref=f499e1]:
+  - generic [ref=f499e3]: Loading
+  - generic [ref=f499e5]:
+    - paragraph [ref=f499e7]:
+      - link "Skip to main content" [ref=f499e8] [cursor=pointer]:
+        - /url: "#_r_0_"
+    - banner [ref=f499e11]:
+      - generic [ref=f499e15]:
+        - link "Canva home" [ref=f499e18] [cursor=pointer]:
+          - /url: https://www.canva.com/
+        - navigation [ref=f499e25]:
+          - list [ref=f499e26]:
+            - listitem [ref=f499e27]:
+              - button "Design" [ref=f499e28] [cursor=pointer]
+            - listitem [ref=f499e30]:
+              - button "Product" [ref=f499e31] [cursor=pointer]
+            - listitem [ref=f499e33]:
+              - button "Plans" [ref=f499e34] [cursor=pointer]
+            - listitem [ref=f499e36]:
+              - button "Business" [ref=f499e37] [cursor=pointer]
+            - listitem [ref=f499e39]:
+              - button "Education" [ref=f499e40] [cursor=pointer]
+            - listitem [ref=f499e42]:
+              - button "Help" [ref=f499e43] [cursor=pointer]
+        - generic [ref=f499e47]:
+          - button "Sign up" [ref=f499e49] [cursor=pointer]
+          - button "Log in" [ref=f499e51] [cursor=pointer]
+    - main [ref=f499e53]:
+      - navigation "Breadcrumb" [ref=f499e55]:
+        - list [ref=f499e56]:
+          - listitem [ref=f499e57]:
+            - link "Home" [ref=f499e58] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f499e60]
+          - listitem [ref=f499e61]:
+            - link "Templates" [ref=f499e62] [cursor=pointer]:
+              - /url: /templates/
+          - listitem [ref=f499e64]
+          - listitem [ref=f499e65]:
+            - generic [ref=f499e66]: Education Hand Drawn Doodle Presentation
+      - generic [ref=f499e67]:
+        - generic [ref=f499e78]:
+          - heading "Education Hand Drawn Doodle Presentation templates" [level=1] [ref=f499e79]
+          - paragraph [ref=f499e80]: Browse high quality Education Hand Drawn Doodle Presentation templates for your next design
+        - generic [ref=f499e86]:
+          - generic [ref=f499e88]:
+            - search [ref=f499e91]:
+              - generic [ref=f499e94]:
+                - generic [ref=f499e97]:
+                  - combobox "Search" [ref=f499e99]: education hand drawn doodle presentation
+                  - button "Clear" [ref=f499e102] [cursor=pointer]
+                - button "Submit Search" [ref=f499e105]
+            - button "All filters" [ref=f499e107] [cursor=pointer]
+          - generic [ref=f499e113]:
+            - generic [ref=f499e115]:
+              - generic [ref=f499e116]:
+                - generic [ref=f499e119]:
+                  - group [ref=f499e121]:
+                    - link "Preview free Black and White Hand-Drawn Children's Education Presentation template, 10 pages" [ref=f499e125] [cursor=pointer]:
+                      - /url: /templates/EAGz-UMdSco-black-and-white-hand-drawn-children-s-education-presentation/
+                      - generic [ref=f499e127]:
+                        - img "Black and White Hand-Drawn Children's Education Presentation" [ref=f499e132]
+                        - generic [ref=f499e135]:
+                          - generic [ref=f499e136]: 1 of 10
+                          - generic [ref=f499e137]: 10 slides
+                  - paragraph [ref=f499e140]:
+                    - link "Black and White Hand-Drawn Children's Education Presentation" [ref=f499e141] [cursor=pointer]:
+                      - /url: /templates/EAGz-UMdSco-black-and-white-hand-drawn-children-s-education-presentation/
+                - generic [ref=f499e144]:
+                  - group [ref=f499e146]:
+                    - link "Preview free Types of Feelings Education Presentation in Green Brown Hand Drawn Style template" [ref=f499e150] [cursor=pointer]:
+                      - /url: /templates/EAFltjGpGZw-types-of-feelings-education-presentation-in-green-brown-hand-drawn-style/
+                      - generic "Types of Feelings Education Presentation in Green Brown Hand Drawn Style" [ref=f499e155]
+                    - button "Play" [ref=f499e159] [cursor=pointer]
+                  - paragraph [ref=f499e163]:
+                    - link "Types of Feelings Education Presentation in Green Brown Hand Drawn Style" [ref=f499e164] [cursor=pointer]:
+                      - /url: /templates/EAFltjGpGZw-types-of-feelings-education-presentation-in-green-brown-hand-drawn-style/
+                - generic [ref=f499e167]:
+                  - group [ref=f499e169]:
+                    - link "Preview free Cute Hand Drawn Doodle Quote Phone Wallpaper Instagram Story template" [ref=f499e173] [cursor=pointer]:
+                      - /url: /templates/EAGJILTXx-U-cute-hand-drawn-doodle-quote-phone-wallpaper-instagram-story/
+                      - img "Cute Hand Drawn Doodle Quote Phone Wallpaper Instagram Story" [ref=f499e177]
+                  - paragraph [ref=f499e180]:
+                    - link "Cute Hand Drawn Doodle Quote Phone Wallpaper Instagram Story" [ref=f499e181] [cursor=pointer]:
+                      - /url: /templates/EAGJILTXx-U-cute-hand-drawn-doodle-quote-phone-wallpaper-instagram-story/
+                - generic [ref=f499e184]:
+                  - group [ref=f499e186]:
+                    - link "Preview free Beige and Black Hand-drawn Modern Project Presentation template, 10 pages" [ref=f499e190] [cursor=pointer]:
+                      - /url: /templates/EAHJbBkF6LQ-beige-and-black-hand-drawn-modern-project-presentation/
+                      - generic [ref=f499e192]:
+                        - img "Beige and Black Hand-drawn Modern Project Presentation" [ref=f499e198]
+                        - generic [ref=f499e201]:
+                          - generic [ref=f499e202]: 1 of 10
+                          - generic [ref=f499e203]: 10 slides
+                  - paragraph [ref=f499e206]:
+                    - link "Beige and Black Hand-drawn Modern Project Presentation" [ref=f499e207] [cursor=pointer]:
+                      - /url: /templates/EAHJbBkF6LQ-beige-and-black-hand-drawn-modern-project-presentation/
+                - generic [ref=f499e210]:
+                  - group [ref=f499e212]:
+                    - link "Preview free Beige Brown Hand Drawn Illustrated Group Project Presentation template, 12 pages" [ref=f499e216] [cursor=pointer]:
+                      - /url: /templates/EAGoL1bzgew-beige-brown-hand-drawn-illustrated-group-project-presentation/
+                      - generic [ref=f499e218]:
+                        - img "Beige Brown Hand Drawn Illustrated Group Project Presentation" [ref=f499e224]
+                        - generic [ref=f499e227]:
+                          - generic [ref=f499e228]: 1 of 12
+                          - generic [ref=f499e229]: 12 slides
+                  - paragraph [ref=f499e232]:
+                    - link "Beige Brown Hand Drawn Illustrated Group Project Presentation" [ref=f499e233] [cursor=pointer]:
+                      - /url: /templates/EAGoL1bzgew-beige-brown-hand-drawn-illustrated-group-project-presentation/
+                - generic [ref=f499e236]:
+                  - group [ref=f499e238]:
+                    - link "Preview free Classroom Orientation Education Presentstion in Yellow, Green and Brown Doodle Hand Drawn Illustrative Style template" [ref=f499e242] [cursor=pointer]:
+                      - /url: /templates/EAGnOd2qre8-classroom-orientation-education-presentstion-in-yellow-green-and-brown-doodle-hand-drawn-illustrative-style/
+                      - generic "Classroom Orientation Education Presentstion in Yellow, Green and Brown Doodle Hand Drawn Illustrative Style" [ref=f499e247]
+                    - button "Play" [ref=f499e251] [cursor=pointer]
+                  - paragraph [ref=f499e255]:
+                    - link "Classroom Orientation Education Presentstion in Yellow, Green and Brown Doodle Hand Drawn Illustrative Style" [ref=f499e256] [cursor=pointer]:
+                      - /url: /templates/EAGnOd2qre8-classroom-orientation-education-presentstion-in-yellow-green-and-brown-doodle-hand-drawn-illustrative-style/
+                - generic [ref=f499e259]:
+                  - group [ref=f499e261]:
+                    - link "Preview free White and Peach Cute Hand Drawn Playful Group Project Presentation template, 10 pages" [ref=f499e265] [cursor=pointer]:
+                      - /url: /templates/EAGRiYe1-Wo-white-and-peach-cute-hand-drawn-playful-group-project-presentation/
+                      - generic [ref=f499e267]:
+                        - img "White and Peach Cute Hand Drawn Playful Group Project Presentation" [ref=f499e273]
+                        - generic [ref=f499e276]:
+                          - generic [ref=f499e277]: 1 of 10
+                          - generic [ref=f499e278]: 10 slides
+                  - paragraph [ref=f499e281]:
+                    - link "White and Peach Cute Hand Drawn Playful Group Project Presentation" [ref=f499e282] [cursor=pointer]:
+                      - /url: /templates/EAGRiYe1-Wo-white-and-peach-cute-hand-drawn-playful-group-project-presentation/
+                - generic [ref=f499e285]:
+                  - group [ref=f499e287]:
+                    - link "Preview free Education Website in Bright Blue Pastel Pink Hand-drawn Style template" [ref=f499e291] [cursor=pointer]:
+                      - /url: /templates/EAE_DdaF_jQ-education-website-in-bright-blue-pastel-pink-hand-drawn-style/
+                      - generic "Education Website in Bright Blue Pastel Pink Hand-drawn Style" [ref=f499e296]
+                    - button "Play" [ref=f499e300] [cursor=pointer]
+                  - paragraph [ref=f499e304]:
+                    - link "Education Website in Bright Blue Pastel Pink Hand-drawn Style" [ref=f499e305] [cursor=pointer]:
+                      - /url: /templates/EAE_DdaF_jQ-education-website-in-bright-blue-pastel-pink-hand-drawn-style/
+                - generic [ref=f499e308]:
+                  - group [ref=f499e310]:
+                    - link "Preview free Drawing Illustration Visual Arts Education Presentation in a Gold and Green Hand Drawn Style template, 10 pages" [ref=f499e314] [cursor=pointer]:
+                      - /url: /templates/EAGPOrXRB8o-drawing-illustration-visual-arts-education-presentation-in-a-gold-and-green-hand-drawn-style/
+                      - generic [ref=f499e316]:
+                        - img "Drawing Illustration Visual Arts Education Presentation in a Gold and Green Hand Drawn Style" [ref=f499e322]
+                        - generic [ref=f499e325]:
+                          - generic [ref=f499e326]: 1 of 10
+                          - generic [ref=f499e327]: 10 slides
+                  - paragraph [ref=f499e330]:
+                    - link "Drawing Illustration Visual Arts Education Presentation in a Gold and Green Hand Drawn Style" [ref=f499e331] [cursor=pointer]:
+                      - /url: /templates/EAGPOrXRB8o-drawing-illustration-visual-arts-education-presentation-in-a-gold-and-green-hand-drawn-style/
+                - generic [ref=f499e334]:
+                  - group [ref=f499e336]:
+                    - link "Preview free Hand Drawn Leaf Doodle Desktop Wallpaper template" [ref=f499e340] [cursor=pointer]:
+                      - /url: /templates/EAEtax49qrs-hand-drawn-leaf-doodle-desktop-wallpaper/
+                      - img "Hand Drawn Leaf Doodle Desktop Wallpaper" [ref=f499e344]
+                  - paragraph [ref=f499e347]:
+                    - link "Hand Drawn Leaf Doodle Desktop Wallpaper" [ref=f499e348] [cursor=pointer]:
+                      - /url: /templates/EAEtax49qrs-hand-drawn-leaf-doodle-desktop-wallpaper/
+                - generic [ref=f499e351]:
+                  - group [ref=f499e353]:
+                    - link "Preview free Circuits Education Presentation in Blue White Yellow Hand Drawn Style template, 26 pages" [ref=f499e357] [cursor=pointer]:
+                      - /url: /templates/EAGVeKUtdxQ-circuits-education-presentation-in-blue-white-yellow-hand-drawn-style/
+                      - generic [ref=f499e359]:
+                        - img "Circuits Education Presentation in Blue White Yellow Hand Drawn Style" [ref=f499e365]
+                        - generic [ref=f499e368]:
+                          - generic [ref=f499e369]: 1 of 26
+                          - generic [ref=f499e370]: 26 slides
+                  - paragraph [ref=f499e373]:
+                    - link "Circuits Education Presentation in Blue White Yellow Hand Drawn Style" [ref=f499e374] [cursor=pointer]:
+                      - /url: /templates/EAGVeKUtdxQ-circuits-education-presentation-in-blue-white-yellow-hand-drawn-style/
+                - generic [ref=f499e377]:
+                  - group [ref=f499e379]:
+                    - link "Preview free Green Yellow Cute Illustration Hand Drawn Group Project Presentation template, 10 pages" [ref=f499e383] [cursor=pointer]:
+                      - /url: /templates/EAGzb_mnxIA-green-yellow-cute-illustration-hand-drawn-group-project-presentation/
+                      - generic [ref=f499e385]:
+                        - img "Green Yellow Cute Illustration Hand Drawn Group Project Presentation" [ref=f499e391]
+                        - generic [ref=f499e394]:
+                          - generic [ref=f499e395]: 1 of 10
+                          - generic [ref=f499e396]: 10 slides
+                  - paragraph [ref=f499e399]:
+                    - link "Green Yellow Cute Illustration Hand Drawn Group Project Presentation" [ref=f499e400] [cursor=pointer]:
+                      - /url: /templates/EAGzb_mnxIA-green-yellow-cute-illustration-hand-drawn-group-project-presentation/
+                - generic [ref=f499e403]:
+                  - group [ref=f499e405]:
+                    - link "Preview free Push and Pull Education Presentation in Green Beige Hand Drawn Style template" [ref=f499e409] [cursor=pointer]:
+                      - /url: /templates/EAF5gMULNDc-push-and-pull-education-presentation-in-green-beige-hand-drawn-style/
+                      - generic "Push and Pull Education Presentation in Green Beige Hand Drawn Style" [ref=f499e414]
+                    - button "Play" [ref=f499e418] [cursor=pointer]
+                  - paragraph [ref=f499e422]:
+                    - link "Push and Pull Education Presentation in Green Beige Hand Drawn Style" [ref=f499e423] [cursor=pointer]:
+                      - /url: /templates/EAF5gMULNDc-push-and-pull-education-presentation-in-green-beige-hand-drawn-style/
+                - generic [ref=f499e426]:
+                  - group [ref=f499e428]:
+                    - link "Preview free Green Hand Drawn Mountain Illustration Presentation template, 10 pages" [ref=f499e432] [cursor=pointer]:
+                      - /url: /templates/EAGquBAouWw-green-hand-drawn-mountain-illustration-presentation/
+                      - generic [ref=f499e434]:
+                        - img "Green Hand Drawn Mountain Illustration Presentation" [ref=f499e440]
+                        - generic [ref=f499e443]:
+                          - generic [ref=f499e444]: 1 of 10
+                          - generic [ref=f499e445]: 10 slides
+                  - paragraph [ref=f499e448]:
+                    - link "Green Hand Drawn Mountain Illustration Presentation" [ref=f499e449] [cursor=pointer]:
+                      - /url: /templates/EAGquBAouWw-green-hand-drawn-mountain-illustration-presentation/
+                - generic [ref=f499e452]:
+                  - group [ref=f499e454]:
+                    - link "Preview free Light Blue Playful Hand Drawn Doodle Illustration Bookmark template" [ref=f499e458] [cursor=pointer]:
+                      - /url: /templates/EAFaAuuJR9o-light-blue-playful-hand-drawn-doodle-illustration-bookmark/
+                      - img "Light Blue Playful Hand Drawn Doodle Illustration Bookmark" [ref=f499e462]
+                  - paragraph [ref=f499e465]:
+                    - link "Light Blue Playful Hand Drawn Doodle Illustration Bookmark" [ref=f499e466] [cursor=pointer]:
+                      - /url: /templates/EAFaAuuJR9o-light-blue-playful-hand-drawn-doodle-illustration-bookmark/
+                - generic [ref=f499e469]:
+                  - group [ref=f499e471]:
+                    - link "Preview free Exploring Cells in Detail Education Presentation in Hand Drawn Lightly Textured Style template" [ref=f499e475] [cursor=pointer]:
+                      - /url: /templates/EAGQorlJO58-exploring-cells-in-detail-education-presentation-in-hand-drawn-lightly-textured-style/
+                      - generic "Exploring Cells in Detail Education Presentation in Hand Drawn Lightly Textured Style" [ref=f499e480]
+                    - button "Play" [ref=f499e484] [cursor=pointer]
+                  - paragraph [ref=f499e488]:
+                    - link "Exploring Cells in Detail Education Presentation in Hand Drawn Lightly Textured Style" [ref=f499e489] [cursor=pointer]:
+                      - /url: /templates/EAGQorlJO58-exploring-cells-in-detail-education-presentation-in-hand-drawn-lightly-textured-style/
+              - generic [ref=f499e490]:
+                - generic [ref=f499e493]:
+                  - group [ref=f499e495]:
+                    - link "Preview free Green and Pink Doodle Hand drawn Science Project Presentation template, 19 pages" [ref=f499e499] [cursor=pointer]:
+                      - /url: /templates/EAFP4ZN2I78-green-and-pink-doodle-hand-drawn-science-project-presentation/
+                      - generic [ref=f499e501]:
+                        - img "Green and Pink Doodle Hand drawn Science Project Presentation" [ref=f499e506]
+                        - generic [ref=f499e509]:
+                          - generic [ref=f499e510]: 1 of 19
+                          - generic [ref=f499e511]: 19 slides
+                  - paragraph [ref=f499e514]:
+                    - link "Green and Pink Doodle Hand drawn Science Project Presentation" [ref=f499e515] [cursor=pointer]:
+                      - /url: /templates/EAFP4ZN2I78-green-and-pink-doodle-hand-drawn-science-project-presentation/
+                - generic [ref=f499e518]:
+                  - group [ref=f499e520]:
+                    - link "Preview free Yellow and Black Hand Drawn Creative Project Presentation template, 15 pages" [ref=f499e524] [cursor=pointer]:
+                      - /url: /templates/EAG9wSuZgS0-yellow-and-black-hand-drawn-creative-project-presentation/
+                      - generic [ref=f499e526]:
+                        - img "Yellow and Black Hand Drawn Creative Project Presentation" [ref=f499e531]
+                        - generic [ref=f499e534]:
+                          - generic [ref=f499e535]: 1 of 15
+                          - generic [ref=f499e536]: 15 slides
+                  - paragraph [ref=f499e539]:
+                    - link "Yellow and Black Hand Drawn Creative Project Presentation" [ref=f499e540] [cursor=pointer]:
+                      - /url: /templates/EAG9wSuZgS0-yellow-and-black-hand-drawn-creative-project-presentation/
+                - generic [ref=f499e543]:
+                  - group [ref=f499e545]:
+                    - link "Preview free Effective Oral and Multimodal Presentations Education Presentation in Yellow Brown Friendly Hand Drawn Style template" [ref=f499e549] [cursor=pointer]:
+                      - /url: /templates/EAF5-siXHfM-effective-oral-and-multimodal-presentations-education-presentation-in-yellow-brown-friendly-hand-drawn-style/
+                      - generic "Effective Oral and Multimodal Presentations Education Presentation in Yellow Brown Friendly Hand Drawn Style" [ref=f499e554]
+                    - button "Play" [ref=f499e558] [cursor=pointer]
+                  - paragraph [ref=f499e562]:
+                    - link "Effective Oral and Multimodal Presentations Education Presentation in Yellow Brown Friendly Hand Drawn Style" [ref=f499e563] [cursor=pointer]:
+                      - /url: /templates/EAF5-siXHfM-effective-oral-and-multimodal-presentations-education-presentation-in-yellow-brown-friendly-hand-drawn-style/
+                - generic [ref=f499e566]:
+                  - group [ref=f499e568]:
+                    - link "Preview free Yellow Hand Drawn Retro Illustrated Graphic Design Portfolio Presentation template, 14 pages" [ref=f499e572] [cursor=pointer]:
+                      - /url: /templates/EAGz2I-OI_w-yellow-hand-drawn-retro-illustrated-graphic-design-portfolio-presentation/
+                      - generic [ref=f499e574]:
+                        - img "Yellow Hand Drawn Retro Illustrated Graphic Design Portfolio Presentation" [ref=f499e580]
+                        - generic [ref=f499e583]:
+                          - generic [ref=f499e584]: 1 of 14
+                          - generic [ref=f499e585]: 14 slides
+                  - paragraph [ref=f499e588]:
+                    - link "Yellow Hand Drawn Retro Illustrated Graphic Design Portfolio Presentation" [ref=f499e589] [cursor=pointer]:
+                      - /url: /templates/EAGz2I-OI_w-yellow-hand-drawn-retro-illustrated-graphic-design-portfolio-presentation/
+                - generic [ref=f499e592]:
+                  - group [ref=f499e594]:
+                    - link "Preview free Beige Cute Hand Drawn Sketchy Doodle Flower Group Project Presentation template, 11 pages" [ref=f499e598] [cursor=pointer]:
+                      - /url: /templates/EAHHwnoxSfM-beige-cute-hand-drawn-sketchy-doodle-flower-group-project-presentation/
+                      - generic [ref=f499e600]:
+                        - img "Beige Cute Hand Drawn Sketchy Doodle Flower Group Project Presentation" [ref=f499e606]
+                        - generic [ref=f499e609]:
+                          - generic [ref=f499e610]: 1 of 11
+                          - generic [ref=f499e611]: 11 slides
+                  - paragraph [ref=f499e614]:
+                    - link "Beige Cute Hand Drawn Sketchy Doodle Flower Group Project Presentation" [ref=f499e615] [cursor=pointer]:
+                      - /url: /templates/EAHHwnoxSfM-beige-cute-hand-drawn-sketchy-doodle-flower-group-project-presentation/
+                - generic [ref=f499e618]:
+                  - group [ref=f499e620]:
+                    - link "Preview free Red Orange and Yellow Textured Hand Drawn Group Project Presentation template, 9 pages" [ref=f499e624] [cursor=pointer]:
+                      - /url: /templates/EAGD4nKfcGE-red-orange-and-yellow-textured-hand-drawn-group-project-presentation/
+                      - generic [ref=f499e626]:
+                        - img "Red Orange and Yellow Textured Hand Drawn Group Project Presentation" [ref=f499e632]
+                        - generic [ref=f499e635]:
+                          - generic [ref=f499e636]: 1 of 9
+                          - generic [ref=f499e637]: 9 slides
+                  - paragraph [ref=f499e640]:
+                    - link "Red Orange and Yellow Textured Hand Drawn Group Project Presentation" [ref=f499e641] [cursor=pointer]:
+                      - /url: /templates/EAGD4nKfcGE-red-orange-and-yellow-textured-hand-drawn-group-project-presentation/
+                - generic [ref=f499e644]:
+                  - group [ref=f499e646]:
+                    - link "Preview free Reading a Map Education Presentation in Blue Green Brown Hand Drawn Style template" [ref=f499e650] [cursor=pointer]:
+                      - /url: /templates/EAGcMjsvwHw-reading-a-map-education-presentation-in-blue-green-brown-hand-drawn-style/
+                      - generic "Reading a Map Education Presentation in Blue Green Brown Hand Drawn Style" [ref=f499e655]
+                    - button "Play" [ref=f499e659] [cursor=pointer]
+                  - paragraph [ref=f499e663]:
+                    - link "Reading a Map Education Presentation in Blue Green Brown Hand Drawn Style" [ref=f499e664] [cursor=pointer]:
+                      - /url: /templates/EAGcMjsvwHw-reading-a-map-education-presentation-in-blue-green-brown-hand-drawn-style/
+                - generic [ref=f499e667]:
+                  - group [ref=f499e669]:
+                    - link "Preview free Multicolor Doodle Research Project Education Presentation template, 10 pages" [ref=f499e673] [cursor=pointer]:
+                      - /url: /templates/EAHNvNcdPqI-multicolor-doodle-research-project-education-presentation/
+                      - generic [ref=f499e675]:
+                        - img "Multicolor Doodle Research Project Education Presentation" [ref=f499e681]
+                        - generic [ref=f499e684]:
+                          - generic [ref=f499e685]: 1 of 10
+                          - generic [ref=f499e686]: 10 slides
+                  - paragraph [ref=f499e689]:
+                    - link "Multicolor Doodle Research Project Education Presentation" [ref=f499e690] [cursor=pointer]:
+                      - /url: /templates/EAHNvNcdPqI-multicolor-doodle-research-project-education-presentation/
+                - generic [ref=f499e693]:
+                  - group [ref=f499e695]:
+                    - link "Preview free Colorful Hand Drawn Doodle Illustration Bookmark template" [ref=f499e699] [cursor=pointer]:
+                      - /url: /templates/EAFdSm9mcvk-colorful-hand-drawn-doodle-illustration-bookmark/
+                      - img "Colorful Hand Drawn Doodle Illustration Bookmark" [ref=f499e703]
+                  - paragraph [ref=f499e706]:
+                    - link "Colorful Hand Drawn Doodle Illustration Bookmark" [ref=f499e707] [cursor=pointer]:
+                      - /url: /templates/EAFdSm9mcvk-colorful-hand-drawn-doodle-illustration-bookmark/
+                - generic [ref=f499e710]:
+                  - group [ref=f499e712]:
+                    - link "Preview free white Creative doodle Graphics Presentation template, 11 pages" [ref=f499e716] [cursor=pointer]:
+                      - /url: /templates/EAG0ZeIxgko-white-creative-doodle-graphics-presentation/
+                      - generic [ref=f499e718]:
+                        - img "white Creative doodle Graphics Presentation" [ref=f499e724]
+                        - generic [ref=f499e727]:
+                          - generic [ref=f499e728]: 1 of 11
+                          - generic [ref=f499e729]: 11 slides
+                  - paragraph [ref=f499e732]:
+                    - link "white Creative doodle Graphics Presentation" [ref=f499e733] [cursor=pointer]:
+                      - /url: /templates/EAG0ZeIxgko-white-creative-doodle-graphics-presentation/
+                - generic [ref=f499e736]:
+                  - group [ref=f499e738]:
+                    - link "Preview free Oceans and Continents Education Presentation in a Blue Hand Drawn Style template, 17 pages" [ref=f499e742] [cursor=pointer]:
+                      - /url: /templates/EAE6cfZ_h20-oceans-and-continents-education-presentation-in-a-blue-hand-drawn-style/
+                      - generic [ref=f499e744]:
+                        - img "Oceans and Continents Education Presentation in a Blue Hand Drawn Style" [ref=f499e750]
+                        - generic [ref=f499e753]:
+                          - generic [ref=f499e754]: 1 of 17
+                          - generic [ref=f499e755]: 17 slides
+                  - paragraph [ref=f499e758]:
+                    - link "Oceans and Continents Education Presentation in a Blue Hand Drawn Style" [ref=f499e759] [cursor=pointer]:
+                      - /url: /templates/EAE6cfZ_h20-oceans-and-continents-education-presentation-in-a-blue-hand-drawn-style/
+                - generic [ref=f499e762]:
+                  - group [ref=f499e764]:
+                    - link "Preview free Forms of Poetry Education Presentation in Blue Yellow Bold Hand Drawn Style Style template" [ref=f499e768] [cursor=pointer]:
+                      - /url: /templates/EAGgWjUnqes-forms-of-poetry-education-presentation-in-blue-yellow-bold-hand-drawn-style-style/
+                      - generic "Forms of Poetry Education Presentation in Blue Yellow Bold Hand Drawn Style Style" [ref=f499e773]
+                    - button "Play" [ref=f499e777] [cursor=pointer]
+                  - paragraph [ref=f499e781]:
+                    - link "Forms of Poetry Education Presentation in Blue Yellow Bold Hand Drawn Style Style" [ref=f499e782] [cursor=pointer]:
+                      - /url: /templates/EAGgWjUnqes-forms-of-poetry-education-presentation-in-blue-yellow-bold-hand-drawn-style-style/
+                - generic [ref=f499e785]:
+                  - group [ref=f499e787]:
+                    - link "Preview free Installation Art Education Presentation in Grey Green Hand Drawn Textured Style template" [ref=f499e791] [cursor=pointer]:
+                      - /url: /templates/EAGKa1epZyU-installation-art-education-presentation-in-grey-green-hand-drawn-textured-style/
+                      - generic "Installation Art Education Presentation in Grey Green Hand Drawn Textured Style" [ref=f499e796]
+                    - button "Play" [ref=f499e800] [cursor=pointer]
+                  - paragraph [ref=f499e804]:
+                    - link "Installation Art Education Presentation in Grey Green Hand Drawn Textured Style" [ref=f499e805] [cursor=pointer]:
+                      - /url: /templates/EAGKa1epZyU-installation-art-education-presentation-in-grey-green-hand-drawn-textured-style/
+                - generic [ref=f499e808]:
+                  - group [ref=f499e810]:
+                    - link "Preview free Education Presentation Zones of Regulation in Cream Yellow Orange Hand Drawn Style template" [ref=f499e814] [cursor=pointer]:
+                      - /url: /templates/EAHENtlIybI-education-presentation-zones-of-regulation-in-cream-yellow-orange-hand-drawn-style/
+                      - generic "Education Presentation Zones of Regulation in Cream Yellow Orange Hand Drawn Style" [ref=f499e819]
+                    - button "Play" [ref=f499e823] [cursor=pointer]
+                  - paragraph [ref=f499e827]:
+                    - link "Education Presentation Zones of Regulation in Cream Yellow Orange Hand Drawn Style" [ref=f499e828] [cursor=pointer]:
+                      - /url: /templates/EAHENtlIybI-education-presentation-zones-of-regulation-in-cream-yellow-orange-hand-drawn-style/
+                - generic [ref=f499e831]:
+                  - group [ref=f499e833]:
+                    - link "Preview free What are Fossils? Education Presentation in Hand Drawn Lightly Textured Style template" [ref=f499e837] [cursor=pointer]:
+                      - /url: /templates/EAGQuv2wXiE-what-are-fossils-education-presentation-in-hand-drawn-lightly-textured-style/
+                      - generic "What are Fossils? Education Presentation in Hand Drawn Lightly Textured Style" [ref=f499e842]
+                    - button "Play" [ref=f499e846] [cursor=pointer]
+                  - paragraph [ref=f499e850]:
+                    - link "What are Fossils? Education Presentation in Hand Drawn Lightly Textured Style" [ref=f499e851] [cursor=pointer]:
+                      - /url: /templates/EAGQuv2wXiE-what-are-fossils-education-presentation-in-hand-drawn-lightly-textured-style/
+                - generic [ref=f499e854]:
+                  - group [ref=f499e856]:
+                    - link "Preview free Colorful Hand Drawn Decorative Presentation template, 10 pages" [ref=f499e860] [cursor=pointer]:
+                      - /url: /templates/EAGkVXoHRDE-colorful-hand-drawn-decorative-presentation/
+                      - generic [ref=f499e862]:
+                        - img "Colorful Hand Drawn Decorative Presentation" [ref=f499e868]
+                        - generic [ref=f499e871]:
+                          - generic [ref=f499e872]: 1 of 10
+                          - generic [ref=f499e873]: 10 slides
+                  - paragraph [ref=f499e876]:
+                    - link "Colorful Hand Drawn Decorative Presentation" [ref=f499e877] [cursor=pointer]:
+                      - /url: /templates/EAGkVXoHRDE-colorful-hand-drawn-decorative-presentation/
+                - generic [ref=f499e880]:
+                  - group [ref=f499e882]:
+                    - link "Preview free White Red Blue Hand-drawn Education Website template" [ref=f499e886] [cursor=pointer]:
+                      - /url: /templates/EAE_DUA4M5g-white-red-blue-hand-drawn-education-website/
+                      - img "White Red Blue Hand-drawn Education Website" [ref=f499e890]
+                  - paragraph [ref=f499e893]:
+                    - link "White Red Blue Hand-drawn Education Website" [ref=f499e894] [cursor=pointer]:
+                      - /url: /templates/EAE_DUA4M5g-white-red-blue-hand-drawn-education-website/
+              - generic [ref=f499e895]:
+                - generic [ref=f499e898]:
+                  - group [ref=f499e900]:
+                    - link "Preview free Pink and Green Doodle Hand drawn Science Project Presentation template, 19 pages" [ref=f499e904] [cursor=pointer]:
+                      - /url: /templates/EAFQH0-WIGA-pink-and-green-doodle-hand-drawn-science-project-presentation/
+                      - generic [ref=f499e906]:
+                        - img "Pink and Green Doodle Hand drawn Science Project Presentation" [ref=f499e911]
+                        - generic [ref=f499e914]:
+                          - generic [ref=f499e915]: 1 of 19
+                          - generic [ref=f499e916]: 19 slides
+                  - paragraph [ref=f499e919]:
+                    - link "Pink and Green Doodle Hand drawn Science Project Presentation" [ref=f499e920] [cursor=pointer]:
+                      - /url: /templates/EAFQH0-WIGA-pink-and-green-doodle-hand-drawn-science-project-presentation/
+                - generic [ref=f499e923]:
+                  - group [ref=f499e925]:
+                    - link "Preview free Pink Pastel Cute Sticker Animal Hand Drawn Presentation template, 10 pages" [ref=f499e929] [cursor=pointer]:
+                      - /url: /templates/EAHDLI653C4-pink-pastel-cute-sticker-animal-hand-drawn-presentation/
+                      - generic [ref=f499e931]:
+                        - img "Pink Pastel Cute Sticker Animal Hand Drawn Presentation" [ref=f499e937]
+                        - generic [ref=f499e940]:
+                          - generic [ref=f499e941]: 1 of 10
+                          - generic [ref=f499e942]: 10 slides
+                  - paragraph [ref=f499e945]:
+                    - link "Pink Pastel Cute Sticker Animal Hand Drawn Presentation" [ref=f499e946] [cursor=pointer]:
+                      - /url: /templates/EAHDLI653C4-pink-pastel-cute-sticker-animal-hand-drawn-presentation/
+                - generic [ref=f499e949]:
+                  - group [ref=f499e951]:
+                    - link "Preview free Education Website in Beige Purple Orange Hand-drawn Style template" [ref=f499e955] [cursor=pointer]:
+                      - /url: /templates/EAE_DLpBx8Y-education-website-in-beige-purple-orange-hand-drawn-style/
+                      - generic "Education Website in Beige Purple Orange Hand-drawn Style" [ref=f499e960]
+                    - button "Play" [ref=f499e964] [cursor=pointer]
+                  - paragraph [ref=f499e968]:
+                    - link "Education Website in Beige Purple Orange Hand-drawn Style" [ref=f499e969] [cursor=pointer]:
+                      - /url: /templates/EAE_DLpBx8Y-education-website-in-beige-purple-orange-hand-drawn-style/
+                - generic [ref=f499e972]:
+                  - group [ref=f499e974]:
+                    - link "Preview free Yellow and Blue Modern Mental Health Education Hand Drawn Style Presentation template" [ref=f499e978] [cursor=pointer]:
+                      - /url: /templates/EAFfPkSKHUY-yellow-and-blue-modern-mental-health-education-hand-drawn-style-presentation/
+                      - generic "Yellow and Blue Modern Mental Health Education Hand Drawn Style Presentation" [ref=f499e983]
+                    - button "Play" [ref=f499e987] [cursor=pointer]
+                  - paragraph [ref=f499e991]:
+                    - link "Yellow and Blue Modern Mental Health Education Hand Drawn Style Presentation" [ref=f499e992] [cursor=pointer]:
+                      - /url: /templates/EAFfPkSKHUY-yellow-and-blue-modern-mental-health-education-hand-drawn-style-presentation/
+                - generic [ref=f499e995]:
+                  - group [ref=f499e997]:
+                    - link "Preview free White Hand-drawn Doodle Creative Mind Map Brainstorm template" [ref=f499e1001] [cursor=pointer]:
+                      - /url: /templates/EAGBWS6rm70-white-hand-drawn-doodle-creative-mind-map-brainstorm/
+                      - img "White Hand-drawn Doodle Creative Mind Map Brainstorm" [ref=f499e1005]
+                  - paragraph [ref=f499e1008]:
+                    - link "White Hand-drawn Doodle Creative Mind Map Brainstorm" [ref=f499e1009] [cursor=pointer]:
+                      - /url: /templates/EAGBWS6rm70-white-hand-drawn-doodle-creative-mind-map-brainstorm/
+                - generic [ref=f499e1012]:
+                  - group [ref=f499e1014]:
+                    - link "Preview free Folder Labels in Colorful Hand Drawn Style template" [ref=f499e1018] [cursor=pointer]:
+                      - /url: /templates/EAFwwSyRDno-folder-labels-in-colorful-hand-drawn-style/
+                      - img "Folder Labels in Colorful Hand Drawn Style" [ref=f499e1022]
+                  - paragraph [ref=f499e1025]:
+                    - link "Folder Labels in Colorful Hand Drawn Style" [ref=f499e1026] [cursor=pointer]:
+                      - /url: /templates/EAFwwSyRDno-folder-labels-in-colorful-hand-drawn-style/
+                - generic [ref=f499e1029]:
+                  - group [ref=f499e1031]:
+                    - link "Preview free Class Agenda Presentation in Brown and Green Hand Drawn Illustrative Style template, 11 pages" [ref=f499e1035] [cursor=pointer]:
+                      - /url: /templates/EAFrkmSlSkc-class-agenda-presentation-in-brown-and-green-hand-drawn-illustrative-style/
+                      - generic [ref=f499e1037]:
+                        - img "Class Agenda Presentation in Brown and Green Hand Drawn Illustrative Style" [ref=f499e1043]
+                        - generic [ref=f499e1046]:
+                          - generic [ref=f499e1047]: 1 of 11
+                          - generic [ref=f499e1048]: 11 slides
+                  - paragraph [ref=f499e1051]:
+                    - link "Class Agenda Presentation in Brown and Green Hand Drawn Illustrative Style" [ref=f499e1052] [cursor=pointer]:
+                      - /url: /templates/EAFrkmSlSkc-class-agenda-presentation-in-brown-and-green-hand-drawn-illustrative-style/
+                - generic [ref=f499e1055]:
+                  - group [ref=f499e1057]:
+                    - link "Preview free Feelings Check-In Education Presentation in Cream Blue Black Hand Drawn Style template" [ref=f499e1061] [cursor=pointer]:
+                      - /url: /templates/EAGVeU7Xhwk-feelings-check-in-education-presentation-in-cream-blue-black-hand-drawn-style/
+                      - generic "Feelings Check-In Education Presentation in Cream Blue Black Hand Drawn Style" [ref=f499e1066]
+                    - button "Play" [ref=f499e1070] [cursor=pointer]
+                  - paragraph [ref=f499e1074]:
+                    - link "Feelings Check-In Education Presentation in Cream Blue Black Hand Drawn Style" [ref=f499e1075] [cursor=pointer]:
+                      - /url: /templates/EAGVeU7Xhwk-feelings-check-in-education-presentation-in-cream-blue-black-hand-drawn-style/
+                - generic [ref=f499e1078]:
+                  - group [ref=f499e1080]:
+                    - link "Preview free Algebraic Notation Multiplying Terms Presentation in Colourful Hand drawn Style template, 11 pages" [ref=f499e1084] [cursor=pointer]:
+                      - /url: /templates/EAGAmh1PN2A-algebraic-notation-multiplying-terms-presentation-in-colourful-hand-drawn-style/
+                      - generic [ref=f499e1086]:
+                        - img "Algebraic Notation Multiplying Terms Presentation in Colourful Hand drawn Style" [ref=f499e1092]
+                        - generic [ref=f499e1095]:
+                          - generic [ref=f499e1096]: 1 of 11
+                          - generic [ref=f499e1097]: 11 slides
+                  - paragraph [ref=f499e1100]:
+                    - link "Algebraic Notation Multiplying Terms Presentation in Colourful Hand drawn Style" [ref=f499e1101] [cursor=pointer]:
+                      - /url: /templates/EAGAmh1PN2A-algebraic-notation-multiplying-terms-presentation-in-colourful-hand-drawn-style/
+                - generic [ref=f499e1104]:
+                  - group [ref=f499e1106]:
+                    - link "Preview free Beige and Pink Hand Drawn English Wh- Questions Brainstorm template" [ref=f499e1110] [cursor=pointer]:
+                      - /url: /templates/EAFL35AbpAI-beige-and-pink-hand-drawn-english-wh-questions-brainstorm/
+                      - img "Beige and Pink Hand Drawn English Wh- Questions Brainstorm" [ref=f499e1114]
+                  - paragraph [ref=f499e1117]:
+                    - link "Beige and Pink Hand Drawn English Wh- Questions Brainstorm" [ref=f499e1118] [cursor=pointer]:
+                      - /url: /templates/EAFL35AbpAI-beige-and-pink-hand-drawn-english-wh-questions-brainstorm/
+                - generic [ref=f499e1121]:
+                  - group [ref=f499e1123]:
+                    - link "Preview free The Circulatory System Education Presentation in Hand Drawn Lightly Textured Style template" [ref=f499e1127] [cursor=pointer]:
+                      - /url: /templates/EAGQtQGoIDs-the-circulatory-system-education-presentation-in-hand-drawn-lightly-textured-style/
+                      - generic "The Circulatory System Education Presentation in Hand Drawn Lightly Textured Style" [ref=f499e1132]
+                    - button "Play" [ref=f499e1136] [cursor=pointer]
+                  - paragraph [ref=f499e1140]:
+                    - link "The Circulatory System Education Presentation in Hand Drawn Lightly Textured Style" [ref=f499e1141] [cursor=pointer]:
+                      - /url: /templates/EAGQtQGoIDs-the-circulatory-system-education-presentation-in-hand-drawn-lightly-textured-style/
+                - generic [ref=f499e1144]:
+                  - group [ref=f499e1146]:
+                    - link "Preview free Blue Illustrative Beautiful Hand Drawn Project Presentation template, 10 pages" [ref=f499e1150] [cursor=pointer]:
+                      - /url: /templates/EAGL0ihANTw-blue-illustrative-beautiful-hand-drawn-project-presentation/
+                      - generic [ref=f499e1152]:
+                        - img "Blue Illustrative Beautiful Hand Drawn Project Presentation" [ref=f499e1158]
+                        - generic [ref=f499e1161]:
+                          - generic [ref=f499e1162]: 1 of 10
+                          - generic [ref=f499e1163]: 10 slides
+                  - paragraph [ref=f499e1166]:
+                    - link "Blue Illustrative Beautiful Hand Drawn Project Presentation" [ref=f499e1167] [cursor=pointer]:
+                      - /url: /templates/EAGL0ihANTw-blue-illustrative-beautiful-hand-drawn-project-presentation/
+                - generic [ref=f499e1170]:
+                  - group [ref=f499e1172]:
+                    - link "Preview free The Writing Process Education Presentation in Bold Hand Drawn Style template" [ref=f499e1176] [cursor=pointer]:
+                      - /url: /templates/EAGqTqU4jc0-the-writing-process-education-presentation-in-bold-hand-drawn-style/
+                      - generic "The Writing Process Education Presentation in Bold Hand Drawn Style" [ref=f499e1181]
+                    - button "Play" [ref=f499e1185] [cursor=pointer]
+                  - paragraph [ref=f499e1189]:
+                    - link "The Writing Process Education Presentation in Bold Hand Drawn Style" [ref=f499e1190] [cursor=pointer]:
+                      - /url: /templates/EAGqTqU4jc0-the-writing-process-education-presentation-in-bold-hand-drawn-style/
+                - generic [ref=f499e1193]:
+                  - group [ref=f499e1195]:
+                    - link "Preview free Using Consistent Tense Presentation in Blue Illustrative Hand Drawn Style template, 20 pages" [ref=f499e1199] [cursor=pointer]:
+                      - /url: /templates/EAHGgpcSpVs-using-consistent-tense-presentation-in-blue-illustrative-hand-drawn-style/
+                      - generic [ref=f499e1201]:
+                        - img "Using Consistent Tense Presentation in Blue Illustrative Hand Drawn Style" [ref=f499e1207]
+                        - generic [ref=f499e1210]:
+                          - generic [ref=f499e1211]: 1 of 20
+                          - generic [ref=f499e1212]: 20 slides
+                  - paragraph [ref=f499e1215]:
+                    - link "Using Consistent Tense Presentation in Blue Illustrative Hand Drawn Style" [ref=f499e1216] [cursor=pointer]:
+                      - /url: /templates/EAHGgpcSpVs-using-consistent-tense-presentation-in-blue-illustrative-hand-drawn-style/
+                - generic [ref=f499e1219]:
+                  - group [ref=f499e1221]:
+                    - link "Preview free Classifying Organisms Education Presentation in Yellow Green Cream Hand Drawn Style template" [ref=f499e1225] [cursor=pointer]:
+                      - /url: /templates/EAGRmK2zSuQ-classifying-organisms-education-presentation-in-yellow-green-cream-hand-drawn-style/
+                      - generic "Classifying Organisms Education Presentation in Yellow Green Cream Hand Drawn Style" [ref=f499e1230]
+                    - button "Play" [ref=f499e1234] [cursor=pointer]
+                  - paragraph [ref=f499e1238]:
+                    - link "Classifying Organisms Education Presentation in Yellow Green Cream Hand Drawn Style" [ref=f499e1239] [cursor=pointer]:
+                      - /url: /templates/EAGRmK2zSuQ-classifying-organisms-education-presentation-in-yellow-green-cream-hand-drawn-style/
+                - generic [ref=f499e1242]:
+                  - group [ref=f499e1244]:
+                    - link "Preview free Carbon Cycle Science Quiz Presentation Green Hand Drawn Style template, 11 pages" [ref=f499e1248] [cursor=pointer]:
+                      - /url: /templates/EAHDa-4kgQA-carbon-cycle-science-quiz-presentation-green-hand-drawn-style/
+                      - generic [ref=f499e1250]:
+                        - img "Carbon Cycle Science Quiz Presentation Green Hand Drawn Style" [ref=f499e1256]
+                        - generic [ref=f499e1259]:
+                          - generic [ref=f499e1260]: 1 of 11
+                          - generic [ref=f499e1261]: 11 slides
+                  - paragraph [ref=f499e1264]:
+                    - link "Carbon Cycle Science Quiz Presentation Green Hand Drawn Style" [ref=f499e1265] [cursor=pointer]:
+                      - /url: /templates/EAHDa-4kgQA-carbon-cycle-science-quiz-presentation-green-hand-drawn-style/
+                - generic [ref=f499e1268]:
+                  - group [ref=f499e1270]:
+                    - link "Preview free Exploring Creation Myths Education Presentation in Green Blue Friendly Hand Drawn Style template" [ref=f499e1274] [cursor=pointer]:
+                      - /url: /templates/EAF3Svgw1pY-exploring-creation-myths-education-presentation-in-green-blue-friendly-hand-drawn-style/
+                      - generic "Exploring Creation Myths Education Presentation in Green Blue Friendly Hand Drawn Style" [ref=f499e1279]
+                    - button "Play" [ref=f499e1283] [cursor=pointer]
+                  - paragraph [ref=f499e1287]:
+                    - link "Exploring Creation Myths Education Presentation in Green Blue Friendly Hand Drawn Style" [ref=f499e1288] [cursor=pointer]:
+                      - /url: /templates/EAF3Svgw1pY-exploring-creation-myths-education-presentation-in-green-blue-friendly-hand-drawn-style/
+                - generic [ref=f499e1292]:
+                  - paragraph [ref=f499e1294]: Related searches
+                  - separator [ref=f499e1295]
+                  - list [ref=f499e1296]:
+                    - listitem [ref=f499e1297]:
+                      - link "education presentation" [ref=f499e1298] [cursor=pointer]:
+                        - /url: /templates/?query=education%20presentation
+                    - listitem [ref=f499e1302]:
+                      - link "doodle" [ref=f499e1303] [cursor=pointer]:
+                        - /url: /templates/s/doodle/
+                    - listitem [ref=f499e1307]:
+                      - link "teaching presentation" [ref=f499e1308] [cursor=pointer]:
+                        - /url: /templates/?query=teaching%20presentation
+            - generic [ref=f499e1313]:
+              - paragraph [ref=f499e1314]: Showing 50 of 20,000
+              - progressbar "Showing 50 of 20,000" [ref=f499e1316]
+              - button "Show More" [ref=f499e1321] [cursor=pointer]
+        - generic [ref=f499e1328]:
+          - heading "Explore more" [level=2] [ref=f499e1330]
+          - generic [ref=f499e1336]:
+            - link [ref=f499e1338] [cursor=pointer]:
+              - /url: /docs/templates/
+              - paragraph [ref=f499e1340]: Docs
+            - link [ref=f499e1342] [cursor=pointer]:
+              - /url: /online-whiteboard/templates/
+              - paragraph [ref=f499e1344]: Whiteboard
+            - link [ref=f499e1346] [cursor=pointer]:
+              - /url: /presentations/templates/
+              - paragraph [ref=f499e1348]: Presentations
+            - link [ref=f499e1350] [cursor=pointer]:
+              - /url: /posters/templates/
+              - paragraph [ref=f499e1352]: Poster
+            - link [ref=f499e1354] [cursor=pointer]:
+              - /url: /logos/templates/
+              - paragraph [ref=f499e1356]: Logos
+            - link [ref=f499e1358] [cursor=pointer]:
+              - /url: /video-editor/templates/
+              - paragraph [ref=f499e1360]: Landscape Videos
+            - link [ref=f499e1362] [cursor=pointer]:
+              - /url: /flyers/templates/
+              - paragraph [ref=f499e1364]: Flyer
+            - link [ref=f499e1366] [cursor=pointer]:
+              - /url: /cards/templates/
+              - paragraph [ref=f499e1368]: Card
+            - link [ref=f499e1370] [cursor=pointer]:
+              - /url: /zoom-virtual-backgrounds/templates/
+              - paragraph [ref=f499e1372]: Virtual Backgrounds
+            - link [ref=f499e1374] [cursor=pointer]:
+              - /url: /infographics/templates/
+              - paragraph [ref=f499e1376]: Infographics
+            - button "Show All" [ref=f499e1379] [cursor=pointer]
+    - generic [ref=f499e1381]:
+      - paragraph [ref=f499e1383]:
+        - link "Skip to end of footer" [ref=f499e1384] [cursor=pointer]:
+          - /url: "#_r_5_"
+      - contentinfo [ref=f499e1386]:
+        - generic [ref=f499e1388]:
+          - generic [ref=f499e1395]:
+            - generic [ref=f499e1398]:
+              - heading "Download Canva for free" [level=2] [ref=f499e1400]
+              - generic [ref=f499e1403]:
+                - link "Windows" [ref=f499e1405] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/windows/
+                - link "Mac" [ref=f499e1408] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/mac/
+            - navigation [ref=f499e1412]:
+              - list [ref=f499e1414]:
+                - listitem [ref=f499e1415]:
+                  - heading "Product" [level=2] [ref=f499e1417]
+                  - list "Product" [ref=f499e1419]:
+                    - listitem [ref=f499e1420]:
+                      - link "Latest launches" [ref=f499e1421] [cursor=pointer]:
+                        - /url: https://www.canva.com/launches/
+                    - listitem [ref=f499e1423]:
+                      - link "Visual Suite" [ref=f499e1424] [cursor=pointer]:
+                        - /url: https://www.canva.com/visual-suite/
+                    - listitem [ref=f499e1426]:
+                      - link "Canva AI" [ref=f499e1427] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-ai/
+                    - listitem [ref=f499e1429]:
+                      - link "Brand management" [ref=f499e1430] [cursor=pointer]:
+                        - /url: https://www.canva.com/solutions/brand-management-tools/
+                    - listitem [ref=f499e1432]:
+                      - link "Social media" [ref=f499e1433] [cursor=pointer]:
+                        - /url: https://www.canva.com/social-media/
+                    - listitem [ref=f499e1435]:
+                      - link "Features" [ref=f499e1436] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/
+                    - listitem [ref=f499e1438]:
+                      - link "Print" [ref=f499e1439] [cursor=pointer]:
+                        - /url: https://www.canva.com/print/
+                    - listitem [ref=f499e1441]:
+                      - link "Apps Marketplace" [ref=f499e1442] [cursor=pointer]:
+                        - /url: https://www.canva.com/apps/
+                    - listitem [ref=f499e1444]:
+                      - link "Affinity" [ref=f499e1445] [cursor=pointer]:
+                        - /url: https://www.affinity.studio/
+                - listitem [ref=f499e1450]:
+                  - heading "Plans" [level=2] [ref=f499e1452]
+                  - list "Plans" [ref=f499e1454]:
+                    - listitem [ref=f499e1455]:
+                      - link "Pricing" [ref=f499e1456] [cursor=pointer]:
+                        - /url: https://www.canva.com/pricing/
+                    - listitem [ref=f499e1458]:
+                      - link "Pro" [ref=f499e1459] [cursor=pointer]:
+                        - /url: https://www.canva.com/pro/
+                    - listitem [ref=f499e1461]:
+                      - link "Business" [ref=f499e1462] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-business/
+                    - listitem [ref=f499e1464]:
+                      - link "Enterprise" [ref=f499e1465] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/
+                    - listitem [ref=f499e1467]:
+                      - link "Education" [ref=f499e1468] [cursor=pointer]:
+                        - /url: https://www.canva.com/education/
+                    - listitem [ref=f499e1470]:
+                      - link "Higher education" [ref=f499e1471] [cursor=pointer]:
+                        - /url: https://www.canva.com/for-campus/
+                    - listitem [ref=f499e1473]:
+                      - link "Nonprofits" [ref=f499e1474] [cursor=pointer]:
+                        - /url: https://www.canva.com/nonprofits/
+                    - listitem [ref=f499e1476]:
+                      - link "Contact Sales" [ref=f499e1477] [cursor=pointer]:
+                        - /url: https://www.canva.com/contact-sales/
+                - listitem [ref=f499e1479]:
+                  - heading "About" [level=2] [ref=f499e1481]
+                  - list "About" [ref=f499e1483]:
+                    - listitem [ref=f499e1484]:
+                      - link "About Canva" [ref=f499e1485] [cursor=pointer]:
+                        - /url: https://www.canva.com/about/
+                    - listitem [ref=f499e1487]:
+                      - link "Newsroom" [ref=f499e1488] [cursor=pointer]:
+                        - /url: https://www.canva.com/newsroom/news/
+                    - listitem [ref=f499e1490]:
+                      - link "Events" [ref=f499e1491] [cursor=pointer]:
+                        - /url: https://www.canva.com/events/
+                    - listitem [ref=f499e1493]:
+                      - link "Canva Originals" [ref=f499e1494] [cursor=pointer]:
+                        - /url: https://shop.canva.com/
+                    - listitem [ref=f499e1496]:
+                      - link "Careers" [ref=f499e1497] [cursor=pointer]:
+                        - /url: https://www.lifeatcanva.com/en
+                    - listitem [ref=f499e1502]:
+                      - link "Social impact" [ref=f499e1503] [cursor=pointer]:
+                        - /url: https://www.canva.com/step-two/
+                    - listitem [ref=f499e1505]:
+                      - link "Sustainability" [ref=f499e1506] [cursor=pointer]:
+                        - /url: https://www.canva.com/sustainability/
+                    - listitem [ref=f499e1508]:
+                      - link "Case studies" [ref=f499e1509] [cursor=pointer]:
+                        - /url: https://www.canva.com/case-studies/
+                - listitem [ref=f499e1511]:
+                  - heading "Community" [level=2] [ref=f499e1513]
+                  - list "Community" [ref=f499e1515]:
+                    - listitem [ref=f499e1516]:
+                      - link "Canva Communities" [ref=f499e1517] [cursor=pointer]:
+                        - /url: https://www.canva.com/community/
+                    - listitem [ref=f499e1519]:
+                      - link "Creators" [ref=f499e1520] [cursor=pointer]:
+                        - /url: https://www.canva.com/creators/
+                    - listitem [ref=f499e1522]:
+                      - link "Affiliates" [ref=f499e1523] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/canva-affiliate-marketing-program/
+                    - listitem [ref=f499e1525]:
+                      - link "Canva Represents Fund" [ref=f499e1526] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-represents/
+                    - listitem [ref=f499e1528]:
+                      - link "Content partners" [ref=f499e1529] [cursor=pointer]:
+                        - /url: https://www.canva.com/partners/content/
+                    - listitem [ref=f499e1531]:
+                      - link "Business partner directory" [ref=f499e1532] [cursor=pointer]:
+                        - /url: https://partners.canva.com/directory/
+                    - listitem [ref=f499e1534]:
+                      - link "Canva Developers" [ref=f499e1535] [cursor=pointer]:
+                        - /url: https://www.canva.com/developers/
+                - listitem [ref=f499e1540]:
+                  - heading "Inspiration" [level=2] [ref=f499e1542]
+                  - list "Inspiration" [ref=f499e1544]:
+                    - listitem [ref=f499e1545]:
+                      - link "Design Trends" [ref=f499e1546] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-trends/
+                    - listitem [ref=f499e1548]:
+                      - link "AI creativity podcast" [ref=f499e1549] [cursor=pointer]:
+                        - /url: https://promptedpodcast.com/
+                    - listitem [ref=f499e1554]:
+                      - link "Learn blog" [ref=f499e1555] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/
+                    - listitem [ref=f499e1557]:
+                      - link "Templates Marketplace" [ref=f499e1558] [cursor=pointer]:
+                        - /url: https://www.canva.com/templates/
+                    - listitem [ref=f499e1560]:
+                      - link "Font pairing" [ref=f499e1561] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+                    - listitem [ref=f499e1563]:
+                      - link "Color wheel" [ref=f499e1564] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-wheel/
+                    - listitem [ref=f499e1566]:
+                      - link "Colors" [ref=f499e1567] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/
+                    - listitem [ref=f499e1569]:
+                      - link "Color palette generator" [ref=f499e1570] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-palette-generator/
+                - listitem [ref=f499e1572]:
+                  - heading "Help" [level=2] [ref=f499e1574]
+                  - list "Help" [ref=f499e1576]:
+                    - listitem [ref=f499e1577]:
+                      - link "Help Center" [ref=f499e1578] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/
+                    - listitem [ref=f499e1580]:
+                      - link "Security" [ref=f499e1581] [cursor=pointer]:
+                        - /url: https://www.canva.com/security/
+                    - listitem [ref=f499e1583]:
+                      - link "Trust Center" [ref=f499e1584] [cursor=pointer]:
+                        - /url: https://www.canva.com/trust/
+                    - listitem [ref=f499e1586]:
+                      - link "Canva Safe AI" [ref=f499e1587] [cursor=pointer]:
+                        - /url: https://www.canva.com/safe-ai-canva-shield/
+                    - listitem [ref=f499e1589]:
+                      - link "Accessibility" [ref=f499e1590] [cursor=pointer]:
+                        - /url: https://www.canva.com/accessibility/
+                    - listitem [ref=f499e1592]:
+                      - link "Enterprise services" [ref=f499e1593] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/professional-services/
+                    - listitem [ref=f499e1595]:
+                      - link "Design School" [ref=f499e1596] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-school/
+                    - listitem [ref=f499e1601]:
+                      - link "Sitemap" [ref=f499e1602] [cursor=pointer]:
+                        - /url: https://www.canva.com/sitemap/
+                - listitem [ref=f499e1604]:
+                  - heading "Tools" [level=2] [ref=f499e1606]
+                  - list "Tools" [ref=f499e1608]:
+                    - listitem [ref=f499e1609]:
+                      - link "QR code generator" [ref=f499e1610] [cursor=pointer]:
+                        - /url: https://www.canva.com/qr-code-generator/
+                    - listitem [ref=f499e1612]:
+                      - link "AI logo generator" [ref=f499e1613] [cursor=pointer]:
+                        - /url: https://www.canva.com/ai-logo-generator/
+                    - listitem [ref=f499e1615]:
+                      - link "Signature generator" [ref=f499e1616] [cursor=pointer]:
+                        - /url: https://www.canva.com/signature-generator/
+                    - listitem [ref=f499e1618]:
+                      - link "Business name generator" [ref=f499e1619] [cursor=pointer]:
+                        - /url: https://www.canva.com/business-name-generator/
+                    - listitem [ref=f499e1621]:
+                      - link "PDF converter" [ref=f499e1622] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-converter/
+                    - listitem [ref=f499e1624]:
+                      - link "PDF to JPG converter" [ref=f499e1625] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-to-jpg-converter/
+                    - listitem [ref=f499e1627]:
+                      - link "JPG to PDF converter" [ref=f499e1628] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/jpg-to-pdf-converter/
+                    - listitem [ref=f499e1630]:
+                      - link "Graph maker" [ref=f499e1631] [cursor=pointer]:
+                        - /url: https://www.canva.com/graphs/
+          - generic [ref=f499e1635]:
+            - generic [ref=f499e1639]:
+              - button "English (US)" [ref=f499e1645] [cursor=pointer]
+              - generic [ref=f499e1651]:
+                - link "LinkedIn" [ref=f499e1653] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/canva
+                  - generic: (opens in a new tab or window)
+                - link "Instagram" [ref=f499e1657] [cursor=pointer]:
+                  - /url: https://www.instagram.com/canva/
+                  - generic: (opens in a new tab or window)
+                - link "Facebook" [ref=f499e1661] [cursor=pointer]:
+                  - /url: https://www.facebook.com/canva
+                  - generic: (opens in a new tab or window)
+                - link "TikTok" [ref=f499e1665] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@canva
+                  - generic: (opens in a new tab or window)
+                - link "Pinterest" [ref=f499e1669] [cursor=pointer]:
+                  - /url: https://au.pinterest.com/canva/
+                  - generic: (opens in a new tab or window)
+                - link "X" [ref=f499e1673] [cursor=pointer]:
+                  - /url: https://x.com/canva
+                  - generic: (opens in a new tab or window)
+                - link "YouTube" [ref=f499e1677] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@canva
+                  - generic: (opens in a new tab or window)
+            - generic [ref=f499e1682]:
+              - generic [ref=f499e1686]:
+                - link "Privacy" [ref=f499e1688] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/privacy-policy/
+                - link "Terms" [ref=f499e1692] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/terms-of-use/
+              - paragraph [ref=f499e1697]: © 2026 All Rights Reserved
+      - paragraph [ref=f499e1699]:
+        - link "Skip to start of footer" [ref=f499e1700] [cursor=pointer]:
+          - /url: "#_r_4_"
+  - generic [ref=f499e1702]: Search thousands of templates.
+  - generic [ref=f499e1703]: Show All
+  - generic [ref=f499e1704]: Clear

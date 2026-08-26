@@ -1,0 +1,66 @@
+- main [ref=f474e6]:
+  - generic [ref=f474e13]:
+    - link "Canva 홈" [ref=f474e16] [cursor=pointer]:
+      - /url: https://www.canva.com/ko_kr/
+    - navigation [ref=f474e23]:
+      - list [ref=f474e24]:
+        - listitem [ref=f474e25]:
+          - button "디자인" [ref=f474e26] [cursor=pointer]
+        - listitem [ref=f474e28]:
+          - button "기능" [ref=f474e29] [cursor=pointer]
+        - listitem [ref=f474e31]:
+          - button "요금제" [ref=f474e32] [cursor=pointer]
+        - listitem [ref=f474e34]:
+          - button "비즈니스" [ref=f474e35] [cursor=pointer]
+        - listitem [ref=f474e37]:
+          - button "교육용" [ref=f474e38] [cursor=pointer]
+        - listitem [ref=f474e40]:
+          - button "도움말" [ref=f474e41] [cursor=pointer]
+  - generic [ref=f474e49]:
+    - region [ref=f474e51]:
+      - generic [ref=f474e54]:
+        - heading "Canva 이용 약관" [level=3] [ref=f474e59]
+        - generic [ref=f474e60]:
+          - generic [ref=f474e61]:
+            - generic [ref=f474e63] [cursor=pointer]:
+              - generic [ref=f474e64]:
+                - checkbox "다음 모든 항목에 동의합니다."
+              - paragraph [ref=f474e68]: 다음 모든 항목에 동의합니다.
+            - generic [ref=f474e70] [cursor=pointer]:
+              - generic [ref=f474e71]:
+                - checkbox "본인은 14세 이상이거나 학교의 요청을 받았습니다."
+              - paragraph [ref=f474e75]: 본인은 14세 이상이거나 학교의 요청을 받았습니다.
+            - generic [ref=f474e77] [cursor=pointer]:
+              - generic [ref=f474e78]:
+                - checkbox "이용 약관⁠ (새 디자인 탭 또는 창에서 열기) 에 동의합니다."
+              - paragraph [ref=f474e82]:
+                - link "이용 약관⁠ (새 디자인 탭 또는 창에서 열기)" [ref=f474e83]:
+                  - /url: https://www.canva.com/ko_kr/policies/terms-of-use
+                  - text: 이용 약관
+                  - generic:
+                    - generic:
+                      - text: ⁠
+                      - generic [ref=f474e84]: (새 디자인 탭 또는 창에서 열기)
+                - text: 에 동의합니다.
+            - generic [ref=f474e86] [cursor=pointer]:
+              - generic [ref=f474e87]:
+                - checkbox "(필수) 개인정보의 수집 및 사용에 동의합니다. (더 보기⁠ (새 디자인 탭 또는 창에서 열기) )"
+              - paragraph [ref=f474e91]:
+                - text: (필수) 개인정보의 수집 및 사용에 동의합니다. (
+                - link "더 보기⁠ (새 디자인 탭 또는 창에서 열기)" [ref=f474e92]:
+                  - /url: https://www.canva.com/ko_kr/policies/mandatory-collection-notice
+                  - text: 더 보기
+                  - generic:
+                    - generic:
+                      - text: ⁠
+                      - generic [ref=f474e93]: (새 디자인 탭 또는 창에서 열기)
+                - text: )
+          - button "동의 및 계속하기" [disabled] [ref=f474e94]
+    - generic [ref=f474e96]: 로드 중
+  - generic [ref=f474e100]:
+    - generic [ref=f474e101]:
+      - link "개인정보 처리방침" [ref=f474e102] [cursor=pointer]:
+        - /url: /ko_kr/policies/privacy-policy/
+      - link "약관" [ref=f474e104] [cursor=pointer]:
+        - /url: /ko_kr/policies/terms-of-use/
+    - button "한국어" [ref=f474e110] [cursor=pointer]

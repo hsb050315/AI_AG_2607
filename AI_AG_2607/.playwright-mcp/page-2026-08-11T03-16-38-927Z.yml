@@ -1,0 +1,572 @@
+- generic [active] [ref=f502e1]:
+  - generic [ref=f502e3]: Loading
+  - generic [ref=f502e5]:
+    - paragraph [ref=f502e7]:
+      - link "Skip to main content" [ref=f502e8] [cursor=pointer]:
+        - /url: "#_r_0_"
+    - banner [ref=f502e11]:
+      - generic [ref=f502e15]:
+        - link "Canva home" [ref=f502e18] [cursor=pointer]:
+          - /url: https://www.canva.com/
+        - navigation [ref=f502e25]:
+          - list [ref=f502e26]:
+            - listitem [ref=f502e27]:
+              - button "Design" [ref=f502e28] [cursor=pointer]
+            - listitem [ref=f502e30]:
+              - button "Product" [ref=f502e31] [cursor=pointer]
+            - listitem [ref=f502e33]:
+              - button "Plans" [ref=f502e34] [cursor=pointer]
+            - listitem [ref=f502e36]:
+              - button "Business" [ref=f502e37] [cursor=pointer]
+            - listitem [ref=f502e39]:
+              - button "Education" [ref=f502e40] [cursor=pointer]
+            - listitem [ref=f502e42]:
+              - button "Help" [ref=f502e43] [cursor=pointer]
+        - generic [ref=f502e47]:
+          - button "Sign up" [ref=f502e49] [cursor=pointer]
+          - button "Log in" [ref=f502e51] [cursor=pointer]
+    - main [ref=f502e53]:
+      - generic [ref=f502e54]:
+        - navigation "Breadcrumb" [ref=f502e56]:
+          - list [ref=f502e57]:
+            - listitem [ref=f502e58]:
+              - link "Home" [ref=f502e59] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f502e61]
+            - listitem [ref=f502e62]:
+              - link "Templates" [ref=f502e63] [cursor=pointer]:
+                - /url: /templates/
+            - listitem [ref=f502e65]
+            - listitem [ref=f502e66]:
+              - link "Presentations" [ref=f502e67] [cursor=pointer]:
+                - /url: /presentations/templates/
+            - listitem [ref=f502e69]
+            - listitem [ref=f502e70]:
+              - generic [ref=f502e71]: Yellow and Black Hand Drawn Creative Project Presentation
+        - generic [ref=f502e72]:
+          - generic [ref=f502e78]:
+            - 'region "Slideshow: Yellow and Black Hand Drawn Creative Project Presentation" [ref=f502e80]':
+              - img "Yellow and Black Hand Drawn Creative Project Presentation" [ref=f502e89]
+              - generic [ref=f502e94]:
+                - generic: Start of list
+                - paragraph [ref=f502e97]:
+                  - link "Skip to end of list" [ref=f502e98] [cursor=pointer]:
+                    - /url: "#_r_f1_"
+                - generic [ref=f502e100]:
+                  - button "Page 1" [pressed] [ref=f502e103] [cursor=pointer]
+                  - button "Page 2" [ref=f502e112] [cursor=pointer]
+                  - button "Page 3" [ref=f502e121] [cursor=pointer]
+                  - button "Page 4" [ref=f502e130] [cursor=pointer]
+                  - button "Page 5" [ref=f502e139] [cursor=pointer]
+                  - button "Page 6" [ref=f502e148] [cursor=pointer]
+                  - button "Page 7" [ref=f502e157] [cursor=pointer]
+                  - button "Page 8" [ref=f502e166] [cursor=pointer]
+                  - button "Page 9" [ref=f502e175] [cursor=pointer]
+                  - button "Page 10" [ref=f502e184] [cursor=pointer]
+                  - button "Page 11" [ref=f502e193] [cursor=pointer]
+                  - button "Page 12" [ref=f502e202] [cursor=pointer]
+                  - button "Page 13" [ref=f502e211] [cursor=pointer]
+                  - button "Page 14" [ref=f502e220] [cursor=pointer]
+                  - button "Page 15" [ref=f502e231] [cursor=pointer]
+                - button "Next page of list" [ref=f502e239] [cursor=pointer]
+                - paragraph [ref=f502e242]:
+                  - link "Skip to start of list" [ref=f502e243] [cursor=pointer]:
+                    - /url: "#_r_f0_"
+                - generic: End of list
+            - generic [ref=f502e248]:
+              - generic [ref=f502e249]:
+                - heading "Yellow and Black Hand Drawn Creative Project Presentation" [level=1] [ref=f502e250]
+                - generic [ref=f502e251]:
+                  - link "yaniscg" [ref=f502e252] [cursor=pointer]:
+                    - /url: /p/yaniscg/
+                  - paragraph [ref=f502e253]:
+                    - text: Presentation by
+                    - link "Yanis CG" [ref=f502e255] [cursor=pointer]:
+                      - /url: /p/yaniscg/
+              - link "Customize free template" [ref=f502e257] [cursor=pointer]:
+                - /url: https://www.canva.com/design?create&type=TACQ-gtv2Yk&template=EAG9wSuZgS0&category=tAExRLg81RI&analyticsCorrelationId=10e2dc45-6b02-4e03-8bb1-f092a87166cf&locale=en
+            - list [ref=f502e263]:
+              - listitem [ref=f502e264]:
+                - heading [level=3] [ref=f502e265]:
+                  - button [ref=f502e266] [cursor=pointer]:
+                    - heading "Details" [level=2] [ref=f502e269]
+          - generic [ref=f502e275]:
+            - heading "More like this" [level=2] [ref=f502e285]
+            - generic [ref=f502e292]:
+              - generic [ref=f502e293]:
+                - group [ref=f502e303]:
+                  - link "Preview free Green and Orange Illustrated Nutrition and Sustainable Food Systems Presentation template, 10 pages" [ref=f502e307] [cursor=pointer]:
+                    - /url: /templates/EAHDnEnJ_So-green-and-orange-illustrated-nutrition-and-sustainable-food-systems-presentation/
+                    - generic [ref=f502e308]:
+                      - img "Green and Orange Illustrated Nutrition and Sustainable Food Systems Presentation" [ref=f502e313]
+                      - generic [ref=f502e316]:
+                        - generic [ref=f502e317]: 1 of 10
+                        - generic [ref=f502e318]: 10 slides
+                - group [ref=f502e327]:
+                  - link "Preview pro Red Blue and White Doodle Printed Material Notebook Vision Board Animated Presentation template" [ref=f502e331] [cursor=pointer]:
+                    - /url: /templates/EAHIIyNWsk4-red-blue-and-white-doodle-printed-material-notebook-vision-board-animated-presentation/
+                    - generic "Red Blue and White Doodle Printed Material Notebook Vision Board Animated Presentation" [ref=f502e336]
+                  - generic [ref=f502e338]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                  - button "Play" [ref=f502e342] [cursor=pointer]
+                - group [ref=f502e352]:
+                  - link "Preview free Beige Scribble Group Project Presentation template, 11 pages" [ref=f502e356] [cursor=pointer]:
+                    - /url: /templates/EAG0kGLq8g8-beige-scribble-group-project-presentation/
+                    - generic [ref=f502e357]:
+                      - img "Beige Scribble Group Project Presentation" [ref=f502e362]
+                      - generic [ref=f502e365]:
+                        - generic [ref=f502e366]: 1 of 11
+                        - generic [ref=f502e367]: 11 slides
+                - group [ref=f502e376]:
+                  - link "Preview pro Pink and Green Playful Group Project Presentation template, 13 pages" [ref=f502e380] [cursor=pointer]:
+                    - /url: /templates/EAG0F0eidj4-pink-and-green-playful-group-project-presentation/
+                    - generic [ref=f502e381]:
+                      - img "Pink and Green Playful Group Project Presentation" [ref=f502e386]
+                      - generic [ref=f502e389]:
+                        - generic [ref=f502e390]: 1 of 13
+                        - generic [ref=f502e391]: 13 slides
+                  - generic [ref=f502e393]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e402]:
+                  - link "Preview pro Purple and Black Hand Drawn Project Presentation Presentation template, 14 pages" [ref=f502e406] [cursor=pointer]:
+                    - /url: /templates/EAG0wHJMelI-purple-and-black-hand-drawn-project-presentation-presentation/
+                    - generic [ref=f502e407]:
+                      - img "Purple and Black Hand Drawn Project Presentation Presentation" [ref=f502e412]
+                      - generic [ref=f502e415]:
+                        - generic [ref=f502e416]: 1 of 14
+                        - generic [ref=f502e417]: 14 slides
+                  - generic [ref=f502e419]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e428]:
+                  - link "Preview free white Creative doodle Graphics Presentation template, 11 pages" [ref=f502e432] [cursor=pointer]:
+                    - /url: /templates/EAG0ZeIxgko-white-creative-doodle-graphics-presentation/
+                    - generic [ref=f502e433]:
+                      - img "white Creative doodle Graphics Presentation" [ref=f502e439]
+                      - generic [ref=f502e442]:
+                        - generic [ref=f502e443]: 1 of 11
+                        - generic [ref=f502e444]: 11 slides
+                - group [ref=f502e453]:
+                  - link "Preview pro Blue Modern Portfolio Presentation template, 10 pages" [ref=f502e457] [cursor=pointer]:
+                    - /url: /templates/EAGqCHjRPkU-blue-modern-portfolio-presentation/
+                    - generic [ref=f502e458]:
+                      - img "Blue Modern Portfolio Presentation" [ref=f502e464]
+                      - generic [ref=f502e467]:
+                        - generic [ref=f502e468]: 1 of 10
+                        - generic [ref=f502e469]: 10 slides
+                  - generic [ref=f502e471]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e480]:
+                  - link "Preview free Multicolor Pastel Doodle Creative Project Proposal Presentation template, 12 pages" [ref=f502e484] [cursor=pointer]:
+                    - /url: /templates/EAG5mupa0kE-multicolor-pastel-doodle-creative-project-proposal-presentation/
+                    - generic [ref=f502e485]:
+                      - img "Multicolor Pastel Doodle Creative Project Proposal Presentation" [ref=f502e491]
+                      - generic [ref=f502e494]:
+                        - generic [ref=f502e495]: 1 of 12
+                        - generic [ref=f502e496]: 12 slides
+                - group [ref=f502e505]:
+                  - link "Preview pro Thermal Decomposition Chemistry Presentation in a Bold Style template" [ref=f502e509] [cursor=pointer]:
+                    - /url: /templates/EAGlSibQh7g-thermal-decomposition-chemistry-presentation-in-a-bold-style/
+                    - generic "Thermal Decomposition Chemistry Presentation in a Bold Style" [ref=f502e514]
+                  - generic [ref=f502e516]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                  - button "Play" [ref=f502e520] [cursor=pointer]
+                - group [ref=f502e530]:
+                  - link "Preview free White and Light Blue Simple Business Proposal Presentation template, 12 pages" [ref=f502e534] [cursor=pointer]:
+                    - /url: /templates/EAG2K4Q4ajQ-white-and-light-blue-simple-business-proposal-presentation/
+                    - generic [ref=f502e535]:
+                      - img "White and Light Blue Simple Business Proposal Presentation" [ref=f502e541]
+                      - generic [ref=f502e544]:
+                        - generic [ref=f502e545]: 1 of 12
+                        - generic [ref=f502e546]: 12 slides
+                - group [ref=f502e555]:
+                  - link "Preview pro Pink and Blue Whimsical Cute Group Project Presentation template, 11 pages" [ref=f502e559] [cursor=pointer]:
+                    - /url: /templates/EAHJ_ynSups-pink-and-blue-whimsical-cute-group-project-presentation/
+                    - generic [ref=f502e560]:
+                      - img "Pink and Blue Whimsical Cute Group Project Presentation" [ref=f502e566]
+                      - generic [ref=f502e569]:
+                        - generic [ref=f502e570]: 1 of 11
+                        - generic [ref=f502e571]: 11 slides
+                  - generic [ref=f502e573]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e582]:
+                  - link "Preview free Green and Red Playful Floral Illustrative Project Presentation template" [ref=f502e586] [cursor=pointer]:
+                    - /url: /templates/EAGHIrvj1EQ-green-and-red-playful-floral-illustrative-project-presentation/
+                    - generic "Green and Red Playful Floral Illustrative Project Presentation" [ref=f502e591]
+                  - button "Play" [ref=f502e595] [cursor=pointer]
+                - group [ref=f502e605]:
+                  - link "Preview pro Brown and Orange Playful Cute Frame Project Presentation template" [ref=f502e609] [cursor=pointer]:
+                    - /url: /templates/EAF_PYNhw6k-brown-and-orange-playful-cute-frame-project-presentation/
+                    - generic "Brown and Orange Playful Cute Frame Project Presentation" [ref=f502e614]
+                  - generic [ref=f502e616]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                  - button "Play" [ref=f502e620] [cursor=pointer]
+                - group [ref=f502e630]:
+                  - link "Preview pro Pink Whimsical Watercolor Illustrated Recipe July Calendar template, 2 pages" [ref=f502e634] [cursor=pointer]:
+                    - /url: /templates/EAGxJ1LEypA-pink-whimsical-watercolor-illustrated-recipe-july-calendar/
+                    - generic [ref=f502e635]:
+                      - img "Pink Whimsical Watercolor Illustrated Recipe July Calendar" [ref=f502e641]
+                      - generic [ref=f502e644]:
+                        - generic [ref=f502e645]: 1 of 2
+                        - generic [ref=f502e646]: 2 slides
+                  - generic [ref=f502e648]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e657]:
+                  - link "Preview free Colorful Cute Kawaii Impesto Oil Textured Mindmap Brainstorm template" [ref=f502e661] [cursor=pointer]:
+                    - /url: /templates/EAHCJsANzFw-colorful-cute-kawaii-impesto-oil-textured-mindmap-brainstorm/
+                    - img "Colorful Cute Kawaii Impesto Oil Textured Mindmap Brainstorm" [ref=f502e665]
+                - group [ref=f502e674]:
+                  - link "Preview pro Orange Whimsical Watercolor Illustrated Recipe September Calendar template, 2 pages" [ref=f502e678] [cursor=pointer]:
+                    - /url: /templates/EAGxKMC8N1s-orange-whimsical-watercolor-illustrated-recipe-september-calendar/
+                    - generic [ref=f502e679]:
+                      - img "Orange Whimsical Watercolor Illustrated Recipe September Calendar" [ref=f502e685]
+                      - generic [ref=f502e688]:
+                        - generic [ref=f502e689]: 1 of 2
+                        - generic [ref=f502e690]: 2 slides
+                  - generic [ref=f502e692]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e701]:
+                  - link "Preview pro Orange and Beige Cute Project Presentation template, 10 pages" [ref=f502e705] [cursor=pointer]:
+                    - /url: /templates/EAGVNjC83HA-orange-and-beige-cute-project-presentation/
+                    - generic [ref=f502e706]:
+                      - img "Orange and Beige Cute Project Presentation" [ref=f502e712]
+                      - generic [ref=f502e715]:
+                        - generic [ref=f502e716]: 1 of 10
+                        - generic [ref=f502e717]: 10 slides
+                  - generic [ref=f502e719]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e728]:
+                  - link "Preview free Fossils Vocabulary Science Presentation template, 12 pages" [ref=f502e732] [cursor=pointer]:
+                    - /url: /templates/EAFjBQOdJ64-fossils-vocabulary-science-presentation/
+                    - generic [ref=f502e733]:
+                      - img "Fossils Vocabulary Science Presentation" [ref=f502e739]
+                      - generic [ref=f502e742]:
+                        - generic [ref=f502e743]: 1 of 12
+                        - generic [ref=f502e744]: 12 slides
+                - group [ref=f502e753]:
+                  - link "Preview free Red and Beige Vintage Retro Project Presentation template" [ref=f502e757] [cursor=pointer]:
+                    - /url: /templates/EAGDmvp1zS4-red-and-beige-vintage-retro-project-presentation/
+                    - generic "Red and Beige Vintage Retro Project Presentation" [ref=f502e762]
+                  - button "Play" [ref=f502e766] [cursor=pointer]
+                - group [ref=f502e776]:
+                  - link "Preview pro White Grey Grid Project Presentation template, 10 pages" [ref=f502e780] [cursor=pointer]:
+                    - /url: /templates/EAGT1m2k2vQ-white-grey-grid-project-presentation/
+                    - generic [ref=f502e781]:
+                      - img "White Grey Grid Project Presentation" [ref=f502e787]
+                      - generic [ref=f502e790]:
+                        - generic [ref=f502e791]: 1 of 10
+                        - generic [ref=f502e792]: 10 slides
+                  - generic [ref=f502e794]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e803]:
+                  - link "Preview pro Blue Orange and Green Hand Drawn Playful Birthday Tag template, 2 pages" [ref=f502e807] [cursor=pointer]:
+                    - /url: /templates/EAHNlQVJ78o-blue-orange-and-green-hand-drawn-playful-birthday-tag/
+                    - generic [ref=f502e816]:
+                      - generic [ref=f502e817]: 1 of 2
+                      - generic [ref=f502e818]: 2 slides
+                  - generic [ref=f502e820]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e829]:
+                  - link "Preview pro Cream and Yellow Simple School Name Tag template, 2 pages" [ref=f502e833] [cursor=pointer]:
+                    - /url: /templates/EAHKp_zkg20-cream-and-yellow-simple-school-name-tag/
+                    - generic [ref=f502e842]:
+                      - generic [ref=f502e843]: 1 of 2
+                      - generic [ref=f502e844]: 2 slides
+                  - generic [ref=f502e846]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e855]:
+                  - link "Preview free Green White Watercolor Project Discussion Presentation template, 10 pages" [ref=f502e859] [cursor=pointer]:
+                    - /url: /templates/EAGLdFfD3YU-green-white-watercolor-project-discussion-presentation/
+                    - generic [ref=f502e860]:
+                      - img "Green White Watercolor Project Discussion Presentation" [ref=f502e866]
+                      - generic [ref=f502e869]:
+                        - generic [ref=f502e870]: 1 of 10
+                        - generic [ref=f502e871]: 10 slides
+                - group [ref=f502e880]:
+                  - link "Preview pro Yellow Pink Retro Groovy School Project Presentation template, 10 pages" [ref=f502e884] [cursor=pointer]:
+                    - /url: /templates/EAGTP8vQcW8-yellow-pink-retro-groovy-school-project-presentation/
+                    - generic [ref=f502e885]:
+                      - img "Yellow Pink Retro Groovy School Project Presentation" [ref=f502e891]
+                      - generic [ref=f502e894]:
+                        - generic [ref=f502e895]: 1 of 10
+                        - generic [ref=f502e896]: 10 slides
+                  - generic [ref=f502e898]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f502e907]:
+                  - link "Preview pro Purple Orange and White Playful Daily Life Presentation template, 10 pages" [ref=f502e911] [cursor=pointer]:
+                    - /url: /templates/EAHKMbnpWG0-purple-orange-and-white-playful-daily-life-presentation/
+                    - generic [ref=f502e912]:
+                      - img "Purple Orange and White Playful Daily Life Presentation" [ref=f502e918]
+                      - generic [ref=f502e921]:
+                        - generic [ref=f502e922]: 1 of 10
+                        - generic [ref=f502e923]: 10 slides
+                  - generic [ref=f502e925]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+              - button "Next page of list" [ref=f502e928] [cursor=pointer]
+    - generic [ref=f502e930]:
+      - paragraph [ref=f502e932]:
+        - link "Skip to end of footer" [ref=f502e933] [cursor=pointer]:
+          - /url: "#_r_6_"
+      - contentinfo [ref=f502e935]:
+        - generic [ref=f502e937]:
+          - generic [ref=f502e944]:
+            - generic [ref=f502e947]:
+              - heading "Download Canva for free" [level=2] [ref=f502e949]
+              - generic [ref=f502e952]:
+                - link "Windows" [ref=f502e954] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/windows/
+                - link "Mac" [ref=f502e957] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/mac/
+            - navigation [ref=f502e961]:
+              - list [ref=f502e963]:
+                - listitem [ref=f502e964]:
+                  - heading "Product" [level=2] [ref=f502e966]
+                  - list "Product" [ref=f502e968]:
+                    - listitem [ref=f502e969]:
+                      - link "Latest launches" [ref=f502e970] [cursor=pointer]:
+                        - /url: https://www.canva.com/launches/
+                    - listitem [ref=f502e972]:
+                      - link "Visual Suite" [ref=f502e973] [cursor=pointer]:
+                        - /url: https://www.canva.com/visual-suite/
+                    - listitem [ref=f502e975]:
+                      - link "Canva AI" [ref=f502e976] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-ai/
+                    - listitem [ref=f502e978]:
+                      - link "Brand management" [ref=f502e979] [cursor=pointer]:
+                        - /url: https://www.canva.com/solutions/brand-management-tools/
+                    - listitem [ref=f502e981]:
+                      - link "Social media" [ref=f502e982] [cursor=pointer]:
+                        - /url: https://www.canva.com/social-media/
+                    - listitem [ref=f502e984]:
+                      - link "Features" [ref=f502e985] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/
+                    - listitem [ref=f502e987]:
+                      - link "Print" [ref=f502e988] [cursor=pointer]:
+                        - /url: https://www.canva.com/print/
+                    - listitem [ref=f502e990]:
+                      - link "Apps Marketplace" [ref=f502e991] [cursor=pointer]:
+                        - /url: https://www.canva.com/apps/
+                    - listitem [ref=f502e993]:
+                      - link "Affinity" [ref=f502e994] [cursor=pointer]:
+                        - /url: https://www.affinity.studio/
+                - listitem [ref=f502e999]:
+                  - heading "Plans" [level=2] [ref=f502e1001]
+                  - list "Plans" [ref=f502e1003]:
+                    - listitem [ref=f502e1004]:
+                      - link "Pricing" [ref=f502e1005] [cursor=pointer]:
+                        - /url: https://www.canva.com/pricing/
+                    - listitem [ref=f502e1007]:
+                      - link "Pro" [ref=f502e1008] [cursor=pointer]:
+                        - /url: https://www.canva.com/pro/
+                    - listitem [ref=f502e1010]:
+                      - link "Business" [ref=f502e1011] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-business/
+                    - listitem [ref=f502e1013]:
+                      - link "Enterprise" [ref=f502e1014] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/
+                    - listitem [ref=f502e1016]:
+                      - link "Education" [ref=f502e1017] [cursor=pointer]:
+                        - /url: https://www.canva.com/education/
+                    - listitem [ref=f502e1019]:
+                      - link "Higher education" [ref=f502e1020] [cursor=pointer]:
+                        - /url: https://www.canva.com/for-campus/
+                    - listitem [ref=f502e1022]:
+                      - link "Nonprofits" [ref=f502e1023] [cursor=pointer]:
+                        - /url: https://www.canva.com/nonprofits/
+                    - listitem [ref=f502e1025]:
+                      - link "Contact Sales" [ref=f502e1026] [cursor=pointer]:
+                        - /url: https://www.canva.com/contact-sales/
+                - listitem [ref=f502e1028]:
+                  - heading "About" [level=2] [ref=f502e1030]
+                  - list "About" [ref=f502e1032]:
+                    - listitem [ref=f502e1033]:
+                      - link "About Canva" [ref=f502e1034] [cursor=pointer]:
+                        - /url: https://www.canva.com/about/
+                    - listitem [ref=f502e1036]:
+                      - link "Newsroom" [ref=f502e1037] [cursor=pointer]:
+                        - /url: https://www.canva.com/newsroom/news/
+                    - listitem [ref=f502e1039]:
+                      - link "Events" [ref=f502e1040] [cursor=pointer]:
+                        - /url: https://www.canva.com/events/
+                    - listitem [ref=f502e1042]:
+                      - link "Canva Originals" [ref=f502e1043] [cursor=pointer]:
+                        - /url: https://shop.canva.com/
+                    - listitem [ref=f502e1045]:
+                      - link "Careers" [ref=f502e1046] [cursor=pointer]:
+                        - /url: https://www.lifeatcanva.com/en
+                    - listitem [ref=f502e1051]:
+                      - link "Social impact" [ref=f502e1052] [cursor=pointer]:
+                        - /url: https://www.canva.com/step-two/
+                    - listitem [ref=f502e1054]:
+                      - link "Sustainability" [ref=f502e1055] [cursor=pointer]:
+                        - /url: https://www.canva.com/sustainability/
+                    - listitem [ref=f502e1057]:
+                      - link "Case studies" [ref=f502e1058] [cursor=pointer]:
+                        - /url: https://www.canva.com/case-studies/
+                - listitem [ref=f502e1060]:
+                  - heading "Community" [level=2] [ref=f502e1062]
+                  - list "Community" [ref=f502e1064]:
+                    - listitem [ref=f502e1065]:
+                      - link "Canva Communities" [ref=f502e1066] [cursor=pointer]:
+                        - /url: https://www.canva.com/community/
+                    - listitem [ref=f502e1068]:
+                      - link "Creators" [ref=f502e1069] [cursor=pointer]:
+                        - /url: https://www.canva.com/creators/
+                    - listitem [ref=f502e1071]:
+                      - link "Affiliates" [ref=f502e1072] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/canva-affiliate-marketing-program/
+                    - listitem [ref=f502e1074]:
+                      - link "Canva Represents Fund" [ref=f502e1075] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-represents/
+                    - listitem [ref=f502e1077]:
+                      - link "Content partners" [ref=f502e1078] [cursor=pointer]:
+                        - /url: https://www.canva.com/partners/content/
+                    - listitem [ref=f502e1080]:
+                      - link "Business partner directory" [ref=f502e1081] [cursor=pointer]:
+                        - /url: https://partners.canva.com/directory/
+                    - listitem [ref=f502e1083]:
+                      - link "Canva Developers" [ref=f502e1084] [cursor=pointer]:
+                        - /url: https://www.canva.com/developers/
+                - listitem [ref=f502e1089]:
+                  - heading "Inspiration" [level=2] [ref=f502e1091]
+                  - list "Inspiration" [ref=f502e1093]:
+                    - listitem [ref=f502e1094]:
+                      - link "Design Trends" [ref=f502e1095] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-trends/
+                    - listitem [ref=f502e1097]:
+                      - link "AI creativity podcast" [ref=f502e1098] [cursor=pointer]:
+                        - /url: https://promptedpodcast.com/
+                    - listitem [ref=f502e1103]:
+                      - link "Learn blog" [ref=f502e1104] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/
+                    - listitem [ref=f502e1106]:
+                      - link "Templates Marketplace" [ref=f502e1107] [cursor=pointer]:
+                        - /url: https://www.canva.com/templates/
+                    - listitem [ref=f502e1109]:
+                      - link "Font pairing" [ref=f502e1110] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+                    - listitem [ref=f502e1112]:
+                      - link "Color wheel" [ref=f502e1113] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-wheel/
+                    - listitem [ref=f502e1115]:
+                      - link "Colors" [ref=f502e1116] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/
+                    - listitem [ref=f502e1118]:
+                      - link "Color palette generator" [ref=f502e1119] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-palette-generator/
+                - listitem [ref=f502e1121]:
+                  - heading "Help" [level=2] [ref=f502e1123]
+                  - list "Help" [ref=f502e1125]:
+                    - listitem [ref=f502e1126]:
+                      - link "Help Center" [ref=f502e1127] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/
+                    - listitem [ref=f502e1129]:
+                      - link "Security" [ref=f502e1130] [cursor=pointer]:
+                        - /url: https://www.canva.com/security/
+                    - listitem [ref=f502e1132]:
+                      - link "Trust Center" [ref=f502e1133] [cursor=pointer]:
+                        - /url: https://www.canva.com/trust/
+                    - listitem [ref=f502e1135]:
+                      - link "Canva Safe AI" [ref=f502e1136] [cursor=pointer]:
+                        - /url: https://www.canva.com/safe-ai-canva-shield/
+                    - listitem [ref=f502e1138]:
+                      - link "Accessibility" [ref=f502e1139] [cursor=pointer]:
+                        - /url: https://www.canva.com/accessibility/
+                    - listitem [ref=f502e1141]:
+                      - link "Enterprise services" [ref=f502e1142] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/professional-services/
+                    - listitem [ref=f502e1144]:
+                      - link "Design School" [ref=f502e1145] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-school/
+                    - listitem [ref=f502e1150]:
+                      - link "Sitemap" [ref=f502e1151] [cursor=pointer]:
+                        - /url: https://www.canva.com/sitemap/
+                - listitem [ref=f502e1153]:
+                  - heading "Tools" [level=2] [ref=f502e1155]
+                  - list "Tools" [ref=f502e1157]:
+                    - listitem [ref=f502e1158]:
+                      - link "QR code generator" [ref=f502e1159] [cursor=pointer]:
+                        - /url: https://www.canva.com/qr-code-generator/
+                    - listitem [ref=f502e1161]:
+                      - link "AI logo generator" [ref=f502e1162] [cursor=pointer]:
+                        - /url: https://www.canva.com/ai-logo-generator/
+                    - listitem [ref=f502e1164]:
+                      - link "Signature generator" [ref=f502e1165] [cursor=pointer]:
+                        - /url: https://www.canva.com/signature-generator/
+                    - listitem [ref=f502e1167]:
+                      - link "Business name generator" [ref=f502e1168] [cursor=pointer]:
+                        - /url: https://www.canva.com/business-name-generator/
+                    - listitem [ref=f502e1170]:
+                      - link "PDF converter" [ref=f502e1171] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-converter/
+                    - listitem [ref=f502e1173]:
+                      - link "PDF to JPG converter" [ref=f502e1174] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-to-jpg-converter/
+                    - listitem [ref=f502e1176]:
+                      - link "JPG to PDF converter" [ref=f502e1177] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/jpg-to-pdf-converter/
+                    - listitem [ref=f502e1179]:
+                      - link "Graph maker" [ref=f502e1180] [cursor=pointer]:
+                        - /url: https://www.canva.com/graphs/
+          - generic [ref=f502e1184]:
+            - generic [ref=f502e1191]:
+              - link "LinkedIn" [ref=f502e1193] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/canva
+                - generic: (opens in a new tab or window)
+              - link "Instagram" [ref=f502e1197] [cursor=pointer]:
+                - /url: https://www.instagram.com/canva/
+                - generic: (opens in a new tab or window)
+              - link "Facebook" [ref=f502e1201] [cursor=pointer]:
+                - /url: https://www.facebook.com/canva
+                - generic: (opens in a new tab or window)
+              - link "TikTok" [ref=f502e1205] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@canva
+                - generic: (opens in a new tab or window)
+              - link "Pinterest" [ref=f502e1209] [cursor=pointer]:
+                - /url: https://au.pinterest.com/canva/
+                - generic: (opens in a new tab or window)
+              - link "X" [ref=f502e1213] [cursor=pointer]:
+                - /url: https://x.com/canva
+                - generic: (opens in a new tab or window)
+              - link "YouTube" [ref=f502e1217] [cursor=pointer]:
+                - /url: https://www.youtube.com/@canva
+                - generic: (opens in a new tab or window)
+            - generic [ref=f502e1222]:
+              - generic [ref=f502e1226]:
+                - link "Privacy" [ref=f502e1228] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/privacy-policy/
+                - link "Terms" [ref=f502e1232] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/terms-of-use/
+              - paragraph [ref=f502e1237]: © 2026 All Rights Reserved
+      - paragraph [ref=f502e1239]:
+        - link "Skip to start of footer" [ref=f502e1240] [cursor=pointer]:
+          - /url: "#_r_5_"

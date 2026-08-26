@@ -1,0 +1,209 @@
+- generic [active] [ref=f1e1]:
+  - banner [ref=f1e3]:
+    - generic [ref=f1e4]:
+      - generic [ref=f1e5]:
+        - link "Typecast" [ref=f1e6] [cursor=pointer]:
+          - /url: /
+        - navigation "Primary" [ref=f1e7]:
+          - button "Typecast" [ref=f1e9] [cursor=pointer]
+          - button "Solutions" [ref=f1e11] [cursor=pointer]
+          - link "API & Enterprise" [ref=f1e13] [cursor=pointer]:
+            - /url: /developers/api/
+          - button "Resources" [ref=f1e15] [cursor=pointer]
+          - link "Pricing" [ref=f1e16] [cursor=pointer]:
+            - /url: /pricing/
+      - generic [ref=f1e18]:
+        - link "Log in" [ref=f1e19] [cursor=pointer]:
+          - /url: https://studio.typecast.ai/sign-in
+        - link "Sign up" [ref=f1e20] [cursor=pointer]:
+          - /url: https://studio.typecast.ai/sign-up
+  - main [ref=f1e21]:
+    - generic [ref=f1e22]:
+      - heading "404" [level=1] [ref=f1e23]
+      - paragraph [ref=f1e24]: The page you're looking for doesn't exist.
+      - link "Back to home" [ref=f1e25] [cursor=pointer]:
+        - /url: /
+  - contentinfo [ref=f1e26]:
+    - generic [ref=f1e27]:
+      - generic [ref=f1e28]:
+        - generic [ref=f1e29]:
+          - paragraph [ref=f1e30]: Typecast
+          - list [ref=f1e31]:
+            - listitem [ref=f1e32]:
+              - link "Text-to-Speech" [ref=f1e33] [cursor=pointer]:
+                - /url: /text-to-speech/
+            - listitem [ref=f1e34]:
+              - link "Voice Cloning" [ref=f1e35] [cursor=pointer]:
+                - /url: /voice-cloning/
+            - listitem [ref=f1e36]:
+              - link "Mobile App" [ref=f1e37] [cursor=pointer]:
+                - /url: /text-to-speech-app/
+            - listitem [ref=f1e38]:
+              - link "Pricing" [ref=f1e39] [cursor=pointer]:
+                - /url: /pricing/
+        - generic [ref=f1e40]:
+          - paragraph [ref=f1e41]: AI Voices
+          - list [ref=f1e42]:
+            - listitem [ref=f1e43]:
+              - link "Voice Library" [ref=f1e44] [cursor=pointer]:
+                - /url: /voices/
+            - listitem [ref=f1e45]:
+              - link "Ad Voices" [ref=f1e46] [cursor=pointer]:
+                - /url: /voices/commercial-voice-over-actors/
+            - listitem [ref=f1e47]:
+              - link "Audiobook Voices" [ref=f1e48] [cursor=pointer]:
+                - /url: /voices/audiobook-recorder/
+            - listitem [ref=f1e49]:
+              - link "Narration Voices" [ref=f1e50] [cursor=pointer]:
+                - /url: /voices/narrator-voices/
+            - listitem [ref=f1e51]:
+              - link "Podcast Voices" [ref=f1e52] [cursor=pointer]:
+                - /url: /voices/ai-podcast-generator/
+            - listitem [ref=f1e53]:
+              - link "TikTok Voices" [ref=f1e54] [cursor=pointer]:
+                - /url: /voices/tiktok-voice-generator/
+            - listitem [ref=f1e55]:
+              - link "Game Voices" [ref=f1e56] [cursor=pointer]:
+                - /url: /voices/video-game-ai-voice-generator/
+            - listitem [ref=f1e57]:
+              - link "Virtual Assistant & IVR Voices" [ref=f1e58] [cursor=pointer]:
+                - /url: /voices/virtual-assistant-ai-voice/
+            - listitem [ref=f1e59]:
+              - link "Kid Voices" [ref=f1e60] [cursor=pointer]:
+                - /url: /voices/kid-voice-generator/
+            - listitem [ref=f1e61]:
+              - link "Anime Voices" [ref=f1e62] [cursor=pointer]:
+                - /url: /voices/anime-voice-generator/
+            - listitem [ref=f1e63]:
+              - link "Character Voices" [ref=f1e64] [cursor=pointer]:
+                - /url: /voices/cartoon-character-voice-generator/
+            - listitem [ref=f1e65]:
+              - link "Deep Voices" [ref=f1e66] [cursor=pointer]:
+                - /url: /voices/deep-ai-voice/
+            - listitem [ref=f1e67]:
+              - link "Funny Voices" [ref=f1e68] [cursor=pointer]:
+                - /url: /voices/funny-ai-voice/
+            - listitem [ref=f1e69]:
+              - link "Scary Voices" [ref=f1e70] [cursor=pointer]:
+                - /url: /voices/scary-ai-voice/
+            - listitem [ref=f1e71]:
+              - link "Announcer Voices" [ref=f1e72] [cursor=pointer]:
+                - /url: /voices/announcer-voice-generator/
+            - listitem [ref=f1e73]:
+              - link "News Reporter Voices" [ref=f1e74] [cursor=pointer]:
+                - /url: /voices/news-reporter-ai-voice/
+            - listitem [ref=f1e75]:
+              - link "Robot Voices" [ref=f1e76] [cursor=pointer]:
+                - /url: /voices/robot-ai-voice/
+            - listitem [ref=f1e77]:
+              - link "Rapper Voices" [ref=f1e78] [cursor=pointer]:
+                - /url: /voices/ai-rapper-voice-generator/
+            - listitem [ref=f1e79]:
+              - link "Shouting Voices" [ref=f1e80] [cursor=pointer]:
+                - /url: /voices/shouting-ai-voice/
+            - listitem [ref=f1e81]:
+              - link "British Voices" [ref=f1e82] [cursor=pointer]:
+                - /url: /languages/british-accent-generator/
+            - listitem [ref=f1e83]:
+              - link "Spanish Voices" [ref=f1e84] [cursor=pointer]:
+                - /url: /languages/spanish-ai-text-to-speech/
+            - listitem [ref=f1e85]:
+              - link "Japanese Voices" [ref=f1e86] [cursor=pointer]:
+                - /url: /languages/japanese-text-to-speech/
+        - generic [ref=f1e87]:
+          - paragraph [ref=f1e88]: API & Enterprise
+          - list [ref=f1e89]:
+            - listitem [ref=f1e90]:
+              - link "Typecast API" [ref=f1e91] [cursor=pointer]:
+                - /url: /developers/api/
+            - listitem [ref=f1e92]:
+              - link "Documents" [ref=f1e93] [cursor=pointer]:
+                - /url: https://typecast.ai/docs
+            - listitem [ref=f1e94]:
+              - link "API Pricing" [ref=f1e95] [cursor=pointer]:
+                - /url: /pricing/api/
+            - listitem [ref=f1e96]:
+              - link "API Key" [ref=f1e97] [cursor=pointer]:
+                - /url: https://studio.typecast.ai/developers/api/api-key
+            - listitem [ref=f1e98]:
+              - link "Contact Sales" [ref=f1e99] [cursor=pointer]:
+                - /url: https://typecast.ai/contact-sales/?position=typecast_footer
+        - generic [ref=f1e100]:
+          - paragraph [ref=f1e101]: Solutions
+          - list [ref=f1e102]:
+            - listitem [ref=f1e103]:
+              - link "Use Cases" [ref=f1e104] [cursor=pointer]:
+                - /url: /create/
+            - listitem [ref=f1e105]:
+              - link "Faceless Videos" [ref=f1e106] [cursor=pointer]:
+                - /url: /create/faceless-video/
+            - listitem [ref=f1e107]:
+              - link "Business Presentations" [ref=f1e108] [cursor=pointer]:
+                - /url: /create/video-presentation/
+            - listitem [ref=f1e109]:
+              - link "TikTok Videos" [ref=f1e110] [cursor=pointer]:
+                - /url: /create/ai-tiktok-video-generator/
+            - listitem [ref=f1e111]:
+              - link "Product Demos" [ref=f1e112] [cursor=pointer]:
+                - /url: /create/product-demo/
+        - generic [ref=f1e113]:
+          - paragraph [ref=f1e114]: Resources
+          - list [ref=f1e115]:
+            - listitem [ref=f1e116]:
+              - link "Blog" [ref=f1e117] [cursor=pointer]:
+                - /url: https://typecast.ai/learn/
+            - listitem [ref=f1e118]:
+              - link "Help Center" [ref=f1e119] [cursor=pointer]:
+                - /url: https://help.typecast.ai
+            - listitem [ref=f1e120]:
+              - link "Contact Us" [ref=f1e121] [cursor=pointer]:
+                - /url: /contact/
+            - listitem [ref=f1e122]:
+              - link "Attribution Guidelines" [ref=f1e123] [cursor=pointer]:
+                - /url: /guideline/
+            - listitem [ref=f1e124]:
+              - link "Usage Policy" [ref=f1e125] [cursor=pointer]:
+                - /url: /policy/
+        - generic [ref=f1e126]:
+          - paragraph [ref=f1e127]: Company
+          - list [ref=f1e128]:
+            - listitem [ref=f1e129]:
+              - link "About Us" [ref=f1e130] [cursor=pointer]:
+                - /url: https://company.typecast.ai/en/#about
+            - listitem [ref=f1e131]:
+              - link "We’re Hiring" [ref=f1e132] [cursor=pointer]:
+                - /url: /job/product-manager/
+            - listitem [ref=f1e133]:
+              - link "Press/Media" [ref=f1e134] [cursor=pointer]:
+                - /url: https://neosapience.com/en/
+            - listitem [ref=f1e135]:
+              - link "Voice Talent Partnership" [ref=f1e136] [cursor=pointer]:
+                - /url: /voice-talent-partnership/
+            - listitem [ref=f1e137]:
+              - link "Patents" [ref=f1e138] [cursor=pointer]:
+                - /url: https://neosapience.com/en/patents/
+            - listitem [ref=f1e139]:
+              - link "Terms of Use" [ref=f1e140] [cursor=pointer]:
+                - /url: https://help.typecast.ai/en/articles/13448178-terms-of-use
+            - listitem [ref=f1e141]:
+              - link "Privacy Policy" [ref=f1e142] [cursor=pointer]:
+                - /url: https://help.typecast.ai/en/articles/10717358-privacy-policy
+        - generic [ref=f1e143]:
+          - paragraph [ref=f1e144]: Follow Us
+          - list [ref=f1e145]:
+            - listitem [ref=f1e146]:
+              - link "YouTube" [ref=f1e147] [cursor=pointer]:
+                - /url: https://www.youtube.com/@typecastglobal
+            - listitem [ref=f1e148]:
+              - link "Instagram" [ref=f1e149] [cursor=pointer]:
+                - /url: https://www.instagram.com/typecast.us
+            - listitem [ref=f1e150]:
+              - link "LinkedIn" [ref=f1e151] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/typecastai
+            - listitem [ref=f1e152]:
+              - link "X" [ref=f1e153] [cursor=pointer]:
+                - /url: https://x.com/Typecast_AI
+      - generic [ref=f1e154]:
+        - img "Typecast" [ref=f1e155]
+        - button "English" [ref=f1e157] [cursor=pointer]
+      - paragraph [ref=f1e164]: Copyright © 2026 Neosapience, Inc. All Rights Reserved

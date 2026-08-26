@@ -1,0 +1,5 @@
+[ 1053329ms] [WARNING] setPolicyInfo {versionInfo: Object, sdkInfo: Object, sentryInfo: Object} @ https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js:0
+[ 4335120ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube.com/s/player/b1558f06/player_embed_es6.vflset/ko_KR/base.js:5343
+[ 4335667ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube.com/s/player/b1558f06/player_embed_es6.vflset/ko_KR/base.js:5343
+[ 4335673ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube.com/s/player/b1558f06/player_embed_es6.vflset/ko_KR/base.js:5343
+[ 4369203ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube.com/s/player/ad2f1dc5/player_embed_es6.vflset/ko_KR/base.js:5311

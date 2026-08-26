@@ -1,0 +1,9 @@
+- generic [ref=f523e4]:
+  - paragraph [ref=f523e6]:
+    - link "내비게이션 건너뛰기" [ref=f523e7] [cursor=pointer]:
+      - /url: "#_r_1_"
+  - paragraph [ref=f523e10]:
+    - link "주요 콘텐츠로 건너뛰기" [ref=f523e11] [cursor=pointer]:
+      - /url: "#_r_0_"
+  - main [ref=f523e79]:
+    - generic [ref=f523e80]: 주요 콘텐츠

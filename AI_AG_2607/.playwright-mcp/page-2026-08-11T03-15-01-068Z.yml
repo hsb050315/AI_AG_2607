@@ -1,0 +1,577 @@
+- generic [active] [ref=f484e1]:
+  - generic [ref=f484e3]: Loading
+  - generic [ref=f484e5]:
+    - paragraph [ref=f484e7]:
+      - link "Skip to main content" [ref=f484e8] [cursor=pointer]:
+        - /url: "#_r_0_"
+    - banner [ref=f484e11]:
+      - generic [ref=f484e15]:
+        - link "Canva home" [ref=f484e18] [cursor=pointer]:
+          - /url: https://www.canva.com/
+        - navigation [ref=f484e25]:
+          - list [ref=f484e26]:
+            - listitem [ref=f484e27]:
+              - button "Design" [ref=f484e28] [cursor=pointer]
+            - listitem [ref=f484e30]:
+              - button "Product" [ref=f484e31] [cursor=pointer]
+            - listitem [ref=f484e33]:
+              - button "Plans" [ref=f484e34] [cursor=pointer]
+            - listitem [ref=f484e36]:
+              - button "Business" [ref=f484e37] [cursor=pointer]
+            - listitem [ref=f484e39]:
+              - button "Education" [ref=f484e40] [cursor=pointer]
+            - listitem [ref=f484e42]:
+              - button "Help" [ref=f484e43] [cursor=pointer]
+        - generic [ref=f484e47]:
+          - button "Sign up" [ref=f484e49] [cursor=pointer]
+          - button "Log in" [ref=f484e51] [cursor=pointer]
+    - main [ref=f484e53]:
+      - generic [ref=f484e54]:
+        - navigation "Breadcrumb" [ref=f484e56]:
+          - list [ref=f484e57]:
+            - listitem [ref=f484e58]:
+              - link "Home" [ref=f484e59] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f484e61]
+            - listitem [ref=f484e62]:
+              - link "Templates" [ref=f484e63] [cursor=pointer]:
+                - /url: /templates/
+            - listitem [ref=f484e65]
+            - listitem [ref=f484e66]:
+              - link "Presentations" [ref=f484e67] [cursor=pointer]:
+                - /url: /presentations/templates/
+            - listitem [ref=f484e69]
+            - listitem [ref=f484e70]:
+              - generic [ref=f484e71]: Black Blue and White Modern Startup Pitch Deck Presentation
+        - generic [ref=f484e72]:
+          - generic [ref=f484e78]:
+            - 'region "Slideshow: Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f484e80]':
+              - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f484e89]
+              - generic [ref=f484e94]:
+                - generic: Start of list
+                - paragraph [ref=f484e97]:
+                  - link "Skip to end of list" [ref=f484e98] [cursor=pointer]:
+                    - /url: "#_r_ai_"
+                - generic [ref=f484e100]:
+                  - button "Page 1" [pressed] [ref=f484e103] [cursor=pointer]
+                  - button "Page 2" [ref=f484e113] [cursor=pointer]
+                  - button "Page 3" [ref=f484e123] [cursor=pointer]
+                  - button "Page 4" [ref=f484e133] [cursor=pointer]
+                  - button "Page 5" [ref=f484e143] [cursor=pointer]
+                  - button "Page 6" [ref=f484e153] [cursor=pointer]
+                  - button "Page 7" [ref=f484e163] [cursor=pointer]
+                  - button "Page 8" [ref=f484e173] [cursor=pointer]
+                  - button "Page 9" [ref=f484e183] [cursor=pointer]
+                  - button "Page 10" [ref=f484e193] [cursor=pointer]
+                - button "Next page of list" [ref=f484e202] [cursor=pointer]
+                - paragraph [ref=f484e205]:
+                  - link "Skip to start of list" [ref=f484e206] [cursor=pointer]:
+                    - /url: "#_r_ah_"
+                - generic: End of list
+            - generic [ref=f484e211]:
+              - generic [ref=f484e212]:
+                - heading "Black Blue and White Modern Startup Pitch Deck Presentation" [level=1] [ref=f484e213]
+                - generic [ref=f484e214]:
+                  - link "nirmanavisual" [ref=f484e215] [cursor=pointer]:
+                    - /url: /p/nirmanavisual/
+                  - paragraph [ref=f484e216]:
+                    - text: Presentation by
+                    - link "Nirmana Visual" [ref=f484e218] [cursor=pointer]:
+                      - /url: /p/nirmanavisual/
+              - link "Customize free template" [ref=f484e220] [cursor=pointer]:
+                - /url: https://www.canva.com/design?create&type=TACQ-gtv2Yk&template=EAG9gUM82IY&category=tAExRLg81RI&analyticsCorrelationId=d3ff3e02-15ef-483d-a3ef-e0b7c97c86e6&locale=en
+            - list [ref=f484e226]:
+              - listitem [ref=f484e227]:
+                - heading [level=3] [ref=f484e228]:
+                  - button [ref=f484e229] [cursor=pointer]:
+                    - heading "Details" [level=2] [ref=f484e232]
+          - generic [ref=f484e238]:
+            - heading "More like this" [level=2] [ref=f484e248]
+            - generic [ref=f484e255]:
+              - generic [ref=f484e256]:
+                - group [ref=f484e266]:
+                  - link "Preview free Black and Green Modern Finance Business Report Presentation template, 10 pages" [ref=f484e270] [cursor=pointer]:
+                    - /url: /templates/EAGRROhNK04-black-and-green-modern-finance-business-report-presentation/
+                    - generic [ref=f484e271]:
+                      - img "Black and Green Modern Finance Business Report Presentation" [ref=f484e276]
+                      - generic [ref=f484e279]:
+                        - generic [ref=f484e280]: 1 of 10
+                        - generic [ref=f484e281]: 10 slides
+                - group [ref=f484e290]:
+                  - link "Preview pro Blue Modern Investor Pitch Deck Presentation template, 10 pages" [ref=f484e294] [cursor=pointer]:
+                    - /url: /templates/EAG5NxZ_Mkg-blue-modern-investor-pitch-deck-presentation/
+                    - generic [ref=f484e295]:
+                      - img "Blue Modern Investor Pitch Deck Presentation" [ref=f484e300]
+                      - generic [ref=f484e303]:
+                        - generic [ref=f484e304]: 1 of 10
+                        - generic [ref=f484e305]: 10 slides
+                  - generic [ref=f484e307]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e316]:
+                  - link "Preview free Black and Blue Modern Startup Pitch Deck Presentation template, 10 pages" [ref=f484e320] [cursor=pointer]:
+                    - /url: /templates/EAHGKBbfHes-black-and-blue-modern-startup-pitch-deck-presentation/
+                    - generic [ref=f484e321]:
+                      - img "Black and Blue Modern Startup Pitch Deck Presentation" [ref=f484e326]
+                      - generic [ref=f484e329]:
+                        - generic [ref=f484e330]: 1 of 10
+                        - generic [ref=f484e331]: 10 slides
+                - group [ref=f484e340]:
+                  - link "Preview pro Blue and Purple Dynamic Startup Pitch Deck Presentation template, 15 pages" [ref=f484e344] [cursor=pointer]:
+                    - /url: /templates/EAGypYvoZwE-blue-and-purple-dynamic-startup-pitch-deck-presentation/
+                    - generic [ref=f484e345]:
+                      - img "Blue and Purple Dynamic Startup Pitch Deck Presentation" [ref=f484e350]
+                      - generic [ref=f484e353]:
+                        - generic [ref=f484e354]: 1 of 15
+                        - generic [ref=f484e355]: 15 slides
+                  - generic [ref=f484e357]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e366]:
+                  - link "Preview free Blue Modern Business Pitch Deck Presentation template, 10 pages" [ref=f484e370] [cursor=pointer]:
+                    - /url: /templates/EAG3553TZoQ-blue-modern-business-pitch-deck-presentation/
+                    - generic [ref=f484e371]:
+                      - img "Blue Modern Business Pitch Deck Presentation" [ref=f484e376]
+                      - generic [ref=f484e379]:
+                        - generic [ref=f484e380]: 1 of 10
+                        - generic [ref=f484e381]: 10 slides
+                - group [ref=f484e390]:
+                  - link "Preview pro Blue Modern Business Pitch Deck Presentation template, 12 pages" [ref=f484e394] [cursor=pointer]:
+                    - /url: /templates/EAGqHmiqF2M-blue-modern-business-pitch-deck-presentation/
+                    - generic [ref=f484e395]:
+                      - img "Blue Modern Business Pitch Deck Presentation" [ref=f484e401]
+                      - generic [ref=f484e404]:
+                        - generic [ref=f484e405]: 1 of 12
+                        - generic [ref=f484e406]: 12 slides
+                  - generic [ref=f484e408]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e417]:
+                  - link "Preview free Pink and Gray Modern Startup Pitch Deck Presentation template, 11 pages" [ref=f484e421] [cursor=pointer]:
+                    - /url: /templates/EAG8MOK2vK4-pink-and-gray-modern-startup-pitch-deck-presentation/
+                    - generic [ref=f484e422]:
+                      - img "Pink and Gray Modern Startup Pitch Deck Presentation" [ref=f484e428]
+                      - generic [ref=f484e431]:
+                        - generic [ref=f484e432]: 1 of 11
+                        - generic [ref=f484e433]: 11 slides
+                - group [ref=f484e442]:
+                  - link "Preview pro Blue Black and White Futuristic Tech Presentation template, 10 pages" [ref=f484e446] [cursor=pointer]:
+                    - /url: /templates/EAHFyUwH5z8-blue-black-and-white-futuristic-tech-presentation/
+                    - generic [ref=f484e447]:
+                      - img "Blue Black and White Futuristic Tech Presentation" [ref=f484e453]
+                      - generic [ref=f484e456]:
+                        - generic [ref=f484e457]: 1 of 10
+                        - generic [ref=f484e458]: 10 slides
+                  - generic [ref=f484e460]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e469]:
+                  - link "Preview free Purple and White Modern Startup Pitch Deck Presentation template, 10 pages" [ref=f484e473] [cursor=pointer]:
+                    - /url: /templates/EAG0V6PCrrI-purple-and-white-modern-startup-pitch-deck-presentation/
+                    - generic [ref=f484e474]:
+                      - img "Purple and White Modern Startup Pitch Deck Presentation" [ref=f484e480]
+                      - generic [ref=f484e483]:
+                        - generic [ref=f484e484]: 1 of 10
+                        - generic [ref=f484e485]: 10 slides
+                - group [ref=f484e494]:
+                  - link "Preview pro Blue and Black Minimalist Business Presentation template, 11 pages" [ref=f484e498] [cursor=pointer]:
+                    - /url: /templates/EAG-br-I9-c-blue-and-black-minimalist-business-presentation/
+                    - generic [ref=f484e499]:
+                      - img "Blue and Black Minimalist Business Presentation" [ref=f484e505]
+                      - generic [ref=f484e508]:
+                        - generic [ref=f484e509]: 1 of 11
+                        - generic [ref=f484e510]: 11 slides
+                  - generic [ref=f484e512]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e521]:
+                  - link "Preview free White Blue and Grey Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f484e525] [cursor=pointer]:
+                    - /url: /templates/EAGqwpf_JeA-white-blue-and-grey-modern-startup-pitch-deck-presentation/
+                    - generic [ref=f484e526]:
+                      - img "White Blue and Grey Modern Startup Pitch Deck Presentation" [ref=f484e532]
+                      - generic [ref=f484e535]:
+                        - generic [ref=f484e536]: 1 of 14
+                        - generic [ref=f484e537]: 14 slides
+                - group [ref=f484e546]:
+                  - link "Preview pro Orange And Black Minimalist Professional Startup Business Presentation Template (Mobile-First Presentation) template, 10 pages" [ref=f484e550] [cursor=pointer]:
+                    - /url: /templates/EAE_zWQD_W4-orange-and-black-minimalist-professional-startup-business-presentation-template-mobile-first-presentation/
+                    - generic [ref=f484e551]:
+                      - img "Orange And Black Minimalist Professional Startup Business Presentation Template (Mobile-First Presentation)" [ref=f484e557]
+                      - generic [ref=f484e560]:
+                        - generic [ref=f484e561]: 1 of 10
+                        - generic [ref=f484e562]: 10 slides
+                  - generic [ref=f484e564]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e573]:
+                  - link "Preview pro Navy Blue Corporate Business Proposal Presentation template, 10 pages" [ref=f484e577] [cursor=pointer]:
+                    - /url: /templates/EAGPgLtBXwg-navy-blue-corporate-business-proposal-presentation/
+                    - generic [ref=f484e578]:
+                      - img "Navy Blue Corporate Business Proposal Presentation" [ref=f484e584]
+                      - generic [ref=f484e587]:
+                        - generic [ref=f484e588]: 1 of 10
+                        - generic [ref=f484e589]: 10 slides
+                  - generic [ref=f484e591]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e600]:
+                  - link "Preview free Dark Blue Gradient Modern Professional Presentation template, 16 pages" [ref=f484e604] [cursor=pointer]:
+                    - /url: /templates/EAG2HqgKuIM-dark-blue-gradient-modern-professional-presentation/
+                    - generic [ref=f484e605]:
+                      - img "Dark Blue Gradient Modern Professional Presentation" [ref=f484e611]
+                      - generic [ref=f484e614]:
+                        - generic [ref=f484e615]: 1 of 16
+                        - generic [ref=f484e616]: 16 slides
+                - group [ref=f484e625]:
+                  - link "Preview pro Blue minimalist professional business project Presentation template, 13 pages" [ref=f484e629] [cursor=pointer]:
+                    - /url: /templates/EAFdeftBTFw-blue-minimalist-professional-business-project-presentation/
+                    - generic [ref=f484e630]:
+                      - img "Blue minimalist professional business project Presentation" [ref=f484e636]
+                      - generic [ref=f484e639]:
+                        - generic [ref=f484e640]: 1 of 13
+                        - generic [ref=f484e641]: 13 slides
+                  - generic [ref=f484e643]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e652]:
+                  - link "Preview pro Blue Black and White Modern Startup Presentation template" [ref=f484e656] [cursor=pointer]:
+                    - /url: /templates/EAHGDnLQrp4-blue-black-and-white-modern-startup-presentation/
+                    - generic "Blue Black and White Modern Startup Presentation" [ref=f484e661]
+                  - generic [ref=f484e663]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                  - button "Play" [ref=f484e667] [cursor=pointer]
+                - group [ref=f484e677]:
+                  - link "Preview free Red and Pink Bold Pitch Deck Presentation template, 10 pages" [ref=f484e681] [cursor=pointer]:
+                    - /url: /templates/EAGxtAIvkGA-red-and-pink-bold-pitch-deck-presentation/
+                    - generic [ref=f484e682]:
+                      - img "Red and Pink Bold Pitch Deck Presentation" [ref=f484e688]
+                      - generic [ref=f484e691]:
+                        - generic [ref=f484e692]: 1 of 10
+                        - generic [ref=f484e693]: 10 slides
+                - group [ref=f484e702]:
+                  - link "Preview pro Blue Modern Technology Startup Presentation template" [ref=f484e706] [cursor=pointer]:
+                    - /url: /templates/EAGo_yT_Org-blue-modern-technology-startup-presentation/
+                    - generic "Blue Modern Technology Startup Presentation" [ref=f484e711]
+                  - generic [ref=f484e713]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                  - button "Play" [ref=f484e717] [cursor=pointer]
+                - group [ref=f484e727]:
+                  - link "Preview pro Black and Purple Modern 3D Glass Pitch Deck Presentation template" [ref=f484e731] [cursor=pointer]:
+                    - /url: /templates/EAG-MyR7pJE-black-and-purple-modern-3d-glass-pitch-deck-presentation/
+                    - generic "Black and Purple Modern 3D Glass Pitch Deck Presentation" [ref=f484e736]
+                  - generic [ref=f484e738]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                  - button "Play" [ref=f484e742] [cursor=pointer]
+                - group [ref=f484e752]:
+                  - link "Preview free Blue and White Modern Business Proposal Presentation template, 11 pages" [ref=f484e756] [cursor=pointer]:
+                    - /url: /templates/EAG73U7UHDc-blue-and-white-modern-business-proposal-presentation/
+                    - generic [ref=f484e757]:
+                      - img "Blue and White Modern Business Proposal Presentation" [ref=f484e763]
+                      - generic [ref=f484e766]:
+                        - generic [ref=f484e767]: 1 of 11
+                        - generic [ref=f484e768]: 11 slides
+                - group [ref=f484e777]:
+                  - link "Preview pro Black and Blue Modern Technology Presentation template, 10 pages" [ref=f484e781] [cursor=pointer]:
+                    - /url: /templates/EAGlwLTthO0-black-and-blue-modern-technology-presentation/
+                    - generic [ref=f484e782]:
+                      - img "Black and Blue Modern Technology Presentation" [ref=f484e788]
+                      - generic [ref=f484e791]:
+                        - generic [ref=f484e792]: 1 of 10
+                        - generic [ref=f484e793]: 10 slides
+                  - generic [ref=f484e795]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e804]:
+                  - link "Preview pro Brown and Black Modern Interior Design Presentation template, 12 pages" [ref=f484e808] [cursor=pointer]:
+                    - /url: /templates/EAHJnRYGJXA-brown-and-black-modern-interior-design-presentation/
+                    - generic [ref=f484e809]:
+                      - img "Brown and Black Modern Interior Design Presentation" [ref=f484e815]
+                      - generic [ref=f484e818]:
+                        - generic [ref=f484e819]: 1 of 12
+                        - generic [ref=f484e820]: 12 slides
+                  - generic [ref=f484e822]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - group [ref=f484e831]:
+                  - link "Preview free Orange and White Modern Startup Pitch Deck Presentation template, 10 pages" [ref=f484e835] [cursor=pointer]:
+                    - /url: /templates/EAHA-Qwd-YM-orange-and-white-modern-startup-pitch-deck-presentation/
+                    - generic [ref=f484e836]:
+                      - img "Orange and White Modern Startup Pitch Deck Presentation" [ref=f484e842]
+                      - generic [ref=f484e845]:
+                        - generic [ref=f484e846]: 1 of 10
+                        - generic [ref=f484e847]: 10 slides
+                - group [ref=f484e856]:
+                  - link "Preview free Gray Black and White Modern Startup Presentation template, 10 pages" [ref=f484e860] [cursor=pointer]:
+                    - /url: /templates/EAHPWK3jBuM-gray-black-and-white-modern-startup-presentation/
+                    - generic [ref=f484e861]:
+                      - img "Gray Black and White Modern Startup Presentation" [ref=f484e867]
+                      - generic [ref=f484e870]:
+                        - generic [ref=f484e871]: 1 of 10
+                        - generic [ref=f484e872]: 10 slides
+                - group [ref=f484e881]:
+                  - link "Preview pro Blue and Black Modern Cyber Security Presentation template, 10 pages" [ref=f484e885] [cursor=pointer]:
+                    - /url: /templates/EAGtVUBL0Cc-blue-and-black-modern-cyber-security-presentation/
+                    - generic [ref=f484e886]:
+                      - img "Blue and Black Modern Cyber Security Presentation" [ref=f484e892]
+                      - generic [ref=f484e895]:
+                        - generic [ref=f484e896]: 1 of 10
+                        - generic [ref=f484e897]: 10 slides
+                  - generic [ref=f484e899]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+              - button "Next page of list" [ref=f484e902] [cursor=pointer]
+    - generic [ref=f484e904]:
+      - paragraph [ref=f484e906]:
+        - link "Skip to end of footer" [ref=f484e907] [cursor=pointer]:
+          - /url: "#_r_6_"
+      - contentinfo [ref=f484e909]:
+        - generic [ref=f484e911]:
+          - generic [ref=f484e918]:
+            - generic [ref=f484e921]:
+              - heading "Download Canva for free" [level=2] [ref=f484e923]
+              - generic [ref=f484e926]:
+                - link "Windows" [ref=f484e928] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/windows/
+                - link "Mac" [ref=f484e931] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/mac/
+            - navigation [ref=f484e935]:
+              - list [ref=f484e937]:
+                - listitem [ref=f484e938]:
+                  - heading "Product" [level=2] [ref=f484e940]
+                  - list "Product" [ref=f484e942]:
+                    - listitem [ref=f484e943]:
+                      - link "Latest launches" [ref=f484e944] [cursor=pointer]:
+                        - /url: https://www.canva.com/launches/
+                    - listitem [ref=f484e946]:
+                      - link "Visual Suite" [ref=f484e947] [cursor=pointer]:
+                        - /url: https://www.canva.com/visual-suite/
+                    - listitem [ref=f484e949]:
+                      - link "Canva AI" [ref=f484e950] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-ai/
+                    - listitem [ref=f484e952]:
+                      - link "Brand management" [ref=f484e953] [cursor=pointer]:
+                        - /url: https://www.canva.com/solutions/brand-management-tools/
+                    - listitem [ref=f484e955]:
+                      - link "Social media" [ref=f484e956] [cursor=pointer]:
+                        - /url: https://www.canva.com/social-media/
+                    - listitem [ref=f484e958]:
+                      - link "Features" [ref=f484e959] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/
+                    - listitem [ref=f484e961]:
+                      - link "Print" [ref=f484e962] [cursor=pointer]:
+                        - /url: https://www.canva.com/print/
+                    - listitem [ref=f484e964]:
+                      - link "Apps Marketplace" [ref=f484e965] [cursor=pointer]:
+                        - /url: https://www.canva.com/apps/
+                    - listitem [ref=f484e967]:
+                      - link "Affinity" [ref=f484e968] [cursor=pointer]:
+                        - /url: https://www.affinity.studio/
+                - listitem [ref=f484e973]:
+                  - heading "Plans" [level=2] [ref=f484e975]
+                  - list "Plans" [ref=f484e977]:
+                    - listitem [ref=f484e978]:
+                      - link "Pricing" [ref=f484e979] [cursor=pointer]:
+                        - /url: https://www.canva.com/pricing/
+                    - listitem [ref=f484e981]:
+                      - link "Pro" [ref=f484e982] [cursor=pointer]:
+                        - /url: https://www.canva.com/pro/
+                    - listitem [ref=f484e984]:
+                      - link "Business" [ref=f484e985] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-business/
+                    - listitem [ref=f484e987]:
+                      - link "Enterprise" [ref=f484e988] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/
+                    - listitem [ref=f484e990]:
+                      - link "Education" [ref=f484e991] [cursor=pointer]:
+                        - /url: https://www.canva.com/education/
+                    - listitem [ref=f484e993]:
+                      - link "Higher education" [ref=f484e994] [cursor=pointer]:
+                        - /url: https://www.canva.com/for-campus/
+                    - listitem [ref=f484e996]:
+                      - link "Nonprofits" [ref=f484e997] [cursor=pointer]:
+                        - /url: https://www.canva.com/nonprofits/
+                    - listitem [ref=f484e999]:
+                      - link "Contact Sales" [ref=f484e1000] [cursor=pointer]:
+                        - /url: https://www.canva.com/contact-sales/
+                - listitem [ref=f484e1002]:
+                  - heading "About" [level=2] [ref=f484e1004]
+                  - list "About" [ref=f484e1006]:
+                    - listitem [ref=f484e1007]:
+                      - link "About Canva" [ref=f484e1008] [cursor=pointer]:
+                        - /url: https://www.canva.com/about/
+                    - listitem [ref=f484e1010]:
+                      - link "Newsroom" [ref=f484e1011] [cursor=pointer]:
+                        - /url: https://www.canva.com/newsroom/news/
+                    - listitem [ref=f484e1013]:
+                      - link "Events" [ref=f484e1014] [cursor=pointer]:
+                        - /url: https://www.canva.com/events/
+                    - listitem [ref=f484e1016]:
+                      - link "Canva Originals" [ref=f484e1017] [cursor=pointer]:
+                        - /url: https://shop.canva.com/
+                    - listitem [ref=f484e1019]:
+                      - link "Careers" [ref=f484e1020] [cursor=pointer]:
+                        - /url: https://www.lifeatcanva.com/en
+                    - listitem [ref=f484e1025]:
+                      - link "Social impact" [ref=f484e1026] [cursor=pointer]:
+                        - /url: https://www.canva.com/step-two/
+                    - listitem [ref=f484e1028]:
+                      - link "Sustainability" [ref=f484e1029] [cursor=pointer]:
+                        - /url: https://www.canva.com/sustainability/
+                    - listitem [ref=f484e1031]:
+                      - link "Case studies" [ref=f484e1032] [cursor=pointer]:
+                        - /url: https://www.canva.com/case-studies/
+                - listitem [ref=f484e1034]:
+                  - heading "Community" [level=2] [ref=f484e1036]
+                  - list "Community" [ref=f484e1038]:
+                    - listitem [ref=f484e1039]:
+                      - link "Canva Communities" [ref=f484e1040] [cursor=pointer]:
+                        - /url: https://www.canva.com/community/
+                    - listitem [ref=f484e1042]:
+                      - link "Creators" [ref=f484e1043] [cursor=pointer]:
+                        - /url: https://www.canva.com/creators/
+                    - listitem [ref=f484e1045]:
+                      - link "Affiliates" [ref=f484e1046] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/canva-affiliate-marketing-program/
+                    - listitem [ref=f484e1048]:
+                      - link "Canva Represents Fund" [ref=f484e1049] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-represents/
+                    - listitem [ref=f484e1051]:
+                      - link "Content partners" [ref=f484e1052] [cursor=pointer]:
+                        - /url: https://www.canva.com/partners/content/
+                    - listitem [ref=f484e1054]:
+                      - link "Business partner directory" [ref=f484e1055] [cursor=pointer]:
+                        - /url: https://partners.canva.com/directory/
+                    - listitem [ref=f484e1057]:
+                      - link "Canva Developers" [ref=f484e1058] [cursor=pointer]:
+                        - /url: https://www.canva.com/developers/
+                - listitem [ref=f484e1063]:
+                  - heading "Inspiration" [level=2] [ref=f484e1065]
+                  - list "Inspiration" [ref=f484e1067]:
+                    - listitem [ref=f484e1068]:
+                      - link "Design Trends" [ref=f484e1069] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-trends/
+                    - listitem [ref=f484e1071]:
+                      - link "AI creativity podcast" [ref=f484e1072] [cursor=pointer]:
+                        - /url: https://promptedpodcast.com/
+                    - listitem [ref=f484e1077]:
+                      - link "Learn blog" [ref=f484e1078] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/
+                    - listitem [ref=f484e1080]:
+                      - link "Templates Marketplace" [ref=f484e1081] [cursor=pointer]:
+                        - /url: https://www.canva.com/templates/
+                    - listitem [ref=f484e1083]:
+                      - link "Font pairing" [ref=f484e1084] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+                    - listitem [ref=f484e1086]:
+                      - link "Color wheel" [ref=f484e1087] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-wheel/
+                    - listitem [ref=f484e1089]:
+                      - link "Colors" [ref=f484e1090] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/
+                    - listitem [ref=f484e1092]:
+                      - link "Color palette generator" [ref=f484e1093] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-palette-generator/
+                - listitem [ref=f484e1095]:
+                  - heading "Help" [level=2] [ref=f484e1097]
+                  - list "Help" [ref=f484e1099]:
+                    - listitem [ref=f484e1100]:
+                      - link "Help Center" [ref=f484e1101] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/
+                    - listitem [ref=f484e1103]:
+                      - link "Security" [ref=f484e1104] [cursor=pointer]:
+                        - /url: https://www.canva.com/security/
+                    - listitem [ref=f484e1106]:
+                      - link "Trust Center" [ref=f484e1107] [cursor=pointer]:
+                        - /url: https://www.canva.com/trust/
+                    - listitem [ref=f484e1109]:
+                      - link "Canva Safe AI" [ref=f484e1110] [cursor=pointer]:
+                        - /url: https://www.canva.com/safe-ai-canva-shield/
+                    - listitem [ref=f484e1112]:
+                      - link "Accessibility" [ref=f484e1113] [cursor=pointer]:
+                        - /url: https://www.canva.com/accessibility/
+                    - listitem [ref=f484e1115]:
+                      - link "Enterprise services" [ref=f484e1116] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/professional-services/
+                    - listitem [ref=f484e1118]:
+                      - link "Design School" [ref=f484e1119] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-school/
+                    - listitem [ref=f484e1124]:
+                      - link "Sitemap" [ref=f484e1125] [cursor=pointer]:
+                        - /url: https://www.canva.com/sitemap/
+                - listitem [ref=f484e1127]:
+                  - heading "Tools" [level=2] [ref=f484e1129]
+                  - list "Tools" [ref=f484e1131]:
+                    - listitem [ref=f484e1132]:
+                      - link "QR code generator" [ref=f484e1133] [cursor=pointer]:
+                        - /url: https://www.canva.com/qr-code-generator/
+                    - listitem [ref=f484e1135]:
+                      - link "AI logo generator" [ref=f484e1136] [cursor=pointer]:
+                        - /url: https://www.canva.com/ai-logo-generator/
+                    - listitem [ref=f484e1138]:
+                      - link "Signature generator" [ref=f484e1139] [cursor=pointer]:
+                        - /url: https://www.canva.com/signature-generator/
+                    - listitem [ref=f484e1141]:
+                      - link "Business name generator" [ref=f484e1142] [cursor=pointer]:
+                        - /url: https://www.canva.com/business-name-generator/
+                    - listitem [ref=f484e1144]:
+                      - link "PDF converter" [ref=f484e1145] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-converter/
+                    - listitem [ref=f484e1147]:
+                      - link "PDF to JPG converter" [ref=f484e1148] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-to-jpg-converter/
+                    - listitem [ref=f484e1150]:
+                      - link "JPG to PDF converter" [ref=f484e1151] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/jpg-to-pdf-converter/
+                    - listitem [ref=f484e1153]:
+                      - link "Graph maker" [ref=f484e1154] [cursor=pointer]:
+                        - /url: https://www.canva.com/graphs/
+          - generic [ref=f484e1158]:
+            - generic [ref=f484e1165]:
+              - link "LinkedIn" [ref=f484e1167] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/canva
+                - generic: (opens in a new tab or window)
+              - link "Instagram" [ref=f484e1171] [cursor=pointer]:
+                - /url: https://www.instagram.com/canva/
+                - generic: (opens in a new tab or window)
+              - link "Facebook" [ref=f484e1175] [cursor=pointer]:
+                - /url: https://www.facebook.com/canva
+                - generic: (opens in a new tab or window)
+              - link "TikTok" [ref=f484e1179] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@canva
+                - generic: (opens in a new tab or window)
+              - link "Pinterest" [ref=f484e1183] [cursor=pointer]:
+                - /url: https://au.pinterest.com/canva/
+                - generic: (opens in a new tab or window)
+              - link "X" [ref=f484e1187] [cursor=pointer]:
+                - /url: https://x.com/canva
+                - generic: (opens in a new tab or window)
+              - link "YouTube" [ref=f484e1191] [cursor=pointer]:
+                - /url: https://www.youtube.com/@canva
+                - generic: (opens in a new tab or window)
+            - generic [ref=f484e1196]:
+              - generic [ref=f484e1200]:
+                - link "Privacy" [ref=f484e1202] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/privacy-policy/
+                - link "Terms" [ref=f484e1206] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/terms-of-use/
+              - paragraph [ref=f484e1211]: © 2026 All Rights Reserved
+      - paragraph [ref=f484e1213]:
+        - link "Skip to start of footer" [ref=f484e1214] [cursor=pointer]:
+          - /url: "#_r_5_"

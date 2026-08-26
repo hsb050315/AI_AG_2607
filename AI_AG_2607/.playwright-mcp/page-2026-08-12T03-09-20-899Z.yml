@@ -1,0 +1,64 @@
+- generic [ref=f67e2]:
+  - link "본문 바로가기" [ref=f67e3] [cursor=pointer]:
+    - /url: "#content"
+  - main [ref=f67e5]:
+    - banner [ref=f67e6]:
+      - link [ref=f67e9] [cursor=pointer]:
+        - /url: https://www.naver.com
+        - heading "네이버" [level=1] [ref=f67e10]
+    - generic [ref=f67e12]:
+      - generic [ref=f67e13]:
+        - list [ref=f67e14]:
+          - listitem [ref=f67e15]:
+            - generic [ref=f67e16]:
+              - generic: 아이디 또는 전화번호
+              - textbox "아이디 또는 전화번호" [active] [ref=f67e18]:
+                - /placeholder: ""
+          - listitem [ref=f67e20]:
+            - generic [ref=f67e21]:
+              - generic: 비밀번호
+              - textbox "비밀번호" [ref=f67e23]
+        - generic [ref=f67e26]:
+          - generic [ref=f67e27]:
+            - checkbox "로그인 상태 유지" [ref=f67e28] [cursor=pointer]
+            - generic [ref=f67e29] [cursor=pointer]: 로그인 상태 유지
+          - generic [ref=f67e30]:
+            - generic [ref=f67e31]: IP 보안
+            - generic [ref=f67e32]:
+              - switch "IP 보안" [checked]
+              - generic [ref=f67e33] [cursor=pointer]: "ON"
+        - list [ref=f67e36]:
+          - listitem [ref=f67e37]:
+            - button "로그인" [ref=f67e38] [cursor=pointer]
+        - list [ref=f67e41]:
+          - listitem [ref=f67e42]:
+            - link "QR 코드 로그인" [ref=f67e43] [cursor=pointer]:
+              - /url: "#none"
+          - listitem [ref=f67e45]:
+            - link "일회용 번호 로그인" [ref=f67e46] [cursor=pointer]:
+              - /url: "#none"
+      - list [ref=f67e49]:
+        - listitem [ref=f67e50]:
+          - link "아이디 찾기" [ref=f67e51] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routeIdInquiry&lang=ko_KR
+        - listitem [ref=f67e53]:
+          - link "비밀번호 찾기" [ref=f67e54] [cursor=pointer]:
+            - /url: https://nid.naver.com/user2/api/route?m=routePwInquiry&lang=ko_KR
+        - listitem [ref=f67e56]:
+          - link "회원가입" [ref=f67e57] [cursor=pointer]:
+            - /url: https://nid.naver.com/account/signup?lang=ko_KR&realname=N&rurl=https%3A%2F%2Fsection.blog.naver.com%2FBlogHome.naver%3FdirectoryNo%3D0%26currentPage%3D1%26groupId%3D0
+      - iframe [ref=f67e62]:
+        - link [ref=f68e4] [cursor=pointer]:
+          - /url: https://tivan.naver.com/gc/101/wXJ_dU3Icz0kJFUYV9nr0OZRDSiH2oX1DWcUl7oR9FmH7_rDTQgHtGo5thsZ-O-DGjMQ0Mgy3RXPJv_A3omx13cfgz1M1eU154F1aasSBoVtu-6ST3pnBzMA2-JycGI2WYVxS0vkqt80l6ymm1u7rmLM0ucHgETFXdpiRCj1tYjuiMKsXZ7y20juZExFEmDJ0thtO_8X1HbRLSxBQ1Y1fTrzRKNamcFpbkvyTngSgBnEsME7PbI73JVK4hbyiGyX_LRvf04_jYMR9zGC_PWSCOqGNIM1ret2MaD26-ZsNhlXPVaNlw5uzAp2gC0OEXGF3xK74PhGMsKIyi80G15V3CInwGe1XxoxY9T5xH4ZBV0e-C2ssx2OGusnKIuntYbgnA3AIlp5LPOlBCfCHznkre2DFd9S7WFTuqhREDJ0lNTJh11JiQqikmMmlgVlavbgIW40EY6r2fXOhpVj9xIM1c-1M__IEhFTqm3yZIX3tyUfEvvjzceZnTZAVg_ROxveKaDIw-bONGi36STbyEvv1cpMAi1ndvJ9747loboig3ueVUc6vFzH2aasm2Ir9rhkNxEnnAPX_KIUWkI3N0xUG6E4GR5MwyQPl44VvcxIfb_uxP8BsAHuFILClZtdUuxaJJr8agBADlGaVV8R6H6SFryUJ7t1PLGg2zYJ82KaVB3rx00iC63_OkNkLvBCweyJzFwEyKspqI784z1vABiJWDc-X55djMmgd3QYtDQx6hQDSbCys_YIV5l_25A55oW5LgHAp_7ChZweVh1F0iCTkQqHBD1ef9ukMPv9jvhPRgEuvi_iUyA93aT5PPs6WfrK2rMshGhXY5vu9G7xpptz2JOb6VYFkj58Hie8mZnwZDp8_YQZ5tHJ3BrkQL_rHTfGGXsiDsrAvc9iXFV5bc-Ms3pYe7wLkj6B3DfvKJPCLWH2gf0VMJLpRO29TeKTiPmEZvb-bYdQJ1WgQakm0qxs6B0rBS7ewbYFhcoWQkYCtT_SQj27sVf57QaBtzJO4U9uUZI89RHCmvJOeRaT_cNafq3kC-3UIUIjGkwBhm1Zq9pGzhi9ZHY-0C8rKMuLsva1pXQxGiaevaReZuvyVNsF78JpSqQXLRcCjr4V-4UkTds/NE
+          - img "하루 10분씩 클립보면 최대 500,000 피드코인 적립! 클립에서 미션 시작하기" [ref=f68e5]
+    - generic [ref=f67e63]:
+      - contentinfo [ref=f67e64]:
+        - listitem [ref=f67e65]:
+          - link "스마트봇 상담" [ref=f67e66] [cursor=pointer]:
+            - /url: https://nca.naver.com/chat/account/view
+        - listitem [ref=f67e67]:
+          - link "고객센터" [ref=f67e68] [cursor=pointer]:
+            - /url: https://help.naver.com/service/5640/category/bookmark?lang=ko
+        - listitem [ref=f67e69]:
+          - listbox "언어선택" [ref=f67e70] [cursor=pointer]: 한국어
+      - generic [ref=f67e71]: © NAVER Corp.

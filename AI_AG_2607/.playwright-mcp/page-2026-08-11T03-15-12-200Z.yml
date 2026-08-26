@@ -1,0 +1,934 @@
+- generic [active] [ref=f487e1]:
+  - generic [ref=f487e3]: Loading
+  - generic [ref=f487e5]:
+    - paragraph [ref=f487e7]:
+      - link "Skip to main content" [ref=f487e8] [cursor=pointer]:
+        - /url: "#_r_0_"
+    - banner [ref=f487e11]:
+      - generic [ref=f487e15]:
+        - link "Canva home" [ref=f487e18] [cursor=pointer]:
+          - /url: https://www.canva.com/
+        - navigation [ref=f487e25]:
+          - list [ref=f487e26]:
+            - listitem [ref=f487e27]:
+              - button "Design" [ref=f487e28] [cursor=pointer]
+            - listitem [ref=f487e30]:
+              - button "Product" [ref=f487e31] [cursor=pointer]
+            - listitem [ref=f487e33]:
+              - button "Plans" [ref=f487e34] [cursor=pointer]
+            - listitem [ref=f487e36]:
+              - button "Business" [ref=f487e37] [cursor=pointer]
+            - listitem [ref=f487e39]:
+              - button "Education" [ref=f487e40] [cursor=pointer]
+            - listitem [ref=f487e42]:
+              - button "Help" [ref=f487e43] [cursor=pointer]
+        - generic [ref=f487e47]:
+          - button "Sign up" [ref=f487e49] [cursor=pointer]
+          - button "Log in" [ref=f487e51] [cursor=pointer]
+    - main [ref=f487e53]:
+      - navigation "Breadcrumb" [ref=f487e55]:
+        - list [ref=f487e56]:
+          - listitem [ref=f487e57]:
+            - link "Home" [ref=f487e58] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f487e60]
+          - listitem [ref=f487e61]:
+            - link "Templates" [ref=f487e62] [cursor=pointer]:
+              - /url: /templates/
+          - listitem [ref=f487e64]
+          - listitem [ref=f487e65]:
+            - generic [ref=f487e66]: Creative Portfolio Presentation Texture
+      - generic [ref=f487e67]:
+        - generic [ref=f487e78]:
+          - heading "Creative Portfolio Presentation Texture templates" [level=1] [ref=f487e79]
+          - paragraph [ref=f487e80]: Browse high quality Creative Portfolio Presentation Texture templates for your next design
+        - generic [ref=f487e86]:
+          - search [ref=f487e91]:
+            - generic [ref=f487e94]:
+              - generic [ref=f487e97]:
+                - combobox "Search" [ref=f487e99]: creative portfolio presentation texture
+                - button "Clear" [ref=f487e102] [cursor=pointer]
+              - button "Submit Search" [ref=f487e105]
+          - generic [ref=f487e109]:
+            - generic [ref=f487e111]:
+              - generic [ref=f487e112]:
+                - generic [ref=f487e115]:
+                  - group [ref=f487e117]:
+                    - link "Preview free Blue and White Playful Retro Creative Portfolio Presentation template, 10 pages" [ref=f487e121] [cursor=pointer]:
+                      - /url: /templates/EAGyQqqVP6Y-blue-and-white-playful-retro-creative-portfolio-presentation/
+                      - generic [ref=f487e123]:
+                        - img "Blue and White Playful Retro Creative Portfolio Presentation" [ref=f487e128]
+                        - generic [ref=f487e131]:
+                          - generic [ref=f487e132]: 1 of 10
+                          - generic [ref=f487e133]: 10 slides
+                  - paragraph [ref=f487e136]:
+                    - link "Blue and White Playful Retro Creative Portfolio Presentation" [ref=f487e137] [cursor=pointer]:
+                      - /url: /templates/EAGyQqqVP6Y-blue-and-white-playful-retro-creative-portfolio-presentation/
+                - generic [ref=f487e140]:
+                  - group [ref=f487e142]:
+                    - link "Preview free Green White and Pink Playful Portfolio Creative Presentation template, 15 pages" [ref=f487e146] [cursor=pointer]:
+                      - /url: /templates/EAHKSKVVuyg-green-white-and-pink-playful-portfolio-creative-presentation/
+                      - generic [ref=f487e148]:
+                        - img "Green White and Pink Playful Portfolio Creative Presentation" [ref=f487e153]
+                        - generic [ref=f487e156]:
+                          - generic [ref=f487e157]: 1 of 15
+                          - generic [ref=f487e158]: 15 slides
+                  - paragraph [ref=f487e161]:
+                    - link "Green White and Pink Playful Portfolio Creative Presentation" [ref=f487e162] [cursor=pointer]:
+                      - /url: /templates/EAHKSKVVuyg-green-white-and-pink-playful-portfolio-creative-presentation/
+                - generic [ref=f487e165]:
+                  - group [ref=f487e167]:
+                    - link "Preview free Orange and White Textured Portfolio Presentation template, 10 pages" [ref=f487e171] [cursor=pointer]:
+                      - /url: /templates/EAG3wxiz3fA-orange-and-white-textured-portfolio-presentation/
+                      - generic [ref=f487e173]:
+                        - img "Orange and White Textured Portfolio Presentation" [ref=f487e179]
+                        - generic [ref=f487e182]:
+                          - generic [ref=f487e183]: 1 of 10
+                          - generic [ref=f487e184]: 10 slides
+                  - paragraph [ref=f487e187]:
+                    - link "Orange and White Textured Portfolio Presentation" [ref=f487e188] [cursor=pointer]:
+                      - /url: /templates/EAG3wxiz3fA-orange-and-white-textured-portfolio-presentation/
+                - generic [ref=f487e191]:
+                  - group [ref=f487e193]:
+                    - link "Preview free Beige Minimal Creative Portfolio Presentation template, 15 pages" [ref=f487e197] [cursor=pointer]:
+                      - /url: /templates/EAE9yLL4-UM-beige-minimal-creative-portfolio-presentation/
+                      - generic [ref=f487e199]:
+                        - img "Beige Minimal Creative Portfolio Presentation" [ref=f487e205]
+                        - generic [ref=f487e208]:
+                          - generic [ref=f487e209]: 1 of 15
+                          - generic [ref=f487e210]: 15 slides
+                  - paragraph [ref=f487e213]:
+                    - link "Beige Minimal Creative Portfolio Presentation" [ref=f487e214] [cursor=pointer]:
+                      - /url: /templates/EAE9yLL4-UM-beige-minimal-creative-portfolio-presentation/
+                - generic [ref=f487e217]:
+                  - group [ref=f487e219]:
+                    - link "Preview free Cream and Beige Gradient Creative Portfolio Presentation template, 10 pages" [ref=f487e223] [cursor=pointer]:
+                      - /url: /templates/EAGTqjoZ9-E-cream-and-beige-gradient-creative-portfolio-presentation/
+                      - generic [ref=f487e225]:
+                        - img "Cream and Beige Gradient Creative Portfolio Presentation" [ref=f487e231]
+                        - generic [ref=f487e234]:
+                          - generic [ref=f487e235]: 1 of 10
+                          - generic [ref=f487e236]: 10 slides
+                  - paragraph [ref=f487e239]:
+                    - link "Cream and Beige Gradient Creative Portfolio Presentation" [ref=f487e240] [cursor=pointer]:
+                      - /url: /templates/EAGTqjoZ9-E-cream-and-beige-gradient-creative-portfolio-presentation/
+                - generic [ref=f487e243]:
+                  - group [ref=f487e245]:
+                    - link "Preview free Red and White Minimalist Creative Portfolio Presentation template, 15 pages" [ref=f487e249] [cursor=pointer]:
+                      - /url: /templates/EAG_sTAWUNs-red-and-white-minimalist-creative-portfolio-presentation/
+                      - generic [ref=f487e251]:
+                        - img "Red and White Minimalist Creative Portfolio Presentation" [ref=f487e257]
+                        - generic [ref=f487e260]:
+                          - generic [ref=f487e261]: 1 of 15
+                          - generic [ref=f487e262]: 15 slides
+                  - paragraph [ref=f487e265]:
+                    - link "Red and White Minimalist Creative Portfolio Presentation" [ref=f487e266] [cursor=pointer]:
+                      - /url: /templates/EAG_sTAWUNs-red-and-white-minimalist-creative-portfolio-presentation/
+                - generic [ref=f487e269]:
+                  - group [ref=f487e271]:
+                    - link "Preview free Navy and Purple Illustrative Creative Portfolio Presentation template" [ref=f487e275] [cursor=pointer]:
+                      - /url: /templates/EAGnmgk3jyU-navy-and-purple-illustrative-creative-portfolio-presentation/
+                      - generic "Navy and Purple Illustrative Creative Portfolio Presentation" [ref=f487e280]
+                    - button "Play" [ref=f487e284] [cursor=pointer]
+                  - paragraph [ref=f487e288]:
+                    - link "Navy and Purple Illustrative Creative Portfolio Presentation" [ref=f487e289] [cursor=pointer]:
+                      - /url: /templates/EAGnmgk3jyU-navy-and-purple-illustrative-creative-portfolio-presentation/
+                - generic [ref=f487e292]:
+                  - group [ref=f487e294]:
+                    - link "Preview free Brown and Beige Vintage Watercolor Creative Portfolio Presentation template, 18 pages" [ref=f487e298] [cursor=pointer]:
+                      - /url: /templates/EAHB7BSC8TM-brown-and-beige-vintage-watercolor-creative-portfolio-presentation/
+                      - generic [ref=f487e300]:
+                        - img "Brown and Beige Vintage Watercolor Creative Portfolio Presentation" [ref=f487e306]
+                        - generic [ref=f487e309]:
+                          - generic [ref=f487e310]: 1 of 18
+                          - generic [ref=f487e311]: 18 slides
+                  - paragraph [ref=f487e314]:
+                    - link "Brown and Beige Vintage Watercolor Creative Portfolio Presentation" [ref=f487e315] [cursor=pointer]:
+                      - /url: /templates/EAHB7BSC8TM-brown-and-beige-vintage-watercolor-creative-portfolio-presentation/
+                - generic [ref=f487e318]:
+                  - group [ref=f487e320]:
+                    - link "Preview free Teal Modern Creative Portfolio Presentation template, 10 pages" [ref=f487e324] [cursor=pointer]:
+                      - /url: /templates/EAHI_WtQs9Q-teal-modern-creative-portfolio-presentation/
+                      - generic [ref=f487e326]:
+                        - img "Teal Modern Creative Portfolio Presentation" [ref=f487e332]
+                        - generic [ref=f487e335]:
+                          - generic [ref=f487e336]: 1 of 10
+                          - generic [ref=f487e337]: 10 slides
+                  - paragraph [ref=f487e340]:
+                    - link "Teal Modern Creative Portfolio Presentation" [ref=f487e341] [cursor=pointer]:
+                      - /url: /templates/EAHI_WtQs9Q-teal-modern-creative-portfolio-presentation/
+                - generic [ref=f487e344]:
+                  - group [ref=f487e346]:
+                    - link "Preview free White and Blue Geometric Creative Portfolio Presentation template, 10 pages" [ref=f487e350] [cursor=pointer]:
+                      - /url: /templates/EAGcLksCQ9Y-white-and-blue-geometric-creative-portfolio-presentation/
+                      - generic [ref=f487e352]:
+                        - img "White and Blue Geometric Creative Portfolio Presentation" [ref=f487e358]
+                        - generic [ref=f487e361]:
+                          - generic [ref=f487e362]: 1 of 10
+                          - generic [ref=f487e363]: 10 slides
+                  - paragraph [ref=f487e366]:
+                    - link "White and Blue Geometric Creative Portfolio Presentation" [ref=f487e367] [cursor=pointer]:
+                      - /url: /templates/EAGcLksCQ9Y-white-and-blue-geometric-creative-portfolio-presentation/
+                - generic [ref=f487e370]:
+                  - group [ref=f487e372]:
+                    - link "Preview free Purple Geometric Creative Portfolio Presentation template, 11 pages" [ref=f487e376] [cursor=pointer]:
+                      - /url: /templates/EAGaSjLUcWk-purple-geometric-creative-portfolio-presentation/
+                      - generic [ref=f487e378]:
+                        - img "Purple Geometric Creative Portfolio Presentation" [ref=f487e384]
+                        - generic [ref=f487e387]:
+                          - generic [ref=f487e388]: 1 of 11
+                          - generic [ref=f487e389]: 11 slides
+                  - paragraph [ref=f487e392]:
+                    - link "Purple Geometric Creative Portfolio Presentation" [ref=f487e393] [cursor=pointer]:
+                      - /url: /templates/EAGaSjLUcWk-purple-geometric-creative-portfolio-presentation/
+                - generic [ref=f487e396]:
+                  - group [ref=f487e398]:
+                    - link "Preview free Beige Modern Creative Portfolio Presentation template, 10 pages" [ref=f487e402] [cursor=pointer]:
+                      - /url: /templates/EAG3NgoDB14-beige-modern-creative-portfolio-presentation/
+                      - generic [ref=f487e404]:
+                        - img "Beige Modern Creative Portfolio Presentation" [ref=f487e410]
+                        - generic [ref=f487e413]:
+                          - generic [ref=f487e414]: 1 of 10
+                          - generic [ref=f487e415]: 10 slides
+                  - paragraph [ref=f487e418]:
+                    - link "Beige Modern Creative Portfolio Presentation" [ref=f487e419] [cursor=pointer]:
+                      - /url: /templates/EAG3NgoDB14-beige-modern-creative-portfolio-presentation/
+                - generic [ref=f487e422]:
+                  - group [ref=f487e424]:
+                    - link "Preview free Modern and Elegant Creative Portfolio Presentation template, 15 pages" [ref=f487e428] [cursor=pointer]:
+                      - /url: /templates/EAFU2avtkqg-modern-and-elegant-creative-portfolio-presentation/
+                      - generic [ref=f487e430]:
+                        - img "Modern and Elegant Creative Portfolio Presentation" [ref=f487e436]
+                        - generic [ref=f487e439]:
+                          - generic [ref=f487e440]: 1 of 15
+                          - generic [ref=f487e441]: 15 slides
+                  - paragraph [ref=f487e444]:
+                    - link "Modern and Elegant Creative Portfolio Presentation" [ref=f487e445] [cursor=pointer]:
+                      - /url: /templates/EAFU2avtkqg-modern-and-elegant-creative-portfolio-presentation/
+                - generic [ref=f487e448]:
+                  - group [ref=f487e450]:
+                    - link "Preview free Brown Simple Creative Portfolio Presentation template, 10 pages" [ref=f487e454] [cursor=pointer]:
+                      - /url: /templates/EAGpYMGIoQU-brown-simple-creative-portfolio-presentation/
+                      - generic [ref=f487e456]:
+                        - img "Brown Simple Creative Portfolio Presentation" [ref=f487e462]
+                        - generic [ref=f487e465]:
+                          - generic [ref=f487e466]: 1 of 10
+                          - generic [ref=f487e467]: 10 slides
+                  - paragraph [ref=f487e470]:
+                    - link "Brown Simple Creative Portfolio Presentation" [ref=f487e471] [cursor=pointer]:
+                      - /url: /templates/EAGpYMGIoQU-brown-simple-creative-portfolio-presentation/
+                - generic [ref=f487e474]:
+                  - group [ref=f487e476]:
+                    - link "Preview free Minimal and Creative Product Portfolio Presentation template, 14 pages" [ref=f487e480] [cursor=pointer]:
+                      - /url: /templates/EAFVfJeRuE4-minimal-and-creative-product-portfolio-presentation/
+                      - generic [ref=f487e482]:
+                        - img "Minimal and Creative Product Portfolio Presentation" [ref=f487e488]
+                        - generic [ref=f487e491]:
+                          - generic [ref=f487e492]: 1 of 14
+                          - generic [ref=f487e493]: 14 slides
+                  - paragraph [ref=f487e496]:
+                    - link "Minimal and Creative Product Portfolio Presentation" [ref=f487e497] [cursor=pointer]:
+                      - /url: /templates/EAFVfJeRuE4-minimal-and-creative-product-portfolio-presentation/
+                - generic [ref=f487e500]:
+                  - group [ref=f487e502]:
+                    - link "Preview free Pink Pastel Floral Cute Creative Portfolio Presentation template" [ref=f487e506] [cursor=pointer]:
+                      - /url: /templates/EAG0mN40kSg-pink-pastel-floral-cute-creative-portfolio-presentation/
+                      - generic "Pink Pastel Floral Cute Creative Portfolio Presentation" [ref=f487e511]
+                    - button "Play" [ref=f487e515] [cursor=pointer]
+                  - paragraph [ref=f487e519]:
+                    - link "Pink Pastel Floral Cute Creative Portfolio Presentation" [ref=f487e520] [cursor=pointer]:
+                      - /url: /templates/EAG0mN40kSg-pink-pastel-floral-cute-creative-portfolio-presentation/
+                - generic [ref=f487e523]:
+                  - group [ref=f487e525]:
+                    - link "Preview free Black and White Modern Creative Portfolio Presentation template, 10 pages" [ref=f487e529] [cursor=pointer]:
+                      - /url: /templates/EAHITeun1UY-black-and-white-modern-creative-portfolio-presentation/
+                      - generic [ref=f487e531]:
+                        - img "Black and White Modern Creative Portfolio Presentation" [ref=f487e537]
+                        - generic [ref=f487e540]:
+                          - generic [ref=f487e541]: 1 of 10
+                          - generic [ref=f487e542]: 10 slides
+                  - paragraph [ref=f487e545]:
+                    - link "Black and White Modern Creative Portfolio Presentation" [ref=f487e546] [cursor=pointer]:
+                      - /url: /templates/EAHITeun1UY-black-and-white-modern-creative-portfolio-presentation/
+                - generic [ref=f487e549]:
+                  - group [ref=f487e551]:
+                    - link "Preview free Brown Vintage Minimalist Creative Portfolio Presentation template, 11 pages" [ref=f487e555] [cursor=pointer]:
+                      - /url: /templates/EAGRF5GhVHs-brown-vintage-minimalist-creative-portfolio-presentation/
+                      - generic [ref=f487e557]:
+                        - img "Brown Vintage Minimalist Creative Portfolio Presentation" [ref=f487e563]
+                        - generic [ref=f487e566]:
+                          - generic [ref=f487e567]: 1 of 11
+                          - generic [ref=f487e568]: 11 slides
+                  - paragraph [ref=f487e571]:
+                    - link "Brown Vintage Minimalist Creative Portfolio Presentation" [ref=f487e572] [cursor=pointer]:
+                      - /url: /templates/EAGRF5GhVHs-brown-vintage-minimalist-creative-portfolio-presentation/
+              - generic [ref=f487e573]:
+                - generic [ref=f487e576]:
+                  - group [ref=f487e578]:
+                    - link "Preview free Gray White Vintage Artistic Clean Creative Portfolio Presentation template, 10 pages" [ref=f487e582] [cursor=pointer]:
+                      - /url: /templates/EAHHX5w9PB8-gray-white-vintage-artistic-clean-creative-portfolio-presentation/
+                      - generic [ref=f487e584]:
+                        - img "Gray White Vintage Artistic Clean Creative Portfolio Presentation" [ref=f487e589]
+                        - generic [ref=f487e592]:
+                          - generic [ref=f487e593]: 1 of 10
+                          - generic [ref=f487e594]: 10 slides
+                  - paragraph [ref=f487e597]:
+                    - link "Gray White Vintage Artistic Clean Creative Portfolio Presentation" [ref=f487e598] [cursor=pointer]:
+                      - /url: /templates/EAHHX5w9PB8-gray-white-vintage-artistic-clean-creative-portfolio-presentation/
+                - generic [ref=f487e601]:
+                  - group [ref=f487e603]:
+                    - link "Preview free Brown Scrapbook Creative Portfolio Presentation template, 14 pages" [ref=f487e607] [cursor=pointer]:
+                      - /url: /templates/EAHA0FRGztk-brown-scrapbook-creative-portfolio-presentation/
+                      - generic [ref=f487e609]:
+                        - img "Brown Scrapbook Creative Portfolio Presentation" [ref=f487e614]
+                        - generic [ref=f487e617]:
+                          - generic [ref=f487e618]: 1 of 14
+                          - generic [ref=f487e619]: 14 slides
+                  - paragraph [ref=f487e622]:
+                    - link "Brown Scrapbook Creative Portfolio Presentation" [ref=f487e623] [cursor=pointer]:
+                      - /url: /templates/EAHA0FRGztk-brown-scrapbook-creative-portfolio-presentation/
+                - generic [ref=f487e626]:
+                  - group [ref=f487e628]:
+                    - link "Preview free Vintage Beige Brown Textured Creative Portfolio Presentation template, 10 pages" [ref=f487e632] [cursor=pointer]:
+                      - /url: /templates/EAHD8Tlq0e8-vintage-beige-brown-textured-creative-portfolio-presentation/
+                      - generic [ref=f487e634]:
+                        - img "Vintage Beige Brown Textured Creative Portfolio Presentation" [ref=f487e640]
+                        - generic [ref=f487e643]:
+                          - generic [ref=f487e644]: 1 of 10
+                          - generic [ref=f487e645]: 10 slides
+                  - paragraph [ref=f487e648]:
+                    - link "Vintage Beige Brown Textured Creative Portfolio Presentation" [ref=f487e649] [cursor=pointer]:
+                      - /url: /templates/EAHD8Tlq0e8-vintage-beige-brown-textured-creative-portfolio-presentation/
+                - generic [ref=f487e652]:
+                  - group [ref=f487e654]:
+                    - link "Preview free Purple Modern Creative Portfolio Presentation template, 10 pages" [ref=f487e658] [cursor=pointer]:
+                      - /url: /templates/EAGy-0OLhvg-purple-modern-creative-portfolio-presentation/
+                      - generic [ref=f487e660]:
+                        - img "Purple Modern Creative Portfolio Presentation" [ref=f487e666]
+                        - generic [ref=f487e669]:
+                          - generic [ref=f487e670]: 1 of 10
+                          - generic [ref=f487e671]: 10 slides
+                  - paragraph [ref=f487e674]:
+                    - link "Purple Modern Creative Portfolio Presentation" [ref=f487e675] [cursor=pointer]:
+                      - /url: /templates/EAGy-0OLhvg-purple-modern-creative-portfolio-presentation/
+                - generic [ref=f487e678]:
+                  - group [ref=f487e680]:
+                    - link "Preview free White Black Minimalist Creative Portfolio Presentation template" [ref=f487e684] [cursor=pointer]:
+                      - /url: /templates/EAGLGiKS2Gc-white-black-minimalist-creative-portfolio-presentation/
+                      - generic "White Black Minimalist Creative Portfolio Presentation" [ref=f487e689]
+                    - button "Play" [ref=f487e693] [cursor=pointer]
+                  - paragraph [ref=f487e697]:
+                    - link "White Black Minimalist Creative Portfolio Presentation" [ref=f487e698] [cursor=pointer]:
+                      - /url: /templates/EAGLGiKS2Gc-white-black-minimalist-creative-portfolio-presentation/
+                - generic [ref=f487e701]:
+                  - group [ref=f487e703]:
+                    - link "Preview free Beige and Brown Minimalist Creative Portfolio Presentation template, 10 pages" [ref=f487e707] [cursor=pointer]:
+                      - /url: /templates/EAGx2FPHuBE-beige-and-brown-minimalist-creative-portfolio-presentation/
+                      - generic [ref=f487e709]:
+                        - img "Beige and Brown Minimalist Creative Portfolio Presentation" [ref=f487e715]
+                        - generic [ref=f487e718]:
+                          - generic [ref=f487e719]: 1 of 10
+                          - generic [ref=f487e720]: 10 slides
+                  - paragraph [ref=f487e723]:
+                    - link "Beige and Brown Minimalist Creative Portfolio Presentation" [ref=f487e724] [cursor=pointer]:
+                      - /url: /templates/EAGx2FPHuBE-beige-and-brown-minimalist-creative-portfolio-presentation/
+                - generic [ref=f487e727]:
+                  - group [ref=f487e729]:
+                    - link "Preview free Orange Artistic Creative Portfolio Presentation template, 10 pages" [ref=f487e733] [cursor=pointer]:
+                      - /url: /templates/EAG8Oo3wq2Q-orange-artistic-creative-portfolio-presentation/
+                      - generic [ref=f487e735]:
+                        - img "Orange Artistic Creative Portfolio Presentation" [ref=f487e741]
+                        - generic [ref=f487e744]:
+                          - generic [ref=f487e745]: 1 of 10
+                          - generic [ref=f487e746]: 10 slides
+                  - paragraph [ref=f487e749]:
+                    - link "Orange Artistic Creative Portfolio Presentation" [ref=f487e750] [cursor=pointer]:
+                      - /url: /templates/EAG8Oo3wq2Q-orange-artistic-creative-portfolio-presentation/
+                - generic [ref=f487e753]:
+                  - group [ref=f487e755]:
+                    - link "Preview free Blue and White Minimalist Creative Portfolio Presentation template, 10 pages" [ref=f487e759] [cursor=pointer]:
+                      - /url: /templates/EAHHNRo07-U-blue-and-white-minimalist-creative-portfolio-presentation/
+                      - generic [ref=f487e761]:
+                        - img "Blue and White Minimalist Creative Portfolio Presentation" [ref=f487e767]
+                        - generic [ref=f487e770]:
+                          - generic [ref=f487e771]: 1 of 10
+                          - generic [ref=f487e772]: 10 slides
+                  - paragraph [ref=f487e775]:
+                    - link "Blue and White Minimalist Creative Portfolio Presentation" [ref=f487e776] [cursor=pointer]:
+                      - /url: /templates/EAHHNRo07-U-blue-and-white-minimalist-creative-portfolio-presentation/
+                - generic [ref=f487e779]:
+                  - group [ref=f487e781]:
+                    - link "Preview free Brown Vintage Watercolor Creative Portfolio Presentation template, 14 pages" [ref=f487e785] [cursor=pointer]:
+                      - /url: /templates/EAGhWf6zhnk-brown-vintage-watercolor-creative-portfolio-presentation/
+                      - generic [ref=f487e787]:
+                        - img "Brown Vintage Watercolor Creative Portfolio Presentation" [ref=f487e793]
+                        - generic [ref=f487e796]:
+                          - generic [ref=f487e797]: 1 of 14
+                          - generic [ref=f487e798]: 14 slides
+                  - paragraph [ref=f487e801]:
+                    - link "Brown Vintage Watercolor Creative Portfolio Presentation" [ref=f487e802] [cursor=pointer]:
+                      - /url: /templates/EAGhWf6zhnk-brown-vintage-watercolor-creative-portfolio-presentation/
+                - generic [ref=f487e805]:
+                  - group [ref=f487e807]:
+                    - link "Preview free Pastel Pink Blue Creative Portfolio Presentation template, 10 pages" [ref=f487e811] [cursor=pointer]:
+                      - /url: /templates/EAGyFQpRtoI-pastel-pink-blue-creative-portfolio-presentation/
+                      - generic [ref=f487e813]:
+                        - img "Pastel Pink Blue Creative Portfolio Presentation" [ref=f487e819]
+                        - generic [ref=f487e822]:
+                          - generic [ref=f487e823]: 1 of 10
+                          - generic [ref=f487e824]: 10 slides
+                  - paragraph [ref=f487e827]:
+                    - link "Pastel Pink Blue Creative Portfolio Presentation" [ref=f487e828] [cursor=pointer]:
+                      - /url: /templates/EAGyFQpRtoI-pastel-pink-blue-creative-portfolio-presentation/
+                - generic [ref=f487e831]:
+                  - group [ref=f487e833]:
+                    - link "Preview free Brown Vintage Simple Creative Portfolio Presentation template, 11 pages" [ref=f487e837] [cursor=pointer]:
+                      - /url: /templates/EAGQXCafcas-brown-vintage-simple-creative-portfolio-presentation/
+                      - generic [ref=f487e839]:
+                        - img "Brown Vintage Simple Creative Portfolio Presentation" [ref=f487e845]
+                        - generic [ref=f487e848]:
+                          - generic [ref=f487e849]: 1 of 11
+                          - generic [ref=f487e850]: 11 slides
+                  - paragraph [ref=f487e853]:
+                    - link "Brown Vintage Simple Creative Portfolio Presentation" [ref=f487e854] [cursor=pointer]:
+                      - /url: /templates/EAGQXCafcas-brown-vintage-simple-creative-portfolio-presentation/
+                - generic [ref=f487e857]:
+                  - group [ref=f487e859]:
+                    - link "Preview free Pink Maroon Minimalist Creative Portfolio Presentation template, 12 pages" [ref=f487e863] [cursor=pointer]:
+                      - /url: /templates/EAHK9hVca1c-pink-maroon-minimalist-creative-portfolio-presentation/
+                      - generic [ref=f487e865]:
+                        - img "Pink Maroon Minimalist Creative Portfolio Presentation" [ref=f487e871]
+                        - generic [ref=f487e874]:
+                          - generic [ref=f487e875]: 1 of 12
+                          - generic [ref=f487e876]: 12 slides
+                  - paragraph [ref=f487e879]:
+                    - link "Pink Maroon Minimalist Creative Portfolio Presentation" [ref=f487e880] [cursor=pointer]:
+                      - /url: /templates/EAHK9hVca1c-pink-maroon-minimalist-creative-portfolio-presentation/
+                - generic [ref=f487e883]:
+                  - group [ref=f487e885]:
+                    - link "Preview free Colorful Illustrative Creative Portfolio Presentation template, 12 pages" [ref=f487e889] [cursor=pointer]:
+                      - /url: /templates/EAGRIh13rB4-colorful-illustrative-creative-portfolio-presentation/
+                      - generic [ref=f487e891]:
+                        - img "Colorful Illustrative Creative Portfolio Presentation" [ref=f487e897]
+                        - generic [ref=f487e900]:
+                          - generic [ref=f487e901]: 1 of 12
+                          - generic [ref=f487e902]: 12 slides
+                  - paragraph [ref=f487e905]:
+                    - link "Colorful Illustrative Creative Portfolio Presentation" [ref=f487e906] [cursor=pointer]:
+                      - /url: /templates/EAGRIh13rB4-colorful-illustrative-creative-portfolio-presentation/
+                - generic [ref=f487e909]:
+                  - group [ref=f487e911]:
+                    - link "Preview free Brown Vintage Minimalist Creative Portfolio Presentation template, 11 pages" [ref=f487e915] [cursor=pointer]:
+                      - /url: /templates/EAGQhl56JZc-brown-vintage-minimalist-creative-portfolio-presentation/
+                      - generic [ref=f487e917]:
+                        - img "Brown Vintage Minimalist Creative Portfolio Presentation" [ref=f487e923]
+                        - generic [ref=f487e926]:
+                          - generic [ref=f487e927]: 1 of 11
+                          - generic [ref=f487e928]: 11 slides
+                  - paragraph [ref=f487e931]:
+                    - link "Brown Vintage Minimalist Creative Portfolio Presentation" [ref=f487e932] [cursor=pointer]:
+                      - /url: /templates/EAGQhl56JZc-brown-vintage-minimalist-creative-portfolio-presentation/
+                - generic [ref=f487e935]:
+                  - group [ref=f487e937]:
+                    - link "Preview free Beige and Pink Illustrative Scrapbook Paper Creative Portfolio Cover A4 Document template" [ref=f487e941] [cursor=pointer]:
+                      - /url: /templates/EAGzagxO1Xo-beige-and-pink-illustrative-scrapbook-paper-creative-portfolio-cover-a4-document/
+                      - img "Beige and Pink Illustrative Scrapbook Paper Creative Portfolio Cover A4 Document" [ref=f487e945]
+                  - paragraph [ref=f487e948]:
+                    - link "Beige and Pink Illustrative Scrapbook Paper Creative Portfolio Cover A4 Document" [ref=f487e949] [cursor=pointer]:
+                      - /url: /templates/EAGzagxO1Xo-beige-and-pink-illustrative-scrapbook-paper-creative-portfolio-cover-a4-document/
+                - generic [ref=f487e952]:
+                  - group [ref=f487e954]:
+                    - link "Preview free Brown Vintage Watercolor Creative Portfolio Presentation template, 15 pages" [ref=f487e958] [cursor=pointer]:
+                      - /url: /templates/EAF9lAt3BjM-brown-vintage-watercolor-creative-portfolio-presentation/
+                      - generic [ref=f487e960]:
+                        - img "Brown Vintage Watercolor Creative Portfolio Presentation" [ref=f487e966]
+                        - generic [ref=f487e969]:
+                          - generic [ref=f487e970]: 1 of 15
+                          - generic [ref=f487e971]: 15 slides
+                  - paragraph [ref=f487e974]:
+                    - link "Brown Vintage Watercolor Creative Portfolio Presentation" [ref=f487e975] [cursor=pointer]:
+                      - /url: /templates/EAF9lAt3BjM-brown-vintage-watercolor-creative-portfolio-presentation/
+              - generic [ref=f487e976]:
+                - generic [ref=f487e979]:
+                  - group [ref=f487e981]:
+                    - link "Preview free Brown Black Watercolor Creative Portfolio Presentation template, 11 pages" [ref=f487e985] [cursor=pointer]:
+                      - /url: /templates/EAHG0DB2vO0-brown-black-watercolor-creative-portfolio-presentation/
+                      - generic [ref=f487e987]:
+                        - img "Brown Black Watercolor Creative Portfolio Presentation" [ref=f487e992]
+                        - generic [ref=f487e995]:
+                          - generic [ref=f487e996]: 1 of 11
+                          - generic [ref=f487e997]: 11 slides
+                  - paragraph [ref=f487e1000]:
+                    - link "Brown Black Watercolor Creative Portfolio Presentation" [ref=f487e1001] [cursor=pointer]:
+                      - /url: /templates/EAHG0DB2vO0-brown-black-watercolor-creative-portfolio-presentation/
+                - generic [ref=f487e1004]:
+                  - group [ref=f487e1006]:
+                    - link "Preview free Black And White Creative Artistic Portfolio Presentation template, 10 pages" [ref=f487e1010] [cursor=pointer]:
+                      - /url: /templates/EAHNLqgkzV4-black-and-white-creative-artistic-portfolio-presentation/
+                      - generic [ref=f487e1012]:
+                        - img "Black And White Creative Artistic Portfolio Presentation" [ref=f487e1018]
+                        - generic [ref=f487e1021]:
+                          - generic [ref=f487e1022]: 1 of 10
+                          - generic [ref=f487e1023]: 10 slides
+                  - paragraph [ref=f487e1026]:
+                    - link "Black And White Creative Artistic Portfolio Presentation" [ref=f487e1027] [cursor=pointer]:
+                      - /url: /templates/EAHNLqgkzV4-black-and-white-creative-artistic-portfolio-presentation/
+                - generic [ref=f487e1030]:
+                  - group [ref=f487e1032]:
+                    - link "Preview free Neutral Vintage Painting Art Creative Portfolio Presentation template, 10 pages" [ref=f487e1036] [cursor=pointer]:
+                      - /url: /templates/EAHHRuQAoeo-neutral-vintage-painting-art-creative-portfolio-presentation/
+                      - generic [ref=f487e1038]:
+                        - img "Neutral Vintage Painting Art Creative Portfolio Presentation" [ref=f487e1044]
+                        - generic [ref=f487e1047]:
+                          - generic [ref=f487e1048]: 1 of 10
+                          - generic [ref=f487e1049]: 10 slides
+                  - paragraph [ref=f487e1052]:
+                    - link "Neutral Vintage Painting Art Creative Portfolio Presentation" [ref=f487e1053] [cursor=pointer]:
+                      - /url: /templates/EAHHRuQAoeo-neutral-vintage-painting-art-creative-portfolio-presentation/
+                - generic [ref=f487e1056]:
+                  - group [ref=f487e1058]:
+                    - link "Preview free Blue Illustrated Creative Portfolio Presentation template, 10 pages" [ref=f487e1062] [cursor=pointer]:
+                      - /url: /templates/EAHNfIwBWS4-blue-illustrated-creative-portfolio-presentation/
+                      - generic [ref=f487e1064]:
+                        - img "Blue Illustrated Creative Portfolio Presentation" [ref=f487e1070]
+                        - generic [ref=f487e1073]:
+                          - generic [ref=f487e1074]: 1 of 10
+                          - generic [ref=f487e1075]: 10 slides
+                  - paragraph [ref=f487e1078]:
+                    - link "Blue Illustrated Creative Portfolio Presentation" [ref=f487e1079] [cursor=pointer]:
+                      - /url: /templates/EAHNfIwBWS4-blue-illustrated-creative-portfolio-presentation/
+                - generic [ref=f487e1082]:
+                  - group [ref=f487e1084]:
+                    - link "Preview free Brown Beige and Pink Illustrated Creative Portfolio Presentation template, 10 pages" [ref=f487e1088] [cursor=pointer]:
+                      - /url: /templates/EAGqCw_sp9g-brown-beige-and-pink-illustrated-creative-portfolio-presentation/
+                      - generic [ref=f487e1090]:
+                        - img "Brown Beige and Pink Illustrated Creative Portfolio Presentation" [ref=f487e1096]
+                        - generic [ref=f487e1099]:
+                          - generic [ref=f487e1100]: 1 of 10
+                          - generic [ref=f487e1101]: 10 slides
+                  - paragraph [ref=f487e1104]:
+                    - link "Brown Beige and Pink Illustrated Creative Portfolio Presentation" [ref=f487e1105] [cursor=pointer]:
+                      - /url: /templates/EAGqCw_sp9g-brown-beige-and-pink-illustrated-creative-portfolio-presentation/
+                - generic [ref=f487e1108]:
+                  - group [ref=f487e1110]:
+                    - link "Preview free Brown Simple Creative Portfolio Presentation template, 10 pages" [ref=f487e1114] [cursor=pointer]:
+                      - /url: /templates/EAG0gyAhZhc-brown-simple-creative-portfolio-presentation/
+                      - generic [ref=f487e1116]:
+                        - img "Brown Simple Creative Portfolio Presentation" [ref=f487e1122]
+                        - generic [ref=f487e1125]:
+                          - generic [ref=f487e1126]: 1 of 10
+                          - generic [ref=f487e1127]: 10 slides
+                  - paragraph [ref=f487e1130]:
+                    - link "Brown Simple Creative Portfolio Presentation" [ref=f487e1131] [cursor=pointer]:
+                      - /url: /templates/EAG0gyAhZhc-brown-simple-creative-portfolio-presentation/
+                - generic [ref=f487e1134]:
+                  - group [ref=f487e1136]:
+                    - link "Preview free Beige and Brown Minimalist Creative Portfolio Presentation template, 10 pages" [ref=f487e1140] [cursor=pointer]:
+                      - /url: /templates/EAGsFClN3_8-beige-and-brown-minimalist-creative-portfolio-presentation/
+                      - generic [ref=f487e1142]:
+                        - img "Beige and Brown Minimalist Creative Portfolio Presentation" [ref=f487e1148]
+                        - generic [ref=f487e1151]:
+                          - generic [ref=f487e1152]: 1 of 10
+                          - generic [ref=f487e1153]: 10 slides
+                  - paragraph [ref=f487e1156]:
+                    - link "Beige and Brown Minimalist Creative Portfolio Presentation" [ref=f487e1157] [cursor=pointer]:
+                      - /url: /templates/EAGsFClN3_8-beige-and-brown-minimalist-creative-portfolio-presentation/
+                - generic [ref=f487e1160]:
+                  - group [ref=f487e1162]:
+                    - link "Preview free Moss Green Floral Vintage Creative Portfolio Presentation template, 10 pages" [ref=f487e1166] [cursor=pointer]:
+                      - /url: /templates/EAHDRVe_EBY-moss-green-floral-vintage-creative-portfolio-presentation/
+                      - generic [ref=f487e1168]:
+                        - img "Moss Green Floral Vintage Creative Portfolio Presentation" [ref=f487e1174]
+                        - generic [ref=f487e1177]:
+                          - generic [ref=f487e1178]: 1 of 10
+                          - generic [ref=f487e1179]: 10 slides
+                  - paragraph [ref=f487e1182]:
+                    - link "Moss Green Floral Vintage Creative Portfolio Presentation" [ref=f487e1183] [cursor=pointer]:
+                      - /url: /templates/EAHDRVe_EBY-moss-green-floral-vintage-creative-portfolio-presentation/
+                - generic [ref=f487e1186]:
+                  - group [ref=f487e1188]:
+                    - link "Preview free Blue Green Watercolor Illustrated Creative Portfolio Presentation template, 11 pages" [ref=f487e1192] [cursor=pointer]:
+                      - /url: /templates/EAHENjZj9Yk-blue-green-watercolor-illustrated-creative-portfolio-presentation/
+                      - generic [ref=f487e1194]:
+                        - img "Blue Green Watercolor Illustrated Creative Portfolio Presentation" [ref=f487e1200]
+                        - generic [ref=f487e1203]:
+                          - generic [ref=f487e1204]: 1 of 11
+                          - generic [ref=f487e1205]: 11 slides
+                  - paragraph [ref=f487e1208]:
+                    - link "Blue Green Watercolor Illustrated Creative Portfolio Presentation" [ref=f487e1209] [cursor=pointer]:
+                      - /url: /templates/EAHENjZj9Yk-blue-green-watercolor-illustrated-creative-portfolio-presentation/
+                - generic [ref=f487e1212]:
+                  - group [ref=f487e1214]:
+                    - link "Preview free Black and White Minimalist Fashion Creative Portfolio Presentation template, 10 pages" [ref=f487e1218] [cursor=pointer]:
+                      - /url: /templates/EAGzcL77tuw-black-and-white-minimalist-fashion-creative-portfolio-presentation/
+                      - generic [ref=f487e1220]:
+                        - img "Black and White Minimalist Fashion Creative Portfolio Presentation" [ref=f487e1226]
+                        - generic [ref=f487e1229]:
+                          - generic [ref=f487e1230]: 1 of 10
+                          - generic [ref=f487e1231]: 10 slides
+                  - paragraph [ref=f487e1234]:
+                    - link "Black and White Minimalist Fashion Creative Portfolio Presentation" [ref=f487e1235] [cursor=pointer]:
+                      - /url: /templates/EAGzcL77tuw-black-and-white-minimalist-fashion-creative-portfolio-presentation/
+                - generic [ref=f487e1238]:
+                  - group [ref=f487e1240]:
+                    - link "Preview free Soft Pink Elegant Scrapbook Creative Portfolio Presentation template" [ref=f487e1244] [cursor=pointer]:
+                      - /url: /templates/EAG_aEU873w-soft-pink-elegant-scrapbook-creative-portfolio-presentation/
+                      - generic "Soft Pink Elegant Scrapbook Creative Portfolio Presentation" [ref=f487e1249]
+                    - button "Play" [ref=f487e1253] [cursor=pointer]
+                  - paragraph [ref=f487e1257]:
+                    - link "Soft Pink Elegant Scrapbook Creative Portfolio Presentation" [ref=f487e1258] [cursor=pointer]:
+                      - /url: /templates/EAG_aEU873w-soft-pink-elegant-scrapbook-creative-portfolio-presentation/
+                - generic [ref=f487e1261]:
+                  - group [ref=f487e1263]:
+                    - link "Preview free Beige Colorful Handrawn Creative Portfolio Presentation template, 10 pages" [ref=f487e1267] [cursor=pointer]:
+                      - /url: /templates/EAGLEO48YII-beige-colorful-handrawn-creative-portfolio-presentation/
+                      - generic [ref=f487e1269]:
+                        - img "Beige Colorful Handrawn Creative Portfolio Presentation" [ref=f487e1275]
+                        - generic [ref=f487e1278]:
+                          - generic [ref=f487e1279]: 1 of 10
+                          - generic [ref=f487e1280]: 10 slides
+                  - paragraph [ref=f487e1283]:
+                    - link "Beige Colorful Handrawn Creative Portfolio Presentation" [ref=f487e1284] [cursor=pointer]:
+                      - /url: /templates/EAGLEO48YII-beige-colorful-handrawn-creative-portfolio-presentation/
+                - generic [ref=f487e1287]:
+                  - group [ref=f487e1289]:
+                    - link "Preview free Beige Doodle Cute Creative Portfolio Presentation template, 10 pages" [ref=f487e1293] [cursor=pointer]:
+                      - /url: /templates/EAG8fvB50uY-beige-doodle-cute-creative-portfolio-presentation/
+                      - generic [ref=f487e1295]:
+                        - img "Beige Doodle Cute Creative Portfolio Presentation" [ref=f487e1301]
+                        - generic [ref=f487e1304]:
+                          - generic [ref=f487e1305]: 1 of 10
+                          - generic [ref=f487e1306]: 10 slides
+                  - paragraph [ref=f487e1309]:
+                    - link "Beige Doodle Cute Creative Portfolio Presentation" [ref=f487e1310] [cursor=pointer]:
+                      - /url: /templates/EAG8fvB50uY-beige-doodle-cute-creative-portfolio-presentation/
+                - generic [ref=f487e1313]:
+                  - group [ref=f487e1315]:
+                    - link "Preview free Brown Vintage Creative Portfolio Presentation template, 10 pages" [ref=f487e1319] [cursor=pointer]:
+                      - /url: /templates/EAHAqM6F47Q-brown-vintage-creative-portfolio-presentation/
+                      - generic [ref=f487e1321]:
+                        - img "Brown Vintage Creative Portfolio Presentation" [ref=f487e1327]
+                        - generic [ref=f487e1330]:
+                          - generic [ref=f487e1331]: 1 of 10
+                          - generic [ref=f487e1332]: 10 slides
+                  - paragraph [ref=f487e1335]:
+                    - link "Brown Vintage Creative Portfolio Presentation" [ref=f487e1336] [cursor=pointer]:
+                      - /url: /templates/EAHAqM6F47Q-brown-vintage-creative-portfolio-presentation/
+                - generic [ref=f487e1339]:
+                  - group [ref=f487e1341]:
+                    - link "Preview free Minimal Creative Portfolio Presentation template, 18 pages" [ref=f487e1345] [cursor=pointer]:
+                      - /url: /templates/EAE_2E9Kg8M-minimal-creative-portfolio-presentation/
+                      - generic [ref=f487e1347]:
+                        - img "Minimal Creative Portfolio Presentation" [ref=f487e1353]
+                        - generic [ref=f487e1356]:
+                          - generic [ref=f487e1357]: 1 of 18
+                          - generic [ref=f487e1358]: 18 slides
+                  - paragraph [ref=f487e1361]:
+                    - link "Minimal Creative Portfolio Presentation" [ref=f487e1362] [cursor=pointer]:
+                      - /url: /templates/EAE_2E9Kg8M-minimal-creative-portfolio-presentation/
+                - generic [ref=f487e1365]:
+                  - group [ref=f487e1367]:
+                    - link "Preview free Colorful Abstract Creative Portfolio Presentation template, 10 pages" [ref=f487e1371] [cursor=pointer]:
+                      - /url: /templates/EAG5U7iD0cg-colorful-abstract-creative-portfolio-presentation/
+                      - generic [ref=f487e1373]:
+                        - img "Colorful Abstract Creative Portfolio Presentation" [ref=f487e1379]
+                        - generic [ref=f487e1382]:
+                          - generic [ref=f487e1383]: 1 of 10
+                          - generic [ref=f487e1384]: 10 slides
+                  - paragraph [ref=f487e1387]:
+                    - link "Colorful Abstract Creative Portfolio Presentation" [ref=f487e1388] [cursor=pointer]:
+                      - /url: /templates/EAG5U7iD0cg-colorful-abstract-creative-portfolio-presentation/
+                - generic [ref=f487e1392]:
+                  - paragraph [ref=f487e1394]: Related searches
+                  - separator [ref=f487e1395]
+                  - list [ref=f487e1396]:
+                    - listitem [ref=f487e1397]:
+                      - link "portfolio presentation" [ref=f487e1398] [cursor=pointer]:
+                        - /url: /templates/?query=portfolio%20presentation
+                    - listitem [ref=f487e1402]:
+                      - link "creative portfolio" [ref=f487e1403] [cursor=pointer]:
+                        - /url: /templates/?query=creative%20portfolio
+                    - listitem [ref=f487e1407]:
+                      - link "portfolio" [ref=f487e1408] [cursor=pointer]:
+                        - /url: /templates/s/portfolio/
+            - generic [ref=f487e1413]:
+              - paragraph [ref=f487e1414]: Showing 50 of 20,000
+              - progressbar "Showing 50 of 20,000" [ref=f487e1416]
+              - button "Show More" [ref=f487e1421] [cursor=pointer]
+        - generic [ref=f487e1428]:
+          - heading "Explore more" [level=2] [ref=f487e1430]
+          - generic [ref=f487e1436]:
+            - link [ref=f487e1438] [cursor=pointer]:
+              - /url: /docs/templates/
+              - paragraph [ref=f487e1440]: Docs
+            - link [ref=f487e1442] [cursor=pointer]:
+              - /url: /online-whiteboard/templates/
+              - paragraph [ref=f487e1444]: Whiteboard
+            - link [ref=f487e1446] [cursor=pointer]:
+              - /url: /presentations/templates/
+              - paragraph [ref=f487e1448]: Presentations
+            - link [ref=f487e1450] [cursor=pointer]:
+              - /url: /posters/templates/
+              - paragraph [ref=f487e1452]: Poster
+            - link [ref=f487e1454] [cursor=pointer]:
+              - /url: /logos/templates/
+              - paragraph [ref=f487e1456]: Logos
+            - link [ref=f487e1458] [cursor=pointer]:
+              - /url: /video-editor/templates/
+              - paragraph [ref=f487e1460]: Landscape Videos
+            - link [ref=f487e1462] [cursor=pointer]:
+              - /url: /flyers/templates/
+              - paragraph [ref=f487e1464]: Flyer
+            - link [ref=f487e1466] [cursor=pointer]:
+              - /url: /cards/templates/
+              - paragraph [ref=f487e1468]: Card
+            - link [ref=f487e1470] [cursor=pointer]:
+              - /url: /zoom-virtual-backgrounds/templates/
+              - paragraph [ref=f487e1472]: Virtual Backgrounds
+            - link [ref=f487e1474] [cursor=pointer]:
+              - /url: /infographics/templates/
+              - paragraph [ref=f487e1476]: Infographics
+            - button "Show All" [ref=f487e1479] [cursor=pointer]
+    - generic [ref=f487e1481]:
+      - paragraph [ref=f487e1483]:
+        - link "Skip to end of footer" [ref=f487e1484] [cursor=pointer]:
+          - /url: "#_r_5_"
+      - contentinfo [ref=f487e1486]:
+        - generic [ref=f487e1488]:
+          - generic [ref=f487e1495]:
+            - generic [ref=f487e1498]:
+              - heading "Download Canva for free" [level=2] [ref=f487e1500]
+              - generic [ref=f487e1503]:
+                - link "Windows" [ref=f487e1505] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/windows/
+                - link "Mac" [ref=f487e1508] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/mac/
+            - navigation [ref=f487e1512]:
+              - list [ref=f487e1514]:
+                - listitem [ref=f487e1515]:
+                  - heading "Product" [level=2] [ref=f487e1517]
+                  - list "Product" [ref=f487e1519]:
+                    - listitem [ref=f487e1520]:
+                      - link "Latest launches" [ref=f487e1521] [cursor=pointer]:
+                        - /url: https://www.canva.com/launches/
+                    - listitem [ref=f487e1523]:
+                      - link "Visual Suite" [ref=f487e1524] [cursor=pointer]:
+                        - /url: https://www.canva.com/visual-suite/
+                    - listitem [ref=f487e1526]:
+                      - link "Canva AI" [ref=f487e1527] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-ai/
+                    - listitem [ref=f487e1529]:
+                      - link "Brand management" [ref=f487e1530] [cursor=pointer]:
+                        - /url: https://www.canva.com/solutions/brand-management-tools/
+                    - listitem [ref=f487e1532]:
+                      - link "Social media" [ref=f487e1533] [cursor=pointer]:
+                        - /url: https://www.canva.com/social-media/
+                    - listitem [ref=f487e1535]:
+                      - link "Features" [ref=f487e1536] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/
+                    - listitem [ref=f487e1538]:
+                      - link "Print" [ref=f487e1539] [cursor=pointer]:
+                        - /url: https://www.canva.com/print/
+                    - listitem [ref=f487e1541]:
+                      - link "Apps Marketplace" [ref=f487e1542] [cursor=pointer]:
+                        - /url: https://www.canva.com/apps/
+                    - listitem [ref=f487e1544]:
+                      - link "Affinity" [ref=f487e1545] [cursor=pointer]:
+                        - /url: https://www.affinity.studio/
+                - listitem [ref=f487e1550]:
+                  - heading "Plans" [level=2] [ref=f487e1552]
+                  - list "Plans" [ref=f487e1554]:
+                    - listitem [ref=f487e1555]:
+                      - link "Pricing" [ref=f487e1556] [cursor=pointer]:
+                        - /url: https://www.canva.com/pricing/
+                    - listitem [ref=f487e1558]:
+                      - link "Pro" [ref=f487e1559] [cursor=pointer]:
+                        - /url: https://www.canva.com/pro/
+                    - listitem [ref=f487e1561]:
+                      - link "Business" [ref=f487e1562] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-business/
+                    - listitem [ref=f487e1564]:
+                      - link "Enterprise" [ref=f487e1565] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/
+                    - listitem [ref=f487e1567]:
+                      - link "Education" [ref=f487e1568] [cursor=pointer]:
+                        - /url: https://www.canva.com/education/
+                    - listitem [ref=f487e1570]:
+                      - link "Higher education" [ref=f487e1571] [cursor=pointer]:
+                        - /url: https://www.canva.com/for-campus/
+                    - listitem [ref=f487e1573]:
+                      - link "Nonprofits" [ref=f487e1574] [cursor=pointer]:
+                        - /url: https://www.canva.com/nonprofits/
+                    - listitem [ref=f487e1576]:
+                      - link "Contact Sales" [ref=f487e1577] [cursor=pointer]:
+                        - /url: https://www.canva.com/contact-sales/
+                - listitem [ref=f487e1579]:
+                  - heading "About" [level=2] [ref=f487e1581]
+                  - list "About" [ref=f487e1583]:
+                    - listitem [ref=f487e1584]:
+                      - link "About Canva" [ref=f487e1585] [cursor=pointer]:
+                        - /url: https://www.canva.com/about/
+                    - listitem [ref=f487e1587]:
+                      - link "Newsroom" [ref=f487e1588] [cursor=pointer]:
+                        - /url: https://www.canva.com/newsroom/news/
+                    - listitem [ref=f487e1590]:
+                      - link "Events" [ref=f487e1591] [cursor=pointer]:
+                        - /url: https://www.canva.com/events/
+                    - listitem [ref=f487e1593]:
+                      - link "Canva Originals" [ref=f487e1594] [cursor=pointer]:
+                        - /url: https://shop.canva.com/
+                    - listitem [ref=f487e1596]:
+                      - link "Careers" [ref=f487e1597] [cursor=pointer]:
+                        - /url: https://www.lifeatcanva.com/en
+                    - listitem [ref=f487e1602]:
+                      - link "Social impact" [ref=f487e1603] [cursor=pointer]:
+                        - /url: https://www.canva.com/step-two/
+                    - listitem [ref=f487e1605]:
+                      - link "Sustainability" [ref=f487e1606] [cursor=pointer]:
+                        - /url: https://www.canva.com/sustainability/
+                    - listitem [ref=f487e1608]:
+                      - link "Case studies" [ref=f487e1609] [cursor=pointer]:
+                        - /url: https://www.canva.com/case-studies/
+                - listitem [ref=f487e1611]:
+                  - heading "Community" [level=2] [ref=f487e1613]
+                  - list "Community" [ref=f487e1615]:
+                    - listitem [ref=f487e1616]:
+                      - link "Canva Communities" [ref=f487e1617] [cursor=pointer]:
+                        - /url: https://www.canva.com/community/
+                    - listitem [ref=f487e1619]:
+                      - link "Creators" [ref=f487e1620] [cursor=pointer]:
+                        - /url: https://www.canva.com/creators/
+                    - listitem [ref=f487e1622]:
+                      - link "Affiliates" [ref=f487e1623] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/canva-affiliate-marketing-program/
+                    - listitem [ref=f487e1625]:
+                      - link "Canva Represents Fund" [ref=f487e1626] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-represents/
+                    - listitem [ref=f487e1628]:
+                      - link "Content partners" [ref=f487e1629] [cursor=pointer]:
+                        - /url: https://www.canva.com/partners/content/
+                    - listitem [ref=f487e1631]:
+                      - link "Business partner directory" [ref=f487e1632] [cursor=pointer]:
+                        - /url: https://partners.canva.com/directory/
+                    - listitem [ref=f487e1634]:
+                      - link "Canva Developers" [ref=f487e1635] [cursor=pointer]:
+                        - /url: https://www.canva.com/developers/
+                - listitem [ref=f487e1640]:
+                  - heading "Inspiration" [level=2] [ref=f487e1642]
+                  - list "Inspiration" [ref=f487e1644]:
+                    - listitem [ref=f487e1645]:
+                      - link "Design Trends" [ref=f487e1646] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-trends/
+                    - listitem [ref=f487e1648]:
+                      - link "AI creativity podcast" [ref=f487e1649] [cursor=pointer]:
+                        - /url: https://promptedpodcast.com/
+                    - listitem [ref=f487e1654]:
+                      - link "Learn blog" [ref=f487e1655] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/
+                    - listitem [ref=f487e1657]:
+                      - link "Templates Marketplace" [ref=f487e1658] [cursor=pointer]:
+                        - /url: https://www.canva.com/templates/
+                    - listitem [ref=f487e1660]:
+                      - link "Font pairing" [ref=f487e1661] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+                    - listitem [ref=f487e1663]:
+                      - link "Color wheel" [ref=f487e1664] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-wheel/
+                    - listitem [ref=f487e1666]:
+                      - link "Colors" [ref=f487e1667] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/
+                    - listitem [ref=f487e1669]:
+                      - link "Color palette generator" [ref=f487e1670] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-palette-generator/
+                - listitem [ref=f487e1672]:
+                  - heading "Help" [level=2] [ref=f487e1674]
+                  - list "Help" [ref=f487e1676]:
+                    - listitem [ref=f487e1677]:
+                      - link "Help Center" [ref=f487e1678] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/
+                    - listitem [ref=f487e1680]:
+                      - link "Security" [ref=f487e1681] [cursor=pointer]:
+                        - /url: https://www.canva.com/security/
+                    - listitem [ref=f487e1683]:
+                      - link "Trust Center" [ref=f487e1684] [cursor=pointer]:
+                        - /url: https://www.canva.com/trust/
+                    - listitem [ref=f487e1686]:
+                      - link "Canva Safe AI" [ref=f487e1687] [cursor=pointer]:
+                        - /url: https://www.canva.com/safe-ai-canva-shield/
+                    - listitem [ref=f487e1689]:
+                      - link "Accessibility" [ref=f487e1690] [cursor=pointer]:
+                        - /url: https://www.canva.com/accessibility/
+                    - listitem [ref=f487e1692]:
+                      - link "Enterprise services" [ref=f487e1693] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/professional-services/
+                    - listitem [ref=f487e1695]:
+                      - link "Design School" [ref=f487e1696] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-school/
+                    - listitem [ref=f487e1701]:
+                      - link "Sitemap" [ref=f487e1702] [cursor=pointer]:
+                        - /url: https://www.canva.com/sitemap/
+                - listitem [ref=f487e1704]:
+                  - heading "Tools" [level=2] [ref=f487e1706]
+                  - list "Tools" [ref=f487e1708]:
+                    - listitem [ref=f487e1709]:
+                      - link "QR code generator" [ref=f487e1710] [cursor=pointer]:
+                        - /url: https://www.canva.com/qr-code-generator/
+                    - listitem [ref=f487e1712]:
+                      - link "AI logo generator" [ref=f487e1713] [cursor=pointer]:
+                        - /url: https://www.canva.com/ai-logo-generator/
+                    - listitem [ref=f487e1715]:
+                      - link "Signature generator" [ref=f487e1716] [cursor=pointer]:
+                        - /url: https://www.canva.com/signature-generator/
+                    - listitem [ref=f487e1718]:
+                      - link "Business name generator" [ref=f487e1719] [cursor=pointer]:
+                        - /url: https://www.canva.com/business-name-generator/
+                    - listitem [ref=f487e1721]:
+                      - link "PDF converter" [ref=f487e1722] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-converter/
+                    - listitem [ref=f487e1724]:
+                      - link "PDF to JPG converter" [ref=f487e1725] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-to-jpg-converter/
+                    - listitem [ref=f487e1727]:
+                      - link "JPG to PDF converter" [ref=f487e1728] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/jpg-to-pdf-converter/
+                    - listitem [ref=f487e1730]:
+                      - link "Graph maker" [ref=f487e1731] [cursor=pointer]:
+                        - /url: https://www.canva.com/graphs/
+          - generic [ref=f487e1735]:
+            - generic [ref=f487e1739]:
+              - button "English (US)" [ref=f487e1745] [cursor=pointer]
+              - generic [ref=f487e1751]:
+                - link "LinkedIn" [ref=f487e1753] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/canva
+                  - generic: (opens in a new tab or window)
+                - link "Instagram" [ref=f487e1757] [cursor=pointer]:
+                  - /url: https://www.instagram.com/canva/
+                  - generic: (opens in a new tab or window)
+                - link "Facebook" [ref=f487e1761] [cursor=pointer]:
+                  - /url: https://www.facebook.com/canva
+                  - generic: (opens in a new tab or window)
+                - link "TikTok" [ref=f487e1765] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@canva
+                  - generic: (opens in a new tab or window)
+                - link "Pinterest" [ref=f487e1769] [cursor=pointer]:
+                  - /url: https://au.pinterest.com/canva/
+                  - generic: (opens in a new tab or window)
+                - link "X" [ref=f487e1773] [cursor=pointer]:
+                  - /url: https://x.com/canva
+                  - generic: (opens in a new tab or window)
+                - link "YouTube" [ref=f487e1777] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@canva
+                  - generic: (opens in a new tab or window)
+            - generic [ref=f487e1782]:
+              - generic [ref=f487e1786]:
+                - link "Privacy" [ref=f487e1788] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/privacy-policy/
+                - link "Terms" [ref=f487e1792] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/terms-of-use/
+              - paragraph [ref=f487e1797]: © 2026 All Rights Reserved
+      - paragraph [ref=f487e1799]:
+        - link "Skip to start of footer" [ref=f487e1800] [cursor=pointer]:
+          - /url: "#_r_4_"
+  - generic [ref=f487e1802]: Search thousands of templates.
+  - generic [ref=f487e1803]: Show All
+  - generic [ref=f487e1804]: Clear

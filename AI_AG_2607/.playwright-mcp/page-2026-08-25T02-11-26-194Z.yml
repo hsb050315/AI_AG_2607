@@ -1,0 +1,438 @@
+- generic [active] [ref=f11e1]:
+  - banner [ref=f11e3]:
+    - generic [ref=f11e4]:
+      - generic [ref=f11e5]:
+        - link "Typecast" [ref=f11e6] [cursor=pointer]:
+          - /url: /kr/
+        - navigation "Primary" [ref=f11e7]:
+          - link "타입캐스트 소개" [ref=f11e8] [cursor=pointer]:
+            - /url: /kr/text-to-speech/
+          - link "API & Enterprise" [ref=f11e10] [cursor=pointer]:
+            - /url: /kr/developers/api/
+          - button "리소스" [ref=f11e12] [cursor=pointer]
+          - link "가격 안내" [ref=f11e13] [cursor=pointer]:
+            - /url: /kr/pricing/
+      - generic [ref=f11e15]:
+        - link "로그인" [ref=f11e16] [cursor=pointer]:
+          - /url: https://studio.typecast.ai/sign-in
+        - link "회원가입" [ref=f11e17] [cursor=pointer]:
+          - /url: https://studio.typecast.ai/sign-up
+  - main [ref=f11e18]:
+    - generic [ref=f11e20]:
+      - heading "감정까지 자연스러운 사람 같은 AI 목소리" [level=1] [ref=f11e21]
+      - paragraph [ref=f11e22]: 타입캐스트에서 원하는 AI 목소리를 찾아 쉽고 간단하게 콘텐츠를 만들어보세요.
+      - generic [ref=f11e23]:
+        - link "무료로 써보기" [ref=f11e24] [cursor=pointer]:
+          - /url: https://studio.typecast.ai/text-to-speech
+        - link "기업문의" [ref=f11e25] [cursor=pointer]:
+          - /url: https://typecast.ai/kr/contact-sales/?position=typecast_home
+      - generic [ref=f11e27]:
+        - tablist [ref=f11e28]:
+          - tab "AI 보이스 에디터" [selected] [ref=f11e29] [cursor=pointer]
+          - tab "스마트 이모션" [ref=f11e31] [cursor=pointer]
+          - tab "보이스 클로닝" [ref=f11e33] [cursor=pointer]
+        - generic [ref=f11e35]:
+          - textbox "듣고 싶은 텍스트를 입력하세요." [ref=f11e36]: 오늘 날씨 좀 봐! 햇살도 따뜻하고 바람도 시원하고, 완벽한 날이야.
+          - list [ref=f11e37]:
+            - listitem [ref=f11e38]:
+              - button "기쁨 주하" [ref=f11e39] [cursor=pointer]:
+                - generic [ref=f11e40]: ☺️
+            - listitem [ref=f11e43]:
+              - button "슬픔 건석" [ref=f11e44] [cursor=pointer]:
+                - generic [ref=f11e45]: 😢
+            - listitem [ref=f11e48]:
+              - button "화남 한영" [ref=f11e49] [cursor=pointer]:
+                - generic [ref=f11e50]: 😤
+            - listitem [ref=f11e53]:
+              - button "속삭임 아리" [ref=f11e54] [cursor=pointer]:
+                - generic [ref=f11e55]: 🤫
+            - listitem [ref=f11e58]:
+              - button "낮은 톤 진우" [ref=f11e59] [cursor=pointer]:
+                - generic [ref=f11e60]: 🤨
+          - button "이 목소리로 들어보기" [ref=f11e64] [cursor=pointer]
+    - generic [ref=f11e69]:
+      - generic [ref=f11e72]:
+        - strong [ref=f11e73]: 320만 명
+        - text: 의 크리에이터,
+        - strong [ref=f11e74]: 업계 리더가 신뢰하는
+        - text: AI 목소리
+      - generic [ref=f11e77]:
+        - img "MBC" [ref=f11e78]
+        - img "SBS" [ref=f11e79]
+        - img "LG U+" [ref=f11e80]
+        - img "SK broadband" [ref=f11e81]
+        - img "Samsung Life" [ref=f11e82]
+        - img "SOOP" [ref=f11e83]
+        - img "Kyowon" [ref=f11e84]
+        - img "Yoons English School" [ref=f11e85]
+        - img "CJ Olive Networks" [ref=f11e86]
+        - img "Jeonju City Council" [ref=f11e87]
+        - img "MBC" [ref=f11e88]
+        - img "SBS" [ref=f11e89]
+        - img "LG U+" [ref=f11e90]
+        - img "SK broadband" [ref=f11e91]
+        - img "Samsung Life" [ref=f11e92]
+        - img "SOOP" [ref=f11e93]
+        - img "Kyowon" [ref=f11e94]
+        - img "Yoons English School" [ref=f11e95]
+        - img "CJ Olive Networks" [ref=f11e96]
+        - img "Jeonju City Council" [ref=f11e97]
+        - img "MBC" [ref=f11e98]
+        - img "SBS" [ref=f11e99]
+        - img "LG U+" [ref=f11e100]
+        - img "SK broadband" [ref=f11e101]
+        - img "Samsung Life" [ref=f11e102]
+        - img "SOOP" [ref=f11e103]
+        - img "Kyowon" [ref=f11e104]
+        - img "Yoons English School" [ref=f11e105]
+        - img "CJ Olive Networks" [ref=f11e106]
+        - img "Jeonju City Council" [ref=f11e107]
+        - img "MBC" [ref=f11e108]
+        - img "SBS" [ref=f11e109]
+        - img "LG U+" [ref=f11e110]
+        - img "SK broadband" [ref=f11e111]
+        - img "Samsung Life" [ref=f11e112]
+        - img "SOOP" [ref=f11e113]
+        - img "Kyowon" [ref=f11e114]
+        - img "Yoons English School" [ref=f11e115]
+        - img "CJ Olive Networks" [ref=f11e116]
+        - img "Jeonju City Council" [ref=f11e117]
+    - generic [ref=f11e120]:
+      - generic [ref=f11e121]:
+        - generic [ref=f11e122]:
+          - paragraph [ref=f11e123]: TTS 소개
+          - heading "700+ AI 보이스를 활용하면 대본 하나로 다양한 콘텐츠 생성 가능해요" [level=2] [ref=f11e124]
+          - paragraph [ref=f11e125]: 텍스트 속 감정과 맥락을 이해하여 누구나 쉽게! AI 보이스 생성과 콘텐츠 편집을 한 번에! 지금 시작해보세요.
+        - link "무료로 써보기" [ref=f11e127] [cursor=pointer]:
+          - /url: https://studio.typecast.ai/text-to-speech
+      - generic [ref=f11e128]:
+        - generic [ref=f11e129]:
+          - article [ref=f11e130]:
+            - generic [ref=f11e131]:
+              - heading "알아서 감정을 입히는 AI 목소리" [level=3] [ref=f11e132]
+              - paragraph [ref=f11e133]: 문맥을 스스로 파악해서 감정까지 알아서 입력하는 Smart Emotion
+          - article [ref=f11e137]:
+            - generic [ref=f11e138]:
+              - heading "감정을 원하는 대로 자유롭게 설정!" [level=3] [ref=f11e139]
+              - paragraph [ref=f11e140]: "[뛸 듯이 기뻐하며],[분노와 서운함이 섞인] 등 제약 없이 디테일하게 표현하는 AI 보이스"
+          - article [ref=f11e141]:
+            - generic [ref=f11e142]:
+              - heading "콘텐츠 제작의 효율을 올려주는 기능" [level=3] [ref=f11e143]
+              - paragraph [ref=f11e144]: AI 보이스 생성과 비디오 편집, 그리고 자동 자막 생성까지 다양한 기능을 활용 가능
+        - article [ref=f11e145]:
+          - generic [ref=f11e146]:
+            - heading "어떠한 콘텐츠에도 사용가능한 다양한 보이스" [level=3] [ref=f11e147]
+            - paragraph [ref=f11e148]: AI 성우, 내레이터, 아나운서 등 700개 이상의 AI 보이스 중 원하는 보이스를 선택해 콘텐츠의 완성도를 높일 수 있어요.
+            - link "더 보기" [ref=f11e150] [cursor=pointer]:
+              - /url: https://studio.typecast.ai/voice-casting
+    - generic [ref=f11e155]:
+      - generic [ref=f11e156]:
+        - generic [ref=f11e157]:
+          - paragraph [ref=f11e158]: Typecast API
+          - heading "목소리가 필요한 어디든 API 한 줄로 쉬운 연동" [level=2] [ref=f11e159]
+          - paragraph [ref=f11e160]: 대화형 에이전트부터 콘텐츠 자동화까지섬세한 감정까지 표현하는 TTS API로 자연스러운 음성 경험을 만드세요
+        - generic [ref=f11e161]:
+          - link "무료로 시작하기" [ref=f11e162] [cursor=pointer]:
+            - /url: https://studio.typecast.ai/developers/api
+          - link "문서 살펴보기" [ref=f11e163] [cursor=pointer]:
+            - /url: https://typecast.ai/docs/ko
+      - generic [ref=f11e164]:
+        - generic [ref=f11e166]:
+          - generic [ref=f11e167]:
+            - paragraph [ref=f11e168]: 스마트 이모션으로 자연스러운 감정표현
+            - paragraph [ref=f11e169]: AI가 앞뒤 맥락을 읽어 자동으로 어울리는 감정을 표현해줘요. 물론 7가지 감정 프리셋(happy, whisper 등)으로 직접 세팅도 가능해요.
+          - generic [ref=f11e170]:
+            - paragraph [ref=f11e171]: 35+ 언어와 500+ 보이스
+            - paragraph [ref=f11e172]: 톡톡 튀는 숏폼, 차분한 나레이션, 키즈 콘텐츠까지 다양한 연령대와 톤의 캐릭터와 글로벌 언어를 지원합니다.
+          - generic [ref=f11e173]:
+            - paragraph [ref=f11e174]: Real-time API
+            - paragraph [ref=f11e175]: 응답속도 200ms의 스트리밍 TTS API를 제공합니다. 대화형 에이전트, 챗봇까지 끊김 없이 이어지는 진짜 '실시간' 서비스를 만드세요.
+          - generic [ref=f11e176]:
+            - paragraph [ref=f11e177]: 비개발자도 쉬운 연동
+            - paragraph [ref=f11e178]: Python, JavaScript SDK와 CLI는 물론, Zapier, n8n 등 노코드 자동화 툴까지 다양한 연동을 지원해요
+        - generic [ref=f11e180]:
+          - generic [ref=f11e181]:
+            - generic [ref=f11e182]: Python
+            - generic [ref=f11e183]: Javascript
+            - generic [ref=f11e184]: C#
+            - generic [ref=f11e185]: Java
+            - generic [ref=f11e186]: Kotlin
+            - generic [ref=f11e187]: Rust
+          - code [ref=f11e189]: "from typecast import Typecast from typecast.models import TTSRequest, SmartPrompt # Initialize client client = Typecast(api_key=\"YOUR_API_KEY\") # Convert text to speech response = client.text_to_speech(TTSRequest( text=\"Everything is going to be okay.\", model=\"ssfm-v30\", voice_id=\"tc_672c5f5ce59fac2a48faeaee\", prompt=SmartPrompt( emotion_type=\"smart\", previous_text=\"I just got the best news!\", next_text=\"I can't wait to celebrate!\" ) )) # Save audio file with open('typecast.wav', 'wb') as f: f.write(response.audio_data)"
+    - generic [ref=f11e192]:
+      - generic [ref=f11e193]:
+        - paragraph [ref=f11e194]: Model
+        - heading "9년의 연구가 만든 감정까지 자연스러운 음성 AI모델" [level=2] [ref=f11e195]
+        - paragraph [ref=f11e196]: 타입캐스트 SSFM 모델의 자연스러움은 2017년부터 AI 음성기술을 연구하며, 자체 모델을 개발해온 결과입니다.
+      - generic [ref=f11e200]:
+        - generic [ref=f11e204]:
+          - generic [ref=f11e205]:
+            - generic [ref=f11e206]: "2018"
+            - generic [ref=f11e207]: Model 1
+          - paragraph [ref=f11e208]: 딥러닝을 활용한 음성합성기술 도입
+        - generic [ref=f11e212]:
+          - generic [ref=f11e213]:
+            - generic [ref=f11e214]: "2021"
+            - generic [ref=f11e215]: CATS
+          - paragraph [ref=f11e216]: 음소 기반 발음 정확도, 자연스러움 향상
+        - generic [ref=f11e220]:
+          - generic [ref=f11e221]:
+            - generic [ref=f11e222]: "2024"
+            - generic [ref=f11e223]: SSFM 1.0
+          - paragraph [ref=f11e224]: 대규모 데이터 프레임워크 도입
+        - generic [ref=f11e228]:
+          - generic [ref=f11e229]:
+            - generic [ref=f11e230]: "2025"
+            - generic [ref=f11e231]: SSFM 2.0
+          - paragraph [ref=f11e232]: 다국어 확장, 속성 제어 기능 추가
+        - generic [ref=f11e236]:
+          - generic [ref=f11e237]:
+            - generic [ref=f11e238]: "2025"
+            - generic [ref=f11e239]: SSFM 3.0
+          - paragraph [ref=f11e240]: 문맥 기반 감정 조절, 수백만 시간 학습
+    - generic [ref=f11e243]:
+      - generic [ref=f11e244]:
+        - paragraph [ref=f11e245]: Technology
+        - heading "실제 사람도, AI 모델도 모두가 인정하는 자연스러움" [level=2] [ref=f11e246]
+        - paragraph [ref=f11e247]: 완성도 높은 AI 음성은 결국 얼마나 자연스럽고, 감정을 정확히 표현하는가로 결정됩니다.타입캐스트의 SSFM 모델은 사람이 직접 들어본 평가와 AI 자동 측정 평가에서 모두 1위에 올랐습니다.
+      - generic [ref=f11e248]:
+        - generic [ref=f11e249]:
+          - generic [ref=f11e250]:
+            - generic [ref=f11e251]:
+              - generic [ref=f11e252]:
+                - paragraph [ref=f11e253]: 자연스러움, 1위
+                - paragraph [ref=f11e254]:
+                  - text: 공인 인증을 받은 비교 평가*에서, 모국어 평가자 60명이
+                  - strong [ref=f11e255]: 한국어·영어·일본어 음성 모두 자연스러움 항목에서 타입캐스트를 1위로 평가
+                  - text: 했습니다.
+              - list [ref=f11e256]:
+                - listitem [ref=f11e257]: · 사람처럼 자연스러운 발화
+                - listitem [ref=f11e258]: · 내용을 이해하고 감정을 자연스럽게 살리는 발화
+                - listitem [ref=f11e259]: · 로봇처럼 딱딱하거나 끊기지 않는 발화
+            - paragraph [ref=f11e260]: "* 2025.12.30 외부 기관 평가, MOS (모국어 평가자 60명) · 글로벌 음성 AI 6사 비교"
+          - generic [ref=f11e262]:
+            - generic [ref=f11e263]: 자연스러움 측정 결과
+            - generic [ref=f11e264]:
+              - generic [ref=f11e265]: "5"
+              - generic [ref=f11e267]: "4"
+              - generic [ref=f11e269]: "3"
+              - generic [ref=f11e271]: "2"
+              - generic [ref=f11e273]: "1"
+              - generic [ref=f11e275]:
+                - generic [ref=f11e276]:
+                  - generic [ref=f11e277]: "3.70"
+                  - generic [ref=f11e278]: 타입캐스트
+                - generic [ref=f11e279]: E사
+                - generic [ref=f11e281]: N사
+                - generic [ref=f11e283]: M사
+            - paragraph [ref=f11e285]: (한국어 기준)
+        - generic [ref=f11e286]:
+          - generic [ref=f11e287]:
+            - generic [ref=f11e288]:
+              - generic [ref=f11e289]:
+                - paragraph [ref=f11e290]: 정확한 감정 표현, 1위
+                - paragraph [ref=f11e291]:
+                  - text: 감정 인식 분야 최고 수준의 AI 모델로 측정한 결과,
+                  - strong [ref=f11e292]: 한국어·영어·일본어 모두에서 타입캐스트가 감정 정확도 1위
+                  - text: 를 기록했습니다.
+              - list [ref=f11e293]:
+                - listitem [ref=f11e294]: · 입력한 감정이 그대로 표현되는 정도
+                - listitem [ref=f11e295]: · 기쁨·슬픔·화남이 명확히 구분되는 표현력
+                - listitem [ref=f11e296]: · 감정 분류 모델이 인식 가능한 정확도
+            - paragraph [ref=f11e297]: "*2025.12.30 외부 기관 평가, ACL 2024 SOTA 감정 분류모델(Emotion2vec), 글로벌 음성 6사비교"
+          - generic [ref=f11e299]:
+            - generic [ref=f11e300]: 감정정확도 측정 결과
+            - generic [ref=f11e301]:
+              - generic [ref=f11e302]: 100%
+              - generic [ref=f11e304]: 75%
+              - generic [ref=f11e306]: 50%
+              - generic [ref=f11e308]: 25%
+              - generic [ref=f11e310]: 0%
+              - generic [ref=f11e312]:
+                - generic [ref=f11e313]:
+                  - generic [ref=f11e314]: 90.0%
+                  - generic [ref=f11e315]: 타입캐스트
+                - generic [ref=f11e316]: E사
+                - generic [ref=f11e318]: G사
+                - generic [ref=f11e320]: O사
+            - paragraph [ref=f11e322]: (한국어 기준)
+    - generic [ref=f11e324]:
+      - heading "다양한 업계 고객들의 솔직한 리뷰" [level=2] [ref=f11e325]
+      - generic [ref=f11e326]:
+        - article [ref=f11e327]:
+          - paragraph [ref=f11e329]: “타입캐스트를 사용해서 온드미디어와 광고 캠페인 콘텐츠를 제작하고 있어요. 다양한 목소리의 캐릭터들이 있어서 브랜드 메시지를 더욱 소비자들에게 효과적으로 표현할 수 있게 해주었고, 빠르고 쉽게 콘텐츠를 제작할 수 있어서 시즌 캠페인 때 많은 콘텐츠를 시도해 볼 수 있었어요.”
+          - paragraph [ref=f11e330]: 콘텐츠 마케터
+        - article [ref=f11e331]:
+          - paragraph [ref=f11e333]: “스타트업에서 비즈니스 영업을 담당하고 있는 P입니다. 타입캐스트를 적극적으로 활용하여 고객사 미팅 전 자료를 만들고 있어요. 특히 글로벌 세일즈 프레젠테이션에서 가상인간을 활용하여 제작하고 있습니다. 이 덕분에 효과적인 커뮤니케이션으로 많은 고객사를 유치할 수 있었습니다. 타입캐스트는 비즈니스 영업에 있어서 필수 도구 중 하나가 아닐까 싶습니다.”
+          - paragraph [ref=f11e334]: 비즈니스 세일즈 파트너
+        - article [ref=f11e335]:
+          - paragraph [ref=f11e337]: “HR 파트에 근무하며, 타입캐스트를 자주 활용하고 있습니다. 조직 구성원 교육도를 높일 방법을 찾던 도중에 타입캐스트를 도입하여 콘텐츠 직원들은 더욱 효과적으로 회사의 비전을 습득하고, 이는 기업 내 역량의 향상으로 이어졌습니다. 타입캐스트를 통해 조직 문화를 혁신하고 있습니다.”
+          - paragraph [ref=f11e338]: HR 담당자
+        - article [ref=f11e339]:
+          - paragraph [ref=f11e341]: “기존의 전통 매체였던 신문을 온라인으로 디지털화하면서 여러 서비스를 사용해 보았습니다. 타입캐스트만큼 다양한 캐릭터와 높은 퀄리티의 목소리를 가진 서비스를 찾을 수 없었고 모든 팀원이 만족하며 꾸준히 사용 중입니다. 특히 뉴스 전달에 필요한 앵커, 기자, 캐스터 등 모든 캐릭터가 다 있고 서비스 자체도 매우 직관적이어서 쉽게 사용할 수 있습니다.”
+          - paragraph [ref=f11e342]: 조선일보 경영기획본부 IT팀
+        - article [ref=f11e343]:
+          - paragraph [ref=f11e345]: “쇼핑몰을 운영하며 콘텐츠 광고에 대해 막막했던 찰나에, 타입캐스트로 혼자 광고 제작을 해보았어요! 어렵게 느껴졌던 광고 콘텐츠 제작이었는데 타입캐스트를 활용하여 제품 소개와 설명 영상을 보다 생동감 있게 전달할 수 있었습니다! 무엇보다 합리적인 비용으로 광고 콘텐츠를 간편하게 만들 수 있어서 좋았어요.”
+          - paragraph [ref=f11e346]: 쇼핑몰 CEO
+    - generic [ref=f11e349]:
+      - generic [ref=f11e350]:
+        - generic [ref=f11e351]:
+          - heading "타입캐스트의 새로운 소식" [level=2] [ref=f11e352]
+          - paragraph [ref=f11e353]: AI 트렌드부터 채널 운영 팁까지, 크리에이터를 위한 모든 것
+        - link "더 보기" [ref=f11e354] [cursor=pointer]:
+          - /url: https://typecast.ai/kr/learn/
+      - generic [ref=f11e355]:
+        - link [ref=f11e356] [cursor=pointer]:
+          - /url: https://typecast.ai/kr/learn/youtube-ypp-requirements-2027/
+          - img "2027년 유튜브 수익화 기준 변경, 지금 해야 할 일" [ref=f11e358]
+          - generic [ref=f11e359]:
+            - paragraph [ref=f11e360]: 2027년 유튜브 수익화 기준 변경, 지금 해야 할 일
+            - paragraph [ref=f11e361]: Sujung Kim | 2026. 8. 25.
+        - link [ref=f11e362] [cursor=pointer]:
+          - /url: https://typecast.ai/kr/learn/youtube-ai-voice-monetization-2026/
+          - img "유튜브 수익화 AI 목소리 관련 총정리 (2026)" [ref=f11e364]
+          - generic [ref=f11e365]:
+            - paragraph [ref=f11e366]: 유튜브 수익화 AI 목소리 관련 총정리 (2026)
+            - paragraph [ref=f11e367]: Sujung Kim | 2026. 8. 21.
+        - link [ref=f11e368] [cursor=pointer]:
+          - /url: https://typecast.ai/kr/learn/tts-vs-ai-voice-difference/
+          - img "TTS와 AI 목소리의 차이점은? 장단점 비교와 고르는 기준" [ref=f11e370]
+          - generic [ref=f11e371]:
+            - paragraph [ref=f11e372]: TTS와 AI 목소리의 차이점은? 장단점 비교와 고르는 기준
+            - paragraph [ref=f11e373]: Sujung Kim | 2026. 8. 19.
+        - link [ref=f11e374] [cursor=pointer]:
+          - /url: https://typecast.ai/kr/learn/kbmaeil-news-video-ai-voice/
+          - img "📰 뉴스 영상에 AI 음성을 써도 괜찮을까요? 매일 쓰고 있는 언론사에 물었습니다 — 경북매일신문 고객사례" [ref=f11e376]
+          - generic [ref=f11e377]:
+            - paragraph [ref=f11e378]: 📰 뉴스 영상에 AI 음성을 써도 괜찮을까요? 매일 쓰고 있는 언론사에 물었습니다 — 경북매일신문 고객사례
+            - paragraph [ref=f11e379]: Heeju Choi | 2026. 8. 18.
+        - link [ref=f11e380] [cursor=pointer]:
+          - /url: https://typecast.ai/kr/learn/klpna-association-shortform-ai-voice/
+          - img "🩺 매주 숏폼에 AI 내레이션을 넣는 이유 — 대한간호조무사협회 고객사례" [ref=f11e382]
+          - generic [ref=f11e383]:
+            - paragraph [ref=f11e384]: 🩺 매주 숏폼에 AI 내레이션을 넣는 이유 — 대한간호조무사협회 고객사례
+            - paragraph [ref=f11e385]: Heeju Choi | 2026. 8. 14.
+        - link [ref=f11e386] [cursor=pointer]:
+          - /url: https://typecast.ai/kr/learn/natural-korean-ai-voice-2026/
+          - img "자연스러운 AI 음성 고르는 기준 4가지와 서비스 6곳 비교 (2026)" [ref=f11e388]
+          - generic [ref=f11e389]:
+            - paragraph [ref=f11e390]: 자연스러운 AI 음성 고르는 기준 4가지와 서비스 6곳 비교 (2026)
+            - paragraph [ref=f11e391]: Sujung Kim | 2026. 8. 11.
+    - generic [ref=f11e394]:
+      - generic [ref=f11e395]:
+        - heading "서비스에 생생한 목소리를 더해보세요" [level=2] [ref=f11e396]
+        - paragraph [ref=f11e397]: 기업 전용 API부터 실시간 대화형 에이전트까지 전담 매니저가 맞춤형 솔루션을 1:1로 제안해드립니다.
+      - link "서비스 도입 문의하기" [ref=f11e399] [cursor=pointer]:
+        - /url: https://typecast.ai/kr/contact-sales/?position=typecast_home_bottom
+  - contentinfo [ref=f11e400]:
+    - generic [ref=f11e401]:
+      - generic [ref=f11e402]:
+        - generic [ref=f11e403]:
+          - paragraph [ref=f11e404]: 서비스 소개
+          - list [ref=f11e405]:
+            - listitem [ref=f11e406]:
+              - link "타입캐스트 소개" [ref=f11e407] [cursor=pointer]:
+                - /url: /kr/text-to-speech/
+            - listitem [ref=f11e408]:
+              - link "가격 안내" [ref=f11e409] [cursor=pointer]:
+                - /url: /kr/pricing/
+            - listitem [ref=f11e410]:
+              - link "AI 비디오 만들기" [ref=f11e411] [cursor=pointer]:
+                - /url: /kr/create/ai-video-making/
+            - listitem [ref=f11e412]:
+              - link "인스타 릴스 만들기" [ref=f11e413] [cursor=pointer]:
+                - /url: /kr/create/ai-reels-making/
+        - generic [ref=f11e414]:
+          - paragraph [ref=f11e415]: API & Enterprise
+          - list [ref=f11e416]:
+            - listitem [ref=f11e417]:
+              - link "API 소개" [ref=f11e418] [cursor=pointer]:
+                - /url: /kr/developers/api/
+            - listitem [ref=f11e419]:
+              - link "API 문서" [ref=f11e420] [cursor=pointer]:
+                - /url: https://typecast.ai/docs/ko
+            - listitem [ref=f11e421]:
+              - link "API 가격 안내" [ref=f11e422] [cursor=pointer]:
+                - /url: /kr/pricing/api/
+            - listitem [ref=f11e423]:
+              - link "Enterprise" [ref=f11e424] [cursor=pointer]:
+                - /url: /kr/business/
+            - listitem [ref=f11e425]:
+              - link "기업문의" [ref=f11e426] [cursor=pointer]:
+                - /url: https://typecast.ai/kr/contact-sales/?position=typecast_footer
+        - generic [ref=f11e427]:
+          - paragraph [ref=f11e428]: 리소스
+          - list [ref=f11e429]:
+            - listitem [ref=f11e430]:
+              - link "블로그" [ref=f11e431] [cursor=pointer]:
+                - /url: https://typecast.ai/kr/learn/
+            - listitem [ref=f11e432]:
+              - link "타입캐스트 사용법" [ref=f11e433] [cursor=pointer]:
+                - /url: /kr/tutorials/
+            - listitem [ref=f11e434]:
+              - link "캐릭터 배포" [ref=f11e435] [cursor=pointer]:
+                - /url: /kr/character/
+            - listitem [ref=f11e436]:
+              - link "브랜드 리소스" [ref=f11e437] [cursor=pointer]:
+                - /url: /kr/logo/
+            - listitem [ref=f11e438]:
+              - link "자주 묻는 질문" [ref=f11e439] [cursor=pointer]:
+                - /url: https://help.typecast.ai/ko
+        - generic [ref=f11e440]:
+          - paragraph [ref=f11e441]: 회사
+          - list [ref=f11e442]:
+            - listitem [ref=f11e443]:
+              - link "기업 정보" [ref=f11e444] [cursor=pointer]:
+                - /url: https://company.typecast.ai/ko/#about
+            - listitem [ref=f11e445]:
+              - link "채용" [ref=f11e446] [cursor=pointer]:
+                - /url: https://neosapience.ninehire.site/
+            - listitem [ref=f11e447]:
+              - link "미디어" [ref=f11e448] [cursor=pointer]:
+                - /url: https://neosapience.com/ko/
+            - listitem [ref=f11e449]:
+              - link "특허" [ref=f11e450] [cursor=pointer]:
+                - /url: https://neosapience.com/ko/patents/
+            - listitem [ref=f11e451]:
+              - link "이용 약관" [ref=f11e452] [cursor=pointer]:
+                - /url: https://help.typecast.ai/ko/articles/13448178-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80
+            - listitem [ref=f11e453]:
+              - link "개인정보 처리방침" [ref=f11e454] [cursor=pointer]:
+                - /url: https://help.typecast.ai/ko/articles/10717358-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8
+        - generic [ref=f11e455]:
+          - paragraph [ref=f11e456]: 고객 지원
+          - list [ref=f11e457]:
+            - listitem [ref=f11e458]:
+              - link "이용 정책" [ref=f11e459] [cursor=pointer]:
+                - /url: /kr/policy/
+            - listitem [ref=f11e460]:
+              - link "출처 표기 안내" [ref=f11e461] [cursor=pointer]:
+                - /url: /kr/guideline/
+            - listitem [ref=f11e462]:
+              - link "고객 문의" [ref=f11e463] [cursor=pointer]:
+                - /url: /kr/contact/
+        - generic [ref=f11e464]:
+          - paragraph [ref=f11e465]: 공식 채널
+          - list [ref=f11e466]:
+            - listitem [ref=f11e467]:
+              - link "유튜브" [ref=f11e468] [cursor=pointer]:
+                - /url: https://www.youtube.com/@typecastkorea
+            - listitem [ref=f11e469]:
+              - link "인스타그램" [ref=f11e470] [cursor=pointer]:
+                - /url: https://www.instagram.com/typecast.kr
+            - listitem [ref=f11e471]:
+              - link "네이버 블로그" [ref=f11e472] [cursor=pointer]:
+                - /url: https://blog.naver.com/typekr
+            - listitem [ref=f11e473]:
+              - link "링크드인" [ref=f11e474] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/typecastai
+      - generic [ref=f11e475]:
+        - img "Typecast" [ref=f11e476]
+        - button "한국어" [ref=f11e478] [cursor=pointer]
+      - generic [ref=f11e484]:
+        - generic [ref=f11e485]:
+          - paragraph [ref=f11e486]: 네오사피엔스 주식회사
+          - paragraph [ref=f11e487]: "사업자 등록번호: 883-86-00767 | 대표자: 김태수"
+          - paragraph [ref=f11e488]: "주소: 서울 강남구 영동대로96길 20 (삼성동), 대화빌딩 5층"
+          - paragraph [ref=f11e489]: "전화: 070-4112-4548"
+        - paragraph [ref=f11e490]: Copyright © 2026 Neosapience, Inc. All Rights Reserved

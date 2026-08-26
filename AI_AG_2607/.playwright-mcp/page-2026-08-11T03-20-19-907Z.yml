@@ -1,0 +1,528 @@
+- generic [ref=f511e1]:
+  - generic [ref=f511e2]:
+    - generic:
+      - dialog "Start of dialog" [ref=f511e3]:
+        - region [ref=f511e13]:
+          - region [ref=f511e17]:
+            - generic [ref=f511e20]:
+              - heading "Canva Terms of Use" [active] [level=3] [ref=f511e25]
+              - generic [ref=f511e26]:
+                - generic [ref=f511e27]:
+                  - generic [ref=f511e29] [cursor=pointer]:
+                    - generic [ref=f511e30]:
+                      - checkbox "I consent to all of the following items:"
+                    - paragraph [ref=f511e34]: "I consent to all of the following items:"
+                  - generic [ref=f511e36] [cursor=pointer]:
+                    - generic [ref=f511e37]:
+                      - checkbox "I am 14 years old or older or I’ve been directed here by my school."
+                    - paragraph [ref=f511e41]: I am 14 years old or older or I’ve been directed here by my school.
+                  - generic [ref=f511e43] [cursor=pointer]:
+                    - generic [ref=f511e44]:
+                      - checkbox "I consent to the terms of use⁠ (opens in a new tab or window) ."
+                    - paragraph [ref=f511e48]:
+                      - text: I consent to the
+                      - link "terms of use⁠ (opens in a new tab or window)" [ref=f511e49]:
+                        - /url: https://www.canva.com/ko_kr/policies/terms-of-use
+                        - text: terms of use
+                        - generic:
+                          - generic:
+                            - text: ⁠
+                            - generic [ref=f511e50]: (opens in a new tab or window)
+                      - text: .
+                  - generic [ref=f511e52] [cursor=pointer]:
+                    - generic [ref=f511e53]:
+                      - checkbox "I consent to the mandatory collection and use of certain personal information. (More⁠ (opens in a new tab or window) )"
+                    - paragraph [ref=f511e57]:
+                      - text: I consent to the mandatory collection and use of certain personal information. (
+                      - link "More⁠ (opens in a new tab or window)" [ref=f511e58]:
+                        - /url: https://www.canva.com/ko_kr/policies/mandatory-collection-notice
+                        - text: More
+                        - generic:
+                          - generic:
+                            - text: ⁠
+                            - generic [ref=f511e59]: (opens in a new tab or window)
+                      - text: )
+                - button "Agree and continue" [disabled] [ref=f511e60]
+      - button "Close" [ref=f511e64] [cursor=pointer]
+  - generic [ref=f511e68]:
+    - heading "Canva editor" [level=1] [ref=f511e70]
+    - generic [ref=f511e72]: Changes will be saved automatically
+    - generic [ref=f511e73]:
+      - paragraph [ref=f511e75]:
+        - link "Skip navigation" [ref=f511e76] [cursor=pointer]:
+          - /url: "#_r_0_2"
+      - paragraph [ref=f511e79]:
+        - link "Skip to main content" [ref=f511e80] [cursor=pointer]:
+          - /url: "#_r_0_3"
+      - generic [ref=f511e82]:
+        - banner [ref=f511e83]:
+          - menubar "Main" [ref=f511e85]:
+            - group "Document controls" [ref=f511e87]:
+              - menuitem "Home" [ref=f511e89] [cursor=pointer]
+              - menuitem "File" [ref=f511e94] [cursor=pointer]
+            - group "Share and publish" [ref=f511e96]:
+              - generic [ref=f511e98]:
+                - menuitem "Present" [ref=f511e102] [cursor=pointer]
+                - menuitem "All present modes" [ref=f511e107] [cursor=pointer]
+              - menuitem "Share" [ref=f511e113] [cursor=pointer]
+              - menuitem "Sign in" [ref=f511e116] [cursor=pointer]
+        - generic [ref=f511e120]:
+          - complementary [ref=f511e121]:
+            - heading "Side Panel" [level=2] [ref=f511e123]
+            - tablist "Side Panel" [ref=f511e130]:
+              - tab "Templates" [selected] [ref=f511e131] [cursor=pointer]
+              - tab "Elements" [ref=f511e136] [cursor=pointer]
+              - tab "Text" [ref=f511e141] [cursor=pointer]
+              - tab [ref=f511e146] [cursor=pointer]:
+                - generic "Uploads" [ref=f511e147]:
+                  - generic "Uploads" [ref=f511e150]
+              - tab "Tools" [ref=f511e154] [cursor=pointer]
+              - tab "Apps" [ref=f511e159] [cursor=pointer]
+            - tabpanel "Templates" [ref=f511e169]:
+              - generic [ref=f511e170]:
+                - button "Go back" [ref=f511e183] [cursor=pointer]
+                - region [ref=f511e193]:
+                  - generic [ref=f511e222]:
+                    - generic [ref=f511e226]:
+                      - generic [ref=f511e228]:
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e234]:
+                          - button "Open template item page" [ref=f511e235] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e237]
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e244]:
+                          - button "Open template item page" [ref=f511e245] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e247]
+                      - generic [ref=f511e250]:
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e256]:
+                          - button "Open template item page" [ref=f511e257] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e259]
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e266]:
+                          - button "Open template item page" [ref=f511e267] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e269]
+                      - generic [ref=f511e272]:
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e278]:
+                          - button "Open template item page" [ref=f511e279] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e281]
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e288]:
+                          - button "Open template item page" [ref=f511e289] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e291]
+                      - generic [ref=f511e294]:
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e300]:
+                          - button "Open template item page" [ref=f511e301] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e303]
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e310]:
+                          - button "Open template item page" [ref=f511e311] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e313]
+                      - generic [ref=f511e316]:
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e322]:
+                          - button "Open template item page" [ref=f511e323] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e325]
+                        - group "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e332]:
+                          - button "Open template item page" [ref=f511e333] [cursor=pointer]
+                          - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f511e335]
+                    - generic [ref=f511e337]:
+                      - generic [ref=f511e338]: Template style
+                      - generic [ref=f511e346]: More like this
+            - button "Collapse" [ref=f511e400] [cursor=pointer]
+          - generic [ref=f511e402]:
+            - generic:
+              - button "Canvas entry point"
+            - main "Canvas" [ref=f511e403]:
+              - generic [ref=f511e405]:
+                - generic [ref=f511e407]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - application
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic [ref=f511e419]:
+                                              - paragraph [ref=f511e422]: Startup
+                                              - generic:
+                                                - generic:
+                                                  - paragraph: Startup
+                                            - paragraph [ref=f511e446]: Pitch Deck
+                                            - paragraph [ref=f511e453]: Business Presentation
+                                            - paragraph [ref=f511e460]: Salford & Co.
+                                        - application "Canvas content":
+                                          - group "Page 1":
+                                            - group "Startup":
+                                              - paragraph:
+                                                - strong: Startup
+                                            - img "Brand Design Logo"
+                                            - group "Salford & Co.":
+                                              - paragraph: Salford & Co.
+                                            - img "Dark blue 및 Rectangle"
+                                            - group "Pitch Deck":
+                                              - paragraph: Pitch Deck
+                                            - group "Business Presentation":
+                                              - paragraph: Business Presentation
+                                            - img "Rectangle"
+                - navigation "Page" [ref=f511e461]:
+                  - generic [ref=f511e468]:
+                    - heading "Page Thumbnails" [level=2] [ref=f511e471]
+                    - paragraph [ref=f511e473]:
+                      - link "Skip to end of page thumbnails" [ref=f511e474] [cursor=pointer]:
+                        - /url: "#page-navigator-end"
+                    - generic [ref=f511e482]:
+                      - list "Pages" [ref=f511e483]:
+                        - listitem [ref=f511e484]:
+                          - generic [ref=f511e486]:
+                            - generic [ref=f511e490] [cursor=pointer]:
+                              - button "Page 1" [ref=f511e491]:
+                                - generic [ref=f511e504]:
+                                  - generic [ref=f511e511]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f511e516]:
+                                    - paragraph [ref=f511e519]: Startup
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Startup
+                                  - generic [ref=f511e534]:
+                                    - img "Brand Design Logo"
+                                  - paragraph [ref=f511e541]: Pitch Deck
+                                  - paragraph [ref=f511e548]: Business Presentation
+                                  - paragraph [ref=f511e555]: Salford & Co.
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "Page options"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "1"
+                                      - paragraph: "-"
+                                      - textbox "Page title" [ref=f511e560]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "Add" [ref=f511e563] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "Add page" [ref=f511e565] [cursor=pointer]
+                                      - menuitem "Add transition" [ref=f511e567] [cursor=pointer]
+                        - listitem [ref=f511e569]:
+                          - generic [ref=f511e571]:
+                            - generic [ref=f511e575] [cursor=pointer]:
+                              - button "Page 2" [ref=f511e576]:
+                                - generic [ref=f511e589]:
+                                  - generic [ref=f511e596]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f511e601]:
+                                    - paragraph [ref=f511e604]: Introduction
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Introduction
+                                  - paragraph [ref=f511e611]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - generic [ref=f511e616]:
+                                    - generic:
+                                      - img "Close-Up Photo of Accounting Documents"
+                                  - generic [ref=f511e621]:
+                                    - generic:
+                                      - img "Modern Building Facade"
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "Page options"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "2"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "Page title" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "Add" [ref=f511e627] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "Add page" [ref=f511e629] [cursor=pointer]
+                                      - menuitem "Add transition" [ref=f511e631] [cursor=pointer]
+                        - listitem [ref=f511e633]:
+                          - generic [ref=f511e635]:
+                            - generic [ref=f511e639] [cursor=pointer]:
+                              - button "Page 3" [ref=f511e640]:
+                                - generic [ref=f511e653]:
+                                  - generic [ref=f511e660]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f511e665]:
+                                    - paragraph [ref=f511e668]: Company Overview
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Company Overview
+                                  - paragraph [ref=f511e675]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - paragraph [ref=f511e682]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - generic [ref=f511e687]:
+                                    - generic:
+                                      - img "Miniature Business Professionals Analyzing Market Trends"
+                                  - generic [ref=f511e692]:
+                                    - generic:
+                                      - img "Business Presentation in a Modern Office"
+                                  - paragraph [ref=f511e699]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "Page options"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "3"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "Page title" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "Add" [ref=f511e705] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "Add page" [ref=f511e707] [cursor=pointer]
+                                      - menuitem "Add transition" [ref=f511e709] [cursor=pointer]
+                        - listitem [ref=f511e711]:
+                          - generic [ref=f511e713]:
+                            - generic [ref=f511e717] [cursor=pointer]:
+                              - button "Page 4" [ref=f511e718]:
+                                - generic [ref=f511e731]:
+                                  - generic [ref=f511e738]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f511e743]:
+                                    - paragraph [ref=f511e746]: Our Vision
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Our Vision
+                                  - paragraph [ref=f511e753]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - paragraph [ref=f511e768]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f511e775]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f511e782]: Vision 02
+                                  - paragraph [ref=f511e789]: Vision 01
+                                  - generic [ref=f511e794]:
+                                    - generic:
+                                      - img "Business Meeting Discussion Among Professionals"
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "Page options"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "4"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "Page title" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "Add" [ref=f511e800] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "Add page" [ref=f511e802] [cursor=pointer]
+                                      - menuitem "Add transition" [ref=f511e804] [cursor=pointer]
+                        - listitem [ref=f511e806]:
+                          - generic [ref=f511e808]:
+                            - generic [ref=f511e812] [cursor=pointer]:
+                              - button "Page 5" [ref=f511e813]:
+                                - generic [ref=f511e826]:
+                                  - generic [ref=f511e833]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f511e838]:
+                                    - paragraph [ref=f511e841]: Our Mission
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Our Mission
+                                  - paragraph [ref=f511e848]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - paragraph [ref=f511e863]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f511e870]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f511e877]: Mission 02
+                                  - paragraph [ref=f511e884]: Mission 01
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "Page options"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "5"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "Page title" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "Add" [ref=f511e895] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "Add page" [ref=f511e897] [cursor=pointer]
+                                      - menuitem "Add transition" [ref=f511e899] [cursor=pointer]
+                        - listitem [ref=f511e901]:
+                          - generic [ref=f511e903]:
+                            - generic [ref=f511e907] [cursor=pointer]:
+                              - button "Page 6" [ref=f511e908]:
+                                - generic [ref=f511e921]:
+                                  - generic [ref=f511e928]:
+                                    - img "A Blue Visual Effect on a Black Background"
+                                  - generic [ref=f511e933]:
+                                    - paragraph [ref=f511e936]: Our Solutions
+                                    - generic:
+                                      - generic:
+                                        - paragraph: Our Solutions
+                                  - paragraph [ref=f511e943]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam.
+                                  - generic [ref=f511e948]:
+                                    - generic:
+                                      - img "Asian Business Adviser Meeting to Analyze"
+                                  - paragraph [ref=f511e963]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f511e970]: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque molestie nisl eu sem tristique, sit amet convallis ex aliquam. Maecenas varius lectus hendrerit augue blandit, ut posuere erat aliquam. Praesent auctor tellus eget nisl blandit, at varius.
+                                  - paragraph [ref=f511e977]: Solution 02
+                                  - paragraph [ref=f511e984]: Solution 01
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - generic:
+                                        - generic:
+                                          - generic:
+                                            - generic:
+                                              - button "Page options"
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "6"
+                                      - paragraph: "-"
+                                      - generic:
+                                        - textbox "Page title" [disabled]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - button "Add" [ref=f511e990] [cursor=pointer]
+                                    - menu:
+                                      - menuitem "Add page" [ref=f511e992] [cursor=pointer]
+                                      - menuitem "Add transition" [ref=f511e994] [cursor=pointer]
+                        - listitem [ref=f511e996]:
+                          - generic [ref=f511e997]:
+                            - button "Page 7" [ref=f511e1003] [cursor=pointer]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - paragraph: "7"
+                                    - paragraph: "-"
+                                    - paragraph [ref=f511e1012]
+                        - listitem [ref=f511e1013]:
+                          - generic [ref=f511e1014]:
+                            - button "Page 8" [ref=f511e1020] [cursor=pointer]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - paragraph: "8"
+                                    - paragraph: "-"
+                                    - paragraph [ref=f511e1029]
+                        - listitem [ref=f511e1030]:
+                          - generic [ref=f511e1031]:
+                            - button "Page 9" [ref=f511e1037] [cursor=pointer]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - paragraph: "9"
+                                    - paragraph: "-"
+                                    - paragraph [ref=f511e1046]
+                        - listitem [ref=f511e1047]:
+                          - generic [ref=f511e1048]:
+                            - button "Page 10" [ref=f511e1054] [cursor=pointer]
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - paragraph: "10"
+                                    - paragraph: "-"
+                                    - paragraph [ref=f511e1063]
+                      - button "Add page" [ref=f511e1070] [cursor=pointer]
+                    - paragraph [ref=f511e1074]:
+                      - link "Back to start of page thumbnails" [ref=f511e1075] [cursor=pointer]:
+                        - /url: "#page-navigator-start"
+            - contentinfo [ref=f511e1077]:
+              - generic [ref=f511e1078]:
+                - generic [ref=f511e1079]:
+                  - button "Notes" [ref=f511e1083] [cursor=pointer]
+                  - button "Duration" [ref=f511e1088] [cursor=pointer]
+                  - button "Show timer" [ref=f511e1094] [cursor=pointer]:
+                    - generic [ref=f511e1096]: Timer
+                - generic [ref=f511e1097]:
+                  - slider "Zoom" [ref=f511e1112] [cursor=pointer]: "-1.455"
+                  - combobox "Zoom options" [ref=f511e1119] [cursor=pointer]:
+                    - generic [ref=f511e1120]: 23%
+                  - button "Pages" [expanded] [ref=f511e1125] [cursor=pointer]
+                  - button "1 / 10" [ref=f511e1131] [cursor=pointer]
+                  - button "Grid view" [ref=f511e1137] [cursor=pointer]
+                  - button "Present full screen" [ref=f511e1142] [cursor=pointer]
+                  - button "Help" [ref=f511e1150] [cursor=pointer]
+  - generic [ref=f511e1152]: Canvas
+  - generic [ref=f511e1153]: The main navigation contains buttons for document level options. To switch between buttons, use the left and right keys and to activate, press Enter. To skip to the canvas, press “Ctrl+F2”.
+  - generic [ref=f511e1154]: The canvas is where your design is. To navigate into the page, press Enter. To navigate into groups or elements on the page, press Enter again. Press tab to move to the next page, group, or element. To operate the toolbar, use the “Ctrl+F1” key. If an element is selected, move it using the arrow keys; rotate using the “,” key and “.” key; and resize using the arrow keys with the “Ctrl” key. All of these keys can be modified with the “Shift” key to increase increment.
+  - generic [ref=f511e1155]: Use left and right arrow keys to select pages. Use Home and End to jump to the first or last page.
+  - generic [ref=f511e1156]: Add page
+  - generic [ref=f511e1157]: Add transition
+  - generic [ref=f511e1158]: Add page
+  - generic [ref=f511e1159]: Add page
+  - generic [ref=f511e1160]: Add transition
+  - generic [ref=f511e1161]: Notes
+  - generic [ref=f511e1162]: Show timer
+  - generic [ref=f511e1163]: Zoom
+  - generic [ref=f511e1164]: Hide page thumbnails
+  - generic [ref=f511e1165]: Go to page
+  - generic [ref=f511e1166]: Grid view
+  - generic [ref=f511e1167]: Add page
+  - generic [ref=f511e1168]: Add transition
+  - generic [ref=f511e1169]: Add page
+  - generic [ref=f511e1170]: Add transition
+  - generic [ref=f511e1171]: Add page
+  - generic [ref=f511e1172]: Add transition
+  - generic [ref=f511e1173]: Add page
+  - generic [ref=f511e1174]: Add transition
+  - generic [ref=f511e1175]: Present full screen
+  - generic [ref=f511e1176]: The side panel is where you can apply templates or add elements. To skip to the canvas, press “Ctrl+F2”.
+  - generic [ref=f511e1177]: Collapse
+  - generic [ref=f511e1178]: Help
+  - generic [ref=f511e1179]: Share
+  - generic [ref=f511e1180]: This button opens the menu with all the options to share and print your design.
+  - generic [ref=f511e1181]: Start of dialog
+  - generic [ref=f511e1182]: Present full screen
+  - generic [ref=f511e1183]: All present modes

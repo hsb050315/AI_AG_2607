@@ -1,0 +1,150 @@
+- generic [active] [ref=f473e1]:
+  - generic [ref=f473e5]:
+    - menubar [ref=f473e6]:
+      - generic [ref=f473e7]:
+        - link "Canva home" [ref=f473e9] [cursor=pointer]:
+          - /url: https://www.canva.com/
+        - button "Menu Button" [ref=f473e14] [cursor=pointer]
+    - generic [ref=f473e16]:
+      - generic [ref=f473e17]:
+        - heading [level=1] [ref=f473e18]
+        - heading "Perfection? Overrated. 2026 is the Year of Imperfect by Design. Scribble, play with the grid, and mix fonts your way with the Design Trends created by you, curated by us." [level=2] [ref=f473e25]
+      - generic [ref=f473e26]:
+        - generic [ref=f473e27]:
+          - generic: "Start of section: Design Trends Carousel 2026"
+          - paragraph [ref=f473e30]:
+            - link "Skip to end of “Design Trends Carousel 2026” section" [ref=f473e31] [cursor=pointer]:
+              - /url: "#_R_opl6H1_"
+          - listbox [ref=f473e34]:
+            - list [ref=f473e35]:
+              - button [ref=f473e36] [cursor=pointer]:
+                - generic [ref=f473e41]:
+                  - heading [level=4] [ref=f473e42]: Prompt Playground
+                  - paragraph [ref=f473e45]: Bringing the fun to the productivity software aesthetic.
+              - button [ref=f473e46] [cursor=pointer]:
+                - generic [ref=f473e51]:
+                  - heading [level=4] [ref=f473e52]: Reality Warp
+                  - paragraph [ref=f473e55]: Distorting reality with warped visuals and otherworldly photography.
+              - button [ref=f473e56] [cursor=pointer]:
+                - generic [ref=f473e61]:
+                  - heading [level=4] [ref=f473e62]: Explorecore
+                  - paragraph [ref=f473e65]: Inviting exploration with layered storytelling and purposeful motion.
+              - button [ref=f473e66] [cursor=pointer]:
+                - generic [ref=f473e71]:
+                  - heading [level=4] [ref=f473e72]: Texture Check
+                  - paragraph [ref=f473e75]: Design so tactile, you’ll want to reach out and feel it.
+              - button [ref=f473e76] [cursor=pointer]:
+                - generic [ref=f473e81]:
+                  - heading [level=4] [ref=f473e82]: Notes App Chic
+                  - paragraph [ref=f473e85]: Owning the mess with raw visuals that feel honest and human.
+              - button [ref=f473e86] [cursor=pointer]:
+                - generic [ref=f473e91]:
+                  - heading [level=4] [ref=f473e92]: Opt Out Era
+                  - paragraph [ref=f473e95]: Stripping back the clutter and noise with structured simplicity.
+              - button [ref=f473e96] [cursor=pointer]:
+                - generic [ref=f473e101]:
+                  - heading [level=4] [ref=f473e102]: Drama Club
+                  - paragraph [ref=f473e105]: Serving short breaks from reality with a flair for the dramatic.
+              - button [ref=f473e106] [cursor=pointer]:
+                - generic [ref=f473e111]:
+                  - heading [level=4] [ref=f473e112]: Granny Wave
+                  - paragraph [ref=f473e115]: A maximalist remix of Indian heritage and modern design.
+              - button [ref=f473e116] [cursor=pointer]:
+                - generic [ref=f473e121]:
+                  - heading [level=4] [ref=f473e122]: Zinegeist
+                  - paragraph [ref=f473e125]: Bringing texture, touch, and analog effects back into Mexico’s chat.
+              - button [ref=f473e126] [cursor=pointer]:
+                - generic [ref=f473e131]:
+                  - heading [level=4] [ref=f473e132]: Block Party
+                  - paragraph [ref=f473e135]: Reclaiming Spain’s regional aesthetic through a cinematic stylization.
+            - list [ref=f473e136]:
+              - button [ref=f473e137] [cursor=pointer]:
+                - generic [ref=f473e142]:
+                  - heading "Prompt Playground" [level=4] [ref=f473e143]
+                  - paragraph [ref=f473e146]: Bringing the fun to the productivity software aesthetic.
+              - button [ref=f473e147] [cursor=pointer]:
+                - generic [ref=f473e152]:
+                  - heading "Reality Warp" [level=4] [ref=f473e153]
+                  - paragraph [ref=f473e156]: Distorting reality with warped visuals and otherworldly photography.
+              - button [ref=f473e157] [cursor=pointer]:
+                - generic [ref=f473e160]:
+                  - heading "Explorecore" [level=4] [ref=f473e161]
+                  - paragraph [ref=f473e164]: Inviting exploration with layered storytelling and purposeful motion.
+              - button [ref=f473e165] [cursor=pointer]:
+                - generic [ref=f473e168]:
+                  - heading "Texture Check" [level=4] [ref=f473e169]
+                  - paragraph [ref=f473e172]: Design so tactile, you’ll want to reach out and feel it.
+              - button [ref=f473e173] [cursor=pointer]:
+                - generic [ref=f473e176]:
+                  - heading "Notes App Chic" [level=4] [ref=f473e177]
+                  - paragraph [ref=f473e180]: Owning the mess with raw visuals that feel honest and human.
+              - button [ref=f473e181] [cursor=pointer]:
+                - generic [ref=f473e184]:
+                  - heading "Opt Out Era" [level=4] [ref=f473e185]
+                  - paragraph [ref=f473e188]: Stripping back the clutter and noise with structured simplicity.
+              - button [ref=f473e189] [cursor=pointer]:
+                - generic [ref=f473e192]:
+                  - heading "Drama Club" [level=4] [ref=f473e193]
+                  - paragraph [ref=f473e196]: Serving short breaks from reality with a flair for the dramatic.
+              - button [ref=f473e197] [cursor=pointer]:
+                - generic [ref=f473e200]:
+                  - heading "Granny Wave" [level=4] [ref=f473e201]
+                  - paragraph [ref=f473e204]: A maximalist remix of Indian heritage and modern design.
+              - button [ref=f473e205] [cursor=pointer]:
+                - generic [ref=f473e210]:
+                  - heading "Zinegeist" [level=4] [ref=f473e211]
+                  - paragraph [ref=f473e214]: Bringing texture, touch, and analog effects back into Mexico’s chat.
+              - button [ref=f473e215] [cursor=pointer]:
+                - generic [ref=f473e220]:
+                  - heading "Block Party" [level=4] [ref=f473e221]
+                  - paragraph [ref=f473e224]: Reclaiming Spain’s regional aesthetic through a cinematic stylization.
+            - list [ref=f473e225]:
+              - button [ref=f473e226] [cursor=pointer]:
+                - generic [ref=f473e231]:
+                  - heading [level=4] [ref=f473e232]: Prompt Playground
+                  - paragraph [ref=f473e235]: Bringing the fun to the productivity software aesthetic.
+              - button [ref=f473e236] [cursor=pointer]:
+                - generic [ref=f473e241]:
+                  - heading [level=4] [ref=f473e242]: Reality Warp
+                  - paragraph [ref=f473e245]: Distorting reality with warped visuals and otherworldly photography.
+              - button [ref=f473e246] [cursor=pointer]:
+                - generic [ref=f473e251]:
+                  - heading [level=4] [ref=f473e252]: Explorecore
+                  - paragraph [ref=f473e255]: Inviting exploration with layered storytelling and purposeful motion.
+              - button [ref=f473e256] [cursor=pointer]:
+                - generic [ref=f473e261]:
+                  - heading [level=4] [ref=f473e262]: Texture Check
+                  - paragraph [ref=f473e265]: Design so tactile, you’ll want to reach out and feel it.
+              - button [ref=f473e266] [cursor=pointer]:
+                - generic [ref=f473e271]:
+                  - heading [level=4] [ref=f473e272]: Notes App Chic
+                  - paragraph [ref=f473e275]: Owning the mess with raw visuals that feel honest and human.
+              - button [ref=f473e276] [cursor=pointer]:
+                - generic [ref=f473e281]:
+                  - heading [level=4] [ref=f473e282]: Opt Out Era
+                  - paragraph [ref=f473e285]: Stripping back the clutter and noise with structured simplicity.
+              - button [ref=f473e286] [cursor=pointer]:
+                - generic [ref=f473e291]:
+                  - heading [level=4] [ref=f473e292]: Drama Club
+                  - paragraph [ref=f473e295]: Serving short breaks from reality with a flair for the dramatic.
+              - button [ref=f473e296] [cursor=pointer]:
+                - generic [ref=f473e301]:
+                  - heading [level=4] [ref=f473e302]: Granny Wave
+                  - paragraph [ref=f473e305]: A maximalist remix of Indian heritage and modern design.
+              - button [ref=f473e306] [cursor=pointer]:
+                - generic [ref=f473e311]:
+                  - heading [level=4] [ref=f473e312]: Zinegeist
+                  - paragraph [ref=f473e315]: Bringing texture, touch, and analog effects back into Mexico’s chat.
+              - button [ref=f473e316] [cursor=pointer]:
+                - generic [ref=f473e321]:
+                  - heading [level=4] [ref=f473e322]: Block Party
+                  - paragraph [ref=f473e325]: Reclaiming Spain’s regional aesthetic through a cinematic stylization.
+          - paragraph [ref=f473e327]:
+            - link "Skip to start of “Design Trends Carousel 2026” section" [ref=f473e328] [cursor=pointer]:
+              - /url: "#_R_opl6_"
+          - generic: "End of section: Design Trends Carousel 2026"
+        - generic [ref=f473e331]:
+          - button "Previous Design Trend" [ref=f473e332] [cursor=pointer]
+          - button "Play Design Trend Slides" [ref=f473e335] [cursor=pointer]
+          - button "Next Design Trend" [ref=f473e338] [cursor=pointer]
+  - alert [ref=f473e344]

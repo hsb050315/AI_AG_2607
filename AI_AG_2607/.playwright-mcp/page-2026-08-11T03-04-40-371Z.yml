@@ -1,0 +1,154 @@
+- generic [active] [ref=f62e1]:
+  - generic:
+    - link "메뉴 영역으로 바로가기" [ref=f62e2] [cursor=pointer]:
+      - /url: "#lnb"
+    - link "본문 영역으로 바로가기" [ref=f62e4] [cursor=pointer]:
+      - /url: "#content"
+  - generic [ref=f62e6]:
+    - generic [ref=f62e8]:
+      - generic [ref=f62e9]:
+        - generic [ref=f62e11]:
+          - heading [level=1] [ref=f62e12]:
+            - link "NAVER" [ref=f62e13] [cursor=pointer]:
+              - /url: https://www.naver.com
+          - search [ref=f62e15]:
+            - group "검색" [ref=f62e16]:
+              - combobox "검색어를 입력해 주세요." [ref=f62e18]:
+                - text: Official히게단디즘 Asia Tour 8월 8일 9일 콘서트
+                - generic:
+                  - generic:
+                    - dialog "자동완성 레이어"
+              - button "한글 입력기" [ref=f62e20] [cursor=pointer]
+              - button "검색" [ref=f62e22] [cursor=pointer]
+        - generic [ref=f62e24]:
+          - strong [ref=f62e25]: 사용자 링크
+          - list [ref=f62e26]:
+            - listitem [ref=f62e27]:
+              - link "로그인" [ref=f62e28] [cursor=pointer]:
+                - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fwhere%3Dnews%26query%3DOfficial%25ED%259E%2588%25EA%25B2%258C%25EB%258B%25A8%25EB%2594%2594%25EC%25A6%2598%2520Asia%2520Tour%25208%25EC%259B%2594%25208%25EC%259D%25BC%25209%25EC%259D%25BC%2520%25EC%25BD%2598%25EC%2584%259C%25ED%258A%25B8
+            - listitem [ref=f62e32]:
+              - link "서비스 더보기" [ref=f62e33] [cursor=pointer]:
+                - /url: javascript:;
+      - generic [ref=f62e36]:
+        - generic [ref=f62e38]:
+          - generic [ref=f62e39]:
+            - tab "전체" [ref=f62e41] [cursor=pointer]
+            - tab "뉴스" [selected] [ref=f62e44] [cursor=pointer]
+            - tab "AI new" [ref=f62e46] [cursor=pointer]:
+              - text: AI
+              - generic [ref=f62e47]: new
+            - tab "블로그" [ref=f62e50] [cursor=pointer]
+            - tab "카페" [ref=f62e52] [cursor=pointer]
+            - tab "클립" [ref=f62e54] [cursor=pointer]
+            - tab "이미지" [ref=f62e56] [cursor=pointer]
+            - tab "지식iN" [ref=f62e58] [cursor=pointer]
+            - tab "동영상" [ref=f62e60] [cursor=pointer]
+            - tab "쇼핑" [ref=f62e62] [cursor=pointer]
+            - tab "어학사전" [ref=f62e64] [cursor=pointer]
+          - button "더보기" [ref=f62e66] [cursor=pointer]
+        - list [ref=f62e69]:
+          - listitem [ref=f62e70]:
+            - button "공유" [ref=f62e71] [cursor=pointer]
+    - main [ref=f62e72]:
+      - generic [ref=f62e73]:
+        - heading "Official히게단디즘 Asia Tour 8월 8일 9일 콘서트 뉴스검색 결과" [level=1] [ref=f62e74]
+        - generic [ref=f62e75]:
+          - generic [ref=f62e78]:
+            - button "검색옵션 열기" [ref=f62e80] [cursor=pointer]: 옵션
+            - listbox "정렬 필터를 선택하세요" [ref=f62e82]:
+              - option "관련도순" [selected] [ref=f62e83] [cursor=pointer]
+              - option "최신순" [ref=f62e84] [cursor=pointer]
+              - link "모바일 메인 언론사" [ref=f62e86] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f62e89]:
+            - link "언론사 선정 언론사가 선정한 주요기사 혹은 심층기획 기사입니다. 네이버 메인에서 보고 싶은 언론사를 구독하세요." [ref=f62e91] [cursor=pointer]:
+              - /url: https://news.naver.com/main/static/channelPromotion.html
+              - generic [ref=f62e92]: 언론사 선정
+              - generic [ref=f62e93]:
+                - text: 언론사가 선정한 주요기사 혹은 심층기획 기사입니다.
+                - strong [ref=f62e94]: 네이버 메인에서 보고 싶은 언론사
+                - text: 를 구독하세요.
+            - list [ref=f62e96]:
+              - generic [ref=f62e101]:
+                - generic [ref=f62e102]:
+                  - generic [ref=f62e103]:
+                    - link "케이스타뉴스의 프로필 이미지 새 창 열림" [ref=f62e105] [cursor=pointer]:
+                      - /url: http://www.starnewsk.com/
+                      - img "케이스타뉴스의 프로필 이미지" [ref=f62e108]
+                      - generic [ref=f62e109]: 새 창 열림
+                    - link "케이스타뉴스 새 창 열림" [ref=f62e112] [cursor=pointer]:
+                      - /url: http://www.starnewsk.com/
+                      - generic [ref=f62e113]: 케이스타뉴스
+                      - generic [ref=f62e114]: 새 창 열림
+                    - generic [ref=f62e115]: 1주 전
+                  - button "옵션 메뉴 열기" [ref=f62e121] [cursor=pointer]
+                - generic [ref=f62e126]:
+                  - generic [ref=f62e127]:
+                    - link "오피셜히게단디즘, 8월 서울 온다...'두 번째 내한공연' 개최 새 창 열림" [ref=f62e128] [cursor=pointer]:
+                      - /url: http://www.starnewsk.com/news/articleView.html?idxno=57813
+                      - generic [ref=f62e129]:
+                        - text: 오피셜
+                        - mark [ref=f62e130]: 히게단디즘
+                        - text: ","
+                        - mark [ref=f62e131]: 8월
+                        - text: 서울 온다...'두 번째 내한공연' 개최
+                      - generic [ref=f62e132]: 새 창 열림
+                    - link "두 번째 내한 공연인 'OFFICIAL HIGE DANDISM ASIA TOUR 2026 in Seoul'에서는 대표 히트곡은 물론, 발매 예정인 새 앨범 수록곡의 라이브 무대까지 최초 공개될 예정이다. 한편, 히게단의 내한 콘서트는 오는 8월 8일과 9일 오후 7시 서울 올림픽공원 KSPO DOME에서 진행된다. 새 창 열림" [ref=f62e133] [cursor=pointer]:
+                      - /url: http://www.starnewsk.com/news/articleView.html?idxno=57813
+                      - generic [ref=f62e134]:
+                        - text: 두 번째 내한 공연인 '
+                        - mark [ref=f62e135]: OFFICIAL
+                        - text: HIGE DANDISM
+                        - mark [ref=f62e136]: ASIA TOUR
+                        - text: 2026 in Seoul'에서는 대표 히트곡은 물론, 발매 예정인 새 앨범 수록곡의 라이브 무대까지 최초 공개될 예정이다. 한편,
+                        - mark [ref=f62e137]: 히게
+                        - text: 단의 내한
+                        - mark [ref=f62e138]: 콘서트
+                        - text: 는 오는
+                        - mark [ref=f62e139]: 8월 8일
+                        - text: 과
+                        - mark [ref=f62e140]: 9일
+                        - text: 오후 7시 서울 올림픽공원 KSPO DOME에서 진행된다.
+                      - generic [ref=f62e141]: 새 창 열림
+                  - link "오피셜<mark>히게단디즘</mark>, <mark>8월</mark> 서울 온다...'두 번째 내한공연' 개최의 이미지 새 창 열림" [ref=f62e142] [cursor=pointer]:
+                    - /url: http://www.starnewsk.com/news/articleView.html?idxno=57813
+                    - img "오피셜<mark>히게단디즘</mark>, <mark>8월</mark> 서울 온다...'두 번째 내한공연' 개최의 이미지" [ref=f62e144]
+                    - generic [ref=f62e146]: 새 창 열림
+            - link "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요." [ref=f62e148] [cursor=pointer]:
+              - /url: https://help.naver.com/alias/news/news_21.naver
+        - generic [ref=f62e154]:
+          - link [ref=f62e155] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001
+            - generic [ref=f62e157]:
+              - strong [ref=f62e158]: 여름의 기록, 포인트로 환전하세요
+              - paragraph [ref=f62e159]: 클립 올리면 매월 포인트 최대 12만원
+          - link [ref=f62e160] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcwidgetbottom&campaign_id=2512-shopping-024&material=N&target=https%3A%2F%2Fmkt.naver.com%2Fstore_discovery%3Fdtm_detail%3DN%26dtm_source%3Dnaver_pcwidgetbottom%26dtm_medium%3Dmktatrb_mn%26dtm_campaign%3D2512-shopping-024
+            - generic [ref=f62e162]:
+              - strong [ref=f62e163]: 여름을 마무리 하는
+              - paragraph [ref=f62e164]: 스토어 랭킹 공개
+          - link [ref=f62e165] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2606-knockit-001&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fonsale%2F6a729972790f733cbe660266%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2606-knockit-001
+            - generic [ref=f62e167]:
+              - strong [ref=f62e168]: 러닝 아이템도 노크잇에서
+              - paragraph [ref=f62e169]: 멤버십은 최대 10% 적립
+          - link [ref=f62e170] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2607-naverAI-001&target=https%3A%2F%2Fmkt.naver.com%2Faitab%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2607-naverAI-001
+            - generic [ref=f62e172]:
+              - strong [ref=f62e173]: 끝까지 끝내주는 AI, 네이버 AI탭
+              - paragraph [ref=f62e174]: 검색이 대화가 되다
+    - generic [ref=f62e175]:
+      - link "맨위로" [ref=f62e177] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f62e180]:
+        - link "전체서비스" [ref=f62e182] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+        - link "이용약관" [ref=f62e184] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/service.html
+        - link [ref=f62e186] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/privacy.html
+          - strong [ref=f62e187]: 개인정보처리방침
+        - link "검색 고객센터" [ref=f62e189] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/search/integration/main.naver
+        - link "© NAVER Corp." [ref=f62e191] [cursor=pointer]:
+          - /url: https://www.navercorp.com/

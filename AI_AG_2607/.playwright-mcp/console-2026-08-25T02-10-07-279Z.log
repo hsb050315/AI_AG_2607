@@ -1,0 +1,4 @@
+[     994ms] [LOG] i18next: languageChanged en @ https://accounts.typecast.ai/assets/index-f8y_EFGU.js:1910
+[     994ms] [LOG] i18next: initialized {debug: true, initImmediate: true, ns: Array(1), defaultNS: common, fallbackLng: Array(1)} @ https://accounts.typecast.ai/assets/index-f8y_EFGU.js:1910
+[    1052ms] [LOG] i18next: languageChanged ko @ https://accounts.typecast.ai/assets/index-f8y_EFGU.js:1910
+[    1135ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "username"): (More info: https://goo.gl/9p2vKq) %o @ https://accounts.typecast.ai/ko/sign:0

@@ -1,0 +1,10 @@
+[   34620ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://static.canva.com/web/c5294a332d9aaa15.js:677
+[   34620ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://static.canva.com/web/c5294a332d9aaa15.js:677
+[   69317ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://static.canva.com/web/c5294a332d9aaa15.js:677
+[   69317ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://static.canva.com/web/c5294a332d9aaa15.js:677
+[   70118ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://static.canva.com/web/c5294a332d9aaa15.js:677
+[   70118ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://static.canva.com/web/c5294a332d9aaa15.js:677
+[   76040ms] [INFO] websocket_client: 1786418646070 connecting... @ https://static.canva.com/web/8106ee633973e981.sentry_browser.js:0
+[   76860ms] [INFO] websocket_client: connected @ https://static.canva.com/web/8106ee633973e981.sentry_browser.js:0
+[   76860ms] [INFO] websocket_client: status CONNECTED @ https://static.canva.com/web/8106ee633973e981.sentry_browser.js:0
+[   77060ms] [INFO] websocket_client: request id a294201a7d25ea8e @ https://static.canva.com/web/8106ee633973e981.sentry_browser.js:0

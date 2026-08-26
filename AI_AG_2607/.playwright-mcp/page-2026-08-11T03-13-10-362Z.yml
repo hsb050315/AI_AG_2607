@@ -1,0 +1,740 @@
+- generic [active] [ref=f470e1]:
+  - generic [ref=f470e3]: Loading finished
+  - generic [ref=f470e5]:
+    - paragraph [ref=f470e7]:
+      - link "Skip to main content" [ref=f470e8] [cursor=pointer]:
+        - /url: "#_R_3_"
+    - banner [ref=f470e11]:
+      - generic [ref=f470e13]:
+        - link "Canva home" [ref=f470e16] [cursor=pointer]:
+          - /url: https://www.canva.com/
+        - navigation [ref=f470e23]:
+          - list [ref=f470e24]:
+            - listitem [ref=f470e25]:
+              - button "Design" [ref=f470e26] [cursor=pointer]
+            - listitem [ref=f470e28]:
+              - button "Product" [ref=f470e29] [cursor=pointer]
+            - listitem [ref=f470e31]:
+              - button "Plans" [ref=f470e32] [cursor=pointer]
+            - listitem [ref=f470e34]:
+              - button "Business" [ref=f470e35] [cursor=pointer]
+            - listitem [ref=f470e37]:
+              - button "Education" [ref=f470e38] [cursor=pointer]
+            - listitem [ref=f470e40]:
+              - button "Help" [ref=f470e41] [cursor=pointer]
+        - generic [ref=f470e45]:
+          - button "Sign up" [ref=f470e47] [cursor=pointer]
+          - button "Log in" [ref=f470e49] [cursor=pointer]
+    - main [ref=f470e51]:
+      - navigation "Breadcrumb" [ref=f470e53]:
+        - list [ref=f470e54]:
+          - listitem [ref=f470e55]:
+            - link "Home" [ref=f470e56] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f470e58]
+          - listitem [ref=f470e59]:
+            - link "Presentations" [ref=f470e60] [cursor=pointer]:
+              - /url: /presentations/
+          - listitem [ref=f470e62]
+          - listitem [ref=f470e63]:
+            - generic [ref=f470e64]: Presentation templates
+      - generic [ref=f470e65]:
+        - generic [ref=f470e76]:
+          - heading "Presentation templates" [level=1] [ref=f470e77]
+          - paragraph [ref=f470e78]:
+            - text: Design a presentation that blows your audience away with our stunning collection of high-quality slide templates. Free to personalize online so you can collaborate and pr...
+            - button "More" [ref=f470e79] [cursor=pointer]
+        - generic [ref=f470e96]:
+          - generic [ref=f470e98]:
+            - generic [ref=f470e99]:
+              - generic [ref=f470e104]:
+                - button "Create a blank Presentation" [ref=f470e105] [cursor=pointer]
+                - paragraph [ref=f470e108]: Create a blank Presentation
+              - generic [ref=f470e111]:
+                - group [ref=f470e113]:
+                  - link "Preview free Beige Minimalist Ad Campaign Creative Brief Presentation template, 10 pages" [ref=f470e117] [cursor=pointer]:
+                    - /url: /templates/EAGWUtYFPMg-beige-minimalist-ad-campaign-creative-brief-presentation/
+                    - img "Beige Minimalist Ad Campaign Creative Brief Presentation" [ref=f470e125]
+                - paragraph [ref=f470e129]:
+                  - link "Beige Minimalist Ad Campaign Creative Brief Presentation" [ref=f470e130] [cursor=pointer]:
+                    - /url: /templates/EAGWUtYFPMg-beige-minimalist-ad-campaign-creative-brief-presentation/
+              - generic [ref=f470e133]:
+                - group [ref=f470e135]:
+                  - link "Preview free Red and Pink Bold Pitch Deck Presentation template, 10 pages" [ref=f470e139] [cursor=pointer]:
+                    - /url: /templates/EAGxtAIvkGA-red-and-pink-bold-pitch-deck-presentation/
+                    - img "Red and Pink Bold Pitch Deck Presentation" [ref=f470e147]
+                - paragraph [ref=f470e151]:
+                  - link "Red and Pink Bold Pitch Deck Presentation" [ref=f470e152] [cursor=pointer]:
+                    - /url: /templates/EAGxtAIvkGA-red-and-pink-bold-pitch-deck-presentation/
+              - generic [ref=f470e155]:
+                - group [ref=f470e157]:
+                  - link "Preview free Soft Cream Black Simple Minimalist Travel Plan Korea Presentation template, 13 pages" [ref=f470e161] [cursor=pointer]:
+                    - /url: /templates/EAE8zoUnP_s-soft-cream-black-simple-minimalist-travel-plan-korea-presentation/
+                    - img "Soft Cream Black Simple Minimalist Travel Plan Korea Presentation" [ref=f470e169]
+                - paragraph [ref=f470e173]:
+                  - link "Soft Cream Black Simple Minimalist Travel Plan Korea Presentation" [ref=f470e174] [cursor=pointer]:
+                    - /url: /templates/EAE8zoUnP_s-soft-cream-black-simple-minimalist-travel-plan-korea-presentation/
+              - generic [ref=f470e177]:
+                - group [ref=f470e179]:
+                  - link "Preview free Soft Cream Black Simple Minimalist Travel Plan Presentation template, 13 pages" [ref=f470e183] [cursor=pointer]:
+                    - /url: /templates/EAGvF7YE2gc-soft-cream-black-simple-minimalist-travel-plan-presentation/
+                    - img "Soft Cream Black Simple Minimalist Travel Plan Presentation" [ref=f470e191]
+                - paragraph [ref=f470e195]:
+                  - link "Soft Cream Black Simple Minimalist Travel Plan Presentation" [ref=f470e196] [cursor=pointer]:
+                    - /url: /templates/EAGvF7YE2gc-soft-cream-black-simple-minimalist-travel-plan-presentation/
+              - generic [ref=f470e199]:
+                - group [ref=f470e201]:
+                  - link "Preview free Blue and Brown Cute Pastel Plaid Group Project Presentation template, 10 pages" [ref=f470e205] [cursor=pointer]:
+                    - /url: /templates/EAGYZrS2zyE-blue-and-brown-cute-pastel-plaid-group-project-presentation/
+                    - img "Blue and Brown Cute Pastel Plaid Group Project Presentation" [ref=f470e213]
+                - paragraph [ref=f470e217]:
+                  - link "Blue and Brown Cute Pastel Plaid Group Project Presentation" [ref=f470e218] [cursor=pointer]:
+                    - /url: /templates/EAGYZrS2zyE-blue-and-brown-cute-pastel-plaid-group-project-presentation/
+              - generic [ref=f470e221]:
+                - group [ref=f470e223]:
+                  - link "Preview free Blue and Beige Simple Project Proposal Presentation template, 12 pages" [ref=f470e227] [cursor=pointer]:
+                    - /url: /templates/EAGumw_v_CU-blue-and-beige-simple-project-proposal-presentation/
+                    - img "Blue and Beige Simple Project Proposal Presentation" [ref=f470e235]
+                - paragraph [ref=f470e239]:
+                  - link "Blue and Beige Simple Project Proposal Presentation" [ref=f470e240] [cursor=pointer]:
+                    - /url: /templates/EAGumw_v_CU-blue-and-beige-simple-project-proposal-presentation/
+              - generic [ref=f470e243]:
+                - group [ref=f470e245]:
+                  - link "Preview free Brown Red Scrapbook Portfolio Presentation template, 14 pages" [ref=f470e249] [cursor=pointer]:
+                    - /url: /templates/EAGzN8IlBw8-brown-red-scrapbook-portfolio-presentation/
+                    - img "Brown Red Scrapbook Portfolio Presentation" [ref=f470e257]
+                - paragraph [ref=f470e261]:
+                  - link "Brown Red Scrapbook Portfolio Presentation" [ref=f470e262] [cursor=pointer]:
+                    - /url: /templates/EAGzN8IlBw8-brown-red-scrapbook-portfolio-presentation/
+              - generic [ref=f470e265]:
+                - group [ref=f470e267]:
+                  - link "Preview free Brown Illustrated Popular Korean Foods Presentation template" [ref=f470e271] [cursor=pointer]:
+                    - /url: /templates/EAGqTOwjOXo-brown-illustrated-popular-korean-foods-presentation/
+                    - generic "Brown Illustrated Popular Korean Foods Presentation" [ref=f470e276]
+                  - button "Play" [ref=f470e280] [cursor=pointer]
+                - paragraph [ref=f470e284]:
+                  - link "Brown Illustrated Popular Korean Foods Presentation" [ref=f470e285] [cursor=pointer]:
+                    - /url: /templates/EAGqTOwjOXo-brown-illustrated-popular-korean-foods-presentation/
+              - generic [ref=f470e288]:
+                - group [ref=f470e290]:
+                  - link "Preview free Green and Blue Illustrated Creative Portfolio Presentation template, 10 pages" [ref=f470e294] [cursor=pointer]:
+                    - /url: /templates/EAGytwrnhSU-green-and-blue-illustrated-creative-portfolio-presentation/
+                    - img "Green and Blue Illustrated Creative Portfolio Presentation" [ref=f470e302]
+                - paragraph [ref=f470e306]:
+                  - link "Green and Blue Illustrated Creative Portfolio Presentation" [ref=f470e307] [cursor=pointer]:
+                    - /url: /templates/EAGytwrnhSU-green-and-blue-illustrated-creative-portfolio-presentation/
+              - generic [ref=f470e310]:
+                - group [ref=f470e312]:
+                  - link "Preview free Green and Yellow Typographic Aesthetic Nature Presentation template, 15 pages" [ref=f470e316] [cursor=pointer]:
+                    - /url: /templates/EAG2M81r-jM-green-and-yellow-typographic-aesthetic-nature-presentation/
+                    - img "Green and Yellow Typographic Aesthetic Nature Presentation" [ref=f470e324]
+                - paragraph [ref=f470e328]:
+                  - link "Green and Yellow Typographic Aesthetic Nature Presentation" [ref=f470e329] [cursor=pointer]:
+                    - /url: /templates/EAG2M81r-jM-green-and-yellow-typographic-aesthetic-nature-presentation/
+              - generic [ref=f470e332]:
+                - group [ref=f470e334]:
+                  - link "Preview pro Grey Bold Minimalist Project Proposal Presentation template" [ref=f470e338] [cursor=pointer]:
+                    - /url: /templates/EAGdog94Z9s-grey-bold-minimalist-project-proposal-presentation/
+                    - generic "Grey Bold Minimalist Project Proposal Presentation" [ref=f470e343]
+                  - generic [ref=f470e345]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                  - button "Play" [ref=f470e349] [cursor=pointer]
+                - paragraph [ref=f470e353]:
+                  - link "Grey Bold Minimalist Project Proposal Presentation" [ref=f470e354] [cursor=pointer]:
+                    - /url: /templates/EAGdog94Z9s-grey-bold-minimalist-project-proposal-presentation/
+              - generic [ref=f470e357]:
+                - group [ref=f470e359]:
+                  - link "Preview pro Red and Beige Bold Modern Professional Business Pitch Deck Presentation template" [ref=f470e363] [cursor=pointer]:
+                    - /url: /templates/EAGYN97RYWQ-red-and-beige-bold-modern-professional-business-pitch-deck-presentation/
+                    - generic "Red and Beige Bold Modern Professional Business Pitch Deck Presentation" [ref=f470e368]
+                  - generic [ref=f470e370]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                  - button "Play" [ref=f470e374] [cursor=pointer]
+                - paragraph [ref=f470e378]:
+                  - link "Red and Beige Bold Modern Professional Business Pitch Deck Presentation" [ref=f470e379] [cursor=pointer]:
+                    - /url: /templates/EAGYN97RYWQ-red-and-beige-bold-modern-professional-business-pitch-deck-presentation/
+              - generic [ref=f470e382]:
+                - group [ref=f470e384]:
+                  - link "Preview free Black Dark Simple Presentation template, 30 pages" [ref=f470e388] [cursor=pointer]:
+                    - /url: /templates/EAEbn-WaPUM-black-dark-simple-presentation/
+                    - img "Black Dark Simple Presentation" [ref=f470e396]
+                - paragraph [ref=f470e400]:
+                  - link "Black Dark Simple Presentation" [ref=f470e401] [cursor=pointer]:
+                    - /url: /templates/EAEbn-WaPUM-black-dark-simple-presentation/
+              - generic [ref=f470e404]:
+                - group [ref=f470e406]:
+                  - link "Preview pro Blue Modern Brand Collaboration Pitch Deck Presentation template, 10 pages" [ref=f470e410] [cursor=pointer]:
+                    - /url: /templates/EAGpCScWVR4-blue-modern-brand-collaboration-pitch-deck-presentation/
+                    - img "Blue Modern Brand Collaboration Pitch Deck Presentation" [ref=f470e418]
+                  - generic [ref=f470e421]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - paragraph [ref=f470e424]:
+                  - link "Blue Modern Brand Collaboration Pitch Deck Presentation" [ref=f470e425] [cursor=pointer]:
+                    - /url: /templates/EAGpCScWVR4-blue-modern-brand-collaboration-pitch-deck-presentation/
+              - generic [ref=f470e428]:
+                - group [ref=f470e430]:
+                  - link "Preview free Cream and Brown Simple Minimalist Clean Travel Plan Presentation template, 10 pages" [ref=f470e434] [cursor=pointer]:
+                    - /url: /templates/EAGvT3-7bOU-cream-and-brown-simple-minimalist-clean-travel-plan-presentation/
+                    - img "Cream and Brown Simple Minimalist Clean Travel Plan Presentation" [ref=f470e442]
+                - paragraph [ref=f470e446]:
+                  - link "Cream and Brown Simple Minimalist Clean Travel Plan Presentation" [ref=f470e447] [cursor=pointer]:
+                    - /url: /templates/EAGvT3-7bOU-cream-and-brown-simple-minimalist-clean-travel-plan-presentation/
+              - generic [ref=f470e450]:
+                - group [ref=f470e452]:
+                  - link "Preview free Colorful Playful Illustrated Creativity Children Presentation template, 16 pages" [ref=f470e456] [cursor=pointer]:
+                    - /url: /templates/EAG2cAU-0SI-colorful-playful-illustrated-creativity-children-presentation/
+                    - img "Colorful Playful Illustrated Creativity Children Presentation" [ref=f470e464]
+                - paragraph [ref=f470e468]:
+                  - link "Colorful Playful Illustrated Creativity Children Presentation" [ref=f470e469] [cursor=pointer]:
+                    - /url: /templates/EAG2cAU-0SI-colorful-playful-illustrated-creativity-children-presentation/
+            - generic [ref=f470e470]:
+              - generic [ref=f470e473]:
+                - group [ref=f470e475]:
+                  - link "Preview free Black and Gray Minimalist Creative Portfolio Presentation template, 11 pages" [ref=f470e479] [cursor=pointer]:
+                    - /url: /templates/EAGrLDwPJo0-black-and-gray-minimalist-creative-portfolio-presentation/
+                    - img "Black and Gray Minimalist Creative Portfolio Presentation" [ref=f470e486]
+                - paragraph [ref=f470e490]:
+                  - link "Black and Gray Minimalist Creative Portfolio Presentation" [ref=f470e491] [cursor=pointer]:
+                    - /url: /templates/EAGrLDwPJo0-black-and-gray-minimalist-creative-portfolio-presentation/
+              - generic [ref=f470e494]:
+                - group [ref=f470e496]:
+                  - link "Preview free Blue & white company profile presentation template, 15 pages" [ref=f470e500] [cursor=pointer]:
+                    - /url: /templates/EAFbWcD5qZQ-blue-white-company-profile-presentation/
+                    - img "Blue & white company profile presentation" [ref=f470e507]
+                - paragraph [ref=f470e511]:
+                  - link "Blue & white company profile presentation" [ref=f470e512] [cursor=pointer]:
+                    - /url: /templates/EAFbWcD5qZQ-blue-white-company-profile-presentation/
+              - generic [ref=f470e515]:
+                - group [ref=f470e517]:
+                  - link "Preview free Black and Red Bold Modern Creative Brief Presentation template, 10 pages" [ref=f470e521] [cursor=pointer]:
+                    - /url: /templates/EAGgRM_gc54-black-and-red-bold-modern-creative-brief-presentation/
+                    - img "Black and Red Bold Modern Creative Brief Presentation" [ref=f470e529]
+                - paragraph [ref=f470e533]:
+                  - link "Black and Red Bold Modern Creative Brief Presentation" [ref=f470e534] [cursor=pointer]:
+                    - /url: /templates/EAGgRM_gc54-black-and-red-bold-modern-creative-brief-presentation/
+              - generic [ref=f470e537]:
+                - group [ref=f470e539]:
+                  - link "Preview free Almost White and Black Simple Professional Personal Portfolio Presentation template, 11 pages" [ref=f470e543] [cursor=pointer]:
+                    - /url: /templates/EAGmiGsTRI8-almost-white-and-black-simple-professional-personal-portfolio-presentation/
+                    - img "Almost White and Black Simple Professional Personal Portfolio Presentation" [ref=f470e551]
+                - paragraph [ref=f470e555]:
+                  - link "Almost White and Black Simple Professional Personal Portfolio Presentation" [ref=f470e556] [cursor=pointer]:
+                    - /url: /templates/EAGmiGsTRI8-almost-white-and-black-simple-professional-personal-portfolio-presentation/
+              - generic [ref=f470e559]:
+                - group [ref=f470e561]:
+                  - link "Preview free Black and White Simple Minimalist Pitch Deck Marketing Presentation template, 12 pages" [ref=f470e565] [cursor=pointer]:
+                    - /url: /templates/EAGliTXiui4-black-and-white-simple-minimalist-pitch-deck-marketing-presentation/
+                    - img "Black and White Simple Minimalist Pitch Deck Marketing Presentation" [ref=f470e573]
+                - paragraph [ref=f470e577]:
+                  - link "Black and White Simple Minimalist Pitch Deck Marketing Presentation" [ref=f470e578] [cursor=pointer]:
+                    - /url: /templates/EAGliTXiui4-black-and-white-simple-minimalist-pitch-deck-marketing-presentation/
+              - generic [ref=f470e581]:
+                - group [ref=f470e583]:
+                  - link "Preview free Black and Orange Dark Simple and Straightforward Gym Business Meeting Visual Charts Presentation template" [ref=f470e587] [cursor=pointer]:
+                    - /url: /templates/EAEg2INswW8-black-and-orange-dark-simple-and-straightforward-gym-business-meeting-visual-charts-presentation/
+                    - generic "Black and Orange Dark Simple and Straightforward Gym Business Meeting Visual Charts Presentation" [ref=f470e592]
+                  - button "Play" [ref=f470e596] [cursor=pointer]
+                - paragraph [ref=f470e600]:
+                  - link "Black and Orange Dark Simple and Straightforward Gym Business Meeting Visual Charts Presentation" [ref=f470e601] [cursor=pointer]:
+                    - /url: /templates/EAEg2INswW8-black-and-orange-dark-simple-and-straightforward-gym-business-meeting-visual-charts-presentation/
+              - generic [ref=f470e604]:
+                - group [ref=f470e606]:
+                  - link "Preview free Cream Neutral Minimalist New Business Pitch Deck Presentation template, 18 pages" [ref=f470e610] [cursor=pointer]:
+                    - /url: /templates/EAFe6sQFEPU-cream-neutral-minimalist-new-business-pitch-deck-presentation/
+                    - img "Cream Neutral Minimalist New Business Pitch Deck Presentation" [ref=f470e618]
+                - paragraph [ref=f470e622]:
+                  - link "Cream Neutral Minimalist New Business Pitch Deck Presentation" [ref=f470e623] [cursor=pointer]:
+                    - /url: /templates/EAFe6sQFEPU-cream-neutral-minimalist-new-business-pitch-deck-presentation/
+              - generic [ref=f470e626]:
+                - group [ref=f470e628]:
+                  - link "Preview free Blue and White Modern Business Proposal Presentation template, 11 pages" [ref=f470e632] [cursor=pointer]:
+                    - /url: /templates/EAG73U7UHDc-blue-and-white-modern-business-proposal-presentation/
+                    - img "Blue and White Modern Business Proposal Presentation" [ref=f470e640]
+                - paragraph [ref=f470e644]:
+                  - link "Blue and White Modern Business Proposal Presentation" [ref=f470e645] [cursor=pointer]:
+                    - /url: /templates/EAG73U7UHDc-blue-and-white-modern-business-proposal-presentation/
+              - generic [ref=f470e648]:
+                - group [ref=f470e650]:
+                  - link "Preview free Black and Cream Clean and Simple Social Media Marketing Report Presentation template, 10 pages" [ref=f470e654] [cursor=pointer]:
+                    - /url: /templates/EAGbXvvSQJY-black-and-cream-clean-and-simple-social-media-marketing-report-presentation/
+                    - img "Black and Cream Clean and Simple Social Media Marketing Report Presentation" [ref=f470e662]
+                - paragraph [ref=f470e666]:
+                  - link "Black and Cream Clean and Simple Social Media Marketing Report Presentation" [ref=f470e667] [cursor=pointer]:
+                    - /url: /templates/EAGbXvvSQJY-black-and-cream-clean-and-simple-social-media-marketing-report-presentation/
+              - generic [ref=f470e670]:
+                - group [ref=f470e672]:
+                  - link "Preview free Purple and White Modern Gradient Business Pitch Deck Presentation template, 11 pages" [ref=f470e676] [cursor=pointer]:
+                    - /url: /templates/EAGseK0H6bI-purple-and-white-modern-gradient-business-pitch-deck-presentation/
+                    - img "Purple and White Modern Gradient Business Pitch Deck Presentation" [ref=f470e684]
+                - paragraph [ref=f470e688]:
+                  - link "Purple and White Modern Gradient Business Pitch Deck Presentation" [ref=f470e689] [cursor=pointer]:
+                    - /url: /templates/EAGseK0H6bI-purple-and-white-modern-gradient-business-pitch-deck-presentation/
+              - generic [ref=f470e692]:
+                - group [ref=f470e694]:
+                  - link "Preview free White Light Simple Presentation template" [ref=f470e698] [cursor=pointer]:
+                    - /url: /templates/EAEbaJYzSRo-white-light-simple-presentation/
+                    - generic "White Light Simple Presentation" [ref=f470e703]
+                  - button "Play" [ref=f470e707] [cursor=pointer]
+                - paragraph [ref=f470e711]:
+                  - link "White Light Simple Presentation" [ref=f470e712] [cursor=pointer]:
+                    - /url: /templates/EAEbaJYzSRo-white-light-simple-presentation/
+              - generic [ref=f470e715]:
+                - group [ref=f470e717]:
+                  - link "Preview free White Blue Simple Modern Enhancing Sales Strategy Presentation template, 12 pages" [ref=f470e721] [cursor=pointer]:
+                    - /url: /templates/EAF6TC7QopA-white-blue-simple-modern-enhancing-sales-strategy-presentation/
+                    - img "White Blue Simple Modern Enhancing Sales Strategy Presentation" [ref=f470e729]
+                - paragraph [ref=f470e733]:
+                  - link "White Blue Simple Modern Enhancing Sales Strategy Presentation" [ref=f470e734] [cursor=pointer]:
+                    - /url: /templates/EAF6TC7QopA-white-blue-simple-modern-enhancing-sales-strategy-presentation/
+              - generic [ref=f470e737]:
+                - group [ref=f470e739]:
+                  - link "Preview free Minimalist Beige Cream Brand Proposal Presentation template, 10 pages" [ref=f470e743] [cursor=pointer]:
+                    - /url: /templates/EAFIcQySh5E-minimalist-beige-cream-brand-proposal-presentation/
+                    - img "Minimalist Beige Cream Brand Proposal Presentation" [ref=f470e751]
+                - paragraph [ref=f470e755]:
+                  - link "Minimalist Beige Cream Brand Proposal Presentation" [ref=f470e756] [cursor=pointer]:
+                    - /url: /templates/EAFIcQySh5E-minimalist-beige-cream-brand-proposal-presentation/
+              - generic [ref=f470e759]:
+                - group [ref=f470e761]:
+                  - link "Preview free Brown Modern Minimal Interior Design Presentation template, 16 pages" [ref=f470e765] [cursor=pointer]:
+                    - /url: /templates/EAGr_RR-y1A-brown-modern-minimal-interior-design-presentation/
+                    - img "Brown Modern Minimal Interior Design Presentation" [ref=f470e773]
+                - paragraph [ref=f470e777]:
+                  - link "Brown Modern Minimal Interior Design Presentation" [ref=f470e778] [cursor=pointer]:
+                    - /url: /templates/EAGr_RR-y1A-brown-modern-minimal-interior-design-presentation/
+              - generic [ref=f470e781]:
+                - group [ref=f470e783]:
+                  - link "Preview free White Minimal Photography Portfolio Presentation template, 10 pages" [ref=f470e787] [cursor=pointer]:
+                    - /url: /templates/EAGv3fRuA2A-white-minimal-photography-portfolio-presentation/
+                    - img "White Minimal Photography Portfolio Presentation" [ref=f470e795]
+                - paragraph [ref=f470e799]:
+                  - link "White Minimal Photography Portfolio Presentation" [ref=f470e800] [cursor=pointer]:
+                    - /url: /templates/EAGv3fRuA2A-white-minimal-photography-portfolio-presentation/
+              - generic [ref=f470e803]:
+                - group [ref=f470e805]:
+                  - link "Preview free Black White Green Minimal Business Marketing Strategy Presentation template" [ref=f470e809] [cursor=pointer]:
+                    - /url: /templates/EAHA8co-1EU-black-white-green-minimal-business-marketing-strategy-presentation/
+                    - generic "Black White Green Minimal Business Marketing Strategy Presentation" [ref=f470e814]
+                  - button "Play" [ref=f470e818] [cursor=pointer]
+                - paragraph [ref=f470e822]:
+                  - link "Black White Green Minimal Business Marketing Strategy Presentation" [ref=f470e823] [cursor=pointer]:
+                    - /url: /templates/EAHA8co-1EU-black-white-green-minimal-business-marketing-strategy-presentation/
+              - generic [ref=f470e826]:
+                - group [ref=f470e828]:
+                  - link "Preview pro Grey Modern Professional Business Project Presentation template, 15 pages" [ref=f470e832] [cursor=pointer]:
+                    - /url: /templates/EAFi5YGvnfk-grey-modern-professional-business-project-presentation/
+                    - img "Grey Modern Professional Business Project Presentation" [ref=f470e840]
+                  - generic [ref=f470e843]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - paragraph [ref=f470e846]:
+                  - link "Grey Modern Professional Business Project Presentation" [ref=f470e847] [cursor=pointer]:
+                    - /url: /templates/EAFi5YGvnfk-grey-modern-professional-business-project-presentation/
+            - generic [ref=f470e848]:
+              - generic [ref=f470e851]:
+                - group [ref=f470e853]:
+                  - link "Preview free White Blue Aesthetic Minimalist Elegant Travel Tour Seoul South Korea Presentation template, 10 pages" [ref=f470e857] [cursor=pointer]:
+                    - /url: /templates/EAGlRIdMIb0-white-blue-aesthetic-minimalist-elegant-travel-tour-seoul-south-korea-presentation/
+                    - img "White Blue Aesthetic Minimalist Elegant Travel Tour Seoul South Korea Presentation" [ref=f470e864]
+                - paragraph [ref=f470e868]:
+                  - link "White Blue Aesthetic Minimalist Elegant Travel Tour Seoul South Korea Presentation" [ref=f470e869] [cursor=pointer]:
+                    - /url: /templates/EAGlRIdMIb0-white-blue-aesthetic-minimalist-elegant-travel-tour-seoul-south-korea-presentation/
+              - generic [ref=f470e872]:
+                - group [ref=f470e874]:
+                  - link "Preview free Beige and Black Minimalist Project Deck Presentation template, 13 pages" [ref=f470e878] [cursor=pointer]:
+                    - /url: /templates/EAFaYPfKRPU-beige-and-black-minimalist-project-deck-presentation/
+                    - img "Beige and Black Minimalist Project Deck Presentation" [ref=f470e885]
+                - paragraph [ref=f470e889]:
+                  - link "Beige and Black Minimalist Project Deck Presentation" [ref=f470e890] [cursor=pointer]:
+                    - /url: /templates/EAFaYPfKRPU-beige-and-black-minimalist-project-deck-presentation/
+              - generic [ref=f470e893]:
+                - group [ref=f470e895]:
+                  - link "Preview free White Blue and Grey Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f470e899] [cursor=pointer]:
+                    - /url: /templates/EAGqwpf_JeA-white-blue-and-grey-modern-startup-pitch-deck-presentation/
+                    - img "White Blue and Grey Modern Startup Pitch Deck Presentation" [ref=f470e907]
+                - paragraph [ref=f470e911]:
+                  - link "White Blue and Grey Modern Startup Pitch Deck Presentation" [ref=f470e912] [cursor=pointer]:
+                    - /url: /templates/EAGqwpf_JeA-white-blue-and-grey-modern-startup-pitch-deck-presentation/
+              - generic [ref=f470e915]:
+                - group [ref=f470e917]:
+                  - link "Preview free Blue Illustrative Travel to Korea Presentation template, 10 pages" [ref=f470e921] [cursor=pointer]:
+                    - /url: /templates/EAGEDHfYzuo-blue-illustrative-travel-to-korea-presentation/
+                    - img "Blue Illustrative Travel to Korea Presentation" [ref=f470e929]
+                - paragraph [ref=f470e933]:
+                  - link "Blue Illustrative Travel to Korea Presentation" [ref=f470e934] [cursor=pointer]:
+                    - /url: /templates/EAGEDHfYzuo-blue-illustrative-travel-to-korea-presentation/
+              - generic [ref=f470e937]:
+                - group [ref=f470e939]:
+                  - link "Preview free Red White and Blue Illustrated Seoul Travel Presentation template" [ref=f470e943] [cursor=pointer]:
+                    - /url: /templates/EAHE5GGdGDc-red-white-and-blue-illustrated-seoul-travel-presentation/
+                    - generic "Red White and Blue Illustrated Seoul Travel Presentation" [ref=f470e948]
+                  - button "Play" [ref=f470e952] [cursor=pointer]
+                - paragraph [ref=f470e956]:
+                  - link "Red White and Blue Illustrated Seoul Travel Presentation" [ref=f470e957] [cursor=pointer]:
+                    - /url: /templates/EAHE5GGdGDc-red-white-and-blue-illustrated-seoul-travel-presentation/
+              - generic [ref=f470e960]:
+                - group [ref=f470e962]:
+                  - link "Preview free White Red and Black Simple Professional Minimalist Pitch Deck Company Presentation template, 12 pages" [ref=f470e966] [cursor=pointer]:
+                    - /url: /templates/EAGzadbxooM-white-red-and-black-simple-professional-minimalist-pitch-deck-company-presentation/
+                    - img "White Red and Black Simple Professional Minimalist Pitch Deck Company Presentation" [ref=f470e974]
+                - paragraph [ref=f470e978]:
+                  - link "White Red and Black Simple Professional Minimalist Pitch Deck Company Presentation" [ref=f470e979] [cursor=pointer]:
+                    - /url: /templates/EAGzadbxooM-white-red-and-black-simple-professional-minimalist-pitch-deck-company-presentation/
+              - generic [ref=f470e982]:
+                - group [ref=f470e984]:
+                  - link "Preview free Red and White Modern Travel Presentation template, 12 pages" [ref=f470e988] [cursor=pointer]:
+                    - /url: /templates/EAHCzuq2tpQ-red-and-white-modern-travel-presentation/
+                    - img "Red and White Modern Travel Presentation" [ref=f470e996]
+                - paragraph [ref=f470e1000]:
+                  - link "Red and White Modern Travel Presentation" [ref=f470e1001] [cursor=pointer]:
+                    - /url: /templates/EAHCzuq2tpQ-red-and-white-modern-travel-presentation/
+              - generic [ref=f470e1004]:
+                - group [ref=f470e1006]:
+                  - link "Preview free Cream Colorful Pastel Cute Illustration Project Presentation template, 10 pages" [ref=f470e1010] [cursor=pointer]:
+                    - /url: /templates/EAGTua5CrcY-cream-colorful-pastel-cute-illustration-project-presentation/
+                    - img "Cream Colorful Pastel Cute Illustration Project Presentation" [ref=f470e1018]
+                - paragraph [ref=f470e1022]:
+                  - link "Cream Colorful Pastel Cute Illustration Project Presentation" [ref=f470e1023] [cursor=pointer]:
+                    - /url: /templates/EAGTua5CrcY-cream-colorful-pastel-cute-illustration-project-presentation/
+              - generic [ref=f470e1026]:
+                - group [ref=f470e1028]:
+                  - link "Preview free White and Blue Retro Y2K Aesthetic Gen Z Cute Kpop Idol Game Night Presentation template" [ref=f470e1032] [cursor=pointer]:
+                    - /url: /templates/EAGHcx9I6Us-white-and-blue-retro-y2k-aesthetic-gen-z-cute-kpop-idol-game-night-presentation/
+                    - generic "White and Blue Retro Y2K Aesthetic Gen Z Cute Kpop Idol Game Night Presentation" [ref=f470e1037]
+                  - button "Play" [ref=f470e1041] [cursor=pointer]
+                - paragraph [ref=f470e1045]:
+                  - link "White and Blue Retro Y2K Aesthetic Gen Z Cute Kpop Idol Game Night Presentation" [ref=f470e1046] [cursor=pointer]:
+                    - /url: /templates/EAGHcx9I6Us-white-and-blue-retro-y2k-aesthetic-gen-z-cute-kpop-idol-game-night-presentation/
+              - generic [ref=f470e1049]:
+                - group [ref=f470e1051]:
+                  - link "Preview free White Beige and Brown Simple Minimalist Clean Final Project Presentation template, 13 pages" [ref=f470e1055] [cursor=pointer]:
+                    - /url: /templates/EAGrT0NzYAM-white-beige-and-brown-simple-minimalist-clean-final-project-presentation/
+                    - img "White Beige and Brown Simple Minimalist Clean Final Project Presentation" [ref=f470e1063]
+                - paragraph [ref=f470e1067]:
+                  - link "White Beige and Brown Simple Minimalist Clean Final Project Presentation" [ref=f470e1068] [cursor=pointer]:
+                    - /url: /templates/EAGrT0NzYAM-white-beige-and-brown-simple-minimalist-clean-final-project-presentation/
+              - generic [ref=f470e1071]:
+                - group [ref=f470e1073]:
+                  - link "Preview pro Blue Modern Business Pitch Deck Presentation template, 12 pages" [ref=f470e1077] [cursor=pointer]:
+                    - /url: /templates/EAGqHmiqF2M-blue-modern-business-pitch-deck-presentation/
+                    - img "Blue Modern Business Pitch Deck Presentation" [ref=f470e1085]
+                  - generic [ref=f470e1088]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - paragraph [ref=f470e1091]:
+                  - link "Blue Modern Business Pitch Deck Presentation" [ref=f470e1092] [cursor=pointer]:
+                    - /url: /templates/EAGqHmiqF2M-blue-modern-business-pitch-deck-presentation/
+              - generic [ref=f470e1095]:
+                - group [ref=f470e1097]:
+                  - link "Preview free Red White and Black Modern South Korea Presentation template, 10 pages" [ref=f470e1101] [cursor=pointer]:
+                    - /url: /templates/EAHGzdiJFMo-red-white-and-black-modern-south-korea-presentation/
+                    - img "Red White and Black Modern South Korea Presentation" [ref=f470e1109]
+                - paragraph [ref=f470e1113]:
+                  - link "Red White and Black Modern South Korea Presentation" [ref=f470e1114] [cursor=pointer]:
+                    - /url: /templates/EAHGzdiJFMo-red-white-and-black-modern-south-korea-presentation/
+              - generic [ref=f470e1117]:
+                - group [ref=f470e1119]:
+                  - link "Preview pro Red Beige Bold Brand Strategy Presentation template, 10 pages" [ref=f470e1123] [cursor=pointer]:
+                    - /url: /templates/EAG9oQxnis0-red-beige-bold-brand-strategy-presentation/
+                    - img "Red Beige Bold Brand Strategy Presentation" [ref=f470e1131]
+                  - generic [ref=f470e1134]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - paragraph [ref=f470e1137]:
+                  - link "Red Beige Bold Brand Strategy Presentation" [ref=f470e1138] [cursor=pointer]:
+                    - /url: /templates/EAG9oQxnis0-red-beige-bold-brand-strategy-presentation/
+              - generic [ref=f470e1141]:
+                - group [ref=f470e1143]:
+                  - link "Preview pro White Blue Simple Business Pitch Deck Presentation template, 13 pages" [ref=f470e1147] [cursor=pointer]:
+                    - /url: /templates/EAEd0dhRUys-white-blue-simple-business-pitch-deck-presentation/
+                    - img "White Blue Simple Business Pitch Deck Presentation" [ref=f470e1155]
+                  - generic [ref=f470e1158]:
+                    - generic:
+                      - generic:
+                        - paragraph: Pro
+                - paragraph [ref=f470e1161]:
+                  - link "White Blue Simple Business Pitch Deck Presentation" [ref=f470e1162] [cursor=pointer]:
+                    - /url: /templates/EAEd0dhRUys-white-blue-simple-business-pitch-deck-presentation/
+              - generic [ref=f470e1165]:
+                - group [ref=f470e1167]:
+                  - link "Preview free Orange Illustrated Vietnamese Food Presentation template" [ref=f470e1171] [cursor=pointer]:
+                    - /url: /templates/EAGttoSLWBQ-orange-illustrated-vietnamese-food-presentation/
+                    - generic "Orange Illustrated Vietnamese Food Presentation" [ref=f470e1176]
+                  - button "Play" [ref=f470e1180] [cursor=pointer]
+                - paragraph [ref=f470e1184]:
+                  - link "Orange Illustrated Vietnamese Food Presentation" [ref=f470e1185] [cursor=pointer]:
+                    - /url: /templates/EAGttoSLWBQ-orange-illustrated-vietnamese-food-presentation/
+              - generic [ref=f470e1188]:
+                - group [ref=f470e1190]:
+                  - link "Preview free Blue and White Modern Business Proposal Presentation template, 13 pages" [ref=f470e1194] [cursor=pointer]:
+                    - /url: /templates/EAGsSbgYUYs-blue-and-white-modern-business-proposal-presentation/
+                    - img "Blue and White Modern Business Proposal Presentation" [ref=f470e1202]
+                - paragraph [ref=f470e1206]:
+                  - link "Blue and White Modern Business Proposal Presentation" [ref=f470e1207] [cursor=pointer]:
+                    - /url: /templates/EAGsSbgYUYs-blue-and-white-modern-business-proposal-presentation/
+              - generic [ref=f470e1210]:
+                - group [ref=f470e1212]:
+                  - link "Preview free Yellow and Blue Illustrative Summer Activity Presentation template, 11 pages" [ref=f470e1216] [cursor=pointer]:
+                    - /url: /templates/EAGLuNjp8Tw-yellow-and-blue-illustrative-summer-activity-presentation/
+                    - img "Yellow and Blue Illustrative Summer Activity Presentation" [ref=f470e1224]
+                - paragraph [ref=f470e1228]:
+                  - link "Yellow and Blue Illustrative Summer Activity Presentation" [ref=f470e1229] [cursor=pointer]:
+                    - /url: /templates/EAGLuNjp8Tw-yellow-and-blue-illustrative-summer-activity-presentation/
+          - generic [ref=f470e1231]:
+            - paragraph [ref=f470e1232]: Showing 50 of 20,123
+            - progressbar "Showing 50 of 20,123" [ref=f470e1234]
+            - button "Show More" [ref=f470e1239] [cursor=pointer]
+        - generic [ref=f470e1246]:
+          - heading "Explore more" [level=2] [ref=f470e1248]
+          - generic [ref=f470e1254]:
+            - link [ref=f470e1256] [cursor=pointer]:
+              - /url: /presentations/templates/birthday/
+              - paragraph [ref=f470e1258]: Birthday Presentations
+            - link [ref=f470e1260] [cursor=pointer]:
+              - /url: /presentations/templates/brainstorm/
+              - paragraph [ref=f470e1262]: Brainstorm
+            - link [ref=f470e1264] [cursor=pointer]:
+              - /url: /presentations/templates/fathers-day/
+              - paragraph [ref=f470e1266]: Father's Day Presentations
+            - link [ref=f470e1268] [cursor=pointer]:
+              - /url: /presentations/templates/simple/
+              - paragraph [ref=f470e1270]: Simple
+            - link [ref=f470e1272] [cursor=pointer]:
+              - /url: /presentations/templates/education/
+              - paragraph [ref=f470e1274]: Education
+            - link [ref=f470e1276] [cursor=pointer]:
+              - /url: /presentations/templates/pride/
+              - paragraph [ref=f470e1278]: Pride Presentations
+            - link [ref=f470e1280] [cursor=pointer]:
+              - /url: /presentations/templates/game/
+              - paragraph [ref=f470e1282]: Game
+            - link [ref=f470e1284] [cursor=pointer]:
+              - /url: /presentations/templates/love/
+              - paragraph [ref=f470e1286]: Love
+            - link [ref=f470e1288] [cursor=pointer]:
+              - /url: /presentations/templates/planner/
+              - paragraph [ref=f470e1290]: Planner Presentations
+            - link [ref=f470e1292] [cursor=pointer]:
+              - /url: /presentations/templates/fandom/
+              - paragraph [ref=f470e1294]: Fandom
+            - button "Show All" [ref=f470e1297] [cursor=pointer]
+        - generic [ref=f470e1304]:
+          - heading "Presentations by Canva" [level=2] [ref=f470e1306]
+          - generic [ref=f470e1311]:
+            - paragraph [ref=f470e1314]: Creating a presentation deck that grabs your audience's attention and effectively communicates and shares your information can be a daunting task. Make it simple and hassle-free with a collection of well-designed and easy-to-use presentation templates from Canva. To captivate your target audience, y...
+            - button [ref=f470e1318] [cursor=pointer]:
+              - paragraph [ref=f470e1319]: More
+    - generic [ref=f470e1320]:
+      - paragraph [ref=f470e1322]:
+        - link "Skip to end of footer" [ref=f470e1323] [cursor=pointer]:
+          - /url: "#_r_3_"
+      - contentinfo [ref=f470e1325]:
+        - generic [ref=f470e1327]:
+          - generic [ref=f470e1334]:
+            - heading "Download Canva for free" [level=2] [ref=f470e1339]
+            - navigation [ref=f470e1344]:
+              - list [ref=f470e1346]:
+                - listitem [ref=f470e1347]:
+                  - heading "Product" [level=2] [ref=f470e1349]
+                  - list "Product" [ref=f470e1351]:
+                    - listitem [ref=f470e1352]:
+                      - link "Latest launches" [ref=f470e1353] [cursor=pointer]:
+                        - /url: https://www.canva.com/launches/
+                    - listitem [ref=f470e1355]:
+                      - link "Visual Suite" [ref=f470e1356] [cursor=pointer]:
+                        - /url: https://www.canva.com/visual-suite/
+                    - listitem [ref=f470e1358]:
+                      - link "Canva AI" [ref=f470e1359] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-ai/
+                    - listitem [ref=f470e1361]:
+                      - link "Brand management" [ref=f470e1362] [cursor=pointer]:
+                        - /url: https://www.canva.com/solutions/brand-management-tools/
+                    - listitem [ref=f470e1364]:
+                      - link "Social media" [ref=f470e1365] [cursor=pointer]:
+                        - /url: https://www.canva.com/social-media/
+                    - listitem [ref=f470e1367]:
+                      - link "Features" [ref=f470e1368] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/
+                    - listitem [ref=f470e1370]:
+                      - link "Print" [ref=f470e1371] [cursor=pointer]:
+                        - /url: https://www.canva.com/print/
+                    - listitem [ref=f470e1373]:
+                      - link "Apps Marketplace" [ref=f470e1374] [cursor=pointer]:
+                        - /url: https://www.canva.com/apps/
+                    - listitem [ref=f470e1376]:
+                      - link "Affinity" [ref=f470e1377] [cursor=pointer]:
+                        - /url: https://www.affinity.studio/
+                - listitem [ref=f470e1384]:
+                  - heading "Plans" [level=2] [ref=f470e1386]
+                  - list "Plans" [ref=f470e1388]:
+                    - listitem [ref=f470e1389]:
+                      - link "Pricing" [ref=f470e1390] [cursor=pointer]:
+                        - /url: https://www.canva.com/pricing/
+                    - listitem [ref=f470e1392]:
+                      - link "Pro" [ref=f470e1393] [cursor=pointer]:
+                        - /url: https://www.canva.com/pro/
+                    - listitem [ref=f470e1395]:
+                      - link "Business" [ref=f470e1396] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-business/
+                    - listitem [ref=f470e1398]:
+                      - link "Enterprise" [ref=f470e1399] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/
+                    - listitem [ref=f470e1401]:
+                      - link "Education" [ref=f470e1402] [cursor=pointer]:
+                        - /url: https://www.canva.com/education/
+                    - listitem [ref=f470e1404]:
+                      - link "Higher education" [ref=f470e1405] [cursor=pointer]:
+                        - /url: https://www.canva.com/for-campus/
+                    - listitem [ref=f470e1407]:
+                      - link "Nonprofits" [ref=f470e1408] [cursor=pointer]:
+                        - /url: https://www.canva.com/nonprofits/
+                    - listitem [ref=f470e1410]:
+                      - link "Contact Sales" [ref=f470e1411] [cursor=pointer]:
+                        - /url: https://www.canva.com/contact-sales/
+                - listitem [ref=f470e1413]:
+                  - heading "About" [level=2] [ref=f470e1415]
+                  - list "About" [ref=f470e1417]:
+                    - listitem [ref=f470e1418]:
+                      - link "About Canva" [ref=f470e1419] [cursor=pointer]:
+                        - /url: https://www.canva.com/about/
+                    - listitem [ref=f470e1421]:
+                      - link "Newsroom" [ref=f470e1422] [cursor=pointer]:
+                        - /url: https://www.canva.com/newsroom/news/
+                    - listitem [ref=f470e1424]:
+                      - link "Events" [ref=f470e1425] [cursor=pointer]:
+                        - /url: https://www.canva.com/events/
+                    - listitem [ref=f470e1427]:
+                      - link "Canva Originals" [ref=f470e1428] [cursor=pointer]:
+                        - /url: https://shop.canva.com/
+                    - listitem [ref=f470e1430]:
+                      - link "Careers" [ref=f470e1431] [cursor=pointer]:
+                        - /url: https://www.lifeatcanva.com/en
+                    - listitem [ref=f470e1438]:
+                      - link "Social impact" [ref=f470e1439] [cursor=pointer]:
+                        - /url: https://www.canva.com/step-two/
+                    - listitem [ref=f470e1441]:
+                      - link "Sustainability" [ref=f470e1442] [cursor=pointer]:
+                        - /url: https://www.canva.com/sustainability/
+                    - listitem [ref=f470e1444]:
+                      - link "Case studies" [ref=f470e1445] [cursor=pointer]:
+                        - /url: https://www.canva.com/case-studies/
+                - listitem [ref=f470e1447]:
+                  - heading "Community" [level=2] [ref=f470e1449]
+                  - list "Community" [ref=f470e1451]:
+                    - listitem [ref=f470e1452]:
+                      - link "Canva Communities" [ref=f470e1453] [cursor=pointer]:
+                        - /url: https://www.canva.com/community/
+                    - listitem [ref=f470e1455]:
+                      - link "Creators" [ref=f470e1456] [cursor=pointer]:
+                        - /url: https://www.canva.com/creators/
+                    - listitem [ref=f470e1458]:
+                      - link "Affiliates" [ref=f470e1459] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/canva-affiliate-marketing-program/
+                    - listitem [ref=f470e1461]:
+                      - link "Canva Represents Fund" [ref=f470e1462] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-represents/
+                    - listitem [ref=f470e1464]:
+                      - link "Content partners" [ref=f470e1465] [cursor=pointer]:
+                        - /url: https://www.canva.com/partners/content/
+                    - listitem [ref=f470e1467]:
+                      - link "Business partner directory" [ref=f470e1468] [cursor=pointer]:
+                        - /url: https://partners.canva.com/directory/
+                    - listitem [ref=f470e1470]:
+                      - link "Canva Developers" [ref=f470e1471] [cursor=pointer]:
+                        - /url: https://www.canva.com/developers/
+                - listitem [ref=f470e1478]:
+                  - heading "Inspiration" [level=2] [ref=f470e1480]
+                  - list "Inspiration" [ref=f470e1482]:
+                    - listitem [ref=f470e1483]:
+                      - link "Design Trends" [ref=f470e1484] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-trends/
+                    - listitem [ref=f470e1486]:
+                      - link "AI creativity podcast" [ref=f470e1487] [cursor=pointer]:
+                        - /url: https://promptedpodcast.com/
+                    - listitem [ref=f470e1494]:
+                      - link "Learn blog" [ref=f470e1495] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/
+                    - listitem [ref=f470e1497]:
+                      - link "Templates Marketplace" [ref=f470e1498] [cursor=pointer]:
+                        - /url: https://www.canva.com/templates/
+                    - listitem [ref=f470e1500]:
+                      - link "Font pairing" [ref=f470e1501] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+                    - listitem [ref=f470e1503]:
+                      - link "Color wheel" [ref=f470e1504] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-wheel/
+                    - listitem [ref=f470e1506]:
+                      - link "Colors" [ref=f470e1507] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/
+                    - listitem [ref=f470e1509]:
+                      - link "Color palette generator" [ref=f470e1510] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-palette-generator/
+                - listitem [ref=f470e1512]:
+                  - heading "Help" [level=2] [ref=f470e1514]
+                  - list "Help" [ref=f470e1516]:
+                    - listitem [ref=f470e1517]:
+                      - link "Help Center" [ref=f470e1518] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/
+                    - listitem [ref=f470e1520]:
+                      - link "Security" [ref=f470e1521] [cursor=pointer]:
+                        - /url: https://www.canva.com/security/
+                    - listitem [ref=f470e1523]:
+                      - link "Trust Center" [ref=f470e1524] [cursor=pointer]:
+                        - /url: https://www.canva.com/trust/
+                    - listitem [ref=f470e1526]:
+                      - link "Canva Safe AI" [ref=f470e1527] [cursor=pointer]:
+                        - /url: https://www.canva.com/safe-ai-canva-shield/
+                    - listitem [ref=f470e1529]:
+                      - link "Accessibility" [ref=f470e1530] [cursor=pointer]:
+                        - /url: https://www.canva.com/accessibility/
+                    - listitem [ref=f470e1532]:
+                      - link "Enterprise services" [ref=f470e1533] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/professional-services/
+                    - listitem [ref=f470e1535]:
+                      - link "Design School" [ref=f470e1536] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-school/
+                    - listitem [ref=f470e1543]:
+                      - link "Sitemap" [ref=f470e1544] [cursor=pointer]:
+                        - /url: https://www.canva.com/sitemap/
+                - listitem [ref=f470e1546]:
+                  - heading "Tools" [level=2] [ref=f470e1548]
+                  - list "Tools" [ref=f470e1550]:
+                    - listitem [ref=f470e1551]:
+                      - link "QR code generator" [ref=f470e1552] [cursor=pointer]:
+                        - /url: https://www.canva.com/qr-code-generator/
+                    - listitem [ref=f470e1554]:
+                      - link "AI logo generator" [ref=f470e1555] [cursor=pointer]:
+                        - /url: https://www.canva.com/ai-logo-generator/
+                    - listitem [ref=f470e1557]:
+                      - link "Signature generator" [ref=f470e1558] [cursor=pointer]:
+                        - /url: https://www.canva.com/signature-generator/
+                    - listitem [ref=f470e1560]:
+                      - link "Business name generator" [ref=f470e1561] [cursor=pointer]:
+                        - /url: https://www.canva.com/business-name-generator/
+                    - listitem [ref=f470e1563]:
+                      - link "PDF converter" [ref=f470e1564] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-converter/
+                    - listitem [ref=f470e1566]:
+                      - link "PDF to JPG converter" [ref=f470e1567] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-to-jpg-converter/
+                    - listitem [ref=f470e1569]:
+                      - link "JPG to PDF converter" [ref=f470e1570] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/jpg-to-pdf-converter/
+                    - listitem [ref=f470e1572]:
+                      - link "Graph maker" [ref=f470e1573] [cursor=pointer]:
+                        - /url: https://www.canva.com/graphs/
+          - generic [ref=f470e1577]:
+            - button "English (US)" [ref=f470e1587] [cursor=pointer]
+            - paragraph [ref=f470e1600]: © 2026 All Rights Reserved
+      - paragraph [ref=f470e1602]:
+        - link "Skip to start of footer" [ref=f470e1603] [cursor=pointer]:
+          - /url: "#_r_2_"

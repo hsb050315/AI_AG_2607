@@ -1,0 +1,266 @@
+- generic [active] [ref=f67e1]:
+  - generic:
+    - link "메뉴 영역으로 바로가기" [ref=f67e2] [cursor=pointer]:
+      - /url: "#lnb"
+    - link "본문 영역으로 바로가기" [ref=f67e4] [cursor=pointer]:
+      - /url: "#content"
+  - generic [ref=f67e6]:
+    - generic [ref=f67e8]:
+      - generic [ref=f67e11]:
+        - heading [level=1] [ref=f67e12]:
+          - link "NAVER" [ref=f67e13] [cursor=pointer]:
+            - /url: https://www.naver.com
+        - search [ref=f67e15]:
+          - group "검색" [ref=f67e16]:
+            - combobox "검색어를 입력해 주세요." [ref=f67e18]: 히게단디즘 내한 성료
+            - button "한글 입력기" [ref=f67e20] [cursor=pointer]
+            - button "검색" [ref=f67e22] [cursor=pointer]
+      - generic [ref=f67e24]:
+        - generic [ref=f67e26]:
+          - generic [ref=f67e27]:
+            - tab "전체" [ref=f67e29] [cursor=pointer]
+            - tab "뉴스" [selected] [ref=f67e32] [cursor=pointer]
+            - tab "AI new" [ref=f67e34] [cursor=pointer]:
+              - text: AI
+              - generic [ref=f67e35]: new
+            - tab "블로그" [ref=f67e38] [cursor=pointer]
+            - tab "카페" [ref=f67e40] [cursor=pointer]
+            - tab "클립" [ref=f67e42] [cursor=pointer]
+            - tab "이미지" [ref=f67e44] [cursor=pointer]
+            - tab "지식iN" [ref=f67e46] [cursor=pointer]
+            - tab "동영상" [ref=f67e48] [cursor=pointer]
+            - tab "쇼핑" [ref=f67e50] [cursor=pointer]
+            - tab "어학사전" [ref=f67e52] [cursor=pointer]
+          - button "더보기" [ref=f67e54] [cursor=pointer]
+        - list [ref=f67e57]:
+          - listitem [ref=f67e58]:
+            - button "공유" [ref=f67e59] [cursor=pointer]
+    - main [ref=f67e60]:
+      - generic [ref=f67e61]:
+        - heading "히게단디즘 내한 성료 뉴스검색 결과" [level=1] [ref=f67e62]
+        - generic [ref=f67e63]:
+          - generic [ref=f67e66]:
+            - button "검색옵션 열기" [ref=f67e68] [cursor=pointer]: 옵션
+            - listbox "정렬 필터를 선택하세요" [ref=f67e70]:
+              - option "관련도순" [ref=f67e71] [cursor=pointer]
+              - option "최신순" [selected] [ref=f67e72] [cursor=pointer]
+              - link "모바일 메인 언론사" [ref=f67e74] [cursor=pointer]:
+                - /url: "#"
+          - generic [ref=f67e77]:
+            - link "언론사 선정 언론사가 선정한 주요기사 혹은 심층기획 기사입니다. 네이버 메인에서 보고 싶은 언론사를 구독하세요." [ref=f67e79] [cursor=pointer]:
+              - /url: https://news.naver.com/main/static/channelPromotion.html
+              - generic [ref=f67e80]: 언론사 선정
+              - generic [ref=f67e81]:
+                - text: 언론사가 선정한 주요기사 혹은 심층기획 기사입니다.
+                - strong [ref=f67e82]: 네이버 메인에서 보고 싶은 언론사
+                - text: 를 구독하세요.
+            - list [ref=f67e84]:
+              - generic [ref=f67e88]:
+                - generic [ref=f67e89]:
+                  - generic [ref=f67e90]:
+                    - generic [ref=f67e91]:
+                      - link "비즈엔터의 프로필 이미지 새 창 열림" [ref=f67e93] [cursor=pointer]:
+                        - /url: http://bizenter.co.kr
+                        - img "비즈엔터의 프로필 이미지" [ref=f67e96]
+                        - generic [ref=f67e97]: 새 창 열림
+                      - link "비즈엔터 새 창 열림" [ref=f67e100] [cursor=pointer]:
+                        - /url: http://bizenter.co.kr
+                        - generic [ref=f67e101]: 비즈엔터
+                        - generic [ref=f67e102]: 새 창 열림
+                      - generic [ref=f67e103]: 2시간 전
+                    - button "옵션 메뉴 열기" [ref=f67e109] [cursor=pointer]
+                  - generic [ref=f67e114]:
+                    - generic [ref=f67e115]:
+                      - link "오피셜히게단디즘, 내한 공연 성료…전석 매진 속 떼창 열광 새 창 열림" [ref=f67e116] [cursor=pointer]:
+                        - /url: https://enter.etoday.co.kr/news/view/300886
+                        - generic [ref=f67e117]:
+                          - text: 오피셜
+                          - mark [ref=f67e118]: 히게단디즘
+                          - text: ","
+                          - mark [ref=f67e119]: 내한
+                          - text: 공연
+                          - mark [ref=f67e120]: 성료
+                          - text: …전석 매진 속 떼창 열광
+                        - generic [ref=f67e121]: 새 창 열림
+                      - link "일본 인기 밴드 오피셜히게단디즘(Official髭男dism·이하 히게단)이 내한 공연을 성공적으로 마쳤다. 히게단은 지난 8~9일 서울 올림픽공원 KSPO DOME에서 'OFFICIAL HIGE DANDISM ASIA TOUR 2026' 서울 공연을 개최하고 팬들과 만났다. 2024년 12월 이후 약 1년 8개월 만에 한국을 찾은 히게단은 싱가포르... 새 창 열림" [ref=f67e122] [cursor=pointer]:
+                        - /url: https://enter.etoday.co.kr/news/view/300886
+                        - generic [ref=f67e123]:
+                          - text: 일본 인기 밴드 오피셜
+                          - mark [ref=f67e124]: 히게단디즘
+                          - text: (Official髭男dism·이하
+                          - mark [ref=f67e125]: 히게
+                          - text: 단)이
+                          - mark [ref=f67e126]: 내한
+                          - text: 공연을 성공적으로 마쳤다.
+                          - mark [ref=f67e127]: 히게
+                          - text: 단은 지난 8~9일 서울 올림픽공원 KSPO DOME에서 'OFFICIAL HIGE DANDISM ASIA TOUR 2026' 서울 공연을 개최하고 팬들과 만났다. 2024년 12월 이후 약 1년 8개월 만에 한국을 찾은
+                          - mark [ref=f67e128]: 히게
+                          - text: 단은 싱가포르...
+                        - generic [ref=f67e129]: 새 창 열림
+                    - link "오피셜<mark>히게단디즘</mark>, <mark>내한</mark> 공연 <mark>성료</mark>…전석 매진 속 떼창 열광의 이미지 새 창 열림" [ref=f67e130] [cursor=pointer]:
+                      - /url: https://enter.etoday.co.kr/news/view/300886
+                      - img "오피셜<mark>히게단디즘</mark>, <mark>내한</mark> 공연 <mark>성료</mark>…전석 매진 속 떼창 열광의 이미지" [ref=f67e132]
+                      - generic [ref=f67e134]: 새 창 열림
+                - generic [ref=f67e136]:
+                  - generic [ref=f67e137]:
+                    - generic [ref=f67e138]:
+                      - link "스타데일리뉴스의 프로필 이미지 새 창 열림" [ref=f67e140] [cursor=pointer]:
+                        - /url: http://www.stardailynews.co.kr
+                        - img "스타데일리뉴스의 프로필 이미지" [ref=f67e143]
+                        - generic [ref=f67e144]: 새 창 열림
+                      - link "스타데일리뉴스 새 창 열림" [ref=f67e147] [cursor=pointer]:
+                        - /url: http://www.stardailynews.co.kr
+                        - generic [ref=f67e148]: 스타데일리뉴스
+                        - generic [ref=f67e149]: 새 창 열림
+                      - generic [ref=f67e150]: 4시간 전
+                    - button "옵션 메뉴 열기" [ref=f67e156] [cursor=pointer]
+                  - generic [ref=f67e161]:
+                    - generic [ref=f67e162]:
+                      - link "오피셜히게단디즘, KSPO DOME서 2만 6000 관객과 함께 한 내한 공연 성료 새 창 열림" [ref=f67e163] [cursor=pointer]:
+                        - /url: https://www.stardailynews.co.kr/news/articleView.html?idxno=545523
+                        - generic [ref=f67e164]:
+                          - text: 오피셜
+                          - mark [ref=f67e165]: 히게단디즘
+                          - text: ", KSPO DOME서 2만 6000 관객과 함께 한"
+                          - mark [ref=f67e166]: 내한
+                          - text: 공연
+                          - mark [ref=f67e167]: 성료
+                        - generic [ref=f67e168]: 새 창 열림
+                      - link "일본 대표 밴드 오피셜히게단디즘이 서울 KSPO DOME에서 단독 공연을 개최하며 1년 8개월 만의 내한 일정을 마쳤다. 지난 8일과 9일 양일간 열린 'OFFICIAL HIGE DANDISM ASIA TOUR 2026' 서울 공연은 시야제한석까지 전석 매진을 기록하며 약 2만 6000명의 관객을 동원했다. 공연에서 히게단은 'Same Blue'를... 새 창 열림" [ref=f67e169] [cursor=pointer]:
+                        - /url: https://www.stardailynews.co.kr/news/articleView.html?idxno=545523
+                        - generic [ref=f67e170]:
+                          - text: 일본 대표 밴드 오피셜
+                          - mark [ref=f67e171]: 히게단디즘
+                          - text: 이 서울 KSPO DOME에서 단독 공연을 개최하며 1년 8개월 만의
+                          - mark [ref=f67e172]: 내한
+                          - text: 일정을 마쳤다. 지난 8일과 9일 양일간 열린 'OFFICIAL HIGE DANDISM ASIA TOUR 2026' 서울 공연은 시야제한석까지 전석 매진을 기록하며 약 2만 6000명의 관객을 동원했다. 공연에서
+                          - mark [ref=f67e173]: 히게
+                          - text: 단은 'Same Blue'를...
+                        - generic [ref=f67e174]: 새 창 열림
+                    - link "오피셜<mark>히게단디즘</mark>, KSPO DOME서 2만 6000 관객과 함께 한 <mark>내한</mark> 공연 <mark>성료</mark>의 이미지 새 창 열림" [ref=f67e175] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleView.html?idxno=545523
+                      - img "오피셜<mark>히게단디즘</mark>, KSPO DOME서 2만 6000 관객과 함께 한 <mark>내한</mark> 공연 <mark>성료</mark>의 이미지" [ref=f67e177]
+                      - generic [ref=f67e179]: 새 창 열림
+                - generic [ref=f67e181]:
+                  - generic [ref=f67e182]:
+                    - generic [ref=f67e183]:
+                      - link "톱스타뉴스의 프로필 이미지 새 창 열림" [ref=f67e185] [cursor=pointer]:
+                        - /url: http://www.TopStarNews.Net
+                        - img "톱스타뉴스의 프로필 이미지" [ref=f67e188]
+                        - generic [ref=f67e189]: 새 창 열림
+                      - link "톱스타뉴스 새 창 열림" [ref=f67e192] [cursor=pointer]:
+                        - /url: http://www.TopStarNews.Net
+                        - generic [ref=f67e193]: 톱스타뉴스
+                        - generic [ref=f67e194]: 새 창 열림
+                      - generic [ref=f67e195]: 2024.08.27.
+                    - button "옵션 메뉴 열기" [ref=f67e201] [cursor=pointer]
+                  - generic [ref=f67e206]:
+                    - generic [ref=f67e207]:
+                      - link "오피셜히게단디즘(히게단), 8년 만의 내한…공연 티켓 전석 매진 새 창 열림" [ref=f67e208] [cursor=pointer]:
+                        - /url: http://www.topstarnews.net/news/articleView.html?idxno=15536646
+                        - generic [ref=f67e209]:
+                          - text: 오피셜
+                          - mark [ref=f67e210]: 히게단디즘
+                          - text: (
+                          - mark [ref=f67e211]: 히게
+                          - text: 단), 8년 만의
+                          - mark [ref=f67e212]: 내한
+                          - text: …공연 티켓 전석 매진
+                        - generic [ref=f67e213]: 새 창 열림
+                      - link "첫 내한 공연을 가진 바 있다. 오피셜히게단디즘은 'Pretender', 'I LOVE...', 'Yesterday', '숙명', 'Cry Baby', 'No Doubt', 'Subtitle', 'Mixed Nuts', '115만 킬로의... 최근에는 일본 내에서 약 30만 명의 관객을 동원하는 아레나 투어를 성료했다. 아시아 투어는 이번이 처음으로, 최신 앨범 '리조이스'와 함께... 새 창 열림" [ref=f67e214] [cursor=pointer]:
+                        - /url: http://www.topstarnews.net/news/articleView.html?idxno=15536646
+                        - generic [ref=f67e215]:
+                          - text: 첫
+                          - mark [ref=f67e216]: 내한
+                          - text: 공연을 가진 바 있다. 오피셜
+                          - mark [ref=f67e217]: 히게단디즘
+                          - text: 은 'Pretender', 'I LOVE...', 'Yesterday', '숙명', 'Cry Baby', 'No Doubt', 'Subtitle', 'Mixed Nuts', '115만 킬로의... 최근에는 일본 내에서 약 30만 명의 관객을 동원하는 아레나 투어를
+                          - mark [ref=f67e218]: 성료
+                          - text: 했다. 아시아 투어는 이번이 처음으로, 최신 앨범 '리조이스'와 함께...
+                        - generic [ref=f67e219]: 새 창 열림
+                    - link "오피셜<mark>히게단디즘</mark>(<mark>히게</mark>단), 8년 만의 <mark>내한</mark>…공연 티켓 전석 매진의 이미지 새 창 열림" [ref=f67e220] [cursor=pointer]:
+                      - /url: http://www.topstarnews.net/news/articleView.html?idxno=15536646
+                      - img "오피셜<mark>히게단디즘</mark>(<mark>히게</mark>단), 8년 만의 <mark>내한</mark>…공연 티켓 전석 매진의 이미지" [ref=f67e222]
+                      - generic [ref=f67e224]: 새 창 열림
+                - generic [ref=f67e226]:
+                  - generic [ref=f67e227]:
+                    - generic [ref=f67e228]:
+                      - link "뉴시스의 프로필 이미지 새 창 열림" [ref=f67e230] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/003
+                        - img "뉴시스의 프로필 이미지" [ref=f67e233]
+                        - generic [ref=f67e234]: 새 창 열림
+                      - link "뉴시스 새 창 열림" [ref=f67e237] [cursor=pointer]:
+                        - /url: https://media.naver.com/press/003
+                        - generic [ref=f67e238]: 뉴시스
+                        - generic [ref=f67e239]: 새 창 열림
+                      - generic [ref=f67e240]:
+                        - generic [ref=f67e242]: 2024.08.10.
+                        - link "네이버뉴스 새 창 열림" [ref=f67e247] [cursor=pointer]:
+                          - /url: https://m.entertain.naver.com/article/003/0012721160
+                          - generic [ref=f67e248]: 네이버뉴스
+                          - generic [ref=f67e249]: 새 창 열림
+                    - button "옵션 메뉴 열기" [ref=f67e251] [cursor=pointer]
+                  - generic [ref=f67e256]:
+                    - generic [ref=f67e257]:
+                      - link "日 밴드 오피셜히게단디즘, 8년 만에 내한공연 새 창 열림" [ref=f67e258] [cursor=pointer]:
+                        - /url: https://www.newsis.com/view/NISX20240810_0002845208
+                        - generic [ref=f67e259]:
+                          - text: 日 밴드 오피셜
+                          - mark [ref=f67e260]: 히게단디즘
+                          - text: ", 8년 만에"
+                          - mark [ref=f67e261]: 내한
+                          - text: 공연
+                        - generic [ref=f67e262]: 새 창 열림
+                      - link "일본 인기 밴드 '오피셜히게단디즘(OFFICIAL HIGE DANDISM)'이 8년 만에 내한공연한다. 10일 공연 주최사 AEG 프레젠츠 아시아(Presents Asia)에 따르면... 최근엔 일본 내에서만 약 30만 명의 관객을 동원하는 아레나 투어를 성료했다. 아시아 투어는 이번이 처음이다. 최신 앨범 '리조이스'와 함께 히트곡... 새 창 열림" [ref=f67e263] [cursor=pointer]:
+                        - /url: https://www.newsis.com/view/NISX20240810_0002845208
+                        - generic [ref=f67e264]:
+                          - text: 일본 인기 밴드 '오피셜
+                          - mark [ref=f67e265]: 히게단디즘
+                          - text: (OFFICIAL HIGE DANDISM)'이 8년 만에
+                          - mark [ref=f67e266]: 내한
+                          - text: 공연한다. 10일 공연 주최사 AEG 프레젠츠 아시아(Presents Asia)에 따르면... 최근엔 일본 내에서만 약 30만 명의 관객을 동원하는 아레나 투어를
+                          - mark [ref=f67e267]: 성료
+                          - text: 했다. 아시아 투어는 이번이 처음이다. 최신 앨범 '리조이스'와 함께 히트곡...
+                        - generic [ref=f67e268]: 새 창 열림
+                    - link "日 밴드 오피셜<mark>히게단디즘</mark>, 8년 만에 <mark>내한</mark>공연의 이미지 새 창 열림" [ref=f67e269] [cursor=pointer]:
+                      - /url: https://www.newsis.com/view/NISX20240810_0002845208
+                      - img "日 밴드 오피셜<mark>히게단디즘</mark>, 8년 만에 <mark>내한</mark>공연의 이미지" [ref=f67e271]
+                      - generic [ref=f67e273]: 새 창 열림
+            - link "뉴스 기사와 댓글로 인한 문제 발생시 24시간 센터로 접수해주세요." [ref=f67e275] [cursor=pointer]:
+              - /url: https://help.naver.com/alias/news/news_21.naver
+        - generic [ref=f67e287]:
+          - link [ref=f67e288] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001
+            - generic [ref=f67e290]:
+              - strong [ref=f67e291]: 여름의 기록, 포인트로 환전하세요
+              - paragraph [ref=f67e292]: 클립 올리면 매월 포인트 최대 12만원
+          - link [ref=f67e293] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcwidgetbottom&campaign_id=2512-shopping-024&material=N&target=https%3A%2F%2Fmkt.naver.com%2Fstore_discovery%3Fdtm_detail%3DN%26dtm_source%3Dnaver_pcwidgetbottom%26dtm_medium%3Dmktatrb_mn%26dtm_campaign%3D2512-shopping-024
+            - generic [ref=f67e295]:
+              - strong [ref=f67e296]: 여름을 마무리 하는
+              - paragraph [ref=f67e297]: 스토어 랭킹 공개
+          - link [ref=f67e298] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2606-knockit-001&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fonsale%2F6a729972790f733cbe660266%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2606-knockit-001
+            - generic [ref=f67e300]:
+              - strong [ref=f67e301]: 러닝 아이템도 노크잇에서
+              - paragraph [ref=f67e302]: 멤버십은 최대 10% 적립
+          - link [ref=f67e303] [cursor=pointer]:
+            - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2607-naverAI-001&target=https%3A%2F%2Fmkt.naver.com%2Faitab%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2607-naverAI-001
+            - generic [ref=f67e305]:
+              - strong [ref=f67e306]: 끝까지 끝내주는 AI, 네이버 AI탭
+              - paragraph [ref=f67e307]: 검색이 대화가 되다
+    - generic [ref=f67e308]:
+      - link "맨위로" [ref=f67e310] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=f67e313]:
+        - link "전체서비스" [ref=f67e315] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+        - link "이용약관" [ref=f67e317] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/service.html
+        - link [ref=f67e319] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/privacy.html
+          - strong [ref=f67e320]: 개인정보처리방침
+        - link "검색 고객센터" [ref=f67e322] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/search/integration/main.naver
+        - link "© NAVER Corp." [ref=f67e324] [cursor=pointer]:
+          - /url: https://www.navercorp.com/

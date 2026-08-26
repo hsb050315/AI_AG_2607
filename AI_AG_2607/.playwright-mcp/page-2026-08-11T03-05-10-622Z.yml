@@ -1,0 +1,562 @@
+- generic [active] [ref=f72e1]:
+  - generic [ref=f72e3]:
+    - term [ref=f72e4]: 콘텐츠 바로가기
+    - definition [ref=f72e5]:
+      - link "검색 바로가기" [ref=f72e6] [cursor=pointer]:
+        - /url: "#sch"
+    - definition [ref=f72e7]:
+      - link "주메뉴 바로가기" [ref=f72e8] [cursor=pointer]:
+        - /url: "#menu"
+    - definition [ref=f72e9]:
+      - link "주요 기사 바로가기" [ref=f72e10] [cursor=pointer]:
+        - /url: "#container"
+  - generic [ref=f72e11]:
+    - heading [level=1] [ref=f72e12]:
+      - link [ref=f72e13] [cursor=pointer]:
+        - /url: /
+        - img "비즈엔터" [ref=f72e14]
+    - list [ref=f72e15]:
+      - listitem [ref=f72e16]:
+        - link "비즈" [ref=f72e17] [cursor=pointer]:
+          - /url: /section/section_list?MID=2500
+      - listitem [ref=f72e18]:
+        - link "엔터" [ref=f72e19] [cursor=pointer]:
+          - /url: /section/section_list?MID=2600
+      - listitem [ref=f72e20]:
+        - link "스페셜" [ref=f72e21] [cursor=pointer]:
+          - /url: /section/section_list?MID=2700
+      - listitem [ref=f72e22]:
+        - link "라이프" [ref=f72e23] [cursor=pointer]:
+          - /url: /section/section_list?MID=2900
+      - listitem [ref=f72e24]:
+        - link "포토·영상" [ref=f72e25] [cursor=pointer]:
+          - /url: /section/section_list?MID=2800
+      - listitem [ref=f72e26]:
+        - link "종합" [ref=f72e27] [cursor=pointer]:
+          - /url: /section/section_list?MID=3000
+      - listitem [ref=f72e28]:
+        - link "WORLD" [ref=f72e29] [cursor=pointer]:
+          - /url: /section/section_list?MID=3100
+    - group "통합검색" [ref=f72e32]:
+      - textbox [ref=f72e34]
+      - button "검색" [ref=f72e35] [cursor=pointer]
+  - iframe [ref=f72e39]:
+    - iframe [ref=f88e4]:
+      - iframe [ref=f133e4]:
+        - insertion [ref=f154e3]:
+          - generic [ref=f154e6]:
+            - heading "도움말과 관련된 주제 중 관심이 있을 만한 항목입니다." [level=2] [ref=f154e8]: 자세히 알아보기
+            - link "유명인 및 연예소식" [ref=f154e9] [cursor=pointer]
+            - link "영화, TV 제작" [ref=f154e14] [cursor=pointer]
+            - link "TV 쇼 및 프로그램" [ref=f154e19] [cursor=pointer]
+            - link "동아시아 음악" [ref=f154e24] [cursor=pointer]
+            - link "연극 및 극장" [ref=f154e29] [cursor=pointer]
+            - link "팝음악" [ref=f154e34] [cursor=pointer]
+            - link "댄스 및 전자 음악" [ref=f154e39] [cursor=pointer]
+            - link "기업 뉴스" [ref=f154e44] [cursor=pointer]
+  - iframe [ref=f72e43]:
+    - insertion [ref=f89e3]:
+      - iframe [ref=f89e5]:
+        - generic:
+          - link [ref=f91e1] [cursor=pointer]:
+            - /url: https://krrtb.c.appier.net/xclk?bidobjid=Ez2yCwL-AX2bn-s-ZJF6ag&cid=nmRVfwgfTlarJbZHvwm4ZQ&crid=c4nTSEsYRjywTM-nB3Y-PA&crpid=DgGm3ezsS4WN7zPuYS4XMg&soid=Ep0j&partner_id=03mSf3HNecb-&bx=Cylxwnu_orwxKqIyoPIzo0dQ7P6zo0wPK4lqU1u_uYi9JbiyKYiRUmtNCnzqUyzFZ1u-uYS9uqa138zR3Hu93HtB3bSzKY7BKYWyu1x1c8sRuqaVK4lNZLM12qu-uYOPuqa1Jmg9u1x1U8A121uV2nu-uYOPJ1u_uqGzKqd9o4QxujR&ui=CyljUmOjUbisc8M121l0MIirtIliJHgP3IOVJgMz2GsBZP7sCiStiHo1K4lYc8Myuqa1onQy70I9oqumKqd_2qGzujR&consent=1&ddhh=orGWod&flanding_rdr=
+          - button [ref=f91e4] [cursor=pointer]
+  - generic [ref=f72e44]:
+    - generic [ref=f72e45]:
+      - iframe [ref=f72e51]:
+        - iframe [ref=f90e4]:
+          - iframe [ref=f137e4]:
+            - insertion [ref=f155e3]:
+              - iframe [ref=f155e5]:
+                - generic [ref=f160e1]:
+                  - generic [ref=f160e3]:
+                    - link:
+                      - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=C8xUvZZF6asDGI5D04dkP29TV2AiN1L38iAHmh6HK9BWcn4TiQRABIIzx3TFgm8vphLApoAGFhZ6PRMgBAqkCh0FY7bY3CD6oAwHIA8kEqgSYAk_QGkWqS9yQOQxxU45rud81ilC2XNIp4TBg9NAT2RoR2Mnty0rPQOEp_W46HwgRJeww3ieF8E-0eyXCgGaoaT1RKpxHc2UcevUnOjPlaHx6d0wAHEXNlB-n1v-4RpgVrV9I0_g9rT1rtFVTB-YbX_dP74QXkMTdWPKzJIMGuvRMaw5tC2D1WB1hXQKN_NCHVJeYm_ZBhS0YWgpwnm_-PgXEXN9paojNh2ISL-yABUreUMBfsn_DJob8wbXozhhSyvFbR3gd3F5znTO_G0kBB_wdQFmxXTu3TO55xRd-GzgJB89nGkU7v6EYFKZLut-vnqzWNfwIJUbIahuRbBEluqWVFtw9Mq6czgkmeuT0h2t4F9bQAPC0xMbABJed5rrwBYgFmtXg7VmgBgKAB4W97u4eqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAf-6LECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAef4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggzCIBhEAEYnwMyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBBIvf3BOljA58_oy5eWA2ABsQlTdIXH2FG7KoAKAZgLAcgLAaIMDyoKCgiO37ECleKxApABAaoNAktSyA0B6g0TCL-S0ejLl5YDFRB6OAUdW2oVi_ANAogOCdgTAtAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjYzMTM1MzMwNTlQBroXAjgBqhgXCQAAAACgBvlAEgo2MzEzNTMzMDU5GAGyGAkSApNOGAIiAQDQGAHCGQIIAQ&ae=1&gclid=EAIaIQobChMIgI3R6MuXlgMVEHo4BR1bahWLEAEYASAAEgJFV_D_BwE&num=1&cid=CAQS8wEAEQoqgYcn90V9-eCBhK1nO4kDHmuy_U9kDdGDwot0CVNjVxXXd0sjyYuKgf_CGA1Mdyb7nVBxBj-3DBZnZsPV9RNWi8MTNE6jIXw1FRrghUnSpuxH-ff3VO-xjW9qUuVhrUZNsQ6blIzF1mpYTHpsyv-Hd1d5liFdMwbMnZ3H7lmtGpQ62U-BBpeJ4Sma_CG2CATXCiwerXc9vtfKIuK5uyxR04sbt5CLEGpruAjfPpOtAJNZhha66ivJ0hTjqSFsNOXBTnOArVy4cc9doUy9DHHbgmBnqJM_CtHdwFnNKpLVWqQXff6RR2DHkF4F8dY2PCIYAQ&sig=AOD64_2aOeUive3jH1Id_fd-lJ4ENJUVUw&client=ca-pub-1254317962995681&rf=2&nb=2&adurl=http://by.goldclass.co.kr%3Fgad_source%3D5%26gad_campaignid%3D24120928922%26gclid%3DEAIaIQobChMIgI3R6MuXlgMVEHo4BR1bahWLEAEYASAAEgJFV_D_BwE
+                    - generic [ref=f160e4] [cursor=pointer]
+                    - button [ref=f160e9] [cursor=pointer]
+                  - iframe
+      - generic:
+        - generic [ref=f72e53]:
+          - generic [ref=f72e54]:
+            - generic [ref=f72e56]:
+              - link "비즈엔터" [ref=f72e57] [cursor=pointer]:
+                - /url: /main
+              - text: ">"
+              - link "엔터" [ref=f72e58] [cursor=pointer]:
+                - /url: /section/section_list?MID=2600
+            - heading "오피셜히게단디즘, 내한 공연 성료…전석 매진 속 떼창 열광" [level=2] [ref=f72e60]
+            - emphasis [ref=f72e62]: "기사입력 : 2026-08-11 09:22"
+            - list [ref=f72e64]:
+              - listitem [ref=f72e65]:
+                - link "페이스북" [ref=f72e66] [cursor=pointer]:
+                  - /url: javascript:;
+              - listitem [ref=f72e67]:
+                - link "트위터" [ref=f72e68] [cursor=pointer]:
+                  - /url: javascript:;
+              - listitem [ref=f72e69]:
+                - link "댓글" [ref=f72e70] [cursor=pointer]:
+                  - /url: javascript:;
+              - listitem [ref=f72e71]:
+                - link "인쇄" [ref=f72e72] [cursor=pointer]:
+                  - /url: javascript:;
+              - listitem [ref=f72e73]:
+                - link "글씨작게" [ref=f72e74] [cursor=pointer]:
+                  - /url: javascript:;
+              - listitem [ref=f72e75]:
+                - link "글씨크게" [ref=f72e76] [cursor=pointer]:
+                  - /url: javascript:;
+          - generic [ref=f72e78]:
+            - generic [ref=f72e79]:
+              - paragraph
+              - generic [ref=f72e80]:
+                - link [ref=f72e82] [cursor=pointer]:
+                  - /url: "#"
+                  - img "원본보기" [ref=f72e83]
+                  - img "▲오피셜히게단디즘(사진출처= PONY CANYON (ⓒTAKAHIRO TAKINAMI))" [ref=f72e84]
+                - generic [ref=f72e85]: ▲오피셜히게단디즘(사진출처= PONY CANYON (ⓒTAKAHIRO TAKINAMI))
+              - text: 일본 인기 밴드 오피셜히게단디즘(Official髭男dism·이하 히게단)이 내한 공연을 성공적으로 마쳤다.
+              - paragraph
+              - paragraph [ref=f72e86]: 히게단은 지난 8~9일 서울 올림픽공원 KSPO DOME에서 'OFFICIAL HIGE DANDISM ASIA TOUR 2026' 서울 공연을 개최하고 팬들과 만났다. 2024년 12월 이후 약 1년 8개월 만에 한국을 찾은 히게단은 싱가포르, 타이베이, 방콕으로 이어지는 아시아 투어의 포문을 서울에서 열었다.
+              - paragraph [ref=f72e87]: 이번 내한은 예매 단계부터 뜨거운 열기를 입증했다. 티켓 오픈 당시 동시 접속자 수 8만 명이 몰리며 순식간에 전석 매진을 기록했고, 추가 오픈된 시야제한석까지 모두 동이 나 양일간 2만6000명의 관객이 가득찼다.
+              - iframe [ref=f72e90]:
+                - insertion [ref=f97e3]:
+                  - iframe [ref=f97e6]:
+                    - iframe [ref=f171e4]:
+                      - generic [ref=f180e2]:
+                        - link [ref=f180e3] [cursor=pointer]:
+                          - /url: https://www.widerplanet.com/information/advertise?lang=ko&s=nVRbb-I4FP4vkeqnFnzLrZI1otDRtoVtt1N2274gJ3ZIBkhS2xDoav_7OoEZk9m3RUj5zvG52-f721Myk0oq79rLjan19XBo0EDw7SYV5aCUZrjieqgNN0U61DyTmeIbOcjNZv1Fb9WadV4XZHSBv9q_LI1UA2kqwQ-DtBqslFWWstH2sytkYz8EwigKgDT7O8G8S29dpWfJ_xugNSmEd-3jCNFLL-WbmhfLslWROKLQt7qFOdTSu6YQXXqfVSnbQxyEPrz0ROfs-QGCNCNJYNOTCKMkiVFISEZQlGYwtUIUUGQ94ohADENESOy12YxcVupgI0xGv1_p1Y7QfVM2dhrtqZJ2LrsuXQhjiJAtRsmPrdRmsVWF9RoKubYW6jBUXAzqvP6SaMMQUDsWNHiDcQVsgaxrDiR6W7BF-ad4oOvC_LVdfCZB8cdoPHtPxPMNnD4nyagM7t4P6OOp4LdvkCx24928WvsyHtHQTOdXKFHTvTnQFz5dPtJcfn_WfPHQ3PA8vMvvp-pRL6qMmvq31a28N_fBdJ7A5ukVfnss-T6dqO8f-TiJvr00ze1kN_lIxs0tVnfru12QzvHoKnmSM-KH-6_mvplN56sHiR7gOMwqmr_HV7psZhkQXUP_Y95A52LR-gKxqXXNYPtNGYqBLJdFKRkZQJBXdn7dKwF6zVZ8xSu5NyDdKmVdEZAJe3gGS1mZpQUQ-9D-QJowHiSZSEIUh0B074WJQtdrfuiypYxSWxGoNGuKUlSNXiDr1sY83SyQCrPZmDazyehzNlnS2csczUaMgWWtGNbgM20vVu7tmymEZhfYD8cIQQSJg_QIYYQgPEFq9ScD6mwt9E8GPoKhg9EJIqcNEQwc9B08ZUN-3_ZnQghdvOPBqSjk6msrOdOSnjl2NicIsYuOnSfs-qQ9ye9JQU8Ke1Lck_oxUU_CPYm4_s_qjt0w4c9KEXRaetaVuzLfNRa7eKjXSjsg53-USE_6cTvY1UN_lc7mRxw8G7DvIHUwdDBwMHYwsqxjGAa7hZJ2vfAAAX5cOEhgCH2w6_bHtItXbXhRsnMeBkeWZZZkwZFjWUex4AdHsl8ZEihZCqn6y5ZavyNvA0t2CGxXDEZY2N2MiCSQ-jSJfIwDjrNYSi4SlDquoCEBTc2i1_zqvWhWb_C1Fp-3bzfZ6oM2wNKsLqqSld4__wI=&p=q1ZKUbJSMjUzNDBJM04yMzYwMLYwMkxKsjQ0NzZOMza0SE4zSLZUqgUA&qsc=1pla900
+                          - img "About ArtistUnited" [ref=f180e4]
+                        - link [ref=f180e9] [cursor=pointer]:
+                          - /url: https://altg.widerplanet.com/delivery/ck.php?uk=edb9d992110c46c191ca417a13e46fc01786417509789&ui=1&version=n
+                          - img "ad" [ref=f180e10]
+              - paragraph [ref=f72e91]: 히게단은 'Same Blue'로 공연의 포문을 연 뒤 '숙명', '50%', 'Laughter', 'Fire Ground', 'TATTOO', 'Mixed Nuts', 'Stardust', 'Stand By You' 등 대표 히트곡과 최신곡을 넘나드는 알찬 세트리스트를 선보였다. 브라스, 퍼커션, 코러스 등 풍성한 서포트 세션이 가미된 입체적인 라이브 사운드 위로 관객들의 폭발적인 떼창과 응원이 어우러졌다.
+              - paragraph [ref=f72e92]: 특히 2018년 발표한 첫 정규 앨범 수록곡 'Takaga I Love You'까지 관객들의 떼창이 이어지며, 타이틀곡뿐만 아니라 앨범 전곡을 깊이 있게 소비하는 굳건한 국내 팬덤의 화력을 증명했다.
+              - paragraph [ref=f72e93]: 후지하라는 "2년 전 이곳에서 느낀 열기가 정말 뜨거웠고, 우리를 기다려 주는 분들이 있다는 사실에 빨리 돌아오고 싶었다"라며 "다시 찾아와 여러분과 특별한 추억을 만들 수 있어 정말 기쁘다"고 감격을 전했다.
+              - paragraph [ref=f72e94]: 마지막 곡 'Stand By You'로 관객과 하나 된 울림을 만들어낸 히게단은 "앞으로도 이 넷이서 좋아하는 음악을 많이 만들어 전달하겠다. 음악의 최종 목적지는 작품이 아닌 여러분의 귀와 마음"이라는 메시지를 남기며 대단원의 막을 내렸다.
+              - generic [ref=f72e95]:
+                - generic [ref=f72e96]:
+                  - strong [ref=f72e97]: 홍선화 기자
+                  - link "cherry31@bizenter.co.kr" [ref=f72e99] [cursor=pointer]:
+                    - /url: mailto:cherry31@bizenter.co.kr
+                - generic [ref=f72e100]:
+                  - text: 저작권자 © 비즈엔터 무단전재 및 재배포, AI학습 이용 금지
+                  - generic [ref=f72e101]:
+                    - text: ※ 보도자료 및 기사제보
+                    - link "press@bizenter.co.kr" [ref=f72e102] [cursor=pointer]:
+                      - /url: mailto:press@bizenter.co.kr
+            - generic [ref=f72e104]:
+              - heading [level=3] [ref=f72e105]:
+                - strong [ref=f72e106]: 관련기사
+              - iframe [ref=f72e108]:
+                - generic [ref=f78e4]:
+                  - heading [level=1]
+                  - generic [ref=f78e5]:
+                    - generic:
+                      - generic [ref=f78e6]:
+                        - generic [ref=f78e7]:
+                          - link [ref=f78e9] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODgy&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e10]: 김선호·이채민·이설·김가영 등 ‘2026 KWDA’ 시상자 합류
+                          - link [ref=f78e12] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODg0&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e13]: 82메이저, 새 싱글 스케줄러…콘셉트 포토부터 MV 티저까지 순차 공개
+                          - link [ref=f78e15] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODg4&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e16]: MJ, 첫 싱글 트랙리스트 공개…싱어송라이터 역량 입증
+                          - link [ref=f78e18] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4OTMmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODkz&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e19]: 빅뱅, 붉은빛 속 강렬한 아우라 발산
+                          - link [ref=f78e21] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4NzgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODc4&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e22]: 플레이브, ‘TMA’ 2026 글로벌 핫스타상…‘글로벌 대세’ 파워 입증
+                          - link [ref=f78e24] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4NDQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODQ0&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e25]: 킥플립 동현, 英 싱어송라이터 이담과 협업…싱글 '브리드' 발표
+                        - generic [ref=f78e26]:
+                          - link [ref=f78e28] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4NjImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODYy&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e29]: 아이들 미연 "첫 日 솔로곡 '런 어웨이', 지친 무더위 힘 되길"
+                          - link [ref=f78e31] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODUmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODg1&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e32]: ‘끼리끼리’ 안재현, 4차원 입담+질주에 ‘멘붕’…무사 여행 가능할까
+                          - link [ref=f78e34] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODEmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODgx&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e35]: 황가람, ‘나는 반딧불’ 유튜브 뮤직 1억 재생…김교식 대표 “진정성 공감해 주셔서 감사”
+                      - generic [ref=f78e39]:
+                        - generic [ref=f78e40]:
+                          - link [ref=f78e42] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODgy&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e43]: 김선호·이채민·이설·김가영 등 ‘2026 KWDA’ 시상자 합류
+                          - link [ref=f78e45] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODg0&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e46]: 82메이저, 새 싱글 스케줄러…콘셉트 포토부터 MV 티저까지 순차 공개
+                          - link [ref=f78e48] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODg4&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e49]: MJ, 첫 싱글 트랙리스트 공개…싱어송라이터 역량 입증
+                          - link [ref=f78e51] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4OTMmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODkz&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e52]: 빅뱅, 붉은빛 속 강렬한 아우라 발산
+                          - link [ref=f78e54] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4NzgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODc4&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e55]: 플레이브, ‘TMA’ 2026 글로벌 핫스타상…‘글로벌 대세’ 파워 입증
+                          - link [ref=f78e57] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4NDQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODQ0&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e58]: 킥플립 동현, 英 싱어송라이터 이담과 협업…싱글 '브리드' 발표
+                        - generic [ref=f78e59]:
+                          - link [ref=f78e61] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4NjImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODYy&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e62]: 아이들 미연 "첫 日 솔로곡 '런 어웨이', 지친 무더위 힘 되길"
+                          - link [ref=f78e64] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODUmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODg1&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e65]: ‘끼리끼리’ 안재현, 4차원 입담+질주에 ‘멘붕’…무사 여행 가능할까
+                          - link [ref=f78e67] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODEmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODgx&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                            - generic [ref=f78e68]: 황가람, ‘나는 반딧불’ 유튜브 뮤직 1억 재생…김교식 대표 “진정성 공감해 주셔서 감사”
+                      - generic:
+                        - generic [ref=f78e72]:
+                          - link "김선호·이채민·이설·김가영 등 ‘2026 KWDA’ 시상자 합류" [ref=f78e74] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODgy&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                          - link "82메이저, 새 싱글 스케줄러…콘셉트 포토부터 MV 티저까지 순차 공개" [ref=f78e77] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODg0&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                          - link "MJ, 첫 싱글 트랙리스트 공개…싱어송라이터 역량 입증" [ref=f78e80] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODg4&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                          - link "빅뱅, 붉은빛 속 강렬한 아우라 발산" [ref=f78e83] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4OTMmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODkz&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                          - link "플레이브, ‘TMA’ 2026 글로벌 핫스타상…‘글로벌 대세’ 파워 입증" [ref=f78e86] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4NzgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODc4&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                          - link "킥플립 동현, 英 싱어송라이터 이담과 협업…싱글 '브리드' 발표" [ref=f78e89] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4NDQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODQ0&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                        - generic [ref=f78e91]:
+                          - link "아이들 미연 \"첫 日 솔로곡 '런 어웨이', 지친 무더위 힘 되길\"" [ref=f78e93] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4NjImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODYy&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                          - link "‘끼리끼리’ 안재현, 4차원 입담+질주에 ‘멘붕’…무사 여행 가능할까" [ref=f78e96] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODUmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODg1&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                          - link "황가람, ‘나는 반딧불’ 유튜브 뮤직 1억 재생…김교식 대표 “진정성 공감해 주셔서 감사”" [ref=f78e99] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/enter.etoday.co.kr/u/72709703.1786417508115/click_redirect?c=c291cmNlPTMwMDg4NiZybT02MC4xLjEmY2hhbm5lbD1ib3R0b20udGV4dCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD1NN05BYmVvYiZyZXF1ZXN0X2lkPTBkOGFiMWU3NjcyYTg2NDVkY2FmMTBlODQ2OGVjZWFlJnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9MTA5Ng%3D%3D&p=cGljaz0zMDA4ODEmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRmVudGVyLmV0b2RheS5jby5rciUyRm5ld3MlMkZ2aWV3JTJGMzAwODgx&r=NobwRAlgJmBcYGYAMSAcqBMYA0YC2ApgC4AWA9jPAGxIB0AjA2AL7bjRyIroAsO+xcpTA0GTVu2HI06foVIVOoxvRZtIU7gE4EcwYup0VayZ2moA7Kj0Lhy8eo7xzPPrnlClRh6efcqWO76dt6qEhpm3KgArDaehmJhjpoyqkG2XoksALpAA&r_start=0&r_end=9
+                  - generic [ref=f78e104]:
+                    - generic [ref=f78e105] [cursor=pointer]
+                    - generic [ref=f78e107]:
+                      - generic [ref=f78e108] [cursor=pointer]
+                      - generic [ref=f78e109] [cursor=pointer]
+                    - generic [ref=f78e110] [cursor=pointer]
+            - iframe [ref=f72e112]:
+              - iframe [ref=f95e5]:
+                - iframe [ref=f111e4]:
+                  - insertion [ref=f146e4]:
+                    - iframe [ref=f146e7]:
+                      - iframe [ref=f182e4]:
+                        - generic [ref=f184e2]:
+                          - link [ref=f184e3] [cursor=pointer]:
+                            - /url: https://www.widerplanet.com/information/advertise?lang=ko&s=nVRdc6I6GP4vzDRXVZMQIHQms-PWbr-sta16tr1hIgSlIrgJKHrm_PcN6G5k9-4wzOR537zfSZ5_LSliIYW0rqxlUWzUVa9XoG7Ey3UYZd1MFL0VVz1V8CIJe4rHIpZ8LbrLYp1-UaVMWeN1Yfcv8Df9i6wQsiuKPOL7bph3V1IrM7FTetkmYqcXG0JKXSCK6j5i1qWV5uFZ8r8D1CZJZF05mCJyaYV8veHJIqtVtk8JdLQuKPYbYV0RiC6tQ56JehO7HqGXVtQ4W1EECRaOiDxfBxLU5x4NXdfD1Hdjz7WRR12CPAf6NkE-QtCzbavOVohFLvc6wqA_6qAlxZ_zIt7aqZ_U21LowWybfB70IfZ1NVL8KIUqglIm2q0XiVRbyH1P8qi7WW6-zFXBEJBbRoosjssc6ApZ0x2YqzJh1Xu2d8X08NC5fhkueMbFpOpUbvoGg-krmqZ4fx9PVSXclXw5XFeenE3HP_75DDh1Hym5Ha7U4-DuJlo-DJ-8MPv-_TO4TeXTx3ZGPh7KOHpb3w-d8XsY46_7PX_IJ6ubzm0-rewXZ-wGwbO6mR1mt5PBG_m4_xZ83I0zJ8Uvo8nLVHLn_X6G-zd8PA5UioaTcahGs-e56N-tDvl-opI-eV2CeuTs_wwcqGUUaF8CovVGbRis15AhH4hskWSC2V0IlrmeX3NNgErZiq94LqoChKWU2hUBMWePr2Ah8mKhAcQO1B8I54z6YcR9j1MdvrkwLErUJuX7JlvICKGuC3LFdkkW5TsVIO1WxzydLBASs6drsnsa9A-jwXQ3GtzsnvuMgcVGMqzAIawPVlT60iSRYhfY8a51YwjaBpIjhBRBeIJE608GxNhq6JwMHD0cA-kJIqP1EHQNdAw8ZUNO2_Z3QghNvOPGqShk6qsrOdPaLXNsbE4QYhMdG0_Y9ElaktOS3JbktSS_JbVjopaEW5Jt-j-r2zfDhL8rRdBoyVlX5sgc05hv4qFWK_WAjP9RslvSr9PBph7yp3Q2P9vAswE7BhIDPQNdA30DqWadgmGwDaTQzwt3EeDNg3OgDT3ogm3zfor64eVrnmTsnIjBkWaZZllwJFnWcCz4RZLsL4oEUmSRkO3XFmrHI3MDzXYIlCtGwznxYp8iZx4RXYyP8ZzG3OU20fxhn5GFZ0Ow27CgMyr72-rr66F6nE29949Omcod0DyrkjxjmfXfTw==&p=q1ZKUbJSSkkxMDFKNU1NMbc0NbJItbBMNLdINjMzN7KwNEszNzNWqgUA&qsc=16m031
+                            - img "About ArtistUnited" [ref=f184e4]
+                          - link [ref=f184e9] [cursor=pointer]:
+                            - /url: https://altg.widerplanet.com/delivery/ck.php?uk=2c9a5b3fcdca48969ffd4b407be7ebee1786417509807&ui=1&version=n
+                            - img "ad" [ref=f184e10]
+            - list [ref=f72e114]:
+              - listitem [ref=f72e115]:
+                - link "페이스북" [ref=f72e116] [cursor=pointer]:
+                  - /url: javascript:;
+              - listitem [ref=f72e117]:
+                - link "트위터" [ref=f72e119] [cursor=pointer]:
+                  - /url: javascript:;
+              - listitem [ref=f72e120]:
+                - link "댓글" [ref=f72e122] [cursor=pointer]:
+                  - /url: javascript:; return false;
+            - generic [ref=f72e124]:
+              - iframe
+            - generic [ref=f72e125]:
+              - heading [level=3] [ref=f72e126]:
+                - strong [ref=f72e127]: 실시간 관심기사
+              - list [ref=f72e129]:
+                - listitem [ref=f72e130]:
+                  - link [ref=f72e131] [cursor=pointer]:
+                    - /url: /view/news_view.php?varAtcId=300874
+                    - img "성리, '더트롯쇼' 출격 인증샷 \"학자 사랑으로 멋지게 완료\"" [ref=f72e132]
+                  - link "성리, '더트롯쇼' 출격 인증샷 \"학자 사랑으로 멋지게 완료\"" [ref=f72e134] [cursor=pointer]:
+                    - /url: /news/view/300874
+                - listitem [ref=f72e135]:
+                  - link [ref=f72e136] [cursor=pointer]:
+                    - /url: /view/news_view.php?varAtcId=300807
+                    - img "'파친코2' 이민호, '노아' 향한 그릇된 집착…시즌2 결말 공개" [ref=f72e137]
+                  - link "'파친코2' 이민호, '노아' 향한 그릇된 집착…시즌2 결말 공개" [ref=f72e139] [cursor=pointer]:
+                    - /url: /news/view/300807
+                - listitem [ref=f72e140]:
+                  - link [ref=f72e141] [cursor=pointer]:
+                    - /url: /view/news_view.php?varAtcId=292450
+                    - img "윤유선 남편 이성호와 삼청동 단팥죽 맛집 데이트" [ref=f72e142]
+                  - link "윤유선 남편 이성호와 삼청동 단팥죽 맛집 데이트" [ref=f72e144] [cursor=pointer]:
+                    - /url: /news/view/292450
+                - listitem [ref=f72e145]:
+                  - link [ref=f72e146] [cursor=pointer]:
+                    - /url: /view/news_view.php?varAtcId=300850
+                    - img "‘톡파원 25시’ 이찬원, 하와이 카할라 주택 홀릭" [ref=f72e147]
+                  - link "‘톡파원 25시’ 이찬원, 하와이 카할라 주택 홀릭" [ref=f72e149] [cursor=pointer]:
+                    - /url: /news/view/300850
+                - listitem [ref=f72e150]:
+                  - link [ref=f72e151] [cursor=pointer]:
+                    - /url: /view/news_view.php?varAtcId=300831
+                    - img "'생활의 달인' 파주 냉면 맛집→타코야키 청년 달인 공개" [ref=f72e152]
+                  - link "'생활의 달인' 파주 냉면 맛집→타코야키 청년 달인 공개" [ref=f72e154] [cursor=pointer]:
+                    - /url: /news/view/300831
+                - listitem [ref=f72e155]:
+                  - link [ref=f72e156] [cursor=pointer]:
+                    - /url: /view/news_view.php?varAtcId=300890
+                    - img "‘이런 엿같은 사랑’ 양조아, 대사 없이 전한 깊은 연기 내공" [ref=f72e157]
+                  - link "‘이런 엿같은 사랑’ 양조아, 대사 없이 전한 깊은 연기 내공" [ref=f72e159] [cursor=pointer]:
+                    - /url: /news/view/300890
+            - heading [level=3] [ref=f72e161]:
+              - strong [ref=f72e162]: 댓글
+        - generic [ref=f72e179]:
+          - generic [ref=f72e180]:
+            - heading [level=3] [ref=f72e181]:
+              - link "스페셜" [ref=f72e182] [cursor=pointer]:
+                - /url: /section/section_list?MID=2700
+            - list [ref=f72e184]:
+              - listitem [ref=f72e185]:
+                - link "[비즈 스타] '내일도 출근' 강미나 [비즈 스타] '내일도 출근' 강미나 \"아이오아..." [ref=f72e186] [cursor=pointer]:
+                  - /url: /news/view/300735
+                  - img "[비즈 스타] '내일도 출근' 강미나" [ref=f72e187]
+                  - generic [ref=f72e188]: "[비즈 스타] '내일도 출근' 강미나 \"아이오아..."
+              - listitem [ref=f72e189]:
+                - link "[비즈 스타] '오케이 마담2' 엄정화 [비즈 스타] '오케이 마담2' 엄정화 \"6년 만..." [ref=f72e190] [cursor=pointer]:
+                  - /url: /news/view/300731
+                  - img "[비즈 스타] '오케이 마담2' 엄정화" [ref=f72e191]
+                  - generic [ref=f72e192]: "[비즈 스타] '오케이 마담2' 엄정화 \"6년 만..."
+          - link [ref=f72e194] [cursor=pointer]:
+            - /url: https://ssif.or.kr/index/main.php
+            - img "학교안전공제중앙회" [ref=f72e195]
+          - generic [ref=f72e196]:
+            - heading "많이 본 기사" [level=3] [ref=f72e197]
+            - list [ref=f72e201]:
+              - listitem [ref=f72e202]:
+                - link "'생활의 달인' 파주 냉면 맛집→타코야키 청년 달인 공개 1" [ref=f72e203] [cursor=pointer]:
+                  - /url: /news/view/300831
+                  - img "'생활의 달인' 파주 냉면 맛집→타코야키 청년 달인 공개" [ref=f72e204]
+                  - generic [ref=f72e205]: "1"
+                - link "'생활의 달인' 파주 냉면 맛집→타코야키 청년 달인 공개" [ref=f72e207] [cursor=pointer]:
+                  - /url: /news/view/300831
+              - listitem [ref=f72e208]:
+                - link "'미우새' 현봉식, 디저트 카페→네일숍 방문…뼈족발 맛집 먹방 2" [ref=f72e209] [cursor=pointer]:
+                  - /url: /news/view/300804
+                  - img "'미우새' 현봉식, 디저트 카페→네일숍 방문…뼈족발 맛집 먹방" [ref=f72e210]
+                  - generic [ref=f72e211]: "2"
+                - link "'미우새' 현봉식, 디저트 카페→네일숍 방문…뼈족발 맛..." [ref=f72e213] [cursor=pointer]:
+                  - /url: /news/view/300804
+              - listitem [ref=f72e214]:
+                - generic [ref=f72e215]: "3"
+                - link "'파친코2' 이민호, '노아' 향한 그릇된 집착…시즌2 결..." [ref=f72e217] [cursor=pointer]:
+                  - /url: /news/view/300807
+              - listitem [ref=f72e218]:
+                - generic [ref=f72e219]: "4"
+                - link "'조선의 사랑꾼' 임시 종영…'K-트롯 진선미 환상의 무..." [ref=f72e221] [cursor=pointer]:
+                  - /url: /news/view/300865
+              - listitem [ref=f72e222]:
+                - generic [ref=f72e223]: "5"
+                - link "성리, '더트롯쇼' 출격 인증샷 \"학자 사랑으로 멋지게 ..." [ref=f72e225] [cursor=pointer]:
+                  - /url: /news/view/300874
+              - listitem [ref=f72e226]:
+                - generic [ref=f72e227]: "6"
+                - link "'미우새' 탁재훈, 생일 맞이 제주 비치클럽 방문" [ref=f72e229] [cursor=pointer]:
+                  - /url: /news/view/300808
+              - listitem [ref=f72e230]:
+                - generic [ref=f72e231]: "7"
+                - link "'생활의 달인' 계란찜 덕후 달인 맛집 리스트→치즈케이..." [ref=f72e233] [cursor=pointer]:
+                  - /url: /news/view/300832
+              - listitem [ref=f72e234]:
+                - generic [ref=f72e235]: "8"
+                - link "'남겨서 뭐하게' 보자기솥닭, 추신수·김병현·오승환 위..." [ref=f72e237] [cursor=pointer]:
+                  - /url: /news/view/300866
+              - listitem [ref=f72e238]:
+                - generic [ref=f72e239]: "9"
+                - link "‘톡파원 25시’ 이찬원, 하와이 카할라 주택 홀릭" [ref=f72e241] [cursor=pointer]:
+                  - /url: /news/view/300850
+              - listitem [ref=f72e242]:
+                - generic [ref=f72e243]: "10"
+                - link "‘오싹한 연애’ 박연우, 극적 긴장감 끌어올린 ‘신스틸러’" [ref=f72e245] [cursor=pointer]:
+                  - /url: /news/view/300841
+          - iframe [ref=f72e249]:
+            - insertion [ref=f93e3]:
+              - iframe [ref=f93e5]:
+                - generic [ref=f98e2]:
+                  - iframe [ref=f98e5]:
+                    - generic [ref=f149e2] [cursor=pointer]
+                  - generic [ref=f98e6]:
+                    - generic:
+                      - generic [ref=f98e7] [cursor=pointer]
+                      - button [ref=f98e12] [cursor=pointer]
+          - generic [ref=f72e250]:
+            - heading [level=3] [ref=f72e251]:
+              - link "영상뉴스" [ref=f72e253] [cursor=pointer]:
+                - /url: /section/section_list?MID=2800
+            - list [ref=f72e255]:
+              - listitem [ref=f72e256]:
+                - link "누에라, 팬사랑 가득 밸런스 게임 \"이번에도 같이 달려보자\" 누에라, 팬사랑 가득 밸런스 게임 \"이번에도..." [ref=f72e257] [cursor=pointer]:
+                  - /url: /news/view/300398
+                  - generic [ref=f72e258]:
+                    - heading [level=4] [ref=f72e259]
+                    - img "누에라, 팬사랑 가득 밸런스 게임 \"이번에도 같이 달려보자\"" [ref=f72e261]
+                  - generic [ref=f72e262]: 누에라, 팬사랑 가득 밸런스 게임 "이번에도...
+          - insertion [ref=f72e263]:
+            - iframe [ref=f72e265]:
+              - iframe [ref=f80e1]:
+                - generic:
+                  - link [ref=f87e1] [cursor=pointer]:
+                    - /url: https://krrtb.c.appier.net/xclk?bidobjid=W_UFshEVBEGWoaHtZJF6ag&cid=nmRVfwgfTlarJbZHvwm4ZQ&crid=XSiwUfbfQUaC4vqgGLElxQ&crpid=6CC_07GvRkO6D8Q3WzKh7A&soid=Ep0j&partner_id=03mSf3HNecb-&bx=Cylxwnu_orfsKqfz7r6xoP6PoPdx7P6-uY79uqa138zR3Hu93HtB3bSzKY7BKYWyu1x1w8Q121lgUjtgZ1zgJbOfwHf9wmA9cDu1K4lEUHM12qG-uYSxJ4u_o1x1UDo121lDc8Q1K4lWUyu_uqGzu1x1UD7muqa1orf9o4QxKqd1eM&ui=CylYc8Myuqa1onQy70I9oqumKqd_2qGzujR&consent=1&ddhh=orGWod&flanding_rdr=
+                  - button [ref=f87e4] [cursor=pointer]
+          - generic [ref=f72e268]:
+            - link [ref=f72e270] [cursor=pointer]:
+              - /url: https://enter.etoday.co.kr/section/Search_list?keyword=광화문+변호사+박인준
+              - img "광화문 변호사" [ref=f72e271]
+            - link [ref=f72e273] [cursor=pointer]:
+              - /url: https://enter.etoday.co.kr/section/Search_list?keyword=조진형+마스터+골프
+              - img "조진형의 마스터 골프" [ref=f72e274]
+          - generic [ref=f72e275]:
+            - heading [level=3] [ref=f72e276]:
+              - link "포토갤러리" [ref=f72e278] [cursor=pointer]:
+                - /url: /section/section_list?MID=2800
+            - generic [ref=f72e279]:
+              - list [ref=f72e280]:
+                - listitem [ref=f72e281]:
+                  - link [ref=f72e282] [cursor=pointer]:
+                    - /url: /news/view/295215
+                    - img "[비즈 포토] BTS 진, 광화문 밤하늘 수놓는 '비주얼 킹'의 열창" [ref=f72e283]
+                - listitem [ref=f72e284]:
+                  - link [ref=f72e285] [cursor=pointer]:
+                    - /url: /news/view/295216
+                    - img "[비즈 포토] 방탄소년단 진, 라이브 공연 중 빛나는 독보적 아우라" [ref=f72e286]
+              - list [ref=f72e287]:
+                - listitem [ref=f72e288]:
+                  - link [ref=f72e289] [cursor=pointer]:
+                    - /url: /news/view/295217
+                    - img "[비즈 포토] BTS 진, 눈빛 하나로 팬심 저격… 독보적 카리스마" [ref=f72e290]
+                - listitem [ref=f72e291]:
+                  - link [ref=f72e292] [cursor=pointer]:
+                    - /url: /news/view/295226
+                    - img "[비즈 포토] BTS 지민, 선을 그리는 몸짓… 예술이 된 무대" [ref=f72e293]
+                - listitem [ref=f72e294]:
+                  - link [ref=f72e295] [cursor=pointer]:
+                    - /url: /news/view/295227
+                    - img "[비즈 포토] 방탄소년단 지민, 몽환적 조명 속 빛나는 무대 천재" [ref=f72e296]
+          - iframe [ref=f72e300]:
+            - iframe [ref=f94e3]:
+              - iframe [ref=f100e3]:
+                - generic [ref=f103e2] [cursor=pointer]
+          - generic [ref=f72e301]:
+            - heading "최신기사" [level=3] [ref=f72e302]
+            - list [ref=f72e306]:
+              - listitem [ref=f72e307]:
+                - link [ref=f72e308] [cursor=pointer]:
+                  - /url: /news/view/300901
+                  - img "'가왕쇼' 박서진·전유진·홍지윤, 센터 전쟁 투표하기 스타트" [ref=f72e309]
+                - link "'가왕쇼' 박서진·전유진·홍지윤, 센터 전쟁 투표하기 스타트" [ref=f72e311] [cursor=pointer]:
+                  - /url: /news/view/300901
+              - listitem [ref=f72e312]:
+                - link [ref=f72e313] [cursor=pointer]:
+                  - /url: /news/view/300905
+                  - img "튜이드, 싱그러운 일곱 소녀들…태국 로케이션 필름 공개" [ref=f72e314]
+                - link "튜이드, 싱그러운 일곱 소녀들…태국 로케이션 필름 공개" [ref=f72e316] [cursor=pointer]:
+                  - /url: /news/view/300905
+              - listitem [ref=f72e317]:
+                - 'link "''타짜: 벨제붑의 노래'' 시리즈 변요한 등 피날레 보도스틸 공개" [ref=f72e319] [cursor=pointer]':
+                  - /url: /news/view/300902
+              - listitem [ref=f72e320]:
+                - link "루네이트, 폴란드서 유럽 투어 스타트 “다시 올 수 있어 기뻐”" [ref=f72e322] [cursor=pointer]:
+                  - /url: /news/view/300903
+              - listitem [ref=f72e323]:
+                - link "준케이, 2개월 만의 컴백…레드벨벳 웬디 지원사격" [ref=f72e325] [cursor=pointer]:
+                  - /url: /news/view/300899
+              - listitem [ref=f72e326]:
+                - link "스트레이 키즈 창빈, 생일 맞아 삼성서울병원에 1억 기탁" [ref=f72e328] [cursor=pointer]:
+                  - /url: /news/view/300898
+              - listitem [ref=f72e329]:
+                - link "‘아파트’ 지성, 디테일 연기 빛난 현장 비하인드 '박해강 그 자체'" [ref=f72e331] [cursor=pointer]:
+                  - /url: /news/view/300894
+              - listitem [ref=f72e332]:
+                - link "한국지역난방공사, 우즈베키스탄 노후 난방 기반시설에 한국형 고효율 체계 이식" [ref=f72e334] [cursor=pointer]:
+                  - /url: /news/view/300895
+              - listitem [ref=f72e335]:
+                - link "빅뱅, 붉은빛 속 강렬한 아우라 발산" [ref=f72e337] [cursor=pointer]:
+                  - /url: /news/view/300893
+              - listitem [ref=f72e338]:
+                - link "‘이런 엿같은 사랑’ 양조아, 대사 없이 전한 깊은 연기 내공" [ref=f72e340] [cursor=pointer]:
+                  - /url: /news/view/300890
+      - iframe [ref=f72e344]:
+        - iframe [ref=f96e4]:
+          - insertion [ref=f117e2]:
+            - iframe [ref=f117e4]:
+              - generic [ref=f151e5]:
+                - generic [ref=f151e7]:
+                  - generic [ref=f151e11]:
+                    - button "Play video" [ref=f151e15] [cursor=pointer]
+                    - button "Unmute video" [ref=f151e21] [cursor=pointer]
+                  - button "재생" [ref=f151e28]:
+                    - generic [ref=f151e29] [cursor=pointer]
+                - button "자세히 알아보기" [ref=f151e42] [cursor=pointer]
+    - generic [ref=f72e346]:
+      - generic [ref=f72e347]:
+        - heading [level=2] [ref=f72e348]:
+          - img "비즈엔터" [ref=f72e349]
+        - generic [ref=f72e350]:
+          - list [ref=f72e351]:
+            - listitem [ref=f72e352]:
+              - link "회사소개" [ref=f72e353] [cursor=pointer]:
+                - /url: /section/company
+            - listitem [ref=f72e354]:
+              - generic [ref=f72e355]:
+                - term [ref=f72e356]:
+                  - link "광고 및 제휴" [ref=f72e357] [cursor=pointer]:
+                    - /url: /section/advertise
+                - definition [ref=f72e358]:
+                  - link "정정·반론보도 모음" [ref=f72e359] [cursor=pointer]:
+                    - /url: /section/Search_list?keyword=정정보도문&hideSearch=1
+            - listitem [ref=f72e360]:
+              - generic [ref=f72e361]:
+                - term [ref=f72e362]:
+                  - link "이용약관" [ref=f72e363] [cursor=pointer]:
+                    - /url: javascript:;
+                - definition [ref=f72e364]:
+                  - link "개인정보처리방침" [ref=f72e365] [cursor=pointer]:
+                    - /url: javascript:;
+            - listitem [ref=f72e366]:
+              - generic [ref=f72e367]:
+                - term [ref=f72e368]:
+                  - link "청소년보호정책" [ref=f72e369] [cursor=pointer]:
+                    - /url: javascript:;
+                - definition [ref=f72e370]:
+                  - link "고충처리" [ref=f72e371] [cursor=pointer]:
+                    - /url: javascript:;
+            - listitem [ref=f72e372]:
+              - generic [ref=f72e373]:
+                - term [ref=f72e374]:
+                  - link "이용자 위원회" [ref=f72e375] [cursor=pointer]:
+                    - /url: /section/user-committee
+                - definition [ref=f72e376]:
+                  - link "편집규약" [ref=f72e377] [cursor=pointer]:
+                    - /url: /section/editorial_regulations
+            - listitem [ref=f72e378]:
+              - link [ref=f72e379] [cursor=pointer]:
+                - /url: https://inc.or.kr/main/
+          - list [ref=f72e381]:
+            - listitem [ref=f72e382]: ㈜비즈미디어웍스(비즈엔터) ㅣ 서울시 마포구 마포대로92 효성해링턴스퀘어 A동 3층 ㅣ webmaster@bizenter.co.kr ㅣ ☎ 02-2088-7662
+            - listitem [ref=f72e383]: "등록번호 : 서울아02868 ㅣ 등록일자 : 2013.11.07 ㅣ 발행일자 : 2013.11.07 ㅣ 발행·편집인 : 문연배 ㅣ 청소년보호책임자 : 윤준필"
+          - list [ref=f72e384]:
+            - listitem [ref=f72e385]: 비즈엔터의 모든 콘텐츠(기사)는 저작권법의 보호를 받으며, 무단전재 및 수집, 복사, 재배포, AI학습 이용 등을 금지합니다.
+            - listitem [ref=f72e386]: Copyright 2013. 비즈미디어웍스. All rights reserved. ㅣ 보도자료 및 기사제보 press@bizenter.co.kr
+      - list [ref=f72e389]:
+        - listitem [ref=f72e390]: 「열린보도원칙」 당 매체는 독자와 취재원 등 뉴스이용자의 권리 보장을 위해 반론이나 정정 보도, 추후보도를 요청할 수 있는 창구를 열어두고 있음을 알려드립니다.
+        - listitem [ref=f72e391]: "고충처리인 : 윤준필 팀장 02-2088-7662 press@bizenter.co.kr"
+  - generic [ref=f72e392]:
+    - iframe [ref=f72e393]:
+      - iframe [ref=f74e4]:
+        - generic [ref=f115e2]:
+          - iframe [ref=f115e5]:
+            - generic [ref=f147e2] [cursor=pointer]
+          - generic [ref=f115e6]:
+            - generic:
+              - generic [ref=f115e7] [cursor=pointer]
+              - button [ref=f115e12] [cursor=pointer]
+    - img "close_button" [ref=f72e394]
+  - iframe [ref=f72e395]:
+    
+  - iframe [ref=f72e398]:
+    - generic [ref=f82e2] [cursor=pointer]

@@ -1,0 +1,160 @@
+- iframe [active] [ref=f85e2]:
+  - generic [ref=f86e1]:
+    - generic [ref=f86e3]:
+      - generic [ref=f86e36]:
+        - heading [level=1] [ref=f86e37]:
+          - link "NAVER" [ref=f86e38] [cursor=pointer]:
+            - /url: https://www.naver.com/
+          - link "blog" [ref=f86e40] [cursor=pointer]:
+            - /url: https://section.blog.naver.com
+        - generic [ref=f86e42]:
+          - generic [ref=f86e851]: 자동저장 오후 12:19
+          - generic [ref=f86e43]:
+            - button "저장" [ref=f86e44] [cursor=pointer]
+            - button "임시저장된 글 보기, 0개" [ref=f86e45] [cursor=pointer]: "0"
+          - button "발행" [ref=f86e48] [cursor=pointer]
+          - button "더보기" [ref=f86e56] [cursor=pointer]
+      - generic [ref=f86e65]:
+        - banner [ref=f86e66]:
+          - list [ref=f86e68]:
+            - listitem [ref=f86e69]:
+              - button "사진 추가" [ref=f86e70] [cursor=pointer]:
+                - generic [ref=f86e72]: 사진
+            - listitem [ref=f86e73]:
+              - button "MYBOX 추가" [ref=f86e74] [cursor=pointer]:
+                - generic [ref=f86e76]: MYBOX
+            - listitem [ref=f86e77]:
+              - button "동영상 추가" [ref=f86e78] [cursor=pointer]:
+                - generic [ref=f86e80]: 동영상
+            - listitem [ref=f86e81]:
+              - button "스티커 추가" [ref=f86e82] [cursor=pointer]:
+                - generic [ref=f86e84]: 스티커
+            - listitem [ref=f86e85]:
+              - generic [ref=f86e86]:
+                - button "인용구 추가" [ref=f86e87] [cursor=pointer]
+                - button "인용구 선택" [ref=f86e89] [cursor=pointer]
+                - generic [ref=f86e91]: 인용구
+            - listitem [ref=f86e92]:
+              - generic [ref=f86e93]:
+                - button "구분선 추가" [ref=f86e94] [cursor=pointer]
+                - button "구분선 선택" [ref=f86e96] [cursor=pointer]
+                - generic [ref=f86e98]: 구분선
+            - listitem [ref=f86e99]:
+              - button "링크 추가" [ref=f86e100] [cursor=pointer]:
+                - generic [ref=f86e102]: 링크
+            - listitem [ref=f86e103]:
+              - button "파일 추가" [ref=f86e104] [cursor=pointer]:
+                - generic [ref=f86e106]: 파일
+            - listitem [ref=f86e107]:
+              - button "일정 추가" [ref=f86e108] [cursor=pointer]:
+                - generic [ref=f86e110]: 일정
+            - listitem [ref=f86e111]:
+              - button "소스코드 추가" [ref=f86e112] [cursor=pointer]:
+                - generic [ref=f86e114]: 소스코드
+            - listitem [ref=f86e115]:
+              - button "표 추가" [ref=f86e116] [cursor=pointer]:
+                - generic [ref=f86e118]: 표
+            - listitem [ref=f86e119]:
+              - button "수식 추가" [ref=f86e120] [cursor=pointer]:
+                - generic [ref=f86e122]: 수식
+            - listitem [ref=f86e123]
+            - listitem [ref=f86e126]:
+              - button "장소 추가" [ref=f86e127] [cursor=pointer]:
+                - generic [ref=f86e129]: 장소
+            - listitem [ref=f86e130]:
+              - button "내돈내산 상품 첨부" [ref=f86e131] [cursor=pointer]:
+                - generic [ref=f86e133]: 내돈내산
+            - listitem [ref=f86e134]:
+              - button "글감 검색 열기" [ref=f86e135] [cursor=pointer]:
+                - generic [ref=f86e137]: 글감
+            - listitem
+            - listitem [ref=f86e138]:
+              - button "내 클립 열기" [ref=f86e139] [cursor=pointer]:
+                - generic [ref=f86e141]: 내 클립
+            - listitem [ref=f86e142]:
+              - button "라이브러리 열기" [ref=f86e143] [cursor=pointer]:
+                - generic [ref=f86e145]: 라이브러리
+            - listitem [ref=f86e146]:
+              - button "템플릿 열기" [ref=f86e147] [cursor=pointer]:
+                - generic [ref=f86e149]: 템플릿
+          - list [ref=f86e151]:
+            - listitem [ref=f86e890]:
+              - button "문단 서식 변경" [ref=f86e892] [cursor=pointer]: 본문
+            - listitem [ref=f86e893]:
+              - button "서체 변경" [ref=f86e895] [cursor=pointer]: 나눔고딕
+            - listitem [ref=f86e896]:
+              - button "글자 크기 변경" [ref=f86e898] [cursor=pointer]: "16"
+            - listitem [ref=f86e899]
+            - listitem [ref=f86e902]:
+              - button "굵기 적용" [ref=f86e903] [cursor=pointer]:
+                - generic [ref=f86e905]: 굵게
+            - listitem [ref=f86e906]:
+              - button "기울이기 적용" [ref=f86e907] [cursor=pointer]:
+                - generic [ref=f86e909]: 기울이기
+            - listitem [ref=f86e910]:
+              - button "밑줄 적용" [ref=f86e911] [cursor=pointer]:
+                - generic [ref=f86e913]: 밑줄
+            - listitem [ref=f86e914]:
+              - button "취소선 적용" [ref=f86e915] [cursor=pointer]:
+                - generic [ref=f86e917]: 취소선
+            - listitem [ref=f86e918]:
+              - button [ref=f86e920] [cursor=pointer]:
+                - generic [ref=f86e924]: 글자색
+            - listitem [ref=f86e925]:
+              - button "글자 배경색 변경" [ref=f86e927] [cursor=pointer]:
+                - generic [ref=f86e931]: 배경색
+            - listitem [ref=f86e194]
+            - listitem [ref=f86e932]:
+              - button "정렬 열기" [ref=f86e934] [cursor=pointer]:
+                - generic [ref=f86e936]: 정렬
+            - listitem [ref=f86e937]:
+              - button "줄간격 열기" [ref=f86e939] [cursor=pointer]:
+                - generic [ref=f86e941]: 줄간격
+            - listitem [ref=f86e942]:
+              - button "목록 열기" [ref=f86e944] [cursor=pointer]:
+                - generic [ref=f86e946]: 목록
+            - listitem [ref=f86e947]
+            - listitem [ref=f86e986]:
+              - button "머리글자 적용" [ref=f86e987] [cursor=pointer]:
+                - generic [ref=f86e989]: 머리글자
+            - listitem [ref=f86e990]:
+              - button "위첨자 적용" [ref=f86e991] [cursor=pointer]:
+                - generic [ref=f86e993]: 위첨자
+            - listitem [ref=f86e994]:
+              - button "아래첨자 적용" [ref=f86e995] [cursor=pointer]:
+                - generic [ref=f86e997]: 아래첨자
+            - listitem [ref=f86e998]:
+              - button "특수문자 열기" [ref=f86e999] [cursor=pointer]:
+                - generic [ref=f86e1001]: 특수문자
+            - listitem [ref=f86e1002]:
+              - button "링크 입력 열기" [ref=f86e1004] [cursor=pointer]:
+                - generic [ref=f86e1006]: 링크
+            - listitem [ref=f86e1007]
+            - listitem [ref=f86e1010]:
+              - button "번역" [ref=f86e1011] [cursor=pointer]
+            - listitem [ref=f86e1013]
+            - listitem [ref=f86e1016]:
+              - button "맞춤법" [ref=f86e1017] [cursor=pointer]
+        - generic [ref=f86e249]:
+          - article [ref=f86e254]:
+            - paragraph [ref=f86e614]: 히게단 내한, 드디어 다녀왔어요
+            - paragraph [ref=f86e621]: 테스트
+          - generic [ref=f86e1019]:
+            - generic [ref=f86e1020] [cursor=pointer]
+            - generic [ref=f86e1021]: 추가할 컴포넌트를 선택하세요.
+        - list [ref=f86e428]:
+          - listitem [ref=f86e429]:
+            - button "PC 화면" [ref=f86e430] [cursor=pointer]
+          - listitem [ref=f86e432]:
+            - link "도움말" [ref=f86e433] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=f86e437]:
+          - generic [ref=f86e439]:
+            - button "카테고리 열기" [ref=f86e441] [cursor=pointer]:
+              - generic [ref=f86e443]: 전체 글감
+            - generic [ref=f86e445]:
+              - button "검색" [ref=f86e446] [cursor=pointer]
+              - textbox "글감을 검색해 보세요." [ref=f86e447]
+          - button "접기" [ref=f86e448] [cursor=pointer]
+    - iframe [active] [ref=f86e450]:
+      - generic [active]: 테스트

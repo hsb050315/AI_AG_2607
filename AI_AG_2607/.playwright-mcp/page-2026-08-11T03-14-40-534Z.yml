@@ -1,0 +1,925 @@
+- generic [active] [ref=f481e1]:
+  - generic [ref=f481e3]: Loading
+  - generic [ref=f481e5]:
+    - paragraph [ref=f481e7]:
+      - link "Skip to main content" [ref=f481e8] [cursor=pointer]:
+        - /url: "#_r_0_"
+    - banner [ref=f481e11]:
+      - generic [ref=f481e15]:
+        - link "Canva home" [ref=f481e18] [cursor=pointer]:
+          - /url: https://www.canva.com/
+        - navigation [ref=f481e25]:
+          - list [ref=f481e26]:
+            - listitem [ref=f481e27]:
+              - button "Design" [ref=f481e28] [cursor=pointer]
+            - listitem [ref=f481e30]:
+              - button "Product" [ref=f481e31] [cursor=pointer]
+            - listitem [ref=f481e33]:
+              - button "Plans" [ref=f481e34] [cursor=pointer]
+            - listitem [ref=f481e36]:
+              - button "Business" [ref=f481e37] [cursor=pointer]
+            - listitem [ref=f481e39]:
+              - button "Education" [ref=f481e40] [cursor=pointer]
+            - listitem [ref=f481e42]:
+              - button "Help" [ref=f481e43] [cursor=pointer]
+        - generic [ref=f481e47]:
+          - button "Sign up" [ref=f481e49] [cursor=pointer]
+          - button "Log in" [ref=f481e51] [cursor=pointer]
+    - main [ref=f481e53]:
+      - navigation "Breadcrumb" [ref=f481e55]:
+        - list [ref=f481e56]:
+          - listitem [ref=f481e57]:
+            - link "Home" [ref=f481e58] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f481e60]
+          - listitem [ref=f481e61]:
+            - link "Templates" [ref=f481e62] [cursor=pointer]:
+              - /url: /templates/
+          - listitem [ref=f481e64]
+          - listitem [ref=f481e65]:
+            - generic [ref=f481e66]: Ai Tech Startup Pitch Deck
+      - generic [ref=f481e67]:
+        - generic [ref=f481e78]:
+          - heading "Ai Tech Startup Pitch Deck templates" [level=1] [ref=f481e79]
+          - paragraph [ref=f481e80]: Browse high quality Ai Tech Startup Pitch Deck templates for your next design
+        - generic [ref=f481e86]:
+          - generic [ref=f481e88]:
+            - search [ref=f481e91]:
+              - generic [ref=f481e94]:
+                - generic [ref=f481e97]:
+                  - combobox "Search" [ref=f481e99]: ai tech startup pitch deck
+                  - button "Clear" [ref=f481e102] [cursor=pointer]
+                - button "Submit Search" [ref=f481e105]
+            - button "All filters" [ref=f481e107] [cursor=pointer]
+          - generic [ref=f481e113]:
+            - generic [ref=f481e115]:
+              - generic [ref=f481e116]:
+                - generic [ref=f481e119]:
+                  - group [ref=f481e121]:
+                    - link "Preview free Blue and Purple Corporate Artificial Intelligence Startup Pitch Deck Presentation template" [ref=f481e125] [cursor=pointer]:
+                      - /url: /templates/EAGyz8q_qKs-blue-and-purple-corporate-artificial-intelligence-startup-pitch-deck-presentation/
+                      - generic "Blue and Purple Corporate Artificial Intelligence Startup Pitch Deck Presentation" [ref=f481e130]
+                    - button "Play" [ref=f481e134] [cursor=pointer]
+                  - paragraph [ref=f481e138]:
+                    - link "Blue and Purple Corporate Artificial Intelligence Startup Pitch Deck Presentation" [ref=f481e139] [cursor=pointer]:
+                      - /url: /templates/EAGyz8q_qKs-blue-and-purple-corporate-artificial-intelligence-startup-pitch-deck-presentation/
+                - generic [ref=f481e142]:
+                  - group [ref=f481e144]:
+                    - link "Preview free Blue White Minimalist Animated Startup Pitch Deck Presentation template" [ref=f481e148] [cursor=pointer]:
+                      - /url: /templates/EAGO4UPVbpg-blue-white-minimalist-animated-startup-pitch-deck-presentation/
+                      - generic "Blue White Minimalist Animated Startup Pitch Deck Presentation" [ref=f481e153]
+                    - button "Play" [ref=f481e157] [cursor=pointer]
+                  - paragraph [ref=f481e161]:
+                    - link "Blue White Minimalist Animated Startup Pitch Deck Presentation" [ref=f481e162] [cursor=pointer]:
+                      - /url: /templates/EAGO4UPVbpg-blue-white-minimalist-animated-startup-pitch-deck-presentation/
+                - generic [ref=f481e165]:
+                  - group [ref=f481e167]:
+                    - link "Preview free Blue and White Modern Technology Pitch Deck Presentation template" [ref=f481e171] [cursor=pointer]:
+                      - /url: /templates/EAHFZbkQq9I-blue-and-white-modern-technology-pitch-deck-presentation/
+                      - generic "Blue and White Modern Technology Pitch Deck Presentation" [ref=f481e176]
+                    - button "Play" [ref=f481e180] [cursor=pointer]
+                  - paragraph [ref=f481e184]:
+                    - link "Blue and White Modern Technology Pitch Deck Presentation" [ref=f481e185] [cursor=pointer]:
+                      - /url: /templates/EAHFZbkQq9I-blue-and-white-modern-technology-pitch-deck-presentation/
+                - generic [ref=f481e188]:
+                  - group [ref=f481e190]:
+                    - link "Preview free Beige Black and Green Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e194] [cursor=pointer]:
+                      - /url: /templates/EAG_CASqCzI-beige-black-and-green-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e196]:
+                        - img "Beige Black and Green Modern Startup Pitch Deck Presentation" [ref=f481e202]
+                        - generic [ref=f481e205]:
+                          - generic [ref=f481e206]: 1 of 14
+                          - generic [ref=f481e207]: 14 slides
+                  - paragraph [ref=f481e210]:
+                    - link "Beige Black and Green Modern Startup Pitch Deck Presentation" [ref=f481e211] [cursor=pointer]:
+                      - /url: /templates/EAG_CASqCzI-beige-black-and-green-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e214]:
+                  - group [ref=f481e216]:
+                    - link "Preview free White and Black Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e220] [cursor=pointer]:
+                      - /url: /templates/EAHAb1UO-xg-white-and-black-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e222]:
+                        - img "White and Black Modern Startup Pitch Deck Presentation" [ref=f481e228]
+                        - generic [ref=f481e231]:
+                          - generic [ref=f481e232]: 1 of 14
+                          - generic [ref=f481e233]: 14 slides
+                  - paragraph [ref=f481e236]:
+                    - link "White and Black Modern Startup Pitch Deck Presentation" [ref=f481e237] [cursor=pointer]:
+                      - /url: /templates/EAHAb1UO-xg-white-and-black-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e240]:
+                  - group [ref=f481e242]:
+                    - link "Preview free White and Blue Modern Education with Tech Pitch Deck Presentation template, 10 pages" [ref=f481e246] [cursor=pointer]:
+                      - /url: /templates/EAGxuQsBl2M-white-and-blue-modern-education-with-tech-pitch-deck-presentation/
+                      - generic [ref=f481e248]:
+                        - img "White and Blue Modern Education with Tech Pitch Deck Presentation" [ref=f481e254]
+                        - generic [ref=f481e257]:
+                          - generic [ref=f481e258]: 1 of 10
+                          - generic [ref=f481e259]: 10 slides
+                  - paragraph [ref=f481e262]:
+                    - link "White and Blue Modern Education with Tech Pitch Deck Presentation" [ref=f481e263] [cursor=pointer]:
+                      - /url: /templates/EAGxuQsBl2M-white-and-blue-modern-education-with-tech-pitch-deck-presentation/
+                - generic [ref=f481e266]:
+                  - group [ref=f481e268]:
+                    - link "Preview free White and Blue Professional Modern Technology Pitch Deck Presentation template, 14 pages" [ref=f481e272] [cursor=pointer]:
+                      - /url: /templates/EAFulu2Lc-o-white-and-blue-professional-modern-technology-pitch-deck-presentation/
+                      - generic [ref=f481e274]:
+                        - img "White and Blue Professional Modern Technology Pitch Deck Presentation" [ref=f481e280]
+                        - generic [ref=f481e283]:
+                          - generic [ref=f481e284]: 1 of 14
+                          - generic [ref=f481e285]: 14 slides
+                  - paragraph [ref=f481e288]:
+                    - link "White and Blue Professional Modern Technology Pitch Deck Presentation" [ref=f481e289] [cursor=pointer]:
+                      - /url: /templates/EAFulu2Lc-o-white-and-blue-professional-modern-technology-pitch-deck-presentation/
+                - generic [ref=f481e292]:
+                  - group [ref=f481e294]:
+                    - link "Preview free Purple and White Modern Startup Pitch Deck Presentation. template, 14 pages" [ref=f481e298] [cursor=pointer]:
+                      - /url: /templates/EAHEMI5-MHo-purple-and-white-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e300]:
+                        - img "Purple and White Modern Startup Pitch Deck Presentation." [ref=f481e306]
+                        - generic [ref=f481e309]:
+                          - generic [ref=f481e310]: 1 of 14
+                          - generic [ref=f481e311]: 14 slides
+                  - paragraph [ref=f481e314]:
+                    - link "Purple and White Modern Startup Pitch Deck Presentation." [ref=f481e315] [cursor=pointer]:
+                      - /url: /templates/EAHEMI5-MHo-purple-and-white-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e318]:
+                  - group [ref=f481e320]:
+                    - link "Preview free Gray Black Minimalist Startup Pitch Deck Presentation template, 10 pages" [ref=f481e324] [cursor=pointer]:
+                      - /url: /templates/EAG6V7WysTE-gray-black-minimalist-startup-pitch-deck-presentation/
+                      - generic [ref=f481e326]:
+                        - img "Gray Black Minimalist Startup Pitch Deck Presentation" [ref=f481e332]
+                        - generic [ref=f481e335]:
+                          - generic [ref=f481e336]: 1 of 10
+                          - generic [ref=f481e337]: 10 slides
+                  - paragraph [ref=f481e340]:
+                    - link "Gray Black Minimalist Startup Pitch Deck Presentation" [ref=f481e341] [cursor=pointer]:
+                      - /url: /templates/EAG6V7WysTE-gray-black-minimalist-startup-pitch-deck-presentation/
+                - generic [ref=f481e344]:
+                  - group [ref=f481e346]:
+                    - link "Preview free Orange Beige Dualtone Startup Pitch Deck Presentation template" [ref=f481e350] [cursor=pointer]:
+                      - /url: /templates/EAG6V7WC73Q-orange-beige-dualtone-startup-pitch-deck-presentation/
+                      - generic "Orange Beige Dualtone Startup Pitch Deck Presentation" [ref=f481e355]
+                    - button "Play" [ref=f481e359] [cursor=pointer]
+                  - paragraph [ref=f481e363]:
+                    - link "Orange Beige Dualtone Startup Pitch Deck Presentation" [ref=f481e364] [cursor=pointer]:
+                      - /url: /templates/EAG6V7WC73Q-orange-beige-dualtone-startup-pitch-deck-presentation/
+                - generic [ref=f481e367]:
+                  - group [ref=f481e369]:
+                    - link "Preview free Black and Gray Modern 3D Technology Pitch Deck Presentation template" [ref=f481e373] [cursor=pointer]:
+                      - /url: /templates/EAFSJbUUrgk-black-and-gray-modern-3d-technology-pitch-deck-presentation/
+                      - generic "Black and Gray Modern 3D Technology Pitch Deck Presentation" [ref=f481e378]
+                    - button "Play" [ref=f481e382] [cursor=pointer]
+                  - paragraph [ref=f481e386]:
+                    - link "Black and Gray Modern 3D Technology Pitch Deck Presentation" [ref=f481e387] [cursor=pointer]:
+                      - /url: /templates/EAFSJbUUrgk-black-and-gray-modern-3d-technology-pitch-deck-presentation/
+                - generic [ref=f481e390]:
+                  - group [ref=f481e392]:
+                    - link "Preview free Red Modern Startup Pitch Deck Presentation template" [ref=f481e396] [cursor=pointer]:
+                      - /url: /templates/EAG95Z3ClYc-red-modern-startup-pitch-deck-presentation/
+                      - generic "Red Modern Startup Pitch Deck Presentation" [ref=f481e401]
+                    - button "Play" [ref=f481e405] [cursor=pointer]
+                  - paragraph [ref=f481e409]:
+                    - link "Red Modern Startup Pitch Deck Presentation" [ref=f481e410] [cursor=pointer]:
+                      - /url: /templates/EAG95Z3ClYc-red-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e413]:
+                  - group [ref=f481e415]:
+                    - link "Preview free Green and White Modern Simple Startup Pitch Deck Business Presentation template, 14 pages" [ref=f481e419] [cursor=pointer]:
+                      - /url: /templates/EAG2aMIdur8-green-and-white-modern-simple-startup-pitch-deck-business-presentation/
+                      - generic [ref=f481e421]:
+                        - img "Green and White Modern Simple Startup Pitch Deck Business Presentation" [ref=f481e427]
+                        - generic [ref=f481e430]:
+                          - generic [ref=f481e431]: 1 of 14
+                          - generic [ref=f481e432]: 14 slides
+                  - paragraph [ref=f481e435]:
+                    - link "Green and White Modern Simple Startup Pitch Deck Business Presentation" [ref=f481e436] [cursor=pointer]:
+                      - /url: /templates/EAG2aMIdur8-green-and-white-modern-simple-startup-pitch-deck-business-presentation/
+                - generic [ref=f481e439]:
+                  - group [ref=f481e441]:
+                    - link "Preview free Beige Minimalist Gradient Startup Pitch Deck Presentation template, 10 pages" [ref=f481e445] [cursor=pointer]:
+                      - /url: /templates/EAHP3BfSCZE-beige-minimalist-gradient-startup-pitch-deck-presentation/
+                      - generic [ref=f481e447]:
+                        - img "Beige Minimalist Gradient Startup Pitch Deck Presentation" [ref=f481e453]
+                        - generic [ref=f481e456]:
+                          - generic [ref=f481e457]: 1 of 10
+                          - generic [ref=f481e458]: 10 slides
+                  - paragraph [ref=f481e461]:
+                    - link "Beige Minimalist Gradient Startup Pitch Deck Presentation" [ref=f481e462] [cursor=pointer]:
+                      - /url: /templates/EAHP3BfSCZE-beige-minimalist-gradient-startup-pitch-deck-presentation/
+                - generic [ref=f481e465]:
+                  - group [ref=f481e467]:
+                    - link "Preview free White Simple Modern Minimalist Pitch Deck Presentation template, 10 pages" [ref=f481e471] [cursor=pointer]:
+                      - /url: /templates/EAHI92TE9Lk-white-simple-modern-minimalist-pitch-deck-presentation/
+                      - generic [ref=f481e473]:
+                        - img "White Simple Modern Minimalist Pitch Deck Presentation" [ref=f481e479]
+                        - generic [ref=f481e482]:
+                          - generic [ref=f481e483]: 1 of 10
+                          - generic [ref=f481e484]: 10 slides
+                  - paragraph [ref=f481e487]:
+                    - link "White Simple Modern Minimalist Pitch Deck Presentation" [ref=f481e488] [cursor=pointer]:
+                      - /url: /templates/EAHI92TE9Lk-white-simple-modern-minimalist-pitch-deck-presentation/
+                - generic [ref=f481e491]:
+                  - group [ref=f481e493]:
+                    - link "Preview free Blue and White Modern Startup Pitch Deck Presentation template, 10 pages" [ref=f481e497] [cursor=pointer]:
+                      - /url: /templates/EAG6PEqvnCA-blue-and-white-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e499]:
+                        - img "Blue and White Modern Startup Pitch Deck Presentation" [ref=f481e505]
+                        - generic [ref=f481e508]:
+                          - generic [ref=f481e509]: 1 of 10
+                          - generic [ref=f481e510]: 10 slides
+                  - paragraph [ref=f481e513]:
+                    - link "Blue and White Modern Startup Pitch Deck Presentation" [ref=f481e514] [cursor=pointer]:
+                      - /url: /templates/EAG6PEqvnCA-blue-and-white-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e517]:
+                  - group [ref=f481e519]:
+                    - link "Preview free Red and White Grey Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e523] [cursor=pointer]:
+                      - /url: /templates/EAHE2zgN2dM-red-and-white-grey-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e525]:
+                        - img "Red and White Grey Modern Startup Pitch Deck Presentation" [ref=f481e531]
+                        - generic [ref=f481e534]:
+                          - generic [ref=f481e535]: 1 of 14
+                          - generic [ref=f481e536]: 14 slides
+                  - paragraph [ref=f481e539]:
+                    - link "Red and White Grey Modern Startup Pitch Deck Presentation" [ref=f481e540] [cursor=pointer]:
+                      - /url: /templates/EAHE2zgN2dM-red-and-white-grey-modern-startup-pitch-deck-presentation/
+              - generic [ref=f481e541]:
+                - generic [ref=f481e544]:
+                  - group [ref=f481e546]:
+                    - link "Preview free Blue Modern Startup Pitch Deck Presentation template, 12 pages" [ref=f481e550] [cursor=pointer]:
+                      - /url: /templates/EAG2G8VwlRI-blue-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e552]:
+                        - img "Blue Modern Startup Pitch Deck Presentation" [ref=f481e557]
+                        - generic [ref=f481e560]:
+                          - generic [ref=f481e561]: 1 of 12
+                          - generic [ref=f481e562]: 12 slides
+                  - paragraph [ref=f481e565]:
+                    - link "Blue Modern Startup Pitch Deck Presentation" [ref=f481e566] [cursor=pointer]:
+                      - /url: /templates/EAG2G8VwlRI-blue-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e569]:
+                  - group [ref=f481e571]:
+                    - link "Preview free Black and Blue Modern Startup Pitch Deck template, 10 pages" [ref=f481e575] [cursor=pointer]:
+                      - /url: /templates/EAGI2NSz-xg-black-and-blue-modern-startup-pitch-deck/
+                      - generic [ref=f481e577]:
+                        - img "Black and Blue Modern Startup Pitch Deck" [ref=f481e582]
+                        - generic [ref=f481e585]:
+                          - generic [ref=f481e586]: 1 of 10
+                          - generic [ref=f481e587]: 10 slides
+                  - paragraph [ref=f481e590]:
+                    - link "Black and Blue Modern Startup Pitch Deck" [ref=f481e591] [cursor=pointer]:
+                      - /url: /templates/EAGI2NSz-xg-black-and-blue-modern-startup-pitch-deck/
+                - generic [ref=f481e594]:
+                  - group [ref=f481e596]:
+                    - link "Preview free Orange and White Modern Startup Pitch Deck Presentation template" [ref=f481e600] [cursor=pointer]:
+                      - /url: /templates/EAGilfJafAw-orange-and-white-modern-startup-pitch-deck-presentation/
+                      - generic "Orange and White Modern Startup Pitch Deck Presentation" [ref=f481e605]
+                    - button "Play" [ref=f481e609] [cursor=pointer]
+                  - paragraph [ref=f481e613]:
+                    - link "Orange and White Modern Startup Pitch Deck Presentation" [ref=f481e614] [cursor=pointer]:
+                      - /url: /templates/EAGilfJafAw-orange-and-white-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e617]:
+                  - group [ref=f481e619]:
+                    - link "Preview free White and Violet Professional Modern Technology Pitch Deck Presentation template, 13 pages" [ref=f481e623] [cursor=pointer]:
+                      - /url: /templates/EAFpKa7xD2k-white-and-violet-professional-modern-technology-pitch-deck-presentation/
+                      - generic [ref=f481e625]:
+                        - img "White and Violet Professional Modern Technology Pitch Deck Presentation" [ref=f481e631]
+                        - generic [ref=f481e634]:
+                          - generic [ref=f481e635]: 1 of 13
+                          - generic [ref=f481e636]: 13 slides
+                  - paragraph [ref=f481e639]:
+                    - link "White and Violet Professional Modern Technology Pitch Deck Presentation" [ref=f481e640] [cursor=pointer]:
+                      - /url: /templates/EAFpKa7xD2k-white-and-violet-professional-modern-technology-pitch-deck-presentation/
+                - generic [ref=f481e643]:
+                  - group [ref=f481e645]:
+                    - link "Preview free Green Minimalist Professional Tech Start-Up Pitch Deck Presentation template, 16 pages" [ref=f481e649] [cursor=pointer]:
+                      - /url: /templates/EAF9e0tVg8c-green-minimalist-professional-tech-start-up-pitch-deck-presentation/
+                      - generic [ref=f481e651]:
+                        - img "Green Minimalist Professional Tech Start-Up Pitch Deck Presentation" [ref=f481e657]
+                        - generic [ref=f481e660]:
+                          - generic [ref=f481e661]: 1 of 16
+                          - generic [ref=f481e662]: 16 slides
+                  - paragraph [ref=f481e665]:
+                    - link "Green Minimalist Professional Tech Start-Up Pitch Deck Presentation" [ref=f481e666] [cursor=pointer]:
+                      - /url: /templates/EAF9e0tVg8c-green-minimalist-professional-tech-start-up-pitch-deck-presentation/
+                - generic [ref=f481e669]:
+                  - group [ref=f481e671]:
+                    - link "Preview free Yellow and Purple Doodle Startup Pitch Deck Presentation template, 13 pages" [ref=f481e675] [cursor=pointer]:
+                      - /url: /templates/EAFtAabYpjA-yellow-and-purple-doodle-startup-pitch-deck-presentation/
+                      - generic [ref=f481e677]:
+                        - img "Yellow and Purple Doodle Startup Pitch Deck Presentation" [ref=f481e683]
+                        - generic [ref=f481e686]:
+                          - generic [ref=f481e687]: 1 of 13
+                          - generic [ref=f481e688]: 13 slides
+                  - paragraph [ref=f481e691]:
+                    - link "Yellow and Purple Doodle Startup Pitch Deck Presentation" [ref=f481e692] [cursor=pointer]:
+                      - /url: /templates/EAFtAabYpjA-yellow-and-purple-doodle-startup-pitch-deck-presentation/
+                - generic [ref=f481e695]:
+                  - group [ref=f481e697]:
+                    - link "Preview free Orange and White Modern Startup Pitch Deck Presentation template, 10 pages" [ref=f481e701] [cursor=pointer]:
+                      - /url: /templates/EAHA-Qwd-YM-orange-and-white-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e703]:
+                        - img "Orange and White Modern Startup Pitch Deck Presentation" [ref=f481e709]
+                        - generic [ref=f481e712]:
+                          - generic [ref=f481e713]: 1 of 10
+                          - generic [ref=f481e714]: 10 slides
+                  - paragraph [ref=f481e717]:
+                    - link "Orange and White Modern Startup Pitch Deck Presentation" [ref=f481e718] [cursor=pointer]:
+                      - /url: /templates/EAHA-Qwd-YM-orange-and-white-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e721]:
+                  - group [ref=f481e723]:
+                    - link "Preview free Beige Green and Black Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e727] [cursor=pointer]:
+                      - /url: /templates/EAG5mFqvRn8-beige-green-and-black-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e729]:
+                        - img "Beige Green and Black Modern Startup Pitch Deck Presentation" [ref=f481e735]
+                        - generic [ref=f481e738]:
+                          - generic [ref=f481e739]: 1 of 14
+                          - generic [ref=f481e740]: 14 slides
+                  - paragraph [ref=f481e743]:
+                    - link "Beige Green and Black Modern Startup Pitch Deck Presentation" [ref=f481e744] [cursor=pointer]:
+                      - /url: /templates/EAG5mFqvRn8-beige-green-and-black-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e747]:
+                  - group [ref=f481e749]:
+                    - link "Preview free Beige and Black Modern Startup Pitch Deck Presentation template, 11 pages" [ref=f481e753] [cursor=pointer]:
+                      - /url: /templates/EAGzTkbnBfA-beige-and-black-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e755]:
+                        - img "Beige and Black Modern Startup Pitch Deck Presentation" [ref=f481e761]
+                        - generic [ref=f481e764]:
+                          - generic [ref=f481e765]: 1 of 11
+                          - generic [ref=f481e766]: 11 slides
+                  - paragraph [ref=f481e769]:
+                    - link "Beige and Black Modern Startup Pitch Deck Presentation" [ref=f481e770] [cursor=pointer]:
+                      - /url: /templates/EAGzTkbnBfA-beige-and-black-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e773]:
+                  - group [ref=f481e775]:
+                    - link "Preview free White and Blue Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e779] [cursor=pointer]:
+                      - /url: /templates/EAG8mM-5Z_g-white-and-blue-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e781]:
+                        - img "White and Blue Modern Startup Pitch Deck Presentation" [ref=f481e787]
+                        - generic [ref=f481e790]:
+                          - generic [ref=f481e791]: 1 of 14
+                          - generic [ref=f481e792]: 14 slides
+                  - paragraph [ref=f481e795]:
+                    - link "White and Blue Modern Startup Pitch Deck Presentation" [ref=f481e796] [cursor=pointer]:
+                      - /url: /templates/EAG8mM-5Z_g-white-and-blue-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e799]:
+                  - group [ref=f481e801]:
+                    - link "Preview free Purple and White Modern Startup Pitch Deck Presentation template, 10 pages" [ref=f481e805] [cursor=pointer]:
+                      - /url: /templates/EAG0V6PCrrI-purple-and-white-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e807]:
+                        - img "Purple and White Modern Startup Pitch Deck Presentation" [ref=f481e813]
+                        - generic [ref=f481e816]:
+                          - generic [ref=f481e817]: 1 of 10
+                          - generic [ref=f481e818]: 10 slides
+                  - paragraph [ref=f481e821]:
+                    - link "Purple and White Modern Startup Pitch Deck Presentation" [ref=f481e822] [cursor=pointer]:
+                      - /url: /templates/EAG0V6PCrrI-purple-and-white-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e825]:
+                  - group [ref=f481e827]:
+                    - link "Preview free Blue Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e831] [cursor=pointer]:
+                      - /url: /templates/EAG6WACK4dg-blue-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e833]:
+                        - img "Blue Modern Startup Pitch Deck Presentation" [ref=f481e839]
+                        - generic [ref=f481e842]:
+                          - generic [ref=f481e843]: 1 of 14
+                          - generic [ref=f481e844]: 14 slides
+                  - paragraph [ref=f481e847]:
+                    - link "Blue Modern Startup Pitch Deck Presentation" [ref=f481e848] [cursor=pointer]:
+                      - /url: /templates/EAG6WACK4dg-blue-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e851]:
+                  - group [ref=f481e853]:
+                    - link "Preview free Blue and White Modern AI Business Pitch Deck Presentation template, 10 pages" [ref=f481e857] [cursor=pointer]:
+                      - /url: /templates/EAGw4T8bLkA-blue-and-white-modern-ai-business-pitch-deck-presentation/
+                      - generic [ref=f481e859]:
+                        - img "Blue and White Modern AI Business Pitch Deck Presentation" [ref=f481e865]
+                        - generic [ref=f481e868]:
+                          - generic [ref=f481e869]: 1 of 10
+                          - generic [ref=f481e870]: 10 slides
+                  - paragraph [ref=f481e873]:
+                    - link "Blue and White Modern AI Business Pitch Deck Presentation" [ref=f481e874] [cursor=pointer]:
+                      - /url: /templates/EAGw4T8bLkA-blue-and-white-modern-ai-business-pitch-deck-presentation/
+                - generic [ref=f481e877]:
+                  - group [ref=f481e879]:
+                    - link "Preview free Blue and White Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e883] [cursor=pointer]:
+                      - /url: /templates/EAHA_WrbM94-blue-and-white-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e885]:
+                        - img "Blue and White Modern Startup Pitch Deck Presentation" [ref=f481e891]
+                        - generic [ref=f481e894]:
+                          - generic [ref=f481e895]: 1 of 14
+                          - generic [ref=f481e896]: 14 slides
+                  - paragraph [ref=f481e899]:
+                    - link "Blue and White Modern Startup Pitch Deck Presentation" [ref=f481e900] [cursor=pointer]:
+                      - /url: /templates/EAHA_WrbM94-blue-and-white-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e903]:
+                  - group [ref=f481e905]:
+                    - link "Preview free Purple and White Clean Geometric Startup Pitch Deck Presentation template, 10 pages" [ref=f481e909] [cursor=pointer]:
+                      - /url: /templates/EAGWJV5r1bY-purple-and-white-clean-geometric-startup-pitch-deck-presentation/
+                      - generic [ref=f481e911]:
+                        - img "Purple and White Clean Geometric Startup Pitch Deck Presentation" [ref=f481e917]
+                        - generic [ref=f481e920]:
+                          - generic [ref=f481e921]: 1 of 10
+                          - generic [ref=f481e922]: 10 slides
+                  - paragraph [ref=f481e925]:
+                    - link "Purple and White Clean Geometric Startup Pitch Deck Presentation" [ref=f481e926] [cursor=pointer]:
+                      - /url: /templates/EAGWJV5r1bY-purple-and-white-clean-geometric-startup-pitch-deck-presentation/
+                - generic [ref=f481e929]:
+                  - group [ref=f481e931]:
+                    - link "Preview free Navy Blue Minimalist Gradient Startup Pitch Deck Presentation template, 10 pages" [ref=f481e935] [cursor=pointer]:
+                      - /url: /templates/EAHHXK7NuAM-navy-blue-minimalist-gradient-startup-pitch-deck-presentation/
+                      - generic [ref=f481e937]:
+                        - img "Navy Blue Minimalist Gradient Startup Pitch Deck Presentation" [ref=f481e943]
+                        - generic [ref=f481e946]:
+                          - generic [ref=f481e947]: 1 of 10
+                          - generic [ref=f481e948]: 10 slides
+                  - paragraph [ref=f481e951]:
+                    - link "Navy Blue Minimalist Gradient Startup Pitch Deck Presentation" [ref=f481e952] [cursor=pointer]:
+                      - /url: /templates/EAHHXK7NuAM-navy-blue-minimalist-gradient-startup-pitch-deck-presentation/
+                - generic [ref=f481e956]:
+                  - paragraph [ref=f481e958]: Related searches
+                  - separator [ref=f481e959]
+                  - list [ref=f481e960]:
+                    - listitem [ref=f481e961]:
+                      - link "startup pitch deck" [ref=f481e962] [cursor=pointer]:
+                        - /url: /templates/?query=startup%20pitch%20deck
+                    - listitem [ref=f481e966]:
+                      - link "pitch deck" [ref=f481e967] [cursor=pointer]:
+                        - /url: /templates/?query=pitch%20deck
+                    - listitem [ref=f481e971]:
+                      - link "pitch deck presentations" [ref=f481e972] [cursor=pointer]:
+                        - /url: /templates/?query=pitch%20deck%20presentations
+              - generic [ref=f481e976]:
+                - generic [ref=f481e979]:
+                  - group [ref=f481e981]:
+                    - link "Preview free Blue and White Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e985] [cursor=pointer]:
+                      - /url: /templates/EAG3_8ONDVE-blue-and-white-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e987]:
+                        - img "Blue and White Modern Startup Pitch Deck Presentation" [ref=f481e992]
+                        - generic [ref=f481e995]:
+                          - generic [ref=f481e996]: 1 of 14
+                          - generic [ref=f481e997]: 14 slides
+                  - paragraph [ref=f481e1000]:
+                    - link "Blue and White Modern Startup Pitch Deck Presentation" [ref=f481e1001] [cursor=pointer]:
+                      - /url: /templates/EAG3_8ONDVE-blue-and-white-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e1004]:
+                  - group [ref=f481e1006]:
+                    - link "Preview free Black Blue and White Modern Startup Pitch Deck Presentation template, 10 pages" [ref=f481e1010] [cursor=pointer]:
+                      - /url: /templates/EAG9gUM82IY-black-blue-and-white-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1012]:
+                        - img "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f481e1018]
+                        - generic [ref=f481e1021]:
+                          - generic [ref=f481e1022]: 1 of 10
+                          - generic [ref=f481e1023]: 10 slides
+                  - paragraph [ref=f481e1026]:
+                    - link "Black Blue and White Modern Startup Pitch Deck Presentation" [ref=f481e1027] [cursor=pointer]:
+                      - /url: /templates/EAG9gUM82IY-black-blue-and-white-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e1030]:
+                  - group [ref=f481e1032]:
+                    - link "Preview free Black White and Purple Modern Startup Pitch Deck Presentation template, 12 pages" [ref=f481e1036] [cursor=pointer]:
+                      - /url: /templates/EAHEMAUHBmU-black-white-and-purple-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1038]:
+                        - img "Black White and Purple Modern Startup Pitch Deck Presentation" [ref=f481e1044]
+                        - generic [ref=f481e1047]:
+                          - generic [ref=f481e1048]: 1 of 12
+                          - generic [ref=f481e1049]: 12 slides
+                  - paragraph [ref=f481e1052]:
+                    - link "Black White and Purple Modern Startup Pitch Deck Presentation" [ref=f481e1053] [cursor=pointer]:
+                      - /url: /templates/EAHEMAUHBmU-black-white-and-purple-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e1056]:
+                  - group [ref=f481e1058]:
+                    - link "Preview free White Orange and Black Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e1062] [cursor=pointer]:
+                      - /url: /templates/EAG7qCRe2IA-white-orange-and-black-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1064]:
+                        - img "White Orange and Black Modern Startup Pitch Deck Presentation" [ref=f481e1070]
+                        - generic [ref=f481e1073]:
+                          - generic [ref=f481e1074]: 1 of 14
+                          - generic [ref=f481e1075]: 14 slides
+                  - paragraph [ref=f481e1078]:
+                    - link "White Orange and Black Modern Startup Pitch Deck Presentation" [ref=f481e1079] [cursor=pointer]:
+                      - /url: /templates/EAG7qCRe2IA-white-orange-and-black-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e1082]:
+                  - group [ref=f481e1084]:
+                    - link "Preview free Red&Cream Modern Startup Pitch Deck Presentation template, 15 pages" [ref=f481e1088] [cursor=pointer]:
+                      - /url: /templates/EAG-Lt4uBdU-red-cream-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1090]:
+                        - img "Red&Cream Modern Startup Pitch Deck Presentation" [ref=f481e1096]
+                        - generic [ref=f481e1099]:
+                          - generic [ref=f481e1100]: 1 of 15
+                          - generic [ref=f481e1101]: 15 slides
+                  - paragraph [ref=f481e1104]:
+                    - link "Red&Cream Modern Startup Pitch Deck Presentation" [ref=f481e1105] [cursor=pointer]:
+                      - /url: /templates/EAG-Lt4uBdU-red-cream-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e1108]:
+                  - group [ref=f481e1110]:
+                    - link "Preview free Blue and White Gradient Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e1114] [cursor=pointer]:
+                      - /url: /templates/EAGzG-WQHGQ-blue-and-white-gradient-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1116]:
+                        - img "Blue and White Gradient Modern Startup Pitch Deck Presentation" [ref=f481e1122]
+                        - generic [ref=f481e1125]:
+                          - generic [ref=f481e1126]: 1 of 14
+                          - generic [ref=f481e1127]: 14 slides
+                  - paragraph [ref=f481e1130]:
+                    - link "Blue and White Gradient Modern Startup Pitch Deck Presentation" [ref=f481e1131] [cursor=pointer]:
+                      - /url: /templates/EAGzG-WQHGQ-blue-and-white-gradient-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e1134]:
+                  - group [ref=f481e1136]:
+                    - link "Preview free Blue and Purple Modern Startup Pitch Deck Presentation template, 10 pages" [ref=f481e1140] [cursor=pointer]:
+                      - /url: /templates/EAG9qotx3yg-blue-and-purple-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1142]:
+                        - img "Blue and Purple Modern Startup Pitch Deck Presentation" [ref=f481e1148]
+                        - generic [ref=f481e1151]:
+                          - generic [ref=f481e1152]: 1 of 10
+                          - generic [ref=f481e1153]: 10 slides
+                  - paragraph [ref=f481e1156]:
+                    - link "Blue and Purple Modern Startup Pitch Deck Presentation" [ref=f481e1157] [cursor=pointer]:
+                      - /url: /templates/EAG9qotx3yg-blue-and-purple-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e1160]:
+                  - group [ref=f481e1162]:
+                    - link "Preview free Pink Black and White Modern Startup Pitch Deck Presentation template, 10 pages" [ref=f481e1166] [cursor=pointer]:
+                      - /url: /templates/EAHBuNWH4wU-pink-black-and-white-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1168]:
+                        - img "Pink Black and White Modern Startup Pitch Deck Presentation" [ref=f481e1174]
+                        - generic [ref=f481e1177]:
+                          - generic [ref=f481e1178]: 1 of 10
+                          - generic [ref=f481e1179]: 10 slides
+                  - paragraph [ref=f481e1182]:
+                    - link "Pink Black and White Modern Startup Pitch Deck Presentation" [ref=f481e1183] [cursor=pointer]:
+                      - /url: /templates/EAHBuNWH4wU-pink-black-and-white-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e1186]:
+                  - group [ref=f481e1188]:
+                    - link "Preview free Green and White Modern Startup Pitch Deck Business Presentation template, 14 pages" [ref=f481e1192] [cursor=pointer]:
+                      - /url: /templates/EAHE3JObeNc-green-and-white-modern-startup-pitch-deck-business-presentation/
+                      - generic [ref=f481e1194]:
+                        - img "Green and White Modern Startup Pitch Deck Business Presentation" [ref=f481e1200]
+                        - generic [ref=f481e1203]:
+                          - generic [ref=f481e1204]: 1 of 14
+                          - generic [ref=f481e1205]: 14 slides
+                  - paragraph [ref=f481e1208]:
+                    - link "Green and White Modern Startup Pitch Deck Business Presentation" [ref=f481e1209] [cursor=pointer]:
+                      - /url: /templates/EAHE3JObeNc-green-and-white-modern-startup-pitch-deck-business-presentation/
+                - generic [ref=f481e1212]:
+                  - group [ref=f481e1214]:
+                    - link "Preview free AI Pitch Deck Modern Bold Red Talking Presentation template" [ref=f481e1218] [cursor=pointer]:
+                      - /url: /templates/EAGwwTZhl5c-ai-pitch-deck-modern-bold-red-talking-presentation/
+                      - generic "AI Pitch Deck Modern Bold Red Talking Presentation" [ref=f481e1223]
+                    - button "Play" [ref=f481e1227] [cursor=pointer]
+                  - paragraph [ref=f481e1231]:
+                    - link "AI Pitch Deck Modern Bold Red Talking Presentation" [ref=f481e1232] [cursor=pointer]:
+                      - /url: /templates/EAGwwTZhl5c-ai-pitch-deck-modern-bold-red-talking-presentation/
+                - generic [ref=f481e1235]:
+                  - group [ref=f481e1237]:
+                    - link "Preview free Product Launch Pitch Deck Presentation template, 10 pages" [ref=f481e1241] [cursor=pointer]:
+                      - /url: /templates/EAHKGqLdryA-product-launch-pitch-deck-presentation/
+                      - generic [ref=f481e1243]:
+                        - img "Product Launch Pitch Deck Presentation" [ref=f481e1249]
+                        - generic [ref=f481e1252]:
+                          - generic [ref=f481e1253]: 1 of 10
+                          - generic [ref=f481e1254]: 10 slides
+                  - paragraph [ref=f481e1257]:
+                    - link "Product Launch Pitch Deck Presentation" [ref=f481e1258] [cursor=pointer]:
+                      - /url: /templates/EAHKGqLdryA-product-launch-pitch-deck-presentation/
+                - generic [ref=f481e1261]:
+                  - group [ref=f481e1263]:
+                    - link "Preview free Blue Modern Investor Pitch Deck Presentation template, 10 pages" [ref=f481e1267] [cursor=pointer]:
+                      - /url: /templates/EAGSUeeSQL8-blue-modern-investor-pitch-deck-presentation/
+                      - generic [ref=f481e1269]:
+                        - img "Blue Modern Investor Pitch Deck Presentation" [ref=f481e1275]
+                        - generic [ref=f481e1278]:
+                          - generic [ref=f481e1279]: 1 of 10
+                          - generic [ref=f481e1280]: 10 slides
+                  - paragraph [ref=f481e1283]:
+                    - link "Blue Modern Investor Pitch Deck Presentation" [ref=f481e1284] [cursor=pointer]:
+                      - /url: /templates/EAGSUeeSQL8-blue-modern-investor-pitch-deck-presentation/
+                - generic [ref=f481e1287]:
+                  - group [ref=f481e1289]:
+                    - link "Preview free White Blue and Grey Modern Startup Pitch Deck Presentation template, 14 pages" [ref=f481e1293] [cursor=pointer]:
+                      - /url: /templates/EAGqwpf_JeA-white-blue-and-grey-modern-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1295]:
+                        - img "White Blue and Grey Modern Startup Pitch Deck Presentation" [ref=f481e1301]
+                        - generic [ref=f481e1304]:
+                          - generic [ref=f481e1305]: 1 of 14
+                          - generic [ref=f481e1306]: 14 slides
+                  - paragraph [ref=f481e1309]:
+                    - link "White Blue and Grey Modern Startup Pitch Deck Presentation" [ref=f481e1310] [cursor=pointer]:
+                      - /url: /templates/EAGqwpf_JeA-white-blue-and-grey-modern-startup-pitch-deck-presentation/
+                - generic [ref=f481e1313]:
+                  - group [ref=f481e1315]:
+                    - link "Preview free Orange Gray and Yellow Modern Tech Startup Pitch Deck Presentation template, 10 pages" [ref=f481e1319] [cursor=pointer]:
+                      - /url: /templates/EAHMmhdG7og-orange-gray-and-yellow-modern-tech-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1321]:
+                        - img "Orange Gray and Yellow Modern Tech Startup Pitch Deck Presentation" [ref=f481e1327]
+                        - generic [ref=f481e1330]:
+                          - generic [ref=f481e1331]: 1 of 10
+                          - generic [ref=f481e1332]: 10 slides
+                  - paragraph [ref=f481e1335]:
+                    - link "Orange Gray and Yellow Modern Tech Startup Pitch Deck Presentation" [ref=f481e1336] [cursor=pointer]:
+                      - /url: /templates/EAHMmhdG7og-orange-gray-and-yellow-modern-tech-startup-pitch-deck-presentation/
+                - generic [ref=f481e1339]:
+                  - group [ref=f481e1341]:
+                    - link "Preview free Red and Orange Minimalist Startup Pitch Deck Presentation template, 13 pages" [ref=f481e1345] [cursor=pointer]:
+                      - /url: /templates/EAFqfnc8f4A-red-and-orange-minimalist-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1347]:
+                        - img "Red and Orange Minimalist Startup Pitch Deck Presentation" [ref=f481e1353]
+                        - generic [ref=f481e1356]:
+                          - generic [ref=f481e1357]: 1 of 13
+                          - generic [ref=f481e1358]: 13 slides
+                  - paragraph [ref=f481e1361]:
+                    - link "Red and Orange Minimalist Startup Pitch Deck Presentation" [ref=f481e1362] [cursor=pointer]:
+                      - /url: /templates/EAFqfnc8f4A-red-and-orange-minimalist-startup-pitch-deck-presentation/
+                - generic [ref=f481e1365]:
+                  - group [ref=f481e1367]:
+                    - link "Preview free Green Minimalist Startup Pitch Deck Presentation template, 10 pages" [ref=f481e1371] [cursor=pointer]:
+                      - /url: /templates/EAG6h0XA3HY-green-minimalist-startup-pitch-deck-presentation/
+                      - generic [ref=f481e1373]:
+                        - img "Green Minimalist Startup Pitch Deck Presentation" [ref=f481e1379]
+                        - generic [ref=f481e1382]:
+                          - generic [ref=f481e1383]: 1 of 10
+                          - generic [ref=f481e1384]: 10 slides
+                  - paragraph [ref=f481e1387]:
+                    - link "Green Minimalist Startup Pitch Deck Presentation" [ref=f481e1388] [cursor=pointer]:
+                      - /url: /templates/EAG6h0XA3HY-green-minimalist-startup-pitch-deck-presentation/
+                - generic [ref=f481e1391]:
+                  - group [ref=f481e1393]:
+                    - link "Preview free Blue and White Illustrative Medical Tech Startup Pitch Deck Video Talking Presentation template" [ref=f481e1397] [cursor=pointer]:
+                      - /url: /templates/EAGqxCD6oKs-blue-and-white-illustrative-medical-tech-startup-pitch-deck-video-talking-presentation/
+                      - generic "Blue and White Illustrative Medical Tech Startup Pitch Deck Video Talking Presentation" [ref=f481e1402]
+                    - button "Play" [ref=f481e1406] [cursor=pointer]
+                  - paragraph [ref=f481e1410]:
+                    - link "Blue and White Illustrative Medical Tech Startup Pitch Deck Video Talking Presentation" [ref=f481e1411] [cursor=pointer]:
+                      - /url: /templates/EAGqxCD6oKs-blue-and-white-illustrative-medical-tech-startup-pitch-deck-video-talking-presentation/
+            - generic [ref=f481e1413]:
+              - paragraph [ref=f481e1414]: Showing 50 of 20,000
+              - progressbar "Showing 50 of 20,000" [ref=f481e1416]
+              - button "Show More" [ref=f481e1421] [cursor=pointer]
+        - generic [ref=f481e1428]:
+          - heading "Explore more" [level=2] [ref=f481e1430]
+          - generic [ref=f481e1436]:
+            - link [ref=f481e1438] [cursor=pointer]:
+              - /url: /docs/templates/
+              - paragraph [ref=f481e1440]: Docs
+            - link [ref=f481e1442] [cursor=pointer]:
+              - /url: /online-whiteboard/templates/
+              - paragraph [ref=f481e1444]: Whiteboard
+            - link [ref=f481e1446] [cursor=pointer]:
+              - /url: /presentations/templates/
+              - paragraph [ref=f481e1448]: Presentations
+            - link [ref=f481e1450] [cursor=pointer]:
+              - /url: /posters/templates/
+              - paragraph [ref=f481e1452]: Poster
+            - link [ref=f481e1454] [cursor=pointer]:
+              - /url: /logos/templates/
+              - paragraph [ref=f481e1456]: Logos
+            - link [ref=f481e1458] [cursor=pointer]:
+              - /url: /video-editor/templates/
+              - paragraph [ref=f481e1460]: Landscape Videos
+            - link [ref=f481e1462] [cursor=pointer]:
+              - /url: /flyers/templates/
+              - paragraph [ref=f481e1464]: Flyer
+            - link [ref=f481e1466] [cursor=pointer]:
+              - /url: /cards/templates/
+              - paragraph [ref=f481e1468]: Card
+            - link [ref=f481e1470] [cursor=pointer]:
+              - /url: /zoom-virtual-backgrounds/templates/
+              - paragraph [ref=f481e1472]: Virtual Backgrounds
+            - link [ref=f481e1474] [cursor=pointer]:
+              - /url: /infographics/templates/
+              - paragraph [ref=f481e1476]: Infographics
+            - button "Show All" [ref=f481e1479] [cursor=pointer]
+    - generic [ref=f481e1481]:
+      - paragraph [ref=f481e1483]:
+        - link "Skip to end of footer" [ref=f481e1484] [cursor=pointer]:
+          - /url: "#_r_5_"
+      - contentinfo [ref=f481e1486]:
+        - generic [ref=f481e1488]:
+          - generic [ref=f481e1495]:
+            - generic [ref=f481e1498]:
+              - heading "Download Canva for free" [level=2] [ref=f481e1500]
+              - generic [ref=f481e1503]:
+                - link "Windows" [ref=f481e1505] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/windows/
+                - link "Mac" [ref=f481e1508] [cursor=pointer]:
+                  - /url: https://www.canva.com/download/mac/
+            - navigation [ref=f481e1512]:
+              - list [ref=f481e1514]:
+                - listitem [ref=f481e1515]:
+                  - heading "Product" [level=2] [ref=f481e1517]
+                  - list "Product" [ref=f481e1519]:
+                    - listitem [ref=f481e1520]:
+                      - link "Latest launches" [ref=f481e1521] [cursor=pointer]:
+                        - /url: https://www.canva.com/launches/
+                    - listitem [ref=f481e1523]:
+                      - link "Visual Suite" [ref=f481e1524] [cursor=pointer]:
+                        - /url: https://www.canva.com/visual-suite/
+                    - listitem [ref=f481e1526]:
+                      - link "Canva AI" [ref=f481e1527] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-ai/
+                    - listitem [ref=f481e1529]:
+                      - link "Brand management" [ref=f481e1530] [cursor=pointer]:
+                        - /url: https://www.canva.com/solutions/brand-management-tools/
+                    - listitem [ref=f481e1532]:
+                      - link "Social media" [ref=f481e1533] [cursor=pointer]:
+                        - /url: https://www.canva.com/social-media/
+                    - listitem [ref=f481e1535]:
+                      - link "Features" [ref=f481e1536] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/
+                    - listitem [ref=f481e1538]:
+                      - link "Print" [ref=f481e1539] [cursor=pointer]:
+                        - /url: https://www.canva.com/print/
+                    - listitem [ref=f481e1541]:
+                      - link "Apps Marketplace" [ref=f481e1542] [cursor=pointer]:
+                        - /url: https://www.canva.com/apps/
+                    - listitem [ref=f481e1544]:
+                      - link "Affinity" [ref=f481e1545] [cursor=pointer]:
+                        - /url: https://www.affinity.studio/
+                - listitem [ref=f481e1550]:
+                  - heading "Plans" [level=2] [ref=f481e1552]
+                  - list "Plans" [ref=f481e1554]:
+                    - listitem [ref=f481e1555]:
+                      - link "Pricing" [ref=f481e1556] [cursor=pointer]:
+                        - /url: https://www.canva.com/pricing/
+                    - listitem [ref=f481e1558]:
+                      - link "Pro" [ref=f481e1559] [cursor=pointer]:
+                        - /url: https://www.canva.com/pro/
+                    - listitem [ref=f481e1561]:
+                      - link "Business" [ref=f481e1562] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-business/
+                    - listitem [ref=f481e1564]:
+                      - link "Enterprise" [ref=f481e1565] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/
+                    - listitem [ref=f481e1567]:
+                      - link "Education" [ref=f481e1568] [cursor=pointer]:
+                        - /url: https://www.canva.com/education/
+                    - listitem [ref=f481e1570]:
+                      - link "Higher education" [ref=f481e1571] [cursor=pointer]:
+                        - /url: https://www.canva.com/for-campus/
+                    - listitem [ref=f481e1573]:
+                      - link "Nonprofits" [ref=f481e1574] [cursor=pointer]:
+                        - /url: https://www.canva.com/nonprofits/
+                    - listitem [ref=f481e1576]:
+                      - link "Contact Sales" [ref=f481e1577] [cursor=pointer]:
+                        - /url: https://www.canva.com/contact-sales/
+                - listitem [ref=f481e1579]:
+                  - heading "About" [level=2] [ref=f481e1581]
+                  - list "About" [ref=f481e1583]:
+                    - listitem [ref=f481e1584]:
+                      - link "About Canva" [ref=f481e1585] [cursor=pointer]:
+                        - /url: https://www.canva.com/about/
+                    - listitem [ref=f481e1587]:
+                      - link "Newsroom" [ref=f481e1588] [cursor=pointer]:
+                        - /url: https://www.canva.com/newsroom/news/
+                    - listitem [ref=f481e1590]:
+                      - link "Events" [ref=f481e1591] [cursor=pointer]:
+                        - /url: https://www.canva.com/events/
+                    - listitem [ref=f481e1593]:
+                      - link "Canva Originals" [ref=f481e1594] [cursor=pointer]:
+                        - /url: https://shop.canva.com/
+                    - listitem [ref=f481e1596]:
+                      - link "Careers" [ref=f481e1597] [cursor=pointer]:
+                        - /url: https://www.lifeatcanva.com/en
+                    - listitem [ref=f481e1602]:
+                      - link "Social impact" [ref=f481e1603] [cursor=pointer]:
+                        - /url: https://www.canva.com/step-two/
+                    - listitem [ref=f481e1605]:
+                      - link "Sustainability" [ref=f481e1606] [cursor=pointer]:
+                        - /url: https://www.canva.com/sustainability/
+                    - listitem [ref=f481e1608]:
+                      - link "Case studies" [ref=f481e1609] [cursor=pointer]:
+                        - /url: https://www.canva.com/case-studies/
+                - listitem [ref=f481e1611]:
+                  - heading "Community" [level=2] [ref=f481e1613]
+                  - list "Community" [ref=f481e1615]:
+                    - listitem [ref=f481e1616]:
+                      - link "Canva Communities" [ref=f481e1617] [cursor=pointer]:
+                        - /url: https://www.canva.com/community/
+                    - listitem [ref=f481e1619]:
+                      - link "Creators" [ref=f481e1620] [cursor=pointer]:
+                        - /url: https://www.canva.com/creators/
+                    - listitem [ref=f481e1622]:
+                      - link "Affiliates" [ref=f481e1623] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/canva-affiliate-marketing-program/
+                    - listitem [ref=f481e1625]:
+                      - link "Canva Represents Fund" [ref=f481e1626] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-represents/
+                    - listitem [ref=f481e1628]:
+                      - link "Content partners" [ref=f481e1629] [cursor=pointer]:
+                        - /url: https://www.canva.com/partners/content/
+                    - listitem [ref=f481e1631]:
+                      - link "Business partner directory" [ref=f481e1632] [cursor=pointer]:
+                        - /url: https://partners.canva.com/directory/
+                    - listitem [ref=f481e1634]:
+                      - link "Canva Developers" [ref=f481e1635] [cursor=pointer]:
+                        - /url: https://www.canva.com/developers/
+                - listitem [ref=f481e1640]:
+                  - heading "Inspiration" [level=2] [ref=f481e1642]
+                  - list "Inspiration" [ref=f481e1644]:
+                    - listitem [ref=f481e1645]:
+                      - link "Design Trends" [ref=f481e1646] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-trends/
+                    - listitem [ref=f481e1648]:
+                      - link "AI creativity podcast" [ref=f481e1649] [cursor=pointer]:
+                        - /url: https://promptedpodcast.com/
+                    - listitem [ref=f481e1654]:
+                      - link "Learn blog" [ref=f481e1655] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/
+                    - listitem [ref=f481e1657]:
+                      - link "Templates Marketplace" [ref=f481e1658] [cursor=pointer]:
+                        - /url: https://www.canva.com/templates/
+                    - listitem [ref=f481e1660]:
+                      - link "Font pairing" [ref=f481e1661] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+                    - listitem [ref=f481e1663]:
+                      - link "Color wheel" [ref=f481e1664] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-wheel/
+                    - listitem [ref=f481e1666]:
+                      - link "Colors" [ref=f481e1667] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/
+                    - listitem [ref=f481e1669]:
+                      - link "Color palette generator" [ref=f481e1670] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-palette-generator/
+                - listitem [ref=f481e1672]:
+                  - heading "Help" [level=2] [ref=f481e1674]
+                  - list "Help" [ref=f481e1676]:
+                    - listitem [ref=f481e1677]:
+                      - link "Help Center" [ref=f481e1678] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/
+                    - listitem [ref=f481e1680]:
+                      - link "Security" [ref=f481e1681] [cursor=pointer]:
+                        - /url: https://www.canva.com/security/
+                    - listitem [ref=f481e1683]:
+                      - link "Trust Center" [ref=f481e1684] [cursor=pointer]:
+                        - /url: https://www.canva.com/trust/
+                    - listitem [ref=f481e1686]:
+                      - link "Canva Safe AI" [ref=f481e1687] [cursor=pointer]:
+                        - /url: https://www.canva.com/safe-ai-canva-shield/
+                    - listitem [ref=f481e1689]:
+                      - link "Accessibility" [ref=f481e1690] [cursor=pointer]:
+                        - /url: https://www.canva.com/accessibility/
+                    - listitem [ref=f481e1692]:
+                      - link "Enterprise services" [ref=f481e1693] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/professional-services/
+                    - listitem [ref=f481e1695]:
+                      - link "Design School" [ref=f481e1696] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-school/
+                    - listitem [ref=f481e1701]:
+                      - link "Sitemap" [ref=f481e1702] [cursor=pointer]:
+                        - /url: https://www.canva.com/sitemap/
+                - listitem [ref=f481e1704]:
+                  - heading "Tools" [level=2] [ref=f481e1706]
+                  - list "Tools" [ref=f481e1708]:
+                    - listitem [ref=f481e1709]:
+                      - link "QR code generator" [ref=f481e1710] [cursor=pointer]:
+                        - /url: https://www.canva.com/qr-code-generator/
+                    - listitem [ref=f481e1712]:
+                      - link "AI logo generator" [ref=f481e1713] [cursor=pointer]:
+                        - /url: https://www.canva.com/ai-logo-generator/
+                    - listitem [ref=f481e1715]:
+                      - link "Signature generator" [ref=f481e1716] [cursor=pointer]:
+                        - /url: https://www.canva.com/signature-generator/
+                    - listitem [ref=f481e1718]:
+                      - link "Business name generator" [ref=f481e1719] [cursor=pointer]:
+                        - /url: https://www.canva.com/business-name-generator/
+                    - listitem [ref=f481e1721]:
+                      - link "PDF converter" [ref=f481e1722] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-converter/
+                    - listitem [ref=f481e1724]:
+                      - link "PDF to JPG converter" [ref=f481e1725] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-to-jpg-converter/
+                    - listitem [ref=f481e1727]:
+                      - link "JPG to PDF converter" [ref=f481e1728] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/jpg-to-pdf-converter/
+                    - listitem [ref=f481e1730]:
+                      - link "Graph maker" [ref=f481e1731] [cursor=pointer]:
+                        - /url: https://www.canva.com/graphs/
+          - generic [ref=f481e1735]:
+            - generic [ref=f481e1739]:
+              - button "English (US)" [ref=f481e1745] [cursor=pointer]
+              - generic [ref=f481e1751]:
+                - link "LinkedIn" [ref=f481e1753] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/canva
+                  - generic: (opens in a new tab or window)
+                - link "Instagram" [ref=f481e1757] [cursor=pointer]:
+                  - /url: https://www.instagram.com/canva/
+                  - generic: (opens in a new tab or window)
+                - link "Facebook" [ref=f481e1761] [cursor=pointer]:
+                  - /url: https://www.facebook.com/canva
+                  - generic: (opens in a new tab or window)
+                - link "TikTok" [ref=f481e1765] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@canva
+                  - generic: (opens in a new tab or window)
+                - link "Pinterest" [ref=f481e1769] [cursor=pointer]:
+                  - /url: https://au.pinterest.com/canva/
+                  - generic: (opens in a new tab or window)
+                - link "X" [ref=f481e1773] [cursor=pointer]:
+                  - /url: https://x.com/canva
+                  - generic: (opens in a new tab or window)
+                - link "YouTube" [ref=f481e1777] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@canva
+                  - generic: (opens in a new tab or window)
+            - generic [ref=f481e1782]:
+              - generic [ref=f481e1786]:
+                - link "Privacy" [ref=f481e1788] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/privacy-policy/
+                - link "Terms" [ref=f481e1792] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/terms-of-use/
+              - paragraph [ref=f481e1797]: © 2026 All Rights Reserved
+      - paragraph [ref=f481e1799]:
+        - link "Skip to start of footer" [ref=f481e1800] [cursor=pointer]:
+          - /url: "#_r_4_"
+  - generic [ref=f481e1802]: Search thousands of templates.
+  - generic [ref=f481e1803]: Show All
+  - generic [ref=f481e1804]: Clear

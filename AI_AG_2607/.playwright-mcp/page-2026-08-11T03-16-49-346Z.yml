@@ -1,0 +1,563 @@
+- generic [active] [ref=f505e1]:
+  - generic [ref=f505e5]:
+    - note [ref=f505e7]:
+      - generic [ref=f505e9]:
+        - generic [ref=f505e11]:
+          - paragraph [ref=f505e13]: 👋 안녕하세요. 이 페이지는 다른 언어로 제공하고 있습니다. 변경하시겠습니까?
+          - combobox "한국어 (한국)" [ref=f505e19] [cursor=pointer]
+        - button "Dismiss" [ref=f505e23] [cursor=pointer]
+    - generic [ref=f505e25]:
+      - paragraph [ref=f505e27]:
+        - link "Skip to main content" [ref=f505e28] [cursor=pointer]:
+          - /url: "#main"
+      - banner [ref=f505e30]:
+        - generic [ref=f505e32]:
+          - link "Canva home" [ref=f505e35] [cursor=pointer]:
+            - /url: /
+          - navigation [ref=f505e42]:
+            - list [ref=f505e43]:
+              - listitem [ref=f505e44]:
+                - button "Design" [ref=f505e45] [cursor=pointer]
+              - listitem [ref=f505e47]:
+                - button "Product" [ref=f505e48] [cursor=pointer]
+              - listitem [ref=f505e50]:
+                - button "Plans" [ref=f505e51] [cursor=pointer]
+              - listitem [ref=f505e53]:
+                - button "Business" [ref=f505e54] [cursor=pointer]
+              - listitem [ref=f505e56]:
+                - button "Education" [ref=f505e57] [cursor=pointer]
+              - listitem [ref=f505e59]:
+                - button "Help" [ref=f505e60] [cursor=pointer]
+          - generic [ref=f505e64]:
+            - button "Sign up" [ref=f505e66] [cursor=pointer]
+            - button "Log in" [ref=f505e68] [cursor=pointer]
+      - main [ref=f505e70]:
+        - list [ref=f505e72]:
+          - listitem [ref=f505e73]:
+            - link "Home" [ref=f505e75] [cursor=pointer]:
+              - /url: https://www.canva.com/
+          - listitem [ref=f505e77]:
+            - link "Trust" [ref=f505e79] [cursor=pointer]:
+              - /url: https://www.canva.com/trust/legal/
+          - listitem [ref=f505e81]: Canva's Content License Agreement
+        - heading "Canva's Content License Agreement" [level=1] [ref=f505e87]
+        - generic [ref=f505e88]:
+          - generic [ref=f505e89]:
+            - generic [ref=f505e90]:
+              - paragraph [ref=f505e91]:
+                - text: Canva offers a library of amazing content to use in your designs, including photos, icons, illustrations, video, audio, fonts and templates (Content). If you Export a Canva Design that contains Content*, you agree to be bound by the terms of this Content License Agreement, the
+                - link "Canva Privacy Policy⁠ (opens in a new tab or window)" [ref=f505e92] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/privacy-policy/
+                  - text: Canva Privacy Policy
+                  - generic:
+                    - text: ⁠
+                    - generic [ref=f505e93]: (opens in a new tab or window)
+                - text: and Canva’s
+                - link "Terms of Use⁠ (opens in a new tab or window)" [ref=f505e94] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/terms-of-use/
+                  - text: Terms of Use
+                  - generic:
+                    - text: ⁠
+                    - generic [ref=f505e95]: (opens in a new tab or window)
+                - text: . Defined terms used in this agreement have the meaning given in our Terms of Use.
+              - paragraph [ref=f505e96]:
+                - text: "*Note this agreement does not apply to Popular Music. Please read our"
+                - link "Popular Music License⁠ (opens in a new tab or window)" [ref=f505e97] [cursor=pointer]:
+                  - /url: https://www.canva.com/policies/popular-music-license/
+                  - text: Popular Music License
+                  - generic:
+                    - text: ⁠
+                    - generic [ref=f505e98]: (opens in a new tab or window)
+                - text: .
+            - generic [ref=f505e99]:
+              - generic [ref=f505e101]:
+                - heading "1. The basics" [level=3] [ref=f505e102]
+                - paragraph [ref=f505e103]: Canva offers a library of amazing content to use in your designs, including photos, icons, illustrations, video, audio, fonts and templates (Content). By using a piece of Content in a Canva Design, you’re bound by this agreement.
+                - list [ref=f505e104]:
+                  - listitem [ref=f505e105]:
+                    - generic [ref=f505e106]: If you don’t agree to the terms of this agreement, please don’t use any Content.
+                  - listitem [ref=f505e109]:
+                    - generic [ref=f505e110]: Canva reserves the right to cancel or change the licenses granted by this agreement. We reserve the right to replace the Content with an alternative.
+                  - listitem [ref=f505e113]:
+                    - generic [ref=f505e114]: "If you create a Canva Design that includes Content from multiple Content categories, the most restrictive category applies to the entire design. The Content categories, from most to least restrictive, are: Education Content, Branded Content, Pro Content, and Free Content."
+                  - listitem [ref=f505e117]:
+                    - generic [ref=f505e118]: If you create a Canva Design with Branded Content and Free Content or Pro Content (or both) the stricter rules (for Branded Content) apply.
+                  - listitem [ref=f505e121]:
+                    - generic [ref=f505e122]: All Content on Canva is protected by United States and international copyright. Canva and its contributors reserve all rights that aren’t explicitly given to you under this license. That includes all copyright and intellectual property rights.
+                  - listitem [ref=f505e125]:
+                    - generic [ref=f505e128]:
+                      - text: This Agreement does not cover Popular Music. Please read our
+                      - link "Popular Music License⁠ (opens in a new tab or window)" [ref=f505e129] [cursor=pointer]:
+                        - /url: https://www.canva.com/policies/popular-music-license/
+                        - text: Popular Music License
+                        - generic:
+                          - text: ⁠
+                          - generic [ref=f505e130]: (opens in a new tab or window)
+                      - text: for the permitted uses of Popular Music.
+              - generic [ref=f505e132]:
+                - heading "2. Free Content licenses" [level=3] [ref=f505e133]
+                - paragraph [ref=f505e134]: What license applies to Free Content?
+                - list [ref=f505e135]:
+                  - listitem [ref=f505e136]:
+                    - generic [ref=f505e137]: Check the source by hovering over the Content item in the Elements panel and then clicking on the three dots in the top right corner (Content source information).
+                  - listitem [ref=f505e140]:
+                    - generic [ref=f505e141]: If the Free Content is labelled CC0 or Public Domain, please refer to the CC0 License or the source listed.
+                  - listitem [ref=f505e144]:
+                    - generic [ref=f505e145]: If the Free Content is labelled as Branded Content, please refer to section 5B.
+                  - listitem [ref=f505e148]:
+                    - generic [ref=f505e149]: If Free Content is labelled as Education Content, please refer to section 5C.
+                  - listitem [ref=f505e152]:
+                    - generic [ref=f505e153]: If it isn’t from CC0, Public Domain, or Branded Content, it's covered by the Free Content License.
+                - paragraph [ref=f505e156]: Under the terms of this Agreement, we grant to you a perpetual, non-exclusive, non-transferable (subject to section 4A below) worldwide license to use the Free Content for the Permitted Uses defined in sections 5 and 6 below (Free Content License).
+              - generic [ref=f505e158]:
+                - heading "3. Pro Content License (aka One Design Use License)" [level=3] [ref=f505e159]
+                - paragraph [ref=f505e160]: Under the terms of this agreement, we grant you a perpetual, non-exclusive, non-transferable (subject to section 4A below), worldwide license to use Pro Content or Pro Template in a single Canva Design, for the Permitted Uses defined in sections 5 and 7 below (Pro Content License or One Design Use License). You may not copy, download or distribute the Pro Content as a standalone item.
+                - paragraph [ref=f505e161]
+                - heading "3A. AI-Generated Content" [level=3] [ref=f505e162]
+                - paragraph [ref=f505e163]: Canva makes available certain Content that has been generated by Canva using generative AI tools (AI-Generated Content). This AI-Generated Content will be marked as either Free Content or Pro Content, and the source information for that Content will indicate that such Content has been generated using AI. You may use AI-Generated Content in the same way you may use Free Content or Pro Content, as applicable, under this Agreement.
+              - generic [ref=f505e165]:
+                - heading "4. Getting a license" [level=3] [ref=f505e166]
+                - paragraph [ref=f505e167]: "A license is issued to you when you Export a Canva Design, for each piece of Content contained in your Design. Free Content licenses are issued at no cost. Pro Content Licenses are issued:"
+                - paragraph [ref=f505e168]: (a) by paying, if you’re a free user; or
+                - paragraph [ref=f505e169]: (b) at no additional cost if you have a valid Canva subscription.
+                - paragraph [ref=f505e170]: Each Pro Content License allows you to use the Content in one Canva Design, so you must pay to obtain a new license each time you wish to use the same piece of Content in a new Design (including a Design that has been Magic Resized). If you have a subscription, then a new license is automatically issued to you each time you Export a new Design containing that Content.
+              - generic [ref=f505e172]:
+                - heading "4A. Additional Rights for Client Designs" [level=3] [ref=f505e173]
+                - paragraph [ref=f505e174]: "You may transfer a Canva Design containing Content (Free or Pro) to a client for the client’s own use, subject to the following terms:"
+                - list [ref=f505e175]:
+                  - listitem [ref=f505e176]:
+                    - generic [ref=f505e177]: You will enter into a written agreement with your client that stipulates that the client’s use of the Canva Design must be only for their use and must be in accordance with these terms;
+                  - listitem [ref=f505e180]:
+                    - generic [ref=f505e181]: You will remain solely responsible and liable for your client’s compliance with these terms; and
+                  - listitem [ref=f505e184]:
+                    - generic [ref=f505e185]: a Canva Design incorporating Content can only be transferred to a single client.
+                - paragraph [ref=f505e188]: For the avoidance of doubt, this section 4A does not entitle you to transfer or sub-license Content to your client for use outside of a Canva Design, or on a standalone basis (unless the license terms allow this).
+              - generic [ref=f505e190]:
+                - heading "5. Permitted uses of all Content on Canva (except Pro music, Popular Music, Branded Content and Education Content)" [level=3] [ref=f505e191]
+                - paragraph [ref=f505e192]: "These are the things this Agreement permits you to do or make with Canva Designs that contain Content (Free or Pro):"
+                - list [ref=f505e193]:
+                  - listitem [ref=f505e194]:
+                    - generic [ref=f505e195]: invitations, advertising and promotional projects, including printed materials, product packaging, presentations, film and video presentations, commercials, catalogues, brochures, greeting cards and postcards for promotion and/or resale, without any reproduction quantity limit;
+                  - listitem [ref=f505e198]:
+                    - generic [ref=f505e199]: school or university projects;
+                  - listitem [ref=f505e202]:
+                    - generic [ref=f505e203]: social media post or profile image;
+                  - listitem [ref=f505e206]:
+                    - generic [ref=f505e207]: decorative background on a personal computer or mobile device;
+                  - listitem [ref=f505e210]:
+                    - generic [ref=f505e211]: design templates solely for use on Canva;
+                  - listitem [ref=f505e214]:
+                    - generic [ref=f505e215]: entertainment applications, such as books and book covers, magazines, newspapers, editorials, newsletters, and video, broadcast and theatrical presentations of unlimited prints;
+                  - listitem [ref=f505e218]:
+                    - generic [ref=f505e219]: online or electronic publications, including web pages, blogs, ebooks and videos, in the case of Pro Content, subject to the restrictions in section 5A;
+                  - listitem [ref=f505e222]:
+                    - generic [ref=f505e223]: prints, posters (i.e. hardcopies) and other reproductions for personal or promotional purposes, resale, license or other distribution;
+                  - listitem [ref=f505e226]:
+                    - generic [ref=f505e227]: any other uses approved in writing by Canva.
+              - generic [ref=f505e231]:
+                - heading "5A. Limits on use of Pro Content in online publications" [level=3] [ref=f505e232]
+                - paragraph [ref=f505e233]: "The use of Pro Content in online or electronic publications, including web pages, blogs e-books and videos, is limited to a maximum of 480,000 total pixels (for example, 600px x 800px) per Content file where un-edited, unless the use is:"
+                - list [ref=f505e234]:
+                  - listitem [ref=f505e235]:
+                    - generic [ref=f505e236]: On a website published via the dedicated Canva Website publish endpoint; or
+                  - listitem [ref=f505e239]:
+                    - generic [ref=f505e240]: In a Canva-hosted design that is embedded on a third-party website,
+                - paragraph [ref=f505e243]: In which cases, the pixel limit shall not apply.
+                - 'heading "5B: Permitted Uses for Branded Content" [level=3] [ref=f505e244]'
+                - paragraph [ref=f505e245]: From time to time, Canva may provide Content in collaboration with third-party brands (Branded Content). Branded Content will be labelled as “Branded Content” in the Content source information.
+                - paragraph [ref=f505e246]: "Unless otherwise set out in the Content source information, Branded Content is made available for personal use only and may not be used for any commercial or promotional purpose. You may not:"
+                - list [ref=f505e247]:
+                  - listitem [ref=f505e248]:
+                    - generic [ref=f505e249]: Use Branded Content to create merchandise for sale, distribution, or promotional purposes.
+                  - listitem [ref=f505e252]:
+                    - generic [ref=f505e253]: Use Branded Content in any way that implies endorsement, affiliation, or sponsorship by the brand or its affiliates.
+                  - listitem [ref=f505e256]:
+                    - generic [ref=f505e257]: Alter or remove any copyright notices or proprietary markings associated with Branded Content.
+                  - listitem [ref=f505e260]:
+                    - generic [ref=f505e261]: Use Branded Content on a standalone basis.
+                - 'heading "5C: Permitted Uses for Education Content" [level=3] [ref=f505e264]'
+                - paragraph [ref=f505e265]: Canva may provide Education Content in either the Free or the Pro library. Education Content will be labelled with a badge titled “Resource”. Education Content is made available for educational, non-commercial use only, and may not be used for any commercial or promotional purpose.
+                - 'heading "5D: Disney Content on Canva" [level=3] [ref=f505e266]'
+                - paragraph [ref=f505e267]: Beginning on 18 October 2024, Canva will be providing a series of editable Disney-themed templates (“Disney Templates”) and Disney-themed stickers and other elements (“Disney Elements”) incorporating Disney copyrighted works, trademarks, and other intellectual property (“Disney Content”) to Canva users with Pro, Canva Education and Canva for Nonprofit accounts in certain territories for Digital Use and Print Use, as set out below.
+                - paragraph [ref=f505e268]: Digital Use
+                - paragraph [ref=f505e269]: As at 18 October 2024, Disney Templates and Disney Elements may be used for digital purposes by Canva users with Pro, Canva Education and Canva for Nonprofit accounts in all countries where Canva is available for access, excluding Belarus.
+                - paragraph [ref=f505e270]: The Disney Templates and the Disney Elements are for your personal or educational use only and may not be used for any commercial purpose. You may not use these Disney Templates or the Disney Elements in any way that suggests that Disney or any of its affiliates supports, certifies, or otherwise endorses you, your business, or any other person or place. You may not use the Disney Templates or Disney Elements in any way that suggests that you, your business, or any other person or place are affiliated with Disney or any of its affiliates. You are not permitted to remove any copyright notice found on Disney Content or works incorporating Disney Content provided by Canva. You may not use the Disney Templates or the Disney Elements to create merchandise except as authorized under “Print Use” below.
+                - paragraph [ref=f505e271]: Print Use
+                - paragraph [ref=f505e272]: As at 18 October 2024, Disney Templates and Disney Elements may be used to create printed merchandise for personal or educational purposes only by Canva users with Pro, Canva Education and Canva for Nonprofit accounts located in the United States. This will be limited to certain print products. You may only create print products via the Service. Print products made using the Disney Templates and Disney Elements may not be used for any commercial purpose.
+                - paragraph [ref=f505e273]: "Additional things to note:"
+                - paragraph [ref=f505e274]: 1.Disney Elements may only be used within Disney Templates.
+                - paragraph [ref=f505e275]: 2.Any and all use of the Disney Templates and Disney Elements by Canva users, including any personalisation, is subject at all times to the terms of this Content License Agreement, and Canva’s Acceptable Use Policy.
+                - paragraph [ref=f505e276]: 3.In using the Disney Templates and Disney Elements, Canva users are not permitted to create Disney Derivative Works. If you create a Disney Derivative Work, you hereby agree to assign to Disney all rights in the Disney Derivative Work you create and you will not have any rights in the Disney Derivative Work yourself.
+                - list [ref=f505e277]:
+                  - listitem [ref=f505e278]:
+                    - generic [ref=f505e279]: A “Disney Derivative Work” means any design element (including, without limitation, text and graphics) that is derived or adapted from Disney Content, but does not include Separate Design Elements.
+                  - listitem [ref=f505e282]:
+                    - generic [ref=f505e283]: “Separate Design Elements” are separate, distinct design elements that are made available in the Canva library (other than the Disney Content) or separate, distinct, and copyrightable design elements that are originally created by you or otherwise owned by or licensed to you and that are not in any way derived or adapted from the Disney Content.
+                - paragraph [ref=f505e286]: For the avoidance of doubt, your assignment of any Disney Derivative Works that you create to Disney shall not be deemed to grant to Disney any ownership rights in any Separate Design Elements in your Design.
+                - paragraph [ref=f505e287]: 4.To the extent the Disney specific terms in this Part 5D conflict with the general Canva Content License Agreement terms, the Disney specific terms in this Part 5D control any and all use of the Disney Templates, Disney Elements and/or Disney Content provided on Canva.
+                - paragraph [ref=f505e288]: 5.Canva may remove the Disney Templates, Disney Elements, and/or Disney Content from the Service at any time at its discretion.
+                - paragraph [ref=f505e289]: 6.In this Part 5D, “Disney” means Buena Vista Books, Inc. or its designee.
+              - generic [ref=f505e291]:
+                - heading "6. Additional Permitted Uses for Free Content only" [level=3] [ref=f505e292]
+                - paragraph [ref=f505e293]: "Free Content has fewer restrictions than Pro Content – you can use it in the following additional ways:"
+                - list [ref=f505e294]:
+                  - listitem [ref=f505e295]:
+                    - generic [ref=f505e296]: Use the Free Content in more than one Canva Design without obtaining an additional license;
+                  - listitem [ref=f505e299]:
+                    - generic [ref=f505e300]: Download the Free Content on a standalone basis; and
+                  - listitem [ref=f505e303]:
+                    - generic [ref=f505e304]: Use the Free Content in templates for websites, social networking websites, documents, projects or otherwise for distribution and/or sale to third parties;
+                  - listitem [ref=f505e307]:
+                    - generic [ref=f505e308]: Use the Free Content in design template applications intended for resale, whether online or not, including, without limitation, website templates, Flash templates, business card templates, electronic greeting card templates, and brochure design templates; and
+                  - listitem [ref=f505e311]:
+                    - generic [ref=f505e312]: Install and use the Free Content in more than one location or post a copy of the content on a network server or web server for use by people employed by or performing services for you.
+                - paragraph [ref=f505e315]: If your Canva Design contains any Pro Content, you can’t use it for these purposes.
+              - generic [ref=f505e317]:
+                - heading "7. Permitted Uses of Pro Music and Popular Music" [level=3] [ref=f505e318]
+                - paragraph [ref=f505e319]: "You can use Pro Music for all of the permitted uses in section 5, with the following limitations:"
+                - list [ref=f505e320]:
+                  - listitem [ref=f505e321]:
+                    - generic [ref=f505e322]: "Limits on use in advertising: Pro Music can’t be used in traditional media ads or commercials in paid channels, such as TV, cinema, radio, podcast and billboard. Pro Music is fine to use in online ads (such as pre, mid and post roll ads within a YouTube Video)."
+                  - listitem [ref=f505e325]:
+                    - generic [ref=f505e326]: "Limits on use in video: Pro Music can’t be used in TV/SVOD, radio/podcasts, feature films, vignettes/theme songs, software applications or video games."
+                  - listitem [ref=f505e329]:
+                    - generic [ref=f505e330]: "No standalone downloads: As with all Pro Content, Pro Music can’t be made available for the purpose of making the music piece (or part of it) available on a standalone basis. This means making it available outside of Canva or without being part of a Canva Design. You can’t repackage the music pieces or upload or use them as audio samples, sound effects, music beds or upload them in any music recognition systems."
+                  - listitem [ref=f505e333]:
+                    - generic [ref=f505e334]: "Editing and remixing: You can’t make remixes, samples or derivative works of Pro Music. You can’t edit Pro Music in any way that would alter the fundamental character of any portion of the music, or that would give you any copyright or other rights to the edited music piece."
+                - paragraph [ref=f505e337]: "**This Agreement does not apply to Popular Music**."
+                - paragraph [ref=f505e338]:
+                  - text: Please read our
+                  - link "Popular Music License⁠ (opens in a new tab or window)" [ref=f505e339] [cursor=pointer]:
+                    - /url: https://www.canva.com/policies/popular-music-license/
+                    - text: Popular Music License
+                    - generic:
+                      - text: ⁠
+                      - generic [ref=f505e340]: (opens in a new tab or window)
+                  - text: for the permitted uses of Popular Music.
+              - generic [ref=f505e342]:
+                - heading "8. Important note for Canva Education users using Pro Content" [level=3] [ref=f505e343]
+                - paragraph [ref=f505e344]: One of the reasons we’re able to make our amazing Canva Education product available for free to teachers and students is because it is for non-commercial purposes. Canva Education users may only use Pro Content for educational, non-commercial purposes.
+                - paragraph [ref=f505e345]: If you want to use Canva to create designs for commercial purposes, you’ll need to create a separate Canva account and use that account for those designs.
+              - generic [ref=f505e347]:
+                - heading "9. Prohibited uses" [level=3] [ref=f505e348]
+                - paragraph [ref=f505e349]: "You definitely can’t do these things with any free or Pro Content on Canva:"
+                - list [ref=f505e350]:
+                  - listitem [ref=f505e351]:
+                    - generic [ref=f505e352]: sub-license, re-sell, rent, lend, assign, gift or otherwise transfer or distribute the Content or the rights granted under this Content License Agreement (subject to section 4A);
+                  - listitem [ref=f505e355]:
+                    - generic [ref=f505e356]: use any of the Content as part of a trade-mark, design-mark, trade-name, business name or service mark (excluding fonts);
+                  - listitem [ref=f505e359]:
+                    - generic [ref=f505e360]: use Content identified as “Editorial Use Only”, for any commercial, promotional, endorsement, advertising or merchandising use. In this agreement, “Editorial Use Only” content means relating to events that are newsworthy or of general interest and expressly excludes any advertorial use (i.e. sections or supplements featuring brand and/or product names or sections or supplements in relation to which you receive a fee from a third-party advertiser or sponsor);
+                  - listitem [ref=f505e363]:
+                    - generic [ref=f505e364]: remove any notice of copyright, trade-mark or other proprietary right from any Content or Canva Design;
+                  - listitem [ref=f505e367]:
+                    - generic [ref=f505e368]: Use or display the Content on a standalone basis on websites or other venues designed to induce or involving the sale, license or other distribution of “on demand” products, including postcards, mugs, t-shirts, posters and other items;
+                  - listitem [ref=f505e371]:
+                    - generic [ref=f505e372]: use the Content in a way that is pornographic, obscene, immoral, infringing, defamatory or libelous in nature, or that would be reasonably likely to bring any person or property reflected in the Content into disrepute;
+                  - listitem [ref=f505e375]:
+                    - generic [ref=f505e376]: "use the Content in a way that places any person depicted in the content in a bad light or in a way that they may find offensive – this includes, but is not limited to, the use of images: a) in pornography, “adult videos” or the like; b) in ads for tobacco products; c) in ads or promotional materials for adult entertainment clubs or similar venues, or for escort, dating or similar services; d) in connection with political endorsements; e) in advertisements or promotional materials for pharmaceutical or healthcare, herbal or medical products, including, but not limited to dietary supplements, digestive aids, herbal supplements, personal hygiene or birth control products; and f) uses that are defamatory, or contain otherwise unlawful, offensive or immoral content, or content in violation of any applicable industry codes or regulations. You may not use content containing the likeness of a person if such use implies that the model engages in any immoral or illegal activity or suffers from a physical or mental infirmity, ailment or condition;"
+                  - listitem [ref=f505e379]:
+                    - generic [ref=f505e380]: use Content in a manner that competes with Canva’s business including, but not limited to, displaying content in any format (including thumbnails) for download or export on a website, or offering content for sale;
+                  - listitem [ref=f505e383]:
+                    - generic [ref=f505e384]: "use the Content for editorial purposes without including the following credit adjacent to the Content or in audio/visual production credits: “©[insert Contributor’s Name] via Canva.com;"
+                  - listitem [ref=f505e387]:
+                    - generic [ref=f505e388]: incorporate the Content in any product that results in a re-distribution or re-use of the content or is otherwise made available in a manner such that a person can extract or access or reproduce the content as an electronic file;
+                  - listitem [ref=f505e391]:
+                    - generic [ref=f505e392]: to the extent that source code is contained within the Content, reverse engineer, decompile, or disassemble any part of such source code;
+                  - listitem [ref=f505e395]:
+                    - generic [ref=f505e396]: use or display the Content in an electronic format that enables it to be downloaded, exported or distributed via mobile devices or shared in any peer-to-peer or similar file sharing arrangement;
+                  - listitem [ref=f505e399]:
+                    - generic [ref=f505e400]: use or display Content in a manner that gives the impression that the Content was created by you or a person other than the copyright holder of the Content (including without limitation, by claiming ownership of, or exclusive rights to, the Content);
+                  - listitem [ref=f505e403]:
+                    - generic [ref=f505e404]: use Content for any machine learning and/or artificial intelligence purposes, or for any technologies designed or intended for the identification of natural persons.
+                - paragraph [ref=f505e407]: The Pixabay, Pexels and CC0 licenses may permit some of these activities - please check the relevant license.
+                - heading "9A. Prohibited uses of Font Software" [level=3] [ref=f505e408]
+                - paragraph [ref=f505e409]: "Canva contains font software programs which generate human readable typeface designs (\"Font Software\"). The following uses of Font Software are prohibited, in addition to the Prohibited Uses in section 9:"
+                - list [ref=f505e410]:
+                  - listitem [ref=f505e411]:
+                    - generic [ref=f505e412]: Install or use the Font Software on any device except one on which you are accessing a properly licensed copy of Canva;
+                  - listitem [ref=f505e415]:
+                    - generic [ref=f505e416]: Use the Font Software other than on Canva and/or as an integrated component of a Canva Design that is exported from Canva;
+                  - listitem [ref=f505e419]:
+                    - generic [ref=f505e420]: Modify, alter or convert the Font Software;
+                  - listitem [ref=f505e423]:
+                    - generic [ref=f505e424]: Take any action which results in, or is designed to result in, gaining access to the Font Software source code, except as permitted by law and then only for the purpose of achieving an interoperable program.
+              - generic [ref=f505e428]:
+                - heading "10. Violation of this License and Termination" [level=3] [ref=f505e429]
+                - paragraph [ref=f505e430]: Canva will keep track of your designs and your account to make sure you’re not breaking this License or any of our Terms. This might include monitoring downloads and Exports, retaining details of your Canva Designs and tracking abuse of your username and password. If you *do* break this license, we may suspend or terminate your account without notice.
+                - paragraph [ref=f505e431]: If your account is terminated for violating this license or any abuse of a username or password, you will lose all rights to Content and Canva designs and must immediately delete all Content and Canva designs acquired from Canva, and forfeit all fees paid
+                - paragraph [ref=f505e432]: You can terminate your Content license by destroying the Content and Canva Design, along with any copies or archives of it or accompanying materials (if applicable), and no longer using the Canva Design for any purpose. Canva can terminate these Content licenses without advance notice if you fail to comply with any of its terms. If that happens, you must immediately (i) cease using the Content and any Canva Designs containing the Content for any purpose; (ii) destroy or delete all copies and archives of the Content and any Canva Designs containing the Content or accompanying materials; and (iii) if requested, confirm to Canva in writing that you have complied with these requirements.
+              - generic [ref=f505e434]:
+                - heading "11. Infringement claims" [level=3] [ref=f505e435]
+                - paragraph [ref=f505e436]: If you find out – from Canva or somewhere else – that there’s a claim of infringement of another’s right for which Canva might be liable, you have to stop using the Content immediately, at your own expense. This applies whether the claim is threatened, potential or actual. You also have to immediately delete or remove the Content from your premises, computer systems and storage (electronic or physical); ensure that your clients, printers or ISPs do likewise; and let Canva know as soon as possible by emailing copyright@canva.com.
+              - generic [ref=f505e438]:
+                - heading "12. Disclaimers" [level=3] [ref=f505e439]
+                - list [ref=f505e440]:
+                  - listitem [ref=f505e441]:
+                    - generic [ref=f505e442]: Releases are generally not obtained for Free Content, and some jurisdictions provide legal protection against a person’s image, likeness or property being used for commercial purposes when they have not provided a release. Canva doesn’t grant any right nor make any warranty for the use of names, people, trademarks, trade dress, logos, registered designs or works of art or architecture depicted in Free Content. You’re solely responsible for determining whether a release is required for any proposed use of Free Content, and obtaining any such release.
+                  - listitem [ref=f505e445]:
+                    - generic [ref=f505e446]: While we’ve made reasonable efforts to correctly categorize, keyword, caption and title the content, Canva does not warrant the accuracy of that information or any metadata that may be provided with the Content.
+                  - listitem [ref=f505e449]:
+                    - generic [ref=f505e450]: YOU AGREE THAT THE FONT SOFTWARE IS SUPPLIED TO YOU WITHOUT ANY WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY. You agree that the Font Software is supplied without any warranty that the Font Software is free of all bugs, errors, and omissions. YOU AGREE THAT IN NO EVENT WILL CANVA OR ITS SUPPLIERS, INCLUDING THE SUPPLIER(S) OF THE FONT SOFTWARE, BE LIABLE TO YOU OR ANY OTHER PARTY FOR LOST PROFITS, LOST DATA, OR ANY OTHER INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, OR FOR ANY PUNITIVE OR SPECIAL DAMAGES, EVEN IF YOU NOTIFIED THE PROVIDER OF THE PRODUCT AND THE SUPPLIERS OF THE FONT SOFTWARE OF THE POSSIBILITY OF SUCH DAMAGES. This does not exclude any warranties that you may be entitled to that are not able to be excluded under applicable consumer laws.
+          - generic [ref=f505e454]:
+            - heading "Other policies" [level=4] [ref=f505e455]
+            - paragraph [ref=f505e456]:
+              - link "Canva Manual Domain Attestation" [ref=f505e457] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/manual-domain-attestation/
+            - paragraph [ref=f505e458]:
+              - link "Indirect Master Services Agreement" [ref=f505e459] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/indirect-msa/
+            - paragraph [ref=f505e460]:
+              - link "SMS Terms" [ref=f505e461] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/sms-terms/
+            - paragraph [ref=f505e462]:
+              - link "Children under 13 using Canva Education (U.S. COPPA) – data retention" [ref=f505e463] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/coppa-retention-schedule/
+            - paragraph [ref=f505e464]:
+              - link "Cavalry Terms" [ref=f505e465] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/cavalry-additional-terms/
+            - paragraph [ref=f505e466]:
+              - link "Fontsmith Collection End User License Agreement" [ref=f505e467] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/fontsmith-EULA/
+            - paragraph [ref=f505e468]:
+              - link "Feature-Specific Terms" [ref=f505e469] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/feature-specific-terms/
+            - paragraph [ref=f505e470]:
+              - link "Canva Master Services Agreement" [ref=f505e471] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/msa/
+            - paragraph [ref=f505e472]:
+              - link "Canva AI Beta Program Terms" [ref=f505e473] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/beta-service-terms/
+            - paragraph [ref=f505e474]:
+              - link "Affinity Terms" [ref=f505e475] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/affinity-additional-terms/
+            - paragraph [ref=f505e476]:
+              - link "AI Product Terms" [ref=f505e477] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/ai-product-terms/
+            - paragraph [ref=f505e478]:
+              - link "Canva Education Additional Terms" [ref=f505e479] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/edu-additional-terms/
+            - paragraph [ref=f505e480]:
+              - link "Data Processing Addendum" [ref=f505e481] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/data-processing-addendum/
+            - paragraph [ref=f505e482]:
+              - link "Terms of Use" [ref=f505e483] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/terms-of-use/
+            - paragraph [ref=f505e484]:
+              - link "Contributor Agreement" [ref=f505e485] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/contributor-agreement/
+            - paragraph [ref=f505e486]:
+              - link "Cookies Policy" [ref=f505e487] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/cookies-policy/
+            - paragraph [ref=f505e488]:
+              - link "Acceptable Use Policy" [ref=f505e489] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/acceptable-use-policy/
+            - paragraph [ref=f505e490]:
+              - link "Privacy Policy" [ref=f505e491] [cursor=pointer]:
+                - /url: https://www.canva.com/policies/privacy-policy/
+      - paragraph [ref=f505e493]:
+        - link "Skip to end of footer" [ref=f505e494] [cursor=pointer]:
+          - /url: "#_R_1dl6H1_"
+      - contentinfo [ref=f505e496]:
+        - generic [ref=f505e498]:
+          - generic [ref=f505e505]:
+            - heading "Download Canva for free" [level=2] [ref=f505e510]
+            - navigation [ref=f505e515]:
+              - list [ref=f505e517]:
+                - listitem [ref=f505e518]:
+                  - heading "Product" [level=2] [ref=f505e520]
+                  - list "Product" [ref=f505e522]:
+                    - listitem [ref=f505e523]:
+                      - link "Latest launches" [ref=f505e524] [cursor=pointer]:
+                        - /url: https://www.canva.com/launches/
+                    - listitem [ref=f505e526]:
+                      - link "Visual Suite" [ref=f505e527] [cursor=pointer]:
+                        - /url: https://www.canva.com/visual-suite/
+                    - listitem [ref=f505e529]:
+                      - link "Canva AI" [ref=f505e530] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-ai/
+                    - listitem [ref=f505e532]:
+                      - link "Brand management" [ref=f505e533] [cursor=pointer]:
+                        - /url: https://www.canva.com/solutions/brand-management-tools/
+                    - listitem [ref=f505e535]:
+                      - link "Social media" [ref=f505e536] [cursor=pointer]:
+                        - /url: https://www.canva.com/social-media/
+                    - listitem [ref=f505e538]:
+                      - link "Features" [ref=f505e539] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/
+                    - listitem [ref=f505e541]:
+                      - link "Print" [ref=f505e542] [cursor=pointer]:
+                        - /url: https://www.canva.com/print/
+                    - listitem [ref=f505e544]:
+                      - link "Apps Marketplace" [ref=f505e545] [cursor=pointer]:
+                        - /url: https://www.canva.com/apps/
+                    - listitem [ref=f505e547]:
+                      - link "Affinity" [ref=f505e548] [cursor=pointer]:
+                        - /url: https://www.affinity.studio/
+                - listitem [ref=f505e555]:
+                  - heading "Plans" [level=2] [ref=f505e557]
+                  - list "Plans" [ref=f505e559]:
+                    - listitem [ref=f505e560]:
+                      - link "Pricing" [ref=f505e561] [cursor=pointer]:
+                        - /url: https://www.canva.com/pricing/
+                    - listitem [ref=f505e563]:
+                      - link "Pro" [ref=f505e564] [cursor=pointer]:
+                        - /url: https://www.canva.com/pro/
+                    - listitem [ref=f505e566]:
+                      - link "Business" [ref=f505e567] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-business/
+                    - listitem [ref=f505e569]:
+                      - link "Enterprise" [ref=f505e570] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/
+                    - listitem [ref=f505e572]:
+                      - link "Education" [ref=f505e573] [cursor=pointer]:
+                        - /url: https://www.canva.com/education/
+                    - listitem [ref=f505e575]:
+                      - link "Higher education" [ref=f505e576] [cursor=pointer]:
+                        - /url: https://www.canva.com/for-campus/
+                    - listitem [ref=f505e578]:
+                      - link "Nonprofits" [ref=f505e579] [cursor=pointer]:
+                        - /url: https://www.canva.com/nonprofits/
+                    - listitem [ref=f505e581]:
+                      - link "Contact Sales" [ref=f505e582] [cursor=pointer]:
+                        - /url: https://www.canva.com/contact-sales/
+                - listitem [ref=f505e584]:
+                  - heading "About" [level=2] [ref=f505e586]
+                  - list "About" [ref=f505e588]:
+                    - listitem [ref=f505e589]:
+                      - link "About Canva" [ref=f505e590] [cursor=pointer]:
+                        - /url: https://www.canva.com/about/
+                    - listitem [ref=f505e592]:
+                      - link "Newsroom" [ref=f505e593] [cursor=pointer]:
+                        - /url: https://www.canva.com/newsroom/news/
+                    - listitem [ref=f505e595]:
+                      - link "Events" [ref=f505e596] [cursor=pointer]:
+                        - /url: https://www.canva.com/events/
+                    - listitem [ref=f505e598]:
+                      - link "Canva Originals" [ref=f505e599] [cursor=pointer]:
+                        - /url: https://shop.canva.com/
+                    - listitem [ref=f505e601]:
+                      - link "Careers" [ref=f505e602] [cursor=pointer]:
+                        - /url: https://www.lifeatcanva.com/en
+                    - listitem [ref=f505e609]:
+                      - link "Social impact" [ref=f505e610] [cursor=pointer]:
+                        - /url: https://www.canva.com/step-two/
+                    - listitem [ref=f505e612]:
+                      - link "Sustainability" [ref=f505e613] [cursor=pointer]:
+                        - /url: https://www.canva.com/sustainability/
+                    - listitem [ref=f505e615]:
+                      - link "Case studies" [ref=f505e616] [cursor=pointer]:
+                        - /url: https://www.canva.com/case-studies/
+                - listitem [ref=f505e618]:
+                  - heading "Community" [level=2] [ref=f505e620]
+                  - list "Community" [ref=f505e622]:
+                    - listitem [ref=f505e623]:
+                      - link "Canva Communities" [ref=f505e624] [cursor=pointer]:
+                        - /url: https://www.canva.com/community/
+                    - listitem [ref=f505e626]:
+                      - link "Creators" [ref=f505e627] [cursor=pointer]:
+                        - /url: https://www.canva.com/creators/
+                    - listitem [ref=f505e629]:
+                      - link "Affiliates" [ref=f505e630] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/canva-affiliate-marketing-program/
+                    - listitem [ref=f505e632]:
+                      - link "Canva Represents Fund" [ref=f505e633] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-represents/
+                    - listitem [ref=f505e635]:
+                      - link "Content partners" [ref=f505e636] [cursor=pointer]:
+                        - /url: https://www.canva.com/partners/content/
+                    - listitem [ref=f505e638]:
+                      - link "Business partner directory" [ref=f505e639] [cursor=pointer]:
+                        - /url: https://partners.canva.com/directory/
+                    - listitem [ref=f505e641]:
+                      - link "Canva Developers" [ref=f505e642] [cursor=pointer]:
+                        - /url: https://www.canva.com/developers/
+                - listitem [ref=f505e649]:
+                  - heading "Inspiration" [level=2] [ref=f505e651]
+                  - list "Inspiration" [ref=f505e653]:
+                    - listitem [ref=f505e654]:
+                      - link "Design Trends" [ref=f505e655] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-trends/
+                    - listitem [ref=f505e657]:
+                      - link "AI creativity podcast" [ref=f505e658] [cursor=pointer]:
+                        - /url: https://promptedpodcast.com/
+                    - listitem [ref=f505e665]:
+                      - link "Learn blog" [ref=f505e666] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/
+                    - listitem [ref=f505e668]:
+                      - link "Templates Marketplace" [ref=f505e669] [cursor=pointer]:
+                        - /url: https://www.canva.com/templates/
+                    - listitem [ref=f505e671]:
+                      - link "Font pairing" [ref=f505e672] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+                    - listitem [ref=f505e674]:
+                      - link "Color wheel" [ref=f505e675] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-wheel/
+                    - listitem [ref=f505e677]:
+                      - link "Colors" [ref=f505e678] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/
+                    - listitem [ref=f505e680]:
+                      - link "Color palette generator" [ref=f505e681] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-palette-generator/
+                - listitem [ref=f505e683]:
+                  - heading "Help" [level=2] [ref=f505e685]
+                  - list "Help" [ref=f505e687]:
+                    - listitem [ref=f505e688]:
+                      - link "Help Center" [ref=f505e689] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/
+                    - listitem [ref=f505e691]:
+                      - link "Security" [ref=f505e692] [cursor=pointer]:
+                        - /url: https://www.canva.com/security/
+                    - listitem [ref=f505e694]:
+                      - link "Trust Center" [ref=f505e695] [cursor=pointer]:
+                        - /url: https://www.canva.com/trust/
+                    - listitem [ref=f505e697]:
+                      - link "Canva Safe AI" [ref=f505e698] [cursor=pointer]:
+                        - /url: https://www.canva.com/safe-ai-canva-shield/
+                    - listitem [ref=f505e700]:
+                      - link "Accessibility" [ref=f505e701] [cursor=pointer]:
+                        - /url: https://www.canva.com/accessibility/
+                    - listitem [ref=f505e703]:
+                      - link "Enterprise services" [ref=f505e704] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/professional-services/
+                    - listitem [ref=f505e706]:
+                      - link "Design School" [ref=f505e707] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-school/
+                    - listitem [ref=f505e714]:
+                      - link "Sitemap" [ref=f505e715] [cursor=pointer]:
+                        - /url: https://www.canva.com/sitemap/
+                - listitem [ref=f505e717]:
+                  - heading "Tools" [level=2] [ref=f505e719]
+                  - list "Tools" [ref=f505e721]:
+                    - listitem [ref=f505e722]:
+                      - link "QR code generator" [ref=f505e723] [cursor=pointer]:
+                        - /url: https://www.canva.com/qr-code-generator/
+                    - listitem [ref=f505e725]:
+                      - link "AI logo generator" [ref=f505e726] [cursor=pointer]:
+                        - /url: https://www.canva.com/ai-logo-generator/
+                    - listitem [ref=f505e728]:
+                      - link "Signature generator" [ref=f505e729] [cursor=pointer]:
+                        - /url: https://www.canva.com/signature-generator/
+                    - listitem [ref=f505e731]:
+                      - link "Business name generator" [ref=f505e732] [cursor=pointer]:
+                        - /url: https://www.canva.com/business-name-generator/
+                    - listitem [ref=f505e734]:
+                      - link "PDF converter" [ref=f505e735] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-converter/
+                    - listitem [ref=f505e737]:
+                      - link "PDF to JPG converter" [ref=f505e738] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-to-jpg-converter/
+                    - listitem [ref=f505e740]:
+                      - link "JPG to PDF converter" [ref=f505e741] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/jpg-to-pdf-converter/
+                    - listitem [ref=f505e743]:
+                      - link "Graph maker" [ref=f505e744] [cursor=pointer]:
+                        - /url: https://www.canva.com/graphs/
+          - generic [ref=f505e747]:
+            - generic:
+              - button "English (US)" [ref=f505e756] [cursor=pointer]
+              - paragraph [ref=f505e768]: © 2026 All Rights Reserved
+      - paragraph [ref=f505e770]:
+        - link "Skip to start of footer" [ref=f505e771] [cursor=pointer]:
+          - /url: "#_R_1dl6_"
+  - alert [ref=f505e773]

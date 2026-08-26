@@ -1,0 +1,4 @@
+[    1131ms] [INFO] websocket_client: 1786418663885 connecting... @ https://static.canva.com/web/8106ee633973e981.sentry_browser.js:0
+[    2161ms] [INFO] websocket_client: connected @ https://static.canva.com/web/8106ee633973e981.sentry_browser.js:0
+[    2161ms] [INFO] websocket_client: status CONNECTED @ https://static.canva.com/web/8106ee633973e981.sentry_browser.js:0
+[    2362ms] [INFO] websocket_client: request id a2942089de1a834c @ https://static.canva.com/web/8106ee633973e981.sentry_browser.js:0

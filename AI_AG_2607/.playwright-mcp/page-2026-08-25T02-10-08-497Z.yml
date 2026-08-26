@@ -1,0 +1,57 @@
+- generic [active] [ref=f2e1]:
+  - iframe [ref=f2e4]:
+    - generic [ref=f6e1]:
+      - main [ref=f6e3]:
+        - generic [ref=f6e4]:
+          - img "typecast" [ref=f6e5]
+          - heading "환영합니다" [level=2] [ref=f6e7]
+          - generic [ref=f6e8]:
+            - generic [ref=f6e9]:
+              - button "카카오로 계속하기" [ref=f6e10] [cursor=pointer]
+              - button "네이버로 계속하기" [ref=f6e12] [cursor=pointer]
+              - button "구글로 계속하기" [ref=f6e14] [cursor=pointer]
+              - button "애플로 계속하기" [ref=f6e16] [cursor=pointer]
+              - button "모든 옵션 보기" [ref=f6e18] [cursor=pointer]
+            - generic [ref=f6e19]:
+              - separator [ref=f6e20]
+              - generic [ref=f6e21]: or
+            - generic [ref=f6e22]:
+              - group [ref=f6e23]:
+                - generic [ref=f6e24]: 이메일
+                - textbox "name@email.com" [ref=f6e25]
+              - group [ref=f6e26]:
+                - generic [ref=f6e27]: 비밀번호
+                - textbox "********" [ref=f6e28]
+                - button "비밀번호 찾기" [ref=f6e30] [cursor=pointer]
+              - button "계속하기" [ref=f6e31] [cursor=pointer]
+            - paragraph [ref=f6e32]:
+              - text: 아직 회원이 아니신가요?
+              - button "회원가입하기" [ref=f6e33] [cursor=pointer]
+            - paragraph [ref=f6e34]:
+              - text: "'계속하기'를 누르면,"
+              - link "이용약관" [ref=f6e35] [cursor=pointer]:
+                - /url: https://help.typecast.ai/ko/articles/13448178-%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80
+              - text: 에 동의한 것으로 간주합니다.
+      - generic:
+        - region "Notifications-top"
+        - region "Notifications-top-left"
+        - region "Notifications-top-right"
+        - region "Notifications-bottom-left"
+        - region "Notifications-bottom"
+        - region "Notifications-bottom-right"
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"
+  - iframe [ref=f2e5]:
+    

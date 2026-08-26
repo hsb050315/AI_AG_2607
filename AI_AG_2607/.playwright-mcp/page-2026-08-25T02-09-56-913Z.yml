@@ -1,0 +1,144 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - link "더 나은 서비스를 위해 여러분의 의견을 공유해 주세요." [ref=e5] [cursor=pointer]:
+      - /url: https://studio.typecast.ai/survey?survey-id=6f728a3d-dec3-4038-af9d-eb8919af291a&post-id=022729d2-bc68-4af6-989c-07075c1983de&from=%2Fshorts-voice-finder
+    - button "설문 배너 닫기" [ref=e9]
+  - generic [ref=e12]:
+    - complementary [ref=e13]:
+      - navigation [ref=e14]:
+        - link [ref=e15] [cursor=pointer]:
+          - /url: https://studio.typecast.ai
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: CREATOR TOOLS
+            - list [ref=e31]:
+              - listitem [ref=e32]:
+                - link [ref=e33] [cursor=pointer]:
+                  - /url: https://studio.typecast.ai/text-to-speech
+              - listitem [ref=e40]:
+                - link [ref=e41] [cursor=pointer]:
+                  - /url: https://studio.typecast.ai/video-editor
+              - listitem [ref=e46]:
+                - link [ref=e47] [cursor=pointer]:
+                  - /url: https://studio.typecast.ai/talking-avatar
+          - generic [ref=e53]:
+            - separator [ref=e54]
+            - generic [ref=e55]: VOICES
+            - list [ref=e56]:
+              - listitem [ref=e57]:
+                - link [ref=e58] [cursor=pointer]:
+                  - /url: https://studio.typecast.ai/voice-cloning
+              - listitem [ref=e63]:
+                - link [ref=e64] [cursor=pointer]:
+                  - /url: https://studio.typecast.ai/voice-casting
+          - generic [ref=e68]:
+            - separator [ref=e69]
+            - generic [ref=e70]: DEVELOPER TOOLS
+            - list [ref=e71]:
+              - listitem [ref=e72]:
+                - link [ref=e73] [cursor=pointer]:
+                  - /url: https://studio.typecast.ai/developers
+          - generic [ref=e79]:
+            - separator [ref=e80]
+            - generic [ref=e81]: DISCOVERY
+            - list [ref=e82]:
+              - listitem [ref=e83]:
+                - link [ref=e84] [cursor=pointer]:
+                  - /url: /shorts-voice-finder
+          - generic [ref=e89]:
+            - separator [ref=e90]
+            - button [ref=e92]
+        - list [ref=e98]:
+          - listitem [ref=e99]:
+            - button "로그인" [ref=e100]
+    - main [ref=e103]:
+      - generic [ref=e107]:
+        - heading [level=2] [ref=e108]:
+          - text: 쇼츠 속
+          - generic [ref=e109]: 목소리 찾기
+        - paragraph [ref=e114]: 자주 보던 쇼츠 속 AI 목소리를 알려드려요.매칭된 보이스로 여러분만의 바이럴 콘텐츠를 쉽게 만들어보세요.
+      - generic [ref=e116]:
+        - button "영상을 어떻게 녹화하나요?" [ref=e117]
+        - generic [ref=e121]:
+          - generic [ref=e122]:
+            - button "영상 파일로 찾기" [ref=e123]
+            - button "브라우저 탭 캡처" [ref=e127]
+            - button "내가 직접 설명하기" [ref=e131]
+          - generic [ref=e135]:
+            - generic [ref=e136] [cursor=pointer]:
+              - paragraph [ref=e140]: 영상 파일을 드래그하거나 여기를 클릭하세요
+              - paragraph [ref=e141]: MP4, MOV, WebM 등
+            - generic [ref=e142]:
+              - generic [ref=e143] [cursor=pointer]:
+                - checkbox "화자 분리" [checked] [ref=e147]
+                - generic [ref=e148]: 화자 분리
+              - button "목소리 찾기" [disabled] [ref=e154]
+            - paragraph [ref=e158]: 본 서비스는 영상 속 음성과 유사한 타입캐스트 AI 목소리를 추천하며, 실제 해당 목소리가 사용되었음을 보장하지 않습니다. 실제 사람의 목소리인 경우에도 유사한 AI 목소리를 안내해 드립니다.
+      - generic [ref=e161]:
+        - generic [ref=e162]:
+          - heading "영상만 넣으면 10초만에 보이스 매칭 완료" [level=3] [ref=e163]: 영상만 넣으면10초만에 보이스 매칭 완료
+          - paragraph [ref=e164]: 업로드한 영상 속 유사한 톤의 AI 보이스 후보는 물론,여러 명이 나오는 영상도 등장 인물별로 자동 분리해서 알려드려요.
+        - generic [ref=e166]:
+          - generic [ref=e167]:
+            - heading "매칭 결과" [level=4] [ref=e168]
+            - generic [ref=e172]: 예시
+          - generic [ref=e173]:
+            - generic [ref=e174]: "1"
+            - generic [ref=e175]: 데
+            - generic [ref=e177]:
+              - generic [ref=e178]:
+                - generic [ref=e179]: 데이지
+                - generic [ref=e180]: API로 연동하기
+              - generic [ref=e183]: 등장인물1 · 18.4초
+            - generic [ref=e184]: 일치
+            - generic [ref=e185]: 87.4%
+          - generic [ref=e186]:
+            - generic [ref=e187]: "2"
+            - generic [ref=e188]: 진
+            - generic [ref=e190]:
+              - generic [ref=e191]: 진우
+              - generic [ref=e193]: 등장인물1 · 12.0초
+            - generic [ref=e194]: 참고
+            - generic [ref=e195]: 34.0%
+      - generic [ref=e204]:
+        - heading "샘플 영상으로 탐색해보세요" [level=3] [ref=e206]
+        - paragraph [ref=e207]: 아래 쇼츠를 선택하면 바로 목소리 분석을 시작할 수 있습니다
+        - generic [ref=e208]:
+          - 'button "관리사무실 채용 공고: 래퍼 우대 데이지 관리사무실 채용 공고: 래퍼 우대" [ref=e209] [cursor=pointer]':
+            - generic [ref=e210]:
+              - 'img "관리사무실 채용 공고: 래퍼 우대" [ref=e211]'
+              - generic [ref=e212]: 데이지
+            - paragraph [ref=e213]: "관리사무실 채용 공고: 래퍼 우대"
+          - button "오디오북 내레이션용 장년층 보이스 권일 오디오북 내레이션용 장년층 보이스" [ref=e214] [cursor=pointer]:
+            - generic [ref=e215]:
+              - img "오디오북 내레이션용 장년층 보이스" [ref=e216]
+              - generic [ref=e217]: 권일
+            - paragraph [ref=e218]: 오디오북 내레이션용 장년층 보이스
+          - button "스토리텔링에 딱 맞는 AI 목소리 필재 스토리텔링에 딱 맞는 AI 목소리" [ref=e219] [cursor=pointer]:
+            - generic [ref=e220]:
+              - img "스토리텔링에 딱 맞는 AI 목소리" [ref=e221]
+              - generic [ref=e222]: 필재
+            - paragraph [ref=e223]: 스토리텔링에 딱 맞는 AI 목소리
+          - button "요즘 유행하는 이 목소리! 타입캐스트 발키리 사용법 발키리 요즘 유행하는 이 목소리! 타입캐스트 발키리 사용법" [ref=e224] [cursor=pointer]:
+            - generic [ref=e225]:
+              - img "요즘 유행하는 이 목소리! 타입캐스트 발키리 사용법" [ref=e226]
+              - generic [ref=e227]: 발키리
+            - paragraph [ref=e228]: 요즘 유행하는 이 목소리! 타입캐스트 발키리 사용법
+          - button "과학·지식 콘텐츠, 이 목소리 쓰세요 진우 과학·지식 콘텐츠, 이 목소리 쓰세요" [ref=e229] [cursor=pointer]:
+            - generic [ref=e230]:
+              - img "과학·지식 콘텐츠, 이 목소리 쓰세요" [ref=e231]
+              - generic [ref=e232]: 진우
+            - paragraph [ref=e233]: 과학·지식 콘텐츠, 이 목소리 쓰세요
+          - button "TTS 타입캐스트 자주쓰는 목소리 박창수 창수 TTS 타입캐스트 자주쓰는 목소리 박창수" [ref=e234] [cursor=pointer]:
+            - generic [ref=e235]:
+              - img "TTS 타입캐스트 자주쓰는 목소리 박창수" [ref=e236]
+              - generic [ref=e237]: 창수
+            - paragraph [ref=e238]: TTS 타입캐스트 자주쓰는 목소리 박창수
+      - generic [ref=e239]:
+        - heading "방금 찾은 목소리, 그대로 콘텐츠로" [level=3] [ref=e240]
+        - paragraph [ref=e241]: 여러분이 찾은 목소리로 콘텐츠를 만들어보세요.웹에서 간편하게 음성을 생성하거나 API로 연동 및 자동화도 가능합니다.
+        - generic [ref=e242]:
+          - link "무료 API 키 받기 →" [ref=e243] [cursor=pointer]:
+            - /url: https://studio.typecast.ai/developers/api
+          - link "웹에서 바로 만들어보기" [ref=e244] [cursor=pointer]:
+            - /url: https://studio.typecast.ai/text-to-speech

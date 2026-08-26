@@ -1,0 +1,908 @@
+- generic [active] [ref=f261e1]:
+  - navigation:
+    - link "주요서비스 바로가기" [ref=f261e2] [cursor=pointer]:
+      - /url: "#user-menu"
+    - link "본문 바로가기" [ref=f261e4] [cursor=pointer]:
+      - /url: "#user-container"
+    - link "매체정보 바로가기" [ref=f261e6] [cursor=pointer]:
+      - /url: "#user-footer"
+    - link "로그인 바로가기" [ref=f261e8] [cursor=pointer]:
+      - /url: "#userLogin"
+    - link "기사검색 바로가기" [ref=f261e10] [cursor=pointer]:
+      - /url: "#userSearch"
+    - link "전체서비스 바로가기" [ref=f261e12] [cursor=pointer]:
+      - /url: "#allService"
+  - generic [ref=f261e15]:
+    - generic [ref=f261e17]:
+      - generic [ref=f261e18]:
+        - banner [ref=f261e19]:
+          - heading "상단영역" [level=2] [ref=f261e20]
+          - generic [ref=f261e21]:
+            - navigation [ref=f261e22]:
+              - generic [ref=f261e23]:
+                - list [ref=f261e24]:
+                  - listitem [ref=f261e25]:
+                    - link "엔터테인먼트" [ref=f261e26] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N1&view_type=sm
+                    - list [ref=f261e27]:
+                      - listitem [ref=f261e28]:
+                        - link "방송" [ref=f261e29] [cursor=pointer]:
+                          - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N1&view_type=sm
+                      - listitem [ref=f261e30]:
+                        - link "음악" [ref=f261e31] [cursor=pointer]:
+                          - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N2&view_type=sm
+                      - listitem [ref=f261e32]:
+                        - link "영화" [ref=f261e33] [cursor=pointer]:
+                          - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N3&view_type=sm
+                      - listitem [ref=f261e34]:
+                        - link "공연" [ref=f261e35] [cursor=pointer]:
+                          - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N4&view_type=sm
+                      - listitem [ref=f261e36]:
+                        - link "스포츠" [ref=f261e37] [cursor=pointer]:
+                          - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_sub_section_code=S2N26&view_type=sm
+                  - listitem [ref=f261e38]:
+                    - link "패션 · 뷰티" [ref=f261e39] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N2&view_type=sm
+                  - listitem [ref=f261e40]:
+                    - link "문화 · 생활" [ref=f261e41] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N3&view_type=sm
+                  - listitem [ref=f261e42]:
+                    - link "이슈" [ref=f261e43] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N13&view_type=sm
+                  - listitem [ref=f261e44]:
+                    - link "데이터" [ref=f261e45] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N12&view_type=sm
+                  - listitem [ref=f261e46]:
+                    - link "피플" [ref=f261e47] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N4&view_type=sm
+                  - listitem [ref=f261e48]:
+                    - link "사회" [ref=f261e49] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N6&view_type=sm
+                  - listitem [ref=f261e50]:
+                    - link "경제" [ref=f261e51] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N9&view_type=sm
+                  - listitem [ref=f261e52]:
+                    - link "칼럼" [ref=f261e53] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N10&view_type=sm
+                  - listitem [ref=f261e54]:
+                    - link "만평" [ref=f261e55] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N11&view_type=sm
+                  - listitem [ref=f261e56]:
+                    - link "카드뉴스" [ref=f261e57] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_article_type=P&view_type=sm
+                  - listitem [ref=f261e58]:
+                    - link "포토" [ref=f261e59] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/index2.html?editcode=MAIN_21
+                    - list [ref=f261e60]:
+                      - listitem [ref=f261e61]:
+                        - link "포토" [ref=f261e62] [cursor=pointer]:
+                          - /url: https://www.stardailynews.co.kr/index2.html?editcode=MAIN_21
+                  - listitem [ref=f261e63]:
+                    - link "영상" [ref=f261e64] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/index2.html?editcode=MAIN_22
+                    - list [ref=f261e65]:
+                      - listitem [ref=f261e66]:
+                        - link "스타데일리뉴스TV" [ref=f261e67] [cursor=pointer]:
+                          - /url: https://www.stardailynews.co.kr/index2.html?editcode=MAIN_22
+                  - listitem [ref=f261e68]:
+                    - link "한류뉴스" [ref=f261e69] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N7&view_type=sm
+                  - listitem [ref=f261e70]:
+                    - link "보도자료" [ref=f261e71] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N14&view_type=sm
+                - list [ref=f261e72]:
+                  - listitem [ref=f261e73]:
+                    - link " 페이스북" [ref=f261e74] [cursor=pointer]:
+                      - /url: https://www.facebook.com/stardailynews
+                      - generic [ref=f261e75]: 
+                      - generic [ref=f261e76]: 페이스북
+                  - listitem [ref=f261e77]:
+                    - link " 트위터" [ref=f261e78] [cursor=pointer]:
+                      - /url: https://twitter.com/stardailynews
+                      - generic [ref=f261e79]: 
+                      - generic [ref=f261e80]: 트위터
+                  - listitem [ref=f261e81]:
+                    - link " 유튜브" [ref=f261e82] [cursor=pointer]:
+                      - /url: https://www.youtube.com/@stardailynews
+                      - generic [ref=f261e83]: 
+                      - generic [ref=f261e84]: 유튜브
+                  - listitem [ref=f261e85]:
+                    - link " 인스타그램" [ref=f261e86] [cursor=pointer]:
+                      - /url: https://instagram.com/stardailynews
+                      - generic [ref=f261e87]: 
+                      - generic [ref=f261e88]: 인스타그램
+            - banner [ref=f261e90]:
+              - generic [ref=f261e94]:
+                - link "한국어":
+                  - /url: javascript:ChangeLanguages('ko');
+                  - img "한국어" [ref=f261e95] [cursor=pointer]
+                - link "영어":
+                  - /url: javascript:ChangeLanguages('en');
+                  - img "영어" [ref=f261e96] [cursor=pointer]
+                - link "일본어":
+                  - /url: javascript:ChangeLanguages('ja');
+                  - img "일본어" [ref=f261e97] [cursor=pointer]
+                - link "중국어":
+                  - /url: javascript:ChangeLanguages('zh-CN');
+                  - img "중국어" [ref=f261e98] [cursor=pointer]
+                - link "프랑스어":
+                  - /url: javascript:ChangeLanguages('fr');
+                  - img "프랑스어" [ref=f261e99] [cursor=pointer]
+                - link "스페인어":
+                  - /url: javascript:ChangeLanguages('es');
+                  - img "스페인어" [ref=f261e100] [cursor=pointer]
+                - link "러시아어":
+                  - /url: javascript:ChangeLanguages('ru');
+                  - img "러시아어" [ref=f261e101] [cursor=pointer]
+                - link "인도네시아어":
+                  - /url: javascript:ChangeLanguages('id');
+                  - img "인도네시아어" [ref=f261e102] [cursor=pointer]
+              - heading [level=1] [ref=f261e103]:
+                - link [ref=f261e104] [cursor=pointer]:
+                  - /url: https://www.stardailynews.co.kr
+                  - img "스타데일리뉴스" [ref=f261e105]
+                - link [ref=f261e106] [cursor=pointer]:
+                  - /url: /news/articleList.html?sc_sub_section_code=S2N30&view_type=sm
+              - generic [ref=f261e108]:
+                - generic [ref=f261e109]:
+                  - button " 검색버튼" [ref=f261e110] [cursor=pointer]:
+                    - generic [ref=f261e111]:
+                      - text: 
+                      - generic [ref=f261e112]: 검색버튼
+                  - text:  
+                - button "전체메뉴 버튼" [ref=f261e113] [cursor=pointer]
+            - navigation [ref=f261e116]:
+              - button " 메뉴닫기" [ref=f261e117] [cursor=pointer]:
+                - generic [ref=f261e118]:
+                  - text: 
+                  - generic [ref=f261e119]: 메뉴닫기
+              - heading [level=5] [ref=f261e120]:
+                - link "스타데일리뉴스":
+                  - /url: https://www.stardailynews.co.kr
+                  - img "스타데일리뉴스" [ref=f261e121] [cursor=pointer]
+              - menu [ref=f261e122]:
+                - menuitem [ref=f261e123]:
+                  - link "전체기사" [ref=f261e124] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?view_type=sm
+                - menuitem "엔터테인먼트" [ref=f261e125]:
+                  - link "엔터테인먼트 " [ref=f261e126] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N1&view_type=sm
+                - menuitem "패션 · 뷰티" [ref=f261e127]:
+                  - link "패션 · 뷰티 " [ref=f261e128] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N2&view_type=sm
+                - menuitem "문화 · 생활" [ref=f261e129]:
+                  - link "문화 · 생활 " [ref=f261e130] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N3&view_type=sm
+                - menuitem [ref=f261e131]:
+                  - link "이슈" [ref=f261e132] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N13&view_type=sm
+                - menuitem "데이터" [ref=f261e133]:
+                  - link "데이터 " [ref=f261e134] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N12&view_type=sm
+                - menuitem "피플" [ref=f261e135]:
+                  - link "피플 " [ref=f261e136] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N4&view_type=sm
+                - menuitem "포토 · 동영상" [ref=f261e137]:
+                  - link "포토 · 동영상 " [ref=f261e138] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N5&view_type=sm
+                - menuitem "사회" [ref=f261e139]:
+                  - link "사회 " [ref=f261e140] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N6&view_type=sm
+                - menuitem "경제" [ref=f261e141]:
+                  - link "경제 " [ref=f261e142] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N9&view_type=sm
+                - menuitem "칼럼" [ref=f261e143]:
+                  - link "칼럼 " [ref=f261e144] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N10&view_type=sm
+                - menuitem "만평" [ref=f261e145]:
+                  - link "만평 " [ref=f261e146] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N11&view_type=sm
+                - menuitem "Hallyu News" [ref=f261e147]:
+                  - link "Hallyu News " [ref=f261e148] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N7&view_type=sm
+                - menuitem [ref=f261e149]:
+                  - link "보도자료" [ref=f261e150] [cursor=pointer]:
+                    - /url: https://www.stardailynews.co.kr/news/articleList.html?sc_section_code=S1N14&view_type=sm
+              - generic [ref=f261e151]:
+                - generic [ref=f261e152]:
+                  - link " facebook" [ref=f261e153] [cursor=pointer]:
+                    - /url: https://www.facebook.com/stardailynews
+                    - generic [ref=f261e154]:
+                      - text: 
+                      - generic [ref=f261e155]: facebook
+                  - link " twitter" [ref=f261e156] [cursor=pointer]:
+                    - /url: https://twitter.com/stardailynews
+                    - generic [ref=f261e157]:
+                      - text: 
+                      - generic [ref=f261e158]: twitter
+                  - link " youtube" [ref=f261e159] [cursor=pointer]:
+                    - /url: "#link"
+                    - generic [ref=f261e160]:
+                      - text: 
+                      - generic [ref=f261e161]: youtube
+                  - link " instagram" [ref=f261e162] [cursor=pointer]:
+                    - /url: "#link"
+                    - generic [ref=f261e163]:
+                      - text: 
+                      - generic [ref=f261e164]: instagram
+                - list [ref=f261e165]:
+                  - listitem [ref=f261e166]:
+                    - link "로그인" [ref=f261e167] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/member/login.html
+                  - listitem [ref=f261e168]:
+                    - link "회원가입" [ref=f261e169] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/member/index.html
+                  - listitem [ref=f261e170]:
+                    - link "매체소개" [ref=f261e171] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/com/com-1.html
+        - generic [ref=f261e172]:
+          - heading "본문영역" [level=2] [ref=f261e173]
+          - generic:
+            - generic [ref=f261e179]:
+              - iframe [ref=f261e180]:
+                - iframe [ref=f262e4]:
+                  - iframe [ref=f284e3]:
+                    - generic [ref=f285e2] [cursor=pointer]:
+                      - link [ref=f285e4]:
+                        - /url: https://privacy.as.criteo.com/adchoices?cppv=3&cpp=qRF-1RuTAttQf8WA_t0yKVPd2krCo6wjxRzaExkwi52VZMKzQonnnIWTPQodO49WzumhKzQn7SgqWE1ZPI5gqt8l2xSXwgbX8hTsd_rI4ziYkeMq2ya9JiuTwIhp7PS9vpND0o1YhUNflTBJC0tn5OEQ6ez7cyriMU7_TWJ4IE103qwy
+                      - generic [ref=f285e12]:
+                        - link:
+                          - /url: https://cat.jp2.as.criteo.com/delivery/ck.php?cppv=3&cpp=a1eCKwJ76C-MQ2hh6imknmuXOgXmRdCcaNEIzFUKmiwzWeKK9RV2RBlz7s5oKzLJh7vgTuGxFJHA7ieFtMoWrPmjfQHW9q2whyiRAjwo9NIkarNjPhDhpvEX6tU-qr_V4EyNqVgjo2tcxPA38qLhub74uRbiuLvHDD2tFfeGsL5WlFF6FfQeneiVNH9D8DuiY3y99UM1HhPgeZQGLpnSpckJL2BO86kIiLNLMcHDb0_XSPHCEG3ijdtV8E5KPSyr8O2Bi3A5Oe18wmR6QgX75Sq_5UU_A67YbWR4_ylM4A4MYtUKoKLQdbpShgJZEKzSEBrQRu5pg_WzS5qRJRmm6q05ZEFv8jWVZYcpp6is_3ns7uh0H1SfoKXFxewLcHkuuiI-nIAYbi_vpLW8xYPfiEBdBRS_PgDOH5Z3ahYlKTuLJJS0pnIqyWdjCjM6jpJbfAs1FJ08dndIwG88DqQJyoYS6k0xsDEAFkcdiEE6eN8lUYbBo9VyDskdXPd1c5kRbnmiTIAaqI2UJg2obD3i3LHjpk3b-iyxIruF0L01uX8OZ1B1sznmRcfn3KiAWcvrsya0QgsP5VOeheBYompZi_MbqYRyD1_eoExeTcBIKfemfb81qMOb-7ahxxCYKELDxclvRHrfSyUqWaFxdpuVaP1_x-g&maxdest=https%3A%2F%2Fwww.babathe.com%2Fevent%2FindexExhibitionDetail%3FexhbtNo%3D22481%26utm_source%3Dcriteo%26utm_medium%3DDA%26utm_campaign%3Dconversion_ao_cvlal%26utm_term%3D2026_ao_cvlal_90purlal_all_all%26utm_content%3D260803_260818_summerfinale_all_all_image_mix%26utm_id%3D419429%26cto_pld%3D1rhoQrAWAQAmZKdssb8gLg
+                        - link [ref=f285e13]:
+                          - /url: https://cat.jp2.as.criteo.com/delivery/ck.php?cppv=3&cpp=5vRRnAJ76C-MQ2hh6imknmuXOgXmRdCcaNEIzFUKmiwzWeKK9RV2RBlz7s5oKzLJh7vgTuGxFJHA7ieFtMoWrPmjfQHW9q2whyiRAjwo9NIkarNjPhDhpvEX6tU-qr_V4EyNqVgjo2tcxPA38qLhub74uRbiuLvHDD2tFfeGsL5WlFF61fArzCgts3Z4pEHiTZ9PjV83LQApaxqQkmKUreLAfDeK8SinSiIpi7OJaJ2Scppx22c3JggnP1bG0avo0HEERVyCBTOXyR8THUZFsexgg49sF5LQCvQPp5oj_9QL56DamDwB3XVw5ewkEdeQycCzAlXJl2gJELqyV6DA_KarPT9Barsc_thr0ou2WlLzNIaFFtllMudHcfhVnH_HZgh_PsWbnaZz5RrkvvkDeM9kOxyUfXVXGNnrg89HsPEfpGLjwSLrwAOXejS0oXCAd6SIPjWrNXpnguLzdcciqTJ2tA7EqK74ynV3vjjM33J5T21ArJcwkE1k2W9uvXaRcfBoaMJn6TIqvQBBPXkiPPABjyLlEEt-D_T_GA7irec4QiF0t2Ex9Umug4Z2dLt0xSSymaVu_KikK7hkj9Dvg205mk7xdp8dBIlXYzQieh15UMMbWBRnTE8dbenWnpExXFFUhv2-6WO6SeyaqJa1AqR98EI&maxdest=https%3A%2F%2Fwww.babathe.com%2Fmain%3Futm_source%3Dcriteo%26utm_medium%3DDA%26utm_campaign%3Dconversion%7CCVLAL%7Cweb%26utm_term%3Dall_all_lookalike_purchase_90days%7Call%7C_%26utm_content%3D240301_%7Cimage%7CDYNAMICFEED%7C%26utm_id%3D419429%26cto_pld%3DW3u2B7AWAQBGLEtK25ki2Q
+                        - generic [ref=f285e25]:
+                          - link "-81% 17,578원" [ref=f285e29]:
+                            - /url: https://cat.jp2.as.criteo.com/delivery/ck.php?cppv=3&cpp=q5U1nAJ76C-MQ2hh6imknmuXOgXmRdCcaNEIzFUKmiwzWeKK9RV2RBlz7s5oKzLJh7vgTuGxFJHA7ieFtMoWrPmjfQHW9q2whyiRAjwo9NIkarNjPhDhpvEX6tU-qr_V4EyNqVgjo2tcxPA38qLhub74uRbiuLvHDD2tFfeGsL5WlFF6nLM5etKzE1EtYozoQ53YsgaSQUXQLEQlIVe7AoF_aE7MccaGXoDtF01fP3Ugfq-uJ-GWzpyUUc3HGz904vCRZmcUZtcU05RsRjONSHBQj7SK8oXgE_oSv5z2xhHB-tzuOfBFYAtznUc3OXF6PUhMS8xNNkty1nHH8AA8DFESUILywoCtUfdWyoceYYax-zeGwb_ucKdErJj8Hj9KABQFa4t024BhXVQ6Ukg9Xidtli1s_QsegIgc1DeXOZv7JGyRQHQQHKx0ZBEzoR8ga5cFGgGxkQAZy-eAPMVuZRlYqjVp54AkL2W-MagT_zm7kcqi4XqAjl8i_GWEjLZzJOSSk1kh9yQcgKQKA-h74erLfhnTJ4gSideIlzCMMexheOnvCyadKiKVcFAHlGbVrAqVCSbzVasCFqCul2z2jEQZtCnmiSU31yo32asveqqrqZQUd6XKx1vfPCgkvAQ3WeRTH_Oes-jHTA0Us5kXo0vCRqA&maxdest=https%3A%2F%2Fwww.babathe.com%2Fgoods%2FindexGoodsDetail%3FgoodsId%3DGC55710474%26utm_source%3Dcriteo%26utm_medium%3DDA%26utm_campaign%3Dconversion%7CCVLAL%7Cweb%26utm_term%3Dall_all_lookalike_purchase_90days%7Call%7C_%26utm_content%3D240301_%7Cimage%7CDYNAMICFEED%7C%26utm_id%3D419429%26cto_pld%3DLT6Vt7AWAQBPzpxTcsCf2w
+                            - generic [ref=f285e32]:
+                              - generic [ref=f285e41]: "-81%"
+                              - generic [ref=f285e43]: 17,578원
+                          - link "-78% 10,106원" [ref=f285e52]:
+                            - /url: https://cat.jp2.as.criteo.com/delivery/ck.php?cppv=3&cpp=VZAYKAJ76C-MQ2hh6imknmuXOgXmRdCcaNEIzFUKmiwzWeKK9RV2RBlz7s5oKzLJh7vgTuGxFJHA7ieFtMoWrPmjfQHW9q2whyiRAjwo9NIkarNjPhDhpvEX6tU-qr_V4EyNqVgjo2tcxPA38qLhub74uRbiuLvHDD2tFfeGsL5WlFF6pFJI2Ymzts5MhLNsqrtye7rh7z1Yx_VBMrAdgHfk1UE0WZoZitVpkNe6q1_WQ5_oCFz9dX8IyQLbekP4EoV79c5_dIiI4QXIaz94YMM1YDi03TNK1Ij_zCGhwbY_KFP_FkXoHQyg-LRPSIbCd7nRRr3Yvem2YBTH9dzB71E13Ap0d7iWzYTDS4-zv_vGDHosZZD34gZ9HNinw6bjWeqMP9JsuP4Lp9VLtrdChhKk-d2wbDqo3q1nk7Co1QvoWIq112HPxWfxmIlfNZrw6uc9oKXiTJAJDr6vS5bitPR3mrL_1SV6dFmFTjnxBcPLfkVsKuEekOUBDs6nxmLGOnHKiNFrxOCqNKfYiDbFcepoyMtfuwG-IWVYhoE-KwSBXpTNRIpF9TZmZxGpCV-o7zM7xOdqRCGOHE2TtgTaArruM0Xv4UqeUkAIuUyOokCrevsbQqPHJfvkZFFMTcXixvMjzGbfMy_9L8GIyaBYaksZjfBpdz9Xm2w6UZDNH2aPR6jF&maxdest=https%3A%2F%2Fwww.babathe.com%2Fgoods%2FindexGoodsDetail%3FgoodsId%3DGD23602349%26utm_source%3Dcriteo%26utm_medium%3DDA%26utm_campaign%3Dconversion%7CCVLAL%7Cweb%26utm_term%3Dall_all_lookalike_purchase_90days%7Call%7C_%26utm_content%3D240301_%7Cimage%7CDYNAMICFEED%7C%26utm_id%3D419429%26cto_pld%3DXsSJNrAWAQD6TceAYoufxw
+                            - generic [ref=f285e55]:
+                              - generic [ref=f285e64]: "-78%"
+                              - generic [ref=f285e66]: 10,106원
+              - link [ref=f261e181] [cursor=pointer]:
+                - /url: https://adwiser.kr/
+            - generic [ref=f261e188]:
+              - iframe [ref=f261e189]:
+                - iframe [ref=f263e3]:
+                  - iframe [ref=f268e3]:
+                    - iframe [ref=f269e4]:
+                      - generic:
+                        - link [ref=f287e1] [cursor=pointer]:
+                          - /url: https://krrtb.c.appier.net/xclk?bidobjid=qI5EnH7CCk-pltISn5F6ag&cid=URsbPdnnQDOZu9H8VkoOmw&crid=OGvNxKYYRq6PlDPki4mLSA&crpid=nqUPYakAQOaQUT58bbKb1A&soid=Ep0j&partner_id=0wYVs3H7gwiOP3x&bx=Cylxwnu_ordzoyQz7PMQ7rosorImoqI-uY79uqa1ZDtNZYtNc8VzUYiDZyzqUyzFZ1u-uYgWJ4u_onx1wHTRuqayK4lBZyu_ujJEU1u-uYsBuqa1ord1K4lBZDw121uVo4QxKqd9o4lO&ui=CylYc8Myuqa1onQy70I9oqumKqGD7qa_ord1eM&consent=1&ddhh=orGWod&flanding_rdr=
+                        - button [ref=f287e4] [cursor=pointer]
+              - link [ref=f261e190] [cursor=pointer]:
+                - /url: https://adwiser.kr/
+          - generic [ref=f261e193]:
+            - generic [ref=f261e199]:
+              - iframe [ref=f261e200]:
+                - link [ref=f264e2] [cursor=pointer]:
+                  - /url: //ad.adwiser.kr/cgi-bin/PelicanC.dll?CLK?pageid=0HXe%26bannerid=58kX%26campaignid=0S5C
+              - link [ref=f261e201] [cursor=pointer]:
+                - /url: https://adwiser.kr/
+            - generic [ref=f261e203]:
+              - generic [ref=f261e204]:
+                - list [ref=f261e205]:
+                  - listitem [ref=f261e206]:
+                    - generic [ref=f261e207]: 기자명
+                    - text: 천설화 기자
+                  - listitem [ref=f261e208]:
+                    - link "음악" [ref=f261e209] [cursor=pointer]:
+                      - /url: /news/articleList.html?sc_sub_section_code=S2N2&view_type=sm
+                  - listitem [ref=f261e210]: 입력 2026.08.11 07:35
+                - heading "오피셜히게단디즘, KSPO DOME서 2만 6000 관객과 함께 한 내한 공연 성료" [level=3] [ref=f261e211]
+              - complementary [ref=f261e212]:
+                - generic [ref=f261e213]:
+                  - heading "SNS 기사보내기" [level=4] [ref=f261e214]
+                  - button " 페이스북(으)로 기사보내기" [ref=f261e215] [cursor=pointer]:
+                    - generic [ref=f261e216]:
+                      - text: 
+                      - generic [ref=f261e217]: 페이스북(으)로 기사보내기
+                  - button " 트위터(으)로 기사보내기" [ref=f261e218] [cursor=pointer]:
+                    - generic [ref=f261e219]:
+                      - text: 
+                      - generic [ref=f261e220]: 트위터(으)로 기사보내기
+                  - button " 카카오톡(으)로 기사보내기" [ref=f261e221] [cursor=pointer]:
+                    - generic [ref=f261e222]:
+                      - text: 
+                      - generic [ref=f261e223]: 카카오톡(으)로 기사보내기
+                  - button " URL복사(으)로 기사보내기" [ref=f261e224] [cursor=pointer]:
+                    - generic [ref=f261e225]:
+                      - text: 
+                      - generic [ref=f261e226]: URL복사(으)로 기사보내기
+                  - button " 바로가기" [ref=f261e227] [cursor=pointer]:
+                    - generic [ref=f261e228]:
+                      - text: 
+                      - generic [ref=f261e229]: 바로가기
+                  - button " 기사저장" [ref=f261e230] [cursor=pointer]:
+                    - generic [ref=f261e231]:
+                      - text: 
+                      - generic [ref=f261e232]: 기사저장
+            - generic [ref=f261e233]:
+              - article [ref=f261e234]:
+                - generic [ref=f261e235]:
+                  - article [ref=f261e236]:
+                    - figure "PONY CANYON (ⓒTAKAHIRO TAKINAMI) 제공" [ref=f261e238] [cursor=pointer]:
+                      - img "PONY CANYON (ⓒTAKAHIRO TAKINAMI) 제공" [ref=f261e239]
+                    - paragraph [ref=f261e241]: "[스타데일리뉴스=천설화 기자] 일본 대표 밴드 오피셜히게단디즘이 서울 KSPO DOME에서 단독 공연을 개최하며 1년 8개월 만의 내한 일정을 마쳤다."
+                    - paragraph [ref=f261e242]: 지난 8일과 9일 양일간 열린 'OFFICIAL HIGE DANDISM ASIA TOUR 2026' 서울 공연은 시야제한석까지 전석 매진을 기록하며 약 2만 6000명의 관객을 동원했다.
+                    - paragraph [ref=f261e243]: 공연에서 히게단은 'Same Blue'를 시작으로 '숙명', 'Mixed Nuts', 'Stand By You' 등 주요 대표곡과 수록곡을 망라한 세트리스트를 선보였다. 브라스, 퍼커션, 코러스 등 서포트 멤버들과 함께 완성도 높은 밴드 사운드를 구축했으며, 화려한 조명과 특수효과를 더해 현장의 몰입도를 높였다.
+                    - paragraph [ref=f261e244]: 멤버들은 노랫말에 한국어 표현을 더하거나 관객들과 직접 소통하며 한국 팬들과 교감을 이어갔다. 보컬 후지하라 사토시는 현장을 찾아준 팬들에게 감사를 표하며, 좋은 음악과 라이브로 다시 서울을 찾겠다는 뜻을 내비쳤다.
+                    - paragraph [ref=f261e245]: 한편 이번 서울 공연의 전체 세트리스트는 각종 음원 서비스를 통해 플레이리스트로 제공된다.
+                    - paragraph [ref=f261e246]
+                  - generic [ref=f261e247]:
+                    - link " 모바일에서 기사보기" [ref=f261e248] [cursor=pointer]:
+                      - /url: https://www.stardailynews.co.kr/news/articleView.html?idxno=545523
+                      - generic [ref=f261e249]: 
+                      - text: 모바일에서 기사보기
+                    - paragraph [ref=f261e250]:
+                      - text: 기사제보 및 보도자료
+                      - link "news@stardailynews.co.kr" [ref=f261e251] [cursor=pointer]:
+                        - /url: mailto:news@stardailynews.co.kr
+                      - text: 스마트 폰에서 만나는 스타데일리뉴스
+                      - link "[모바일 페이지]" [ref=f261e252] [cursor=pointer]:
+                        - /url: https://www.stardailynews.co.kr/news/articleView.html?idxno=545523
+                      - text: 바로가기
+                  - article [ref=f261e253]:
+                    - strong [ref=f261e254]:
+                      - text: 천설화 기자
+                      - link "news@stardailynews.co.kr" [ref=f261e255] [cursor=pointer]:
+                        - /url: mailto:news@stardailynews.co.kr
+                    - link "기자의 다른 기사 보기 " [ref=f261e256] [cursor=pointer]:
+                      - /url: /news/articleList.html?sc_area=I&sc_word=soul515_&view_type=sm
+                      - text: 기자의 다른 기사 보기
+                      - generic [ref=f261e257]: 
+                  - article [ref=f261e258]:
+                    - generic [ref=f261e259]: 저작권자 © 스타데일리뉴스 무단전재 및 재배포 금지
+                    - list [ref=f261e262]:
+                      - listitem [ref=f261e263]:
+                        - link "홈으로" [ref=f261e264] [cursor=pointer]:
+                          - /url: https://www.stardailynews.co.kr
+                      - listitem [ref=f261e265]:
+                        - link "위로" [ref=f261e266] [cursor=pointer]:
+                          - /url: "#top"
+                      - listitem [ref=f261e267]:
+                        - link "기사제보" [ref=f261e268] [cursor=pointer]:
+                          - /url: https://www.stardailynews.co.kr/com/jb.html
+                - generic [ref=f261e269]:
+                  - generic [ref=f261e276]:
+                    - generic [ref=f261e277]: close
+                    - generic [ref=f261e283]:
+                      - generic:
+                        - button "Pause" [pressed]
+                        - generic:
+                          - generic:
+                            - slider "Seek": "6.99"
+                            - progressbar: "% buffered"
+                            - generic: 00:00
+                        - generic "Current time": 00:03
+                        - generic "Duration": ⁄00:52
+                        - generic:
+                          - button "Unmute" [pressed]
+                          - slider "Volume": "0"
+                  - article [ref=f261e287]:
+                    - strong [ref=f261e289]: NOW HOT!!
+                  - iframe [ref=f261e294]:
+                    - generic [ref=f281e1]:
+                      - generic [ref=f281e4]:
+                        - heading "당신을 위한 추천 이슈" [level=1] [ref=f281e5]
+                        - table [ref=f281e8]:
+                          - caption [ref=f281e9]: 당신을 위한 추천 이슈
+                          - rowgroup [ref=f281e20]:
+                            - row [ref=f281e21]:
+                              - cell [ref=f281e22]:
+                                - link "피플 트와이스 정연, 바로엔터테인먼트와 전속계약 체결 ::" [ref=f281e23] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0MzQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQzNA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e25]: 피플
+                                  - generic [ref=f281e26]: "트와이스 정연, 바로엔터테인먼트와 전속계약 체결 ::"
+                              - cell [ref=f281e27]:
+                                - link "엔터테인먼트 130억대 '설거지 뷰' 하와이 저택 화제, 이찬원 진짜 인정 감탄 ::" [ref=f281e28] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0MDgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQwOA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e30]: 엔터테인먼트
+                                  - generic [ref=f281e31]: "130억대 '설거지 뷰' 하와이 저택 화제, 이찬원 진짜 인정 감탄 ::"
+                              - cell [ref=f281e32]:
+                                - link "피플 [S톡] 하지원은 또 한 번 자신의 얼굴을 지웠다.. '비광'의 상미 ::" [ref=f281e33] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzMjcmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTMyNw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e35]: 피플
+                                  - generic [ref=f281e36]: "[S톡] 하지원은 또 한 번 자신의 얼굴을 지웠다.. '비광'의 상미 ::"
+                              - cell [ref=f281e37]:
+                                - link "문화 · 생활 쿼드쎄라, ITZY 유나 브랜드 모델 발탁…8월 신제품 '틴즈' 공개 예정 ::" [ref=f281e38] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUxMzcmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTEzNw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e40]: 문화 · 생활
+                                  - generic [ref=f281e41]: "쿼드쎄라, ITZY 유나 브랜드 모델 발탁…8월 신제품 '틴즈' 공개 예정 ::"
+                              - cell [ref=f281e42]:
+                                - link "이슈 스타트렌드 영화·드라마 남자 투표 1위 변우석, 134만 표 팬심 집중 ::" [ref=f281e43] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0NzImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQ3Mg%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e45]: 이슈
+                                  - generic [ref=f281e46]: "스타트렌드 영화·드라마 남자 투표 1위 변우석, 134만 표 팬심 집중 ::"
+                              - cell [ref=f281e47]:
+                                - link "엔터테인먼트 [UFC] ‘부산 할머니 둔 쿼터 코리안’ 타이 밀러 2연승…김치·흰쌀밥 즐기던 파이터의 화끈한 피니시 ::" [ref=f281e48] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MjEmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUyMQ%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e50]: 엔터테인먼트
+                                  - generic [ref=f281e51]: "[UFC] ‘부산 할머니 둔 쿼터 코리안’ 타이 밀러 2연승…김치·흰쌀밥 즐기던 파이터의 화끈한 피니시 ::"
+                              - cell [ref=f281e52]:
+                                - link "엔터테인먼트 김선호·추영우·김가영 등, ‘2026 케이 월드 드림 어워즈’ 시상자로 참석 ::" [ref=f281e53] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MzcmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUzNw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e55]: 엔터테인먼트
+                                  - generic [ref=f281e56]: "김선호·추영우·김가영 등, ‘2026 케이 월드 드림 어워즈’ 시상자로 참석 ::"
+                              - cell [ref=f281e57]:
+                                - link "포토 · 동영상 [S포토] 비비, '부끄럽사와요' ::" [ref=f281e58] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0ODgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQ4OA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e60]: 포토 · 동영상
+                                  - generic [ref=f281e61]: "[S포토] 비비, '부끄럽사와요' ::"
+                              - cell [ref=f281e62]:
+                                - link "사회 잠실 올림픽공원 '이승만 부스' 운영…책과 사진으로 건국사 조명 ::" [ref=f281e63] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUwNTgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTA1OA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e65]: 사회
+                                  - generic [ref=f281e66]: "잠실 올림픽공원 '이승만 부스' 운영…책과 사진으로 건국사 조명 ::"
+                            - row [ref=f281e67]:
+                              - cell [ref=f281e68]:
+                                - link "[AD]\"안구건조증\" 찌꺼기 쭉 뽑아낸 비법" [ref=f281e69] [cursor=pointer]:
+                                  - /url: https://ad-log.dable.io/services/stardailynews.co.kr%2Ftdi/users/72709703.1786417508115/campaigns/UYLqfA87qFP_IsWYPGUgcA/contents/tAIs6SdJEdcJIk5Uwc4voQ/click_redirect?q=N4IgTgpgjgrhDOAXA%2BoglgWwiAXCAjAOwAcAbACxECsph55AzCADQgQAeADmpACa4gAKnAAEAQRgBzEfnwiATAAZ5pEYoY5FpTYREBxALKCA1IrOKRACgDCAe1theaAHYBDRBF4iAqs7QA3CDB4VwAbEUFMCABKFhA0DwxkAGN3AUAV0cAGRcAZRcAPccAeLsAOpbjOV0lsHHxWMFdnAGtcRWroOCRkNH48ADNCQlcqckJeACN5YgYIBi0u8mSIKmoJ-HlyLvxkuOGO5Eh4TltneAh2zpAt3h2EBmcoeTQqBgx4W3kAd2IATyo455gwOYEAyoVHkTFYiFsiDCyFK5QE%2BDifzQAgAFohEJx4DgAPTY174gB0SFcjlcaFCH2cEFe8AJyVsBLqYGxVJp2JJ6GSoQgADU0NSCWiMKEAPwddjOWwAXiBILBIBgRzAyFCtUkAjqtjirw65RQHQEpFsDAA8gBNACcBi1rGSKNqVNCAkAOrOADVXABdNyAAkgAxAkAISoyGJzl4JP4rCwiBRtlOhAJ5AJ8sloVs6rwijiUMkBrwRtNlutAGIEawXIFnBCwB8TvCKKRiAAffPmq02kDwVOIXBVDtoABeFRA8k2204YDQALw%2BCoBNIDHI8gtm1jNe5zkk0cBxBHrF4e2QUZjF0CwTQBwEvDcyE1kFch8QoTMxGQXRgoVCh9jEE-yFIQeQVxeFSUN5GQZBeAgLpXHfbtWHOFI-jAAQAGkACUAHU4kwTha2nOJIKcVIPAuXMQCmM0AA0UItBgAFEMBQuIOG7PBgAAHRAekME4CB0HQA5UA%2BXjOJweRmE48dPEnATnFQEk9VEyTkkQZJ-DATiJPAWo6mQYYPiUs4xwnOZNM4tB4D07ZU0kYNXB47leFEpplMQZUMG-T9bBgDEfOcglFCoYhFEYQh8HGBhguWUgLSoLTODU9zPOQbzfMQfzzGUWhlGIYLiCoWjCDi1zlVSUI0Aymd50XC1xhWILyAtUh4sSlIwgqxoAvwLQtHrB5emCwhSHE1zWo8yCvJ8zg-M6zLFBnRraPoWLKCoRRCCXFrVPUtryoyzL8H-Hc6CK8hiHIAZCAtLTkgS5BXmDYZRO6lyuLu15bEe56zC0izgwwDkrN4JwN2crbWr%2B-x2qcnstKQGoPEkAzcE4sBOAwMyQChMA9RSUowc427kmDP47QUiBnpuu6MFgtBOHKoJKcJ6nafp-llT%2BjAXAJt7iZp0J0DZoJ2ksgH2B5onvteomdh0qWqeJ-TRJGkAErcoHKpoBclzqi7zqa8GdvOfbzEOoL5BOgZzsu67OIQ8dJwpntZ2qnWGHq-XSCqO3jMd2X6mel3tdq929car2tuVTtIVlgSmZASD-D9xBhKdnBOOsE0DAABW8QQ6LQzHbEstwsEMjCXF4WwaRkRROIAX1HUjTgQhIIAwa5bnuR5njeT5l1YIC8KM0jEk7u4HieF53g%2BAeQB1OSHanAgg5q7UXEQsBIGcZIPlQzC4kkXhx0aW0yI2whFAtS%2BGAJIgyEoIrFGIWRvlYVV%2Bw%2BVMgNP%2BJLIgHe1ZOAkVhn-e6JJOCNHrkAA
+                              - cell [ref=f281e72]:
+                                - link "엔터테인먼트 [Poll] 장원영·아이유·고윤정, “너무 잘 나가서 질투 난다”…네티즌이 뽑은 스타 3인방 ::" [ref=f281e73] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MjImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUyMg%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e75]: 엔터테인먼트
+                                  - generic [ref=f281e76]: "[Poll] 장원영·아이유·고윤정, “너무 잘 나가서 질투 난다”…네티즌이 뽑은 스타 3인방 ::"
+                              - cell [ref=f281e77]:
+                                - link "경제 [용돈퀴즈] 캐시닥·타임스프레드 돈버는 용돈 퀴즈 정답 8월 10일 11시 공개 ::" [ref=f281e78] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzNzMmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTM3Mw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e80]: 경제
+                                  - generic [ref=f281e81]: "[용돈퀴즈] 캐시닥·타임스프레드 돈버는 용돈 퀴즈 정답 8월 10일 11시 공개 ::"
+                              - cell [ref=f281e82]:
+                                - link "경제 [용돈퀴즈] 캐시닥·타임스프레드 돈버는 용돈 퀴즈 정답 8월 10일 12시 공개 ::" [ref=f281e83] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0MzAmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQzMA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e85]: 경제
+                                  - generic [ref=f281e86]: "[용돈퀴즈] 캐시닥·타임스프레드 돈버는 용돈 퀴즈 정답 8월 10일 12시 공개 ::"
+                              - cell [ref=f281e87]:
+                                - link "엔터테인먼트 MBC '최우수산' 1.7%로 종영, 연장 갈망 끝내 좌절 ::" [ref=f281e88] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0NTImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQ1Mg%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e90]: 엔터테인먼트
+                                  - generic [ref=f281e91]: "MBC '최우수산' 1.7%로 종영, 연장 갈망 끝내 좌절 ::"
+                              - cell [ref=f281e92]:
+                                - link "문화 · 생활 디다, 빌리 츠키 브랜드 모델 발탁…신규 캠페인 진행 ::" [ref=f281e93] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzNDcmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTM0Nw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e95]: 문화 · 생활
+                                  - generic [ref=f281e96]: "디다, 빌리 츠키 브랜드 모델 발탁…신규 캠페인 진행 ::"
+                              - cell [ref=f281e97]:
+                                - link "이슈 스타트렌드 여자 트롯 1위 길려원, “외할머니가 불러준 딸기가수”...딸기와 각별한 인연 ::" [ref=f281e98] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0MDkmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQwOQ%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e100]: 이슈
+                                  - generic [ref=f281e101]: "스타트렌드 여자 트롯 1위 길려원, “외할머니가 불러준 딸기가수”...딸기와 각별한 인연 ::"
+                              - cell [ref=f281e102]:
+                                - link "포토 · 동영상 [S포토] 이민호, '새하얀 이민호' ::" [ref=f281e103] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzNjYmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTM2Ng%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e105]: 포토 · 동영상
+                                  - generic [ref=f281e106]: "[S포토] 이민호, '새하얀 이민호' ::"
+                              - cell [ref=f281e107]:
+                                - link "엔터테인먼트 리센느 ‘Pretty Girl’ 활동, 팬 설문서 긍정적 평가…만족 응답 76.8% ::" [ref=f281e108] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzMzQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTMzNA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e110]: 엔터테인먼트
+                                  - generic [ref=f281e111]: "리센느 ‘Pretty Girl’ 활동, 팬 설문서 긍정적 평가…만족 응답 76.8% ::"
+                            - row [ref=f281e112]:
+                              - cell [ref=f281e113]:
+                                - link "[AD]알고 보니 간단했던 '쥐젖' 사라지는 해결방법" [ref=f281e114] [cursor=pointer]:
+                                  - /url: https://ad-log.dable.io/services/stardailynews.co.kr%2Ftdi/users/72709703.1786417508115/campaigns/E5uUSLejTrRqP3CAYFO_Mg/contents/pOaJ5DgglkvoH_v_mR0JJA/click_redirect?q=N4IgTgpgjgrhDOAXA%2BoglgWwiAXCAjAOwAcAbACxECsph55AzCADQgQAeADmpACa4gAKnAAEAQRgBzEfnwiATAAZ5pEYoY5FpTYREBxALKCA1IrOKRACgDCAe1theaAHYBDRBF4iAqs7QA3CDB4VwAbEUFMCABKFhA0DwxkAGN3AUAV0cAGRcAZRcAPccAeLsAOpbjOV0lsHHxWMFdnAGtcKvBoOCRkNH48ADNCQlcqckJeACN5YgYIBi0u8mSIKmoJ-HlyLvxkuOGO5Eh4TltneAh2zpAt3h2EBmcoeTQqBgx4W3kAd2IATyo455gwOYEAyoVHkTFYiFsiDCyFK5QE%2BDifzQAgAFohEJx4DgAPTY174gB0SFcjlcaFCH2cEFe8AJyVsBLqYGxVJp2JJ6GSoQgADU0NSCWiMKEAPwddjOWwAXiBILBIBgRzAyFCtUkAjqtjirw65RQHQEpFsDAA8gBNACcBi1rGSKNqVNCAkAOrOADVXABdNyAAkgAxAkAISoyGJzl4JP4rCwiBRtlOhAJ5AJ8sloVs6rwijiUMkBrwRtNlutAGIEawXIFnBCwB8TvCKKRiAAffPmq02kDwVOIXDyVjwNAALwqIHkm22nDAaABeHwigJxEUVEUpbOsZr3OckmjgOIo9YvD2yCjMYugWCaAOAl4bmQmsgriPiFCZmIyC6MFCoSPsYgX%2BQpCDZBXF4VJQ3kZBkF4CAulcD9u1Yc4Uj%2BMABAAaQAJQAdTiTBOFrPA9xAKCnFSDwLlzEApjNAANVCLQYABRDBULiDhuzwYAAB0QHpDBOAgdB0AOVAPn47icF7biJ08KchOcVAST1cSpOSRBkn8MBuOYbianqZBhg%2BZSznHSc5i07i0HgfTtlTSRg1cPjuV4cTFG0kBOFU5UMB-L9bBgDF-JcgllAYEhCAtchgUUYgLRoC0qhUjTvyg3z-M4QLcDncwzBWfAGAtYhiFkBhyHUBglAYNyPMQZVUlCNAgrMBYIoGQYLXkah5Hoqr1NqsIGsy4LlyoQgAPIMYBimC1osk9zVN65Lf2QPyAsQcSqAJOhQSK4gqBi6LSC6qgIAAWmIHq1KSuqBpwYgCXwGLxo6h75A6xRyFIU7zu45IPOQV5g2GcT8AbNzfuSf7bEB8SxlciyrPgDAOWs3gnE3YGLoWyzkH8frnMaNykBqDxJEM3AdM4DBzJAKEwD1FJShcsG-vgP47UUiAMZ%2Bv6MDgtBOHqoIuZ4nm%2BYF-llWxjAXCZ7mId50J0HFoJ2ispH2FlkXkhhhdmYh3S6h1uGtf0smJIu5Vzkaxd8Ba%2Bhwo6wgQW6lTLstjpxLuh6Ite2Rdzej6vrcxCJynTnGjnBcl3wD7Zy6xd5EIYOTLDnZakNxpE1awh5AGB7FGm3cLeDLs06EoKtsKpQ8vKgvXotNyoP8VPEFE8OcG46wTQMAAFbxBAY9DqdsKy3CwIzMJcXhbBpGRFG4gBfMdyNORCEggDBrlue5HmeN5PlcOJgPw4zyMSLe7geJ4XneD5D9YHV5ND6cCEjxdl21FwkLASBnGSD40JYTiJIXgE5Mq2gojnQgBdoEMHuiQCg1BoqyG%2BKwVUA4PipmAuA%2BIVkIB-2rJwMiBNcH-RJJwTKC8gA
+                              - cell [ref=f281e117]:
+                                - link "엔터테인먼트 주말드라마 '사랑이 온다', 8년 후 인물들의 변화 그려 ::" [ref=f281e118] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDQ4OTMmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NDg5Mw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e120]: 엔터테인먼트
+                                  - generic [ref=f281e121]: "주말드라마 '사랑이 온다', 8년 후 인물들의 변화 그려 ::"
+                              - cell [ref=f281e122]:
+                                - link "엔터테인먼트 '6시내고향' 대구 군위에서 만나는 골든볼 이야기 ::" [ref=f281e123] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0OTEmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQ5MQ%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e125]: 엔터테인먼트
+                                  - generic [ref=f281e126]: "'6시내고향' 대구 군위에서 만나는 골든볼 이야기 ::"
+                              - cell [ref=f281e127]:
+                                - link "엔터테인먼트 '오늘N' 촌집 전성시대, 4대째 지켜온 보령 99칸 고택 ::" [ref=f281e128] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0MjImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQyMg%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e130]: 엔터테인먼트
+                                  - generic [ref=f281e131]: "'오늘N' 촌집 전성시대, 4대째 지켜온 보령 99칸 고택 ::"
+                              - cell [ref=f281e132]:
+                                - link "문화 · 생활 태풍·장마에 실내 습도 관리 관심…우즈, 저온 제습기 시장 공략 ::" [ref=f281e133] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzNTAmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTM1MA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e135]: 문화 · 생활
+                                  - generic [ref=f281e136]: "태풍·장마에 실내 습도 관리 관심…우즈, 저온 제습기 시장 공략 ::"
+                              - cell [ref=f281e137]:
+                                - link "엔터테인먼트 ‘7번 이강인’ 서울이 들썩였다…아틀레티코 데뷔전부터 특별 입단식까지 ::" [ref=f281e138] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MTcmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUxNw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e140]: 엔터테인먼트
+                                  - generic [ref=f281e141]: "‘7번 이강인’ 서울이 들썩였다…아틀레티코 데뷔전부터 특별 입단식까지 ::"
+                              - cell [ref=f281e142]:
+                                - link "문화 · 생활 전라남도 함평, 문화와 자연이 어우러진 가볼 만한 곳 ::" [ref=f281e143] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDQ3MjImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NDcyMg%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e145]: 문화 · 생활
+                                  - generic [ref=f281e146]: "전라남도 함평, 문화와 자연이 어우러진 가볼 만한 곳 ::"
+                              - cell [ref=f281e147]:
+                                - link "엔터테인먼트 이강인, 아틀레티코 마드리드 데뷔·입단식 진행하며 '2026 쿠팡플레이 시리즈' 성료 ::" [ref=f281e148] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0NDMmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQ0Mw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e150]: 엔터테인먼트
+                                  - generic [ref=f281e151]: "이강인, 아틀레티코 마드리드 데뷔·입단식 진행하며 '2026 쿠팡플레이 시리즈' 성료 ::"
+                              - cell [ref=f281e152]:
+                                - link "문화 · 생활 서울예술단, 창작가무극 ‘청사초롱 불 밝혀라’ 외국인 관객 프로그램 운영 ::" [ref=f281e153] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzNTEmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTM1MQ%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e155]: 문화 · 생활
+                                  - generic [ref=f281e156]: "서울예술단, 창작가무극 ‘청사초롱 불 밝혀라’ 외국인 관객 프로그램 운영 ::"
+                            - row [ref=f281e157]:
+                              - cell [ref=f281e158]:
+                                - link "엔터테인먼트 넷플릭스 '이런 엿같은 사랑' 글로벌 2위, 정해인 순애보에 설렘 폭발 ::" [ref=f281e159] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0NTQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQ1NA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e161]: 엔터테인먼트
+                                  - generic [ref=f281e162]: "넷플릭스 '이런 엿같은 사랑' 글로벌 2위, 정해인 순애보에 설렘 폭발 ::"
+                              - cell [ref=f281e163]:
+                                - link "엔터테인먼트 '궁금한 이야기 Y' 현관문 위협하는 앞집 여자의 실체 ::" [ref=f281e164] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUwODEmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTA4MQ%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e166]: 엔터테인먼트
+                                  - generic [ref=f281e167]: "'궁금한 이야기 Y' 현관문 위협하는 앞집 여자의 실체 ::"
+                              - cell [ref=f281e168]:
+                                - link "포토 · 동영상 [S포토] 레드벨벳 조이, '이리컴' ::" [ref=f281e169] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzMTQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTMxNA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e171]: 포토 · 동영상
+                                  - generic [ref=f281e172]: "[S포토] 레드벨벳 조이, '이리컴' ::"
+                              - cell [ref=f281e173]:
+                                - link "이슈 “대세 행보 계속” 리센느, 스타트렌드 투표 29만 표…9월 성수 무대 출격 ::" [ref=f281e174] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MDEmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUwMQ%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e176]: 이슈
+                                  - generic [ref=f281e177]: "“대세 행보 계속” 리센느, 스타트렌드 투표 29만 표…9월 성수 무대 출격 ::"
+                              - cell [ref=f281e178]:
+                                - link "엔터테인먼트 ‘미운 우리 새끼’ 김준호, 제주도 찾아 탁재훈 59세 생일 축하 ::" [ref=f281e179] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzMzAmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTMzMA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e181]: 엔터테인먼트
+                                  - generic [ref=f281e182]: "‘미운 우리 새끼’ 김준호, 제주도 찾아 탁재훈 59세 생일 축하 ::"
+                              - cell [ref=f281e183]:
+                                - link "엔터테인먼트 '6시내고향' 전남광주 진도, 멸치에 담긴 바다의 맛 ::" [ref=f281e184] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU0OTAmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQ5MA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e186]: 엔터테인먼트
+                                  - generic [ref=f281e187]: "'6시내고향' 전남광주 진도, 멸치에 담긴 바다의 맛 ::"
+                              - cell [ref=f281e188]:
+                                - link "스포츠 서울시청 여자핸드볼팀, 진천서 대표팀과 합동훈련…“전국체전까지 경기력 끌어올린다” ::" [ref=f281e189] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MTkmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUxOQ%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e191]: 스포츠
+                                  - generic [ref=f281e192]: "서울시청 여자핸드볼팀, 진천서 대표팀과 합동훈련…“전국체전까지 경기력 끌어올린다” ::"
+                              - cell [ref=f281e193]:
+                                - link "엔터테인먼트 최예나, ‘워터밤 부산 2026’ 출연…‘캐치 캐치’ 등 7곡 무대 ::" [ref=f281e194] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzMzkmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTMzOQ%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e196]: 엔터테인먼트
+                                  - generic [ref=f281e197]: "최예나, ‘워터밤 부산 2026’ 출연…‘캐치 캐치’ 등 7곡 무대 ::"
+                              - cell [ref=f281e198]:
+                                - link "엔터테인먼트 성훈, ‘보스의 노골적 취향’ 출연…AI 천재 권도혁 역 ::" [ref=f281e199] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MzYmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUzNg%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e201]: 엔터테인먼트
+                                  - generic [ref=f281e202]: "성훈, ‘보스의 노골적 취향’ 출연…AI 천재 권도혁 역 ::"
+                            - row [ref=f281e203]:
+                              - cell [ref=f281e204]:
+                                - link "경제 [돈버는퀴즈 정답] 캐시워크 정답 8월10일 11시 돈버는 퀴즈 정답 공개 ::" [ref=f281e205] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzNzImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTM3Mg%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e207]: 경제
+                                  - generic [ref=f281e208]: "[돈버는퀴즈 정답] 캐시워크 정답 8월10일 11시 돈버는 퀴즈 정답 공개 ::"
+                              - cell [ref=f281e209]:
+                                - link "엔터테인먼트 [OTT] ‘이강인부터 김민재까지’ 유럽파 한눈에…SPOTV NOW, 26-27시즌 ‘챔스패스’ 출시 ::" [ref=f281e210] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MTgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUxOA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e212]: 엔터테인먼트
+                                  - generic [ref=f281e213]: "[OTT] ‘이강인부터 김민재까지’ 유럽파 한눈에…SPOTV NOW, 26-27시즌 ‘챔스패스’ 출시 ::"
+                              - cell [ref=f281e214]:
+                                - link "엔터테인먼트 ‘불꽃야구2’ 불꽃 파이터즈-울산 웨일즈 맞대결…이대호·신재영 출전 ::" [ref=f281e215] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzMzgmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTMzOA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e217]: 엔터테인먼트
+                                  - generic [ref=f281e218]: "‘불꽃야구2’ 불꽃 파이터즈-울산 웨일즈 맞대결…이대호·신재영 출전 ::"
+                              - cell [ref=f281e219]:
+                                - link "엔터테인먼트 김용빈 단독 콘서트 ‘세레나데’, 티켓 오픈과 동시에 전석 매진 ::" [ref=f281e220] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MzQmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUzNA%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e222]: 엔터테인먼트
+                                  - generic [ref=f281e223]: "김용빈 단독 콘서트 ‘세레나데’, 티켓 오픈과 동시에 전석 매진 ::"
+                              - cell [ref=f281e224]:
+                                - link "엔터테인먼트 황가람 ‘나는 반딧불’, 유튜브 뮤직 누적 재생 1억 회 돌파 ::" [ref=f281e225] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MzImY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUzMg%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e227]: 엔터테인먼트
+                                  - generic [ref=f281e228]: "황가람 ‘나는 반딧불’, 유튜브 뮤직 누적 재생 1억 회 돌파 ::"
+                              - cell [ref=f281e229]:
+                                - link "엔터테인먼트 AI 아티스트 프로젝트 ‘ryft’, 첫 아티스트 SLIKT 데뷔…참여형 세계관 선봬 ::" [ref=f281e230] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzNTMmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTM1Mw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e232]: 엔터테인먼트
+                                  - generic [ref=f281e233]: "AI 아티스트 프로젝트 ‘ryft’, 첫 아티스트 SLIKT 데뷔…참여형 세계관 선봬 ::"
+                              - cell [ref=f281e234]:
+                                - link "엔터테인먼트 오드유스, 8월 19일 세 번째 싱글 ‘can’t go back’ 발매 ::" [ref=f281e235] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzOTMmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTM5Mw%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e237]: 엔터테인먼트
+                                  - generic [ref=f281e238]: "오드유스, 8월 19일 세 번째 싱글 ‘can’t go back’ 발매 ::"
+                              - cell [ref=f281e239]:
+                                - link "엔터테인먼트 개그맨 오지헌 일타강사 아버지, 월수입 5천만원 고백 ::" [ref=f281e240] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDUzNTYmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTM1Ng%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e242]: 엔터테인먼트
+                                  - generic [ref=f281e243]: "개그맨 오지헌 일타강사 아버지, 월수입 5천만원 고백 ::"
+                              - cell [ref=f281e244]:
+                                - link "엔터테인먼트 ‘불꽃야구2’, 불꽃 파이터즈 3-2로 울산 웨일즈에 승리 ::" [ref=f281e245] [cursor=pointer]:
+                                  - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT02MC4xLjEmY2hhbm5lbD0lRUMlQjUlOUMlRUQlOTUlOTglRUIlOEIlQThfSUYuQjVfc3RhbmRhcmQmcmVjb190eXBlPWhvdC1pdGVtcyZ1aWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZ3aWRnZXRfaWQ9Nm8zT1k5TW8mcmVxdWVzdF9pZD1mNzdhNTQ3ZGIyODNlMzA2ZjRjZTUxNzUzZTEyNGYxYyZ1YT1Nb3ppbGxhJTJGNS4wJTIwKFdpbmRvd3MlMjBOVCUyMDEwLjAlM0IlMjBXaW42NCUzQiUyMHg2NCklMjBBcHBsZVdlYktpdCUyRjUzNy4zNiUyMChLSFRNTCUyQyUyMGxpa2UlMjBHZWNrbyklMjBDaHJvbWUlMkYxNTEuMC43OTIyLjEwOSUyMFNhZmFyaSUyRjUzNy4zNiZyZWY9JmNpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JmJvZHlfbGVuZ3RoPTU4Mg%3D%3D&p=cGljaz01NDU1MjUmY209NjAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUyNQ%3D%3D&r=NobwRAlgJmBcYFYAsyDMSwBowFsCmALgBYD2M8AbAAwB0AjPWAL6bjRyIpda6Gnlhq9RizYDkCVAHYATD3zEyHIQzrNWkcVyoAOeXyWVaq9WI4SEMudgX9lxkRvbxkSHQE5U+xQJWOzLii6ajYGvg5qoprmKAh0eqE+9sKRTlqSMlLedkYpptGBklJeiTmCEfnOnMjuIbxJuSZRVRKodBilhuV5zemoqAn1ZX6pAdV00tldI5XpSKhUU+E9aTHIVkvJTauFCFR1ttMVvWuSHUNHK2MSSLKbjf4F1SjWF8vb1yioe-fdH0+tBa-GYnXaoV6Hd6PFqxGQHMJbaF9W7A447apxLKdKGjAFcdyLbGI3EwySSVFXPEIIoU-6kpBUdy0pExW4bIkPEnpOJMjl-FmFVCeZlctZuQaQ4mzNaoCgUEXSwpIeYK0HVfq8t5StWtBDyvkg9ESKgICUIzmK9XoVVGr5xG2famyh1UywIF30pCayUWnVcCjnH380VKuEe7lULFa3226lUCHm4OW1wUcHhmUeVUAXSAA&r_start=0&r_end=43
+                                  - generic [ref=f281e247]: 엔터테인먼트
+                                  - generic [ref=f281e248]: "‘불꽃야구2’, 불꽃 파이터즈 3-2로 울산 웨일즈에 승리 ::"
+                        - generic [ref=f281e249]:
+                          - generic [ref=f281e250] [cursor=pointer]
+                          - generic [ref=f281e252]:
+                            - generic [ref=f281e253] [cursor=pointer]
+                            - generic [ref=f281e254] [cursor=pointer]
+                            - generic [ref=f281e255] [cursor=pointer]
+                          - generic [ref=f281e256] [cursor=pointer]
+                      - link "by Dable" [ref=f281e258] [cursor=pointer]:
+                        - /url: https://static.dable.io/static/html/introduction.html
+                        - text: by
+                        - generic [ref=f281e259]: Dable
+              - complementary [ref=f261e295]:
+                - generic [ref=f261e300]:
+                  - iframe [ref=f261e301]:
+                    - iframe [ref=f265e4]:
+                      - generic [ref=f288e3]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link:
+                                - /url: https://www.moloco.com/advertising-policy
+                        - link [ref=f288e5] [cursor=pointer]:
+                          - /url: https://eventfnt-asia.dsp-api.moloco.com/rtb/click?exchange=ADX_RTB&imp_id=TtHzdhr3Q0KCS8IvRaEaCA&info=ChBgAnPj6WhNuokDal_rFSOCEJ-j6tMGGhQIDhoQDzvmttY3STWl7s4qSugCuyACKgAyAA&campaign_name=dQfSVXYQCRnJ3sKu&dcr=
+                  - link [ref=f261e302] [cursor=pointer]:
+                    - /url: https://adwiser.kr/
+                - link [ref=f261e307] [cursor=pointer]:
+                  - /url: https://www.sevenedu.net/
+                - generic [ref=f261e309]:
+                  - iframe [ref=f261e314]:
+                    - generic [ref=f279e1]:
+                      - generic [ref=f279e4]:
+                        - heading "이시각 주요 콘텐츠" [level=1] [ref=f279e5]
+                        - generic [ref=f279e9]:
+                          - link "AD \"안구건조증\" 찌꺼기 쭉 뽑아낸 비법" [ref=f279e11] [cursor=pointer]:
+                            - /url: https://ad-log.dable.io/services/stardailynews.co.kr%2Ftdi/users/72709703.1786417508115/campaigns/7kv7vxb968-PnA9uaaMMAg/contents/DnoC5rGq_zw565FjdvIiCQ/click_redirect?q=N4IgTgpgjgrhDOAXA%2BoglgWwiAXCAjAOwAcAbACxECsphATAAwCcIANCBAB4AOakAJrhAAVOAAIAgjADmY-PjGM6pMQwDMOBqU2ExAcQCywgNQMzDMQAoAwgHtbYfmgB2AQ0QR%2BYgKrO0ANwgweFcAGzFhTAgASjYQNA8MZABjdyFAFdHABkXAGUXAD3HAHi7ADqW47ldpbBx8djBXZwBrXAZq6DgkZDRBPBJ%2BOmTkqiZXIdI1ZKZiV1IAIzUmZMJXfDpXcin8CFI4qY7kSHhuW2d4CHbOkG3%2BXYQqfgBPOigMeFs6AHdieAArOOeYMGSKiAqOQqFQ6Go4ohbIgwshSuUhPg4n80EIABaIRDceA4AD0uNehIAdEhXI5XGhQrdnBBXvAiclbES6mBcTS6biyehkqEIAA1NC0okYjChAD8HU4zlsAF5gaDwcjjmBkKFatIhHVbHFXh1yigOkIAF6hfwYABCAAUDIQ4sk0bUaaEhIAGscAhHOADVXABdNyFygAY6ong9TIYQIRBxLCING2M6EInkIkQ9jS0K2DV4BiQsqGvAms1Wm0AYiR7BcgWcULAt1OiIopGIAB88xbrbb2PBU%2BHKu20EbAUnzjtuGA0AChHHaPIS%2BcY9Xec5pFGhFRiHQ4vx9shI9HLoFgmhDkJ%2BG5kFrIK4t4hQmZiMgAGYwUKhLcxiDP5CkKjIZCufipZw9N%2B-AQHeriPuG7AXCkfxgEIADSABKADqcSYNwNZ4NOwFOKkHiXDmQKhN45AAIoMMkzgSBgcRcF2IDAAAOiAjIYNwEDoOghyoLcbFMTgdCsExw6eKOnHOKgZL6nxQnJIgyT%2BGATGCeAtR1MgUy3NJg6XMOo4QEpTFoPA6k7Km0jICErG8vwfFNDJiAqhgr7PrYMBYm5tlEuoyiEKQDCUEspB0FQSwCTJCkvsBLludwHmNF55gMMQvn4MQq4kPg4x0OQdBhSA3CySqqShGgnlmL5hBToQJDBUwdDVWo5DKQVEXFaV8VmOQajELMdD4EFai5Uw4wMFQzWyfJjnOcgrnuYgfF0ESZBqOoFA0MQDD9WohBUBAAC0hDjXJrVhO1OBqImQVMFQJCUMwzCEOQ5D7YdTHJAVyCvBZUx8fgZjKe9ySfbY32-f9hnGfAGBciZ-BOAutlHZN7TGf4p02bgVRMUgNQeNImm4ExYDcBgBkgDCYD6ikpSI29H3wH89qSfpmMAx9GDgWg3AlUEv1s0DHOhOg3OCiqRlbi4tPMeznMi0EKNbq4nBS4DYN2dLQM1PUav8%2BpBP8UdKoXGVDAVVVNUDPVhCNUjEXG7gF1qFdN3EHdTAPU9L3KVBukAnxE6VfI1WrpbDXe0OI4Arsqn%2B0Sk5BxbdVh-ZKodtC0ecXzTHAf4encbxhMgNYADyBiWt4wgAKIIWTtjGW4WBaUhLj8LYdJyAwTEAL5bDsBFQQkEAYDc9yPM8bwfM4cS-hh2ntIkI8PE8LzvPAU-sLq4m%2B4CAdTjqLjQWAkDOMktzwchcTSPww6NOwyQEfQhAPeoRJEGQlA7Ul8hUHEapGrcqZfy33iMZCAJ8qzcDwqzEBn0yTcEaF3IAA
+                            - generic [ref=f279e12]: AD
+                            - generic [ref=f279e15]: "\"안구건조증\" 찌꺼기 쭉 뽑아낸 비법"
+                          - link "AD 해외에서도 난리난 '기미' 방지하는 방법은?" [ref=f279e17] [cursor=pointer]:
+                            - /url: https://ad-log.dable.io/services/stardailynews.co.kr%2Ftdi/users/72709703.1786417508115/campaigns/w2Tw-kmInPXtqjFTQv3dCQ/contents/ZM4ViM_7XhLdG9J8QCLihg/click_redirect?q=N4IgTgpgjgrhDOAXA%2BoglgWwiAXCAjAOwAcAbACxECsphATAAwCcIANCBAB4AOakAJrhAAVOAAIAgjADmY-PjGM6pMQwDMOBqU2ExAcQCywgNQMzDMQAoAwgHtbYfmgB2AQ0QR%2BYgKrO0ANwgweFcAGzFhTAgASjYQNA8MZABjdyFAFdHABkXAGUXAD3HAHi7ADqW47ldpbBx8djBXZwBrXCrwaDgkZDRBPBJ%2BOmTkqiZXIdI1ZKZiV1IAIzUmZMJXfDpXcin8CFI4qY7kSHhuW2d4CHbOkG3%2BXYQqfgBPOigMeFs6AHdieAArOOeYMGSKiAqOQqFQ6Go4ohbIgwshSuUhPg4n80EIABaIRDceA4AD0uNehIAdEhXI5XGhQrdnBBXvAiclbES6mBcTS6biyehkqEIAA1NC0okYjChAD8HU4zlsAF5gaDwcjjmBkKFatIhHVbHFXh1yigOkIAF6hfwYABCAAUDIQ4sk0bUaaEhIAGscAhHOADVXABdNyFygAY6ong9TIYQIRBxLCING2M6EInkIkQ9jS0K2DV4BiQsqGvAms1Wm0AYiR7BcgWcULAt1OiIopGIAB88xbrbb2PBU%2BGcHR22gjYCk%2BcdtwwGgAUIE2pCGoGCXzjHq7znNIo0IqMQ6HF%2BPtkJHo5dAsE0IchPw3MgtZBXLvEKEzMRkAAzGChUK7mMQN-IUhUZDIVz8Kkzg9H%2B-AQI%2BrgvuG7AXCkfxgEIADSABKADqcSYNwNZ4Ju7BgU4qQeJcOZAqE3jkAAigwyTOBIGBxFwXYgMAAA6ICMhg3AQOg6CHKgtxcWx3asGxI6eGOvHOKgZL6kJonJIgyT%2BGAbEieAtR1MgUy3HJQ6XCOY4QKpbFoPAWk7Km0jICEnG8vwQkMGp3AKSqGAfm%2BtgwFiXkOUSs50MQ65qGoSzqOQpBaEwahOUprnucgnneYgvnmGYdB0Ew5CECQG5qIFdBULMMWICqqShGgKUMHQIJ0NO8hqAVDDTtVPbycpKRhBVuAMH5s5UPgsxUIQTDZRl5BMHQ%2BBMMVsXvmBHledwPm4HQRJMFQTVVaQ%2BCgiQszBRAAC0xAze1ZVdTgahEoQA3BfgZDkJNTBNfgpBHSdbHJM5yCvNZUxCfg5DkGpX3JD9th-UJ1WOSZZnwBgXLmfwTjLgDp0qqZyD%2BJ19mNGpSA1B40g6bgbFgNwGDGSAMJgPqKSlA5IPffAfz2jJRl45930YFBaDcOVQRo1zYM86E6D84KGNmRgLiM8Lu68xLQTtNLricHL7HOVD5Aw5rYM1PU2u66DWkk8J8klUjlXVWCdUDY1zWPejVu4FdN3BSFD1PS9b3HWpsEGQCQmTtOfU61OWWgtNbEB6OAK7BpQlUESxBkKCWX3bOhBDR9IDOZbHbQgnvG%2BYQj2p4wt2MBNGVqWB-iGfxgmkyA1gAPIGJa3jCAAoshVO2GZbhYLpqEuPwth0nIDBsQAvlsOwkbBCQQBgNz3I8zxvB82rsAB2F6e0iTrw8TwvO8zw6i4cJx4CIcznOupSck8EQM4yS3EhaFxNI-Ajt17BkgkXoIQZgoCrpEAetQBgxB5BUDiGqI0txUwAQAfEMyb9khVm4ERPG6Cfpkm4N1WeQA
+                            - generic [ref=f279e18]: AD
+                            - generic [ref=f279e21]: 해외에서도 난리난 '기미' 방지하는 방법은?
+                          - link "[Poll] 장원영·아이유·고윤정, “너무 잘 나가서 질투 난다”…네티즌이 뽑은 스타 3인방 ::" [ref=f279e23] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT01MC4xLjEmY2hhbm5lbD0lRUMlOUElQjAlRUMlQjglQTElRUQlOTUlOTglRUIlOEIlQThfJUVDJTlEJUI4JUVBJUI4JUIwLjIzMDNfVGVzdCZyZWNvX3R5cGU9aG90LWl0ZW1zJnVpZD03MjcwOTcwMy4xNzg2NDE3NTA4MTE1JndpZGdldF9pZD16bHZtQlBNNyZyZXF1ZXN0X2lkPTc4ZDJjYzU5YWFhNjNjOThhNmIzOWM3YTEyYTRiMWU2JnVhPU1vemlsbGElMkY1LjAlMjAoV2luZG93cyUyME5UJTIwMTAuMCUzQiUyMFdpbjY0JTNCJTIweDY0KSUyMEFwcGxlV2ViS2l0JTJGNTM3LjM2JTIwKEtIVE1MJTJDJTIwbGlrZSUyMEdlY2tvKSUyMENocm9tZSUyRjE1MS4wLjc5MjIuMTA5JTIwU2FmYXJpJTJGNTM3LjM2JnJlZj0mY2lkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmYm9keV9sZW5ndGg9NTgy&p=cGljaz01NDU1MjImY209NTAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUyMg%3D%3D&r=NobwRAlgJmBcYFYAsCECY1gDRgLYFMAXACwHsZ4EAGAOgEZ6wBfLcaORFBAZkxwJLkO1eoxZsKnZMmx4iZSSIZ1mrSIq50AHLIELhtZaonCuSFf3lDKhsWvaUUSbkl1XFtlePWnU3AGxugh6iXvYaqGgWcsEGocY+jn6ulrE28UwAukA&r_start=0&r_end=1
+                          - link "AD 지루성두피염, 재발 원인 밝혀져 (+해결법)" [ref=f279e28] [cursor=pointer]:
+                            - /url: https://ad-log.dable.io/services/stardailynews.co.kr%2Ftdi/users/72709703.1786417508115/campaigns/W2mB5A6VYZXW1jSAYhqlzw/contents/kVcWCbth-01PzfJPYTbpXg/click_redirect?q=N4IgTgpgjgrhDOAXA%2BoglgWwiAXCAjAOwAcAbACxECsphATAAwCcIANCBAB4AOakAJrhAAVOAAIAgjADmY-PjGM6pMQwDMOBqU2ExAcQCywgNQMzDMQAoAwgHtbYfmgB2AQ0QR%2BYgKrO0ANwgweFcAGzFhTAgASjYQNA8MZABjdyFAFdHABkXAGUXAD3HAHi7ADqW47ldpbBx8djBXZwBrXDpq6DgkZDRBPBJ%2BOmTkqiZXIdI1ZKZiV1IAIzUmZMJXfDpXcin8CFI4qY7kSHhuW2d4CHbOkG3%2BXYQqfgBPOigMeFs6AHdieAArOOeYMGSKiAqOQqFQ6Go4ohbIgwshSuUhPg4n80EIABaIRDceA4AD0uNehIAdEhXI5XGhQrdnBBXvAiclbES6mBcTS6biyehkqEIAA1NC0okYjChAD8HU4zlsAF5gaDwcjjmBkKFatIhHVbHFXh1yigOkIAF6hfwYABCAAUDIQ4sk0bUaaEhIAGscAhHOADVXABdNyFygAY6ong9TIYQIRBxLCING2M6EInkIkQ9jS0K2DV4BiQsqGvAms1Wm0AYiR7BcgWcULAt1OiIopGIAB88xbrbb2PBU%2BGcGp22gjYCk%2BcdtwwGgAUI1InyCRiFsY9Xec5pFGhFRiHQ4vx9shI9HLoFgmhDkJ%2BG5kFrIK4d4hQmZiMgAGYwUKhHcxiCv5CkKjIZCufipM4PS-vwEAPq4z7huwFwpH8YBCAA0gASgA6nEmDcDWeCDqBTipB4lw5kCoTeOQACKDDJM4EgYHEXBdiAwAADogIyGDcBA6DoIcqC3BxLE4E0LEjp4Y7cc4qBkvqAnCckiDJP4YAsawLE1PUyBTLcMlDpcI5jhAyksWg8AaTsqbSMgITsby-ACQwKkgNwckqhg76vrYMBYp5dlEgwSx0EspAjMQIVMGoSyEOQDlOYpb6ge5nncN5uAML55jkGoxDjOuDDEIQhAMIQVD4EwVDRc5KRhGgPlmEGaiECVYIMDQIXToQ5WxakoTVSlvn4FQ9BMEFA00HQdCgmQ5XybFrnxcgHleYgAlUImpBLP1079cNmUQAAtO1snTSqXU9d2RKkOCtCZYQ374OuQ1qHtB2sU5yCvJZUwCXQ5D2SxySva8tgfV9P0OcZlkYFypn8E4S52VNCkquD-hVbZuBVCxSA1B40habgqncBghkgDCYD6ikpTw39r3wH89pSQZ6MOf9yQ7pBaDcN1QQCRjL2sxg7Oc4KSMmRgLhU3zbOhOgQtBO0ouuJwEssyDv2S2pdSq8zr2aV9U0qhcNUMHVDWlYwLXEG1COxYbuCThdahXXlt33SMT0OTBekAgJk5qNOoVMLVhXFaVHvDqOAK7LUmu4CtYJZcolthd%2B4JRYdKodtCUfcT5pDNWC42DUw5DgmNDmgf4%2Bm8fx%2BMgNYADyBiWt4wgAKJIcTtgmW4WDaShLj8LYdJyAwLEAL5bDsREwQkEAYDc9yPM8bwfNwcT-lhOntIkC8PE8LzvPsOouHCEcDlOM7HxJyRwRAzjJLciGoXE0j8COKXsMkRH0AVTAFZORAyCUCKrleQVA4hqiNLcVM-4P7xBMnfZIVZuAESZvAt6ZI16aDHkAA
+                            - generic [ref=f279e29]: AD
+                            - generic [ref=f279e32]: 지루성두피염, 재발 원인 밝혀져 (+해결법)
+                      - link "by Dable" [ref=f279e33] [cursor=pointer]:
+                        - /url: https://static.dable.io/static/html/introduction.html
+                        - text: by
+                        - generic [ref=f279e34]: Dable
+                  - article [ref=f261e316]:
+                    - link "NOW HOT!!" [ref=f261e318] [cursor=pointer]:
+                      - /url: /news/articleList.html?sc_serial_code=SRN4&view_type=sm
+                    - generic [ref=f261e320]:
+                      - link "1 트와이스 정연, 바로엔터테인먼트와 전속계약 체결" [ref=f261e322] [cursor=pointer]:
+                        - /url: /news/articleView.html?idxno=545434
+                        - strong [ref=f261e323]: "1"
+                        - generic [ref=f261e324]:
+                          - generic [ref=f261e325]: 트와이스 정연, 바로엔터테인먼트와 전속계약 체결
+                          - emphasis [ref=f261e327]
+                      - link "2 [돈버는퀴즈 정답] 캐시워크 정답 8월10일 11시 돈버는 퀴즈 정답 공개" [ref=f261e329] [cursor=pointer]:
+                        - /url: /news/articleView.html?idxno=545372
+                        - strong [ref=f261e330]: "2"
+                        - generic [ref=f261e331]: "[돈버는퀴즈 정답] 캐시워크 정답 8월10일 11시 돈버는 퀴즈 정답 공개"
+                      - link "3 넷플릭스 '이런 엿같은 사랑' 글로벌 2위, 정해인 순애보에 설렘 폭발" [ref=f261e334] [cursor=pointer]:
+                        - /url: /news/articleView.html?idxno=545454
+                        - strong [ref=f261e335]: "3"
+                        - generic [ref=f261e336]: 넷플릭스 '이런 엿같은 사랑' 글로벌 2위, 정해인 순애보에 설렘 폭발
+                      - link "4 [돈버는퀴즈 정답] 캐시워크 정답 8월10일 11시 돈버는 퀴즈 정답 공개" [ref=f261e339] [cursor=pointer]:
+                        - /url: /news/articleView.html?idxno=545406
+                        - strong [ref=f261e340]: "4"
+                        - generic [ref=f261e341]: "[돈버는퀴즈 정답] 캐시워크 정답 8월10일 11시 돈버는 퀴즈 정답 공개"
+                      - link "5 130억대 '설거지 뷰' 하와이 저택 화제, 이찬원 \"진짜 인정\" 감탄" [ref=f261e344] [cursor=pointer]:
+                        - /url: /news/articleView.html?idxno=545408
+                        - strong [ref=f261e345]: "5"
+                        - generic [ref=f261e346]: 130억대 '설거지 뷰' 하와이 저택 화제, 이찬원 "진짜 인정" 감탄
+                      - link "6 광양시, 트로트 가수 김다현 홍보대사로 위촉" [ref=f261e349] [cursor=pointer]:
+                        - /url: /news/articleView.html?idxno=545511
+                        - strong [ref=f261e350]: "6"
+                        - generic [ref=f261e351]: 광양시, 트로트 가수 김다현 홍보대사로 위촉
+                      - link "7 [용돈퀴즈] 캐시닥·타임스프레드 돈버는 용돈 퀴즈 정답 8월 10일 12시 공개" [ref=f261e354] [cursor=pointer]:
+                        - /url: /news/articleView.html?idxno=545430
+                        - strong [ref=f261e355]: "7"
+                        - generic [ref=f261e356]: "[용돈퀴즈] 캐시닥·타임스프레드 돈버는 용돈 퀴즈 정답 8월 10일 12시 공개"
+                      - link "8 '6시내고향' 전남광주 진도, 멸치에 담긴 바다의 맛" [ref=f261e359] [cursor=pointer]:
+                        - /url: /news/articleView.html?idxno=545490
+                        - strong [ref=f261e360]: "8"
+                        - generic [ref=f261e361]: "'6시내고향' 전남광주 진도, 멸치에 담긴 바다의 맛"
+                  - iframe [ref=f261e367]:
+                    - generic [ref=f280e1]:
+                      - generic [ref=f280e4]:
+                        - heading "이 시각 주요 콘텐츠" [level=1] [ref=f280e5]
+                        - generic [ref=f280e9]:
+                          - link "[Poll] 장원영·아이유·고윤정, “너무 잘 나가서 질투 난다”…네티즌이 뽑은 스타 3인방 ::" [ref=f280e11] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT01MC4xLjEmY2hhbm5lbD0lRUMlOUElQjAlRUMlQjglQTElRUMlODMlODElRUIlOEIlQThfJUVBJUIwJTlDJUVDJTlEJUI4JUVEJTk5JTk0Lmxpc3RfMXg1JnJlY29fdHlwZT1ob3QtaXRlbXMmdWlkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmd2lkZ2V0X2lkPUdsR2dWYVpsJnJlcXVlc3RfaWQ9NmE2NTg3ZDI3NzcwMmI3ZjNmYzRlNTI5MTE2OWI3N2EmdWE9TW96aWxsYSUyRjUuMCUyMChXaW5kb3dzJTIwTlQlMjAxMC4wJTNCJTIwV2luNjQlM0IlMjB4NjQpJTIwQXBwbGVXZWJLaXQlMkY1MzcuMzYlMjAoS0hUTUwlMkMlMjBsaWtlJTIwR2Vja28pJTIwQ2hyb21lJTJGMTUxLjAuNzkyMi4xMDklMjBTYWZhcmklMkY1MzcuMzYmcmVmPSZjaWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZib2R5X2xlbmd0aD01ODI%3D&p=cGljaz01NDU1MjImY209NTAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUyMg%3D%3D&r=NobwRAlgJmBcYFYAsCECY1gDRgLYFMAXACwHsZ4EAGAOgEZ6wBfLcaORFBAZkxwJLkO1eoxZsKnZMmx4iZSSIZ1mrSIq50AHLIELhtZaonCuSFf3lDKhsWvaUUSbkl1XFtlePWnU3AGxugh6iXvYaqGgWcsEGocY+jn6ulrE28d4OUigA7EH66UaZETx5qQWInglZ0shU+daVGQC6QA&r_start=0&r_end=5
+                          - link "황가람 ‘나는 반딧불’, 유튜브 뮤직 누적 재생 1억 회 돌파 ::" [ref=f280e16] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT01MC4xLjEmY2hhbm5lbD0lRUMlOUElQjAlRUMlQjglQTElRUMlODMlODElRUIlOEIlQThfJUVBJUIwJTlDJUVDJTlEJUI4JUVEJTk5JTk0Lmxpc3RfMXg1JnJlY29fdHlwZT1ob3QtaXRlbXMmdWlkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmd2lkZ2V0X2lkPUdsR2dWYVpsJnJlcXVlc3RfaWQ9NmE2NTg3ZDI3NzcwMmI3ZjNmYzRlNTI5MTE2OWI3N2EmdWE9TW96aWxsYSUyRjUuMCUyMChXaW5kb3dzJTIwTlQlMjAxMC4wJTNCJTIwV2luNjQlM0IlMjB4NjQpJTIwQXBwbGVXZWJLaXQlMkY1MzcuMzYlMjAoS0hUTUwlMkMlMjBsaWtlJTIwR2Vja28pJTIwQ2hyb21lJTJGMTUxLjAuNzkyMi4xMDklMjBTYWZhcmklMkY1MzcuMzYmcmVmPSZjaWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZib2R5X2xlbmd0aD01ODI%3D&p=cGljaz01NDU1MzImY209NTAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUzMg%3D%3D&r=NobwRAlgJmBcYFYAsCECY1gDRgLYFMAXACwHsZ4EAGAOgEZ6wBfLcaORFBAZkxwJLkO1eoxZsKnZMmx4iZSSIZ1mrSIq50AHLIELhtZaonCuSFf3lDKhsWvaUUSbkl1XFtlePWnU3AGxugh6iXvYaqGgWcsEGocY+jn6ulrE28d4OUigA7EH66UaZETx5qQWInglZ0shU+daVGQC6QA&r_start=0&r_end=5
+                          - link "넷플릭스 '이런 엿같은 사랑' 글로벌 2위, 정해인 순애보에 설렘 폭발 ::" [ref=f280e21] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT01MC4xLjEmY2hhbm5lbD0lRUMlOUElQjAlRUMlQjglQTElRUMlODMlODElRUIlOEIlQThfJUVBJUIwJTlDJUVDJTlEJUI4JUVEJTk5JTk0Lmxpc3RfMXg1JnJlY29fdHlwZT1ob3QtaXRlbXMmdWlkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmd2lkZ2V0X2lkPUdsR2dWYVpsJnJlcXVlc3RfaWQ9NmE2NTg3ZDI3NzcwMmI3ZjNmYzRlNTI5MTE2OWI3N2EmdWE9TW96aWxsYSUyRjUuMCUyMChXaW5kb3dzJTIwTlQlMjAxMC4wJTNCJTIwV2luNjQlM0IlMjB4NjQpJTIwQXBwbGVXZWJLaXQlMkY1MzcuMzYlMjAoS0hUTUwlMkMlMjBsaWtlJTIwR2Vja28pJTIwQ2hyb21lJTJGMTUxLjAuNzkyMi4xMDklMjBTYWZhcmklMkY1MzcuMzYmcmVmPSZjaWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZib2R5X2xlbmd0aD01ODI%3D&p=cGljaz01NDU0NTQmY209NTAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTQ1NA%3D%3D&r=NobwRAlgJmBcYFYAsCECY1gDRgLYFMAXACwHsZ4EAGAOgEZ6wBfLcaORFBAZkxwJLkO1eoxZsKnZMmx4iZSSIZ1mrSIq50AHLIELhtZaonCuSFf3lDKhsWvaUUSbkl1XFtlePWnU3AGxugh6iXvYaqGgWcsEGocY+jn6ulrE28d4OUigA7EH66UaZETx5qQWInglZ0shU+daVGQC6QA&r_start=0&r_end=5
+                          - link "AD \"역류성식도염\" 극복엔 양배추즙 말고 '이것' 필수" [ref=f280e26] [cursor=pointer]:
+                            - /url: https://ad-log.dable.io/services/stardailynews.co.kr%2Ftdi/users/72709703.1786417508115/campaigns/Q1AOueNkK0jFpxJxO-w73w/contents/aYtA6QhKpl4XT_ry4p-bkA/click_redirect?q=N4IgTgpgjgrhDOAXA%2BoglgWwiAXCAjAOwAcAbACxECsphATAAwMgA0IEAHgA5qQAmuEABU4AAgCCMAOaj8%2BUYzqlRDAMw4GpDYVEBxALJCA1EyaiAFAGEA9tbB80AOwCGiCH1EBVR2gBuEMHhnABtRIUwIAEpWEDQ3DGQAY1dBQBXRwAZFwBlFwA9xwB4uwA6lmK5nKWwcfDYwZ0cAa1wGSug4JGQ0ATxSZ1IqYkI%2BOkJBhjoAI0IAM1VxxPIIKjoATjlSBbHCZxiRtuRIeC5rR3gIVvaQLb4dhCo%2BAE86fHGMeGs6AHdiRHwY55gwRLKQFRyFR5qoYohrIgQshiqVBF82L80IIABaIRBceA4AD02Ne%2BIAdEhnPZnGhgjdHBBXvACYlrASamBsVSadiSehEsEIAA1NDUglojDBAD8bQ4jmsAF4gSC6GDEUcwMhgtUpIIatYYq82qUUG1BLpgropDznAAtYIxRIo6pUq14QANY4BCOcAgwOAC6bkIAcGuygBU1gnBNAtfAcKgxLCIFHWU6EAnkAkKkCS4LWdV4ZhsKFSA14I0ms2WgDECNijn8jghYBuJ3hFFIxAAPnnTRarWx4CnELgKiB4GgAF4AuibbZcMBof6CWN0chMYdsEbR6vcxxSSOCHrzkB8PbICNRi7%2BQJoA6CPguZCayDOPeIYJMYjIcYwYLBPfRiBvxJcDAAIRXfDuMgyDdMBzh8Mkjj9MBgHjM4L5dgu2yJL8YCCAA0gASgA6jEmBcDWeAloBDjJG4Fw5iA5CqOa1jEJ4Cy%2BIQdRsJwXZ4MAAA6ID0hgXAQOg6AHKgNz8dxOB0Cw3Fju4E5CY4qAknq4nSYkiCJL4YDcVJ4DVDUyAjDcKlnKO47-Np3FBgZ2wplIyBBHx3J8OJDSqYgyoYB%2Bb7WDAGK%2BS5BIMPgajdKoCy0KoxAMKC9Y6VwGkeV5yA%2BX5iABaYD4gqoSjdHQ8z1iCVBxWpyrJIG6VBcQUX5UCOWqFQhDkJJqmaUkIRoBV1GaNRILEFQwz4AshCqMV6mtZ5gHeb5XD%2BbgxAEmQDULAsxADKQ1ALKoEAALTEKNCVteVc2BStqikKQmjnao13EAsO17dx36JMgrz2SM4mRUVj3xS91hvR9fU6VZ8AYBy1l8A4q4uftrVWb47XOd2OlIFUbhSEZuDcWAP4WSAUJgHqSTFND33PfAvw2kpEDiRUpN7ghaBcIGAQ0zpT308E6BM-yypWRgTgkzxP0YAz3MBK08B7s4HCC09ANfULz1VLU8tsz9hnic1IDxe54MVfgVXRUotVXQ1TUw8q5zifNDCnedl2kNdkV3btOnnDCZnU7g06zsMjVrcNqjkG7pkTscys1OJPtzv7hARUHo3Kh2kI7K4J6s9xgG%2BGHIliZjICWAA8voAAKnhCAAophuPWJLLhYMZ2FOHw1g0rIDDcQAviOFGnO7cQQBg1x3A8TwvO8iBhmw4GESZFHxMP9yPM8bwfFPIA6gpY5h1OBIznO2pOEkqEQI4iQ3BhOExFIfBjvUbCJJR9CELbL%2BqASRBkJQhD9cQcjr6qfsNwUzgXvrESWp9EhVi4ORJG4CXoki4PUTuQA
+                            - generic [ref=f280e27]: AD
+                            - generic [ref=f280e30]: "\"역류성식도염\" 극복엔 양배추즙 말고 '이것' 필수"
+                          - link "AD 갱년기 열감, 알고보니 ‘이 것’ 때문이었다면?" [ref=f280e32] [cursor=pointer]:
+                            - /url: https://ad-log.dable.io/services/stardailynews.co.kr%2Ftdi/users/72709703.1786417508115/campaigns/ap_4jWi4ezqp3JaDChTXaQ/contents/BOtX43VQxEOhpQ2aYCtS0A/click_redirect?q=N4IgTgpgjgrhDOAXA%2BoglgWwiAXCAjAOwAcAbACxECsphATAAwMgA0IEAHgA5qQAmuEABU4AAgCCMAOaj8%2BUYzqlRDAMw4GpDYVEBxALJCA1EyaiAFAGEA9tbB80AOwCGiCH1EBVR2gBuEMHhnABtRIUwIAEpWEDQ3DGQAY1dBQBXRwAZFwBlFwA9xwB4uwA6lmK5nKWwcfDYwZ0cAa1wK8Gg4JGQ0ATxSZ1IqYkI%2BOkJBhjoAI0IAM1VxxPIIKjoATjlSBbHCZxiRtuRIeC5rR3gIVvaQLb4dhCo%2BAE86fHGMeGs6AHdiRHwY55gwRLKQFRyFR5qoYohrIgQshiqVBF82L80IIABaIRBceA4AD02Ne%2BIAdEhnPZnGhgjdHBBXvACYlrASamBsVSadiSehEsEIAA1NDUglojDBAD8bQ4jmsAF4gSC6GDEUcwMhgtUpIIatYYq82qUUG1BLpgropDznAAtYIxRIo6pUq14QANY4BCOcAgwOAC6bkIAcGuygBU1gnBNAtfAcKgxLCIFHWU6EAnkAkKkCS4LWdV4ZhsKFSA14I0ms2WgDECNijn8jghYBuJ3hFFIxAAPnnTRarWx4CnELg6O20AAvAF0TbbLhgND-QTx-CqYj4MNsEbR6vcxxSSOCHpDth8PbICNRi7%2BQJoA6CPguZCayDOPeIYJMYjIcYwYLBPfRiBvxJcDAAIRXfDuMgyDdMBzh8Mkjj9MBgHjM4L5dgu2yJL8YCCAA0gASgA6jEmBcDWeBbiAgEOMkbgXDmIDkKo5rWMQngLL4hB1GwnBdngwAADogPSGBcBA6DoAcqA3AJPE4D2PGju447CY4qAknqEnSYkiCJL4YA8SwPFVLUyAjDcKlnCOY7-NpPFBgZ2wplIyBBPx3J8BJDA6SAXBqcqGAfm%2B1gwBi-kuQSDByDOqgMGQ5DkIs5CEDOxBuR5mnvoBvn%2BVwgW4AwwWmKQ9wRWoCzECCCxUIQaiJZ5SQhGgQVMPc%2BCmFFdBUAw5DEMQdAJapyXJIGdWMOVmgLKo05tSN%2BAUJV6nJd5qXIH5AWIBJsbDbODWqFQ06EKQqgQAAtIQ00acqfW1bg8aqLQxU0As5ALBFd0HUdPHfokyCvPZIwSUo5BuW9H3WF9P1TZZ8D2RgHLWXwDiri5x3JVZvg1c5WVuUgVRuFIRm4LpP4WSAUJgHqSTFPDr0efZvw2kpEASRUFPvRgCFoFwgYBPT-2U8zwToGz-LKlZGBOOTvHcyz-MBK04OQxwotvSDf2Mzs1Q1IrXPvYZP3Tcq5x1cMchNdFrXtZ13XuWpJ3QxJl3XSCKz3Y9syHW55wwmZdMXQS06zj0hBFfcgxxa7pnjscelq7gVAEmVbXLJ1%2BBdQ9pA6-ZnYq8JQWENFHWMNOqiMAsdCLG5gG%2BGHonibjICWAA8voAAKnhCAAophBPWODLhYMZ2FOHw1g0rIDA8QAvsOlGnG7cQQBg1x3A8TwvO8iCkDE4GESZlHxPP9yPM8bwfGvbA6gpo5h5O3sznO2pOEkqEQI4iQ3BhOExFIfCjmjvFUfQ5ULOVVQ3sSAUGoBFOQ84QCqj7DcFM4Fv5WUfokKsXAKL1DYFZV4JIuBZVHkAA
+                            - generic [ref=f280e33]: AD
+                            - generic [ref=f280e36]: 갱년기 열감, 알고보니 ‘이 것’ 때문이었다면?
+                          - link "[OTT] ‘이강인부터 김민재까지’ 유럽파 한눈에…SPOTV NOW, 26-27시즌 ‘챔스패스’ 출시 ::" [ref=f280e38] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT01MC4xLjEmY2hhbm5lbD0lRUMlOUElQjAlRUMlQjglQTElRUMlODMlODElRUIlOEIlQThfJUVBJUIwJTlDJUVDJTlEJUI4JUVEJTk5JTk0Lmxpc3RfMXg1JnJlY29fdHlwZT1ob3QtaXRlbXMmdWlkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmd2lkZ2V0X2lkPUdsR2dWYVpsJnJlcXVlc3RfaWQ9NmE2NTg3ZDI3NzcwMmI3ZjNmYzRlNTI5MTE2OWI3N2EmdWE9TW96aWxsYSUyRjUuMCUyMChXaW5kb3dzJTIwTlQlMjAxMC4wJTNCJTIwV2luNjQlM0IlMjB4NjQpJTIwQXBwbGVXZWJLaXQlMkY1MzcuMzYlMjAoS0hUTUwlMkMlMjBsaWtlJTIwR2Vja28pJTIwQ2hyb21lJTJGMTUxLjAuNzkyMi4xMDklMjBTYWZhcmklMkY1MzcuMzYmcmVmPSZjaWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZib2R5X2xlbmd0aD01ODI%3D&p=cGljaz01NDU1MTgmY209NTAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTUxOA%3D%3D&r=NobwRAlgJmBcYFYAsCECY1gDRgLYFMAXACwHsZ4EAGAOgEZ6wBfLcaORFBAZkxwJLkO1eoxZsKnZMmx4iZSSIZ1mrSIq50AHLIELhtZaonCuSFf3lDKhsWvaUUSbkl1XFtlePWnU3AGxugh6iXvYaqGgWcsEGocY+jn6ulrE28d4OUigA7EH66UaZETx5qQWInglZ0shU+daVGQC6QA&r_start=0&r_end=5
+                          - link "‘가왕쇼’ 전유진·박서진·홍지윤, 첫 방송서 센터 경쟁 ::" [ref=f280e43] [cursor=pointer]:
+                            - /url: https://r-log.dable.io/s/stardailynews.co.kr%2Ftdi/u/72709703.1786417508115/click_redirect?c=c291cmNlPTU0NTUyMyZybT01MC4xLjEmY2hhbm5lbD0lRUMlOUElQjAlRUMlQjglQTElRUMlODMlODElRUIlOEIlQThfJUVBJUIwJTlDJUVDJTlEJUI4JUVEJTk5JTk0Lmxpc3RfMXg1JnJlY29fdHlwZT1ob3QtaXRlbXMmdWlkPTcyNzA5NzAzLjE3ODY0MTc1MDgxMTUmd2lkZ2V0X2lkPUdsR2dWYVpsJnJlcXVlc3RfaWQ9NmE2NTg3ZDI3NzcwMmI3ZjNmYzRlNTI5MTE2OWI3N2EmdWE9TW96aWxsYSUyRjUuMCUyMChXaW5kb3dzJTIwTlQlMjAxMC4wJTNCJTIwV2luNjQlM0IlMjB4NjQpJTIwQXBwbGVXZWJLaXQlMkY1MzcuMzYlMjAoS0hUTUwlMkMlMjBsaWtlJTIwR2Vja28pJTIwQ2hyb21lJTJGMTUxLjAuNzkyMi4xMDklMjBTYWZhcmklMkY1MzcuMzYmcmVmPSZjaWQ9NzI3MDk3MDMuMTc4NjQxNzUwODExNSZib2R5X2xlbmd0aD01ODI%3D&p=cGljaz01NDU1NDEmY209NTAuMS4xJnVybD1odHRwcyUzQSUyRiUyRnd3dy5zdGFyZGFpbHluZXdzLmNvLmtyJTJGbmV3cyUyRmFydGljbGVWaWV3Lmh0bWwlM0ZpZHhubyUzRDU0NTU0MQ%3D%3D&r=NobwRAlgJmBcYFYAsCECY1gDRgLYFMAXACwHsZ4EAGAOgEZ6wBfLcaORFBAZkxwJLkO1eoxZsKnZMmx4iZSSIZ1mrSIq50AHLIELhtZaonCuSFf3lDKhsWvaUUSbkl1XFtlePWnU3AGxugh6iXvYaqGgWcsEGocY+jn6ulrE28d4OUigA7EH66UaZETx5qQWInglZ0shU+daVGQC6QA&r_start=0&r_end=5
+                      - link "by Dable" [ref=f280e47] [cursor=pointer]:
+                        - /url: https://static.dable.io/static/html/introduction.html
+                        - text: by
+                        - generic [ref=f280e48]: Dable
+                  - generic [ref=f261e372]:
+                    - iframe [ref=f261e373]:
+                      - iframe [ref=f266e2]:
+                        - generic [ref=f267e2]:
+                          - generic [ref=f267e3]: 로켓배송 상품, 오늘주문! 내일도착!
+                          - generic [ref=f267e8]:
+                            - generic [ref=f267e10] [cursor=pointer]
+                            - generic [ref=f267e12] [cursor=pointer]
+                            - generic [ref=f267e14] [cursor=pointer]
+                            - generic [ref=f267e16] [cursor=pointer]
+                            - generic [ref=f267e18] [cursor=pointer]
+                            - generic [ref=f267e20] [cursor=pointer]
+                            - generic [ref=f267e22] [cursor=pointer]
+                            - generic [ref=f267e24] [cursor=pointer]
+                            - generic [ref=f267e26] [cursor=pointer]
+                            - generic [ref=f267e28] [cursor=pointer]
+                            - generic [ref=f267e30] [cursor=pointer]
+                            - generic [ref=f267e32] [cursor=pointer]
+                            - generic [ref=f267e34] [cursor=pointer]
+                            - generic [ref=f267e36] [cursor=pointer]
+                            - generic [ref=f267e38] [cursor=pointer]
+                            - generic [ref=f267e40] [cursor=pointer]
+                            - generic [ref=f267e42] [cursor=pointer]
+                            - generic [ref=f267e44] [cursor=pointer]
+                            - generic [ref=f267e46] [cursor=pointer]
+                            - generic [ref=f267e48] [cursor=pointer]
+                            - generic [ref=f267e50] [cursor=pointer]
+                            - generic [ref=f267e52] [cursor=pointer]
+                            - generic [ref=f267e54] [cursor=pointer]
+                            - generic [ref=f267e56] [cursor=pointer]
+                            - generic [ref=f267e58] [cursor=pointer]
+                            - generic [ref=f267e60] [cursor=pointer]
+                            - generic [ref=f267e62] [cursor=pointer]
+                    - link [ref=f261e374] [cursor=pointer]:
+                      - /url: https://adwiser.kr/
+      - contentinfo [ref=f261e376]:
+        - generic [ref=f261e377]:
+          - heading "하단영역" [level=2] [ref=f261e378]
+          - heading [level=6] [ref=f261e379]:
+            - img "스타데일리뉴스" [ref=f261e380]
+          - generic [ref=f261e381]:
+            - navigation [ref=f261e382]:
+              - heading "하단메뉴" [level=3] [ref=f261e383]
+              - link "매체소개" [ref=f261e384] [cursor=pointer]:
+                - /url: https://www.stardailynews.co.kr/com/com-1.html
+              - link "개인정보처리방침" [ref=f261e385] [cursor=pointer]:
+                - /url: https://www.stardailynews.co.kr/com/privacy.html
+              - 'link "청소년보호정책(담당자 : 박병준)" [ref=f261e386] [cursor=pointer]':
+                - /url: https://www.stardailynews.co.kr/com/youthpolicy.html
+              - link "저작권보호정책" [ref=f261e387] [cursor=pointer]:
+                - /url: https://www.stardailynews.co.kr/com/copyright.html
+              - link "이용약관" [ref=f261e388] [cursor=pointer]:
+                - /url: https://www.stardailynews.co.kr/com/emailno.html
+              - link "RSS" [ref=f261e389] [cursor=pointer]:
+                - /url: https://www.stardailynews.co.kr/rssIndex.html
+            - generic [ref=f261e390]:
+              - link " facebook" [ref=f261e391] [cursor=pointer]:
+                - /url: https://www.facebook.com/stardailynews
+                - generic [ref=f261e392]:
+                  - text: 
+                  - generic [ref=f261e393]: facebook
+              - link " twitter" [ref=f261e394] [cursor=pointer]:
+                - /url: https://twitter.com/stardailynews
+                - generic [ref=f261e395]:
+                  - text: 
+                  - generic [ref=f261e396]: twitter
+              - link " youtube" [ref=f261e397] [cursor=pointer]:
+                - /url: "#link"
+                - generic [ref=f261e398]:
+                  - text: 
+                  - generic [ref=f261e399]: youtube
+              - link " instagram" [ref=f261e400] [cursor=pointer]:
+                - /url: "#link"
+                - generic [ref=f261e401]:
+                  - text: 
+                  - generic [ref=f261e402]: instagram
+          - generic [ref=f261e403]:
+            - heading "매체정보" [level=3] [ref=f261e404]
+            - list [ref=f261e405]:
+              - listitem [ref=f261e406]: "| 주식회사 뉴스미디어그룹"
+              - listitem [ref=f261e407]: "| 제호 : 스타데일리뉴스"
+              - listitem [ref=f261e408]: "| 사업자등록번호 : 120-87-63595"
+              - listitem [ref=f261e409]: "| 등록번호 : 서울 아 01478"
+              - listitem [ref=f261e410]: "| 등록일 : 2011-01-18"
+              - listitem [ref=f261e411]: "발행일 : 2011-01-18"
+              - listitem [ref=f261e412]: "| (06800) 서울특별시 서초구 내곡동 341-10 4층 409호"
+              - listitem [ref=f261e413]: "| 대표전화 : 02-552-5088"
+              - listitem [ref=f261e414]: "| 팩스 : 02-6442-9234"
+              - listitem [ref=f261e415]: "| 발행·편집인 : 황정현"
+              - listitem [ref=f261e416]: "개인정보관리책임자 : 박병준"
+        - generic [ref=f261e418]:
+          - text: C
+          - link "o" [ref=f261e419] [cursor=pointer]:
+            - /url: https://www.stardailynews.co.kr/admin/adminLoginForm.html
+          - text: pyright © 2026 스타데일리뉴스.
+          - link "All" [ref=f261e420] [cursor=pointer]:
+            - /url: https://www.stardailynews.co.kr/news/articleView.html?idxno=545523
+          - text: rights reserved. mail to
+          - link "news@stardailynews.co.kr" [ref=f261e421] [cursor=pointer]:
+            - /url: mailto:news@stardailynews.co.kr
+          - link [ref=f261e422] [cursor=pointer]:
+            - /url: https://www.ndsoft.co.kr/
+            - img "엔디소프트" [ref=f261e423]
+      - text: 
+    - generic [ref=f261e424]:
+      - navigation [ref=f261e425]:
+        - heading [level=2] [ref=f261e426]: 전체메뉴
+        - menu [ref=f261e427]:
+          - menuitem [ref=f261e428]:
+            - link [ref=f261e429] [cursor=pointer]:
+              - /url: /news/articleList.html?view_type=sm
+              - text: 전체기사
+          - menuitem [ref=f261e430]:
+            - link [ref=f261e431] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N1&view_type=sm
+              - text: 엔터테인먼트
+          - menuitem [ref=f261e432]:
+            - link [ref=f261e433] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N2&view_type=sm
+              - text: 패션 · 뷰티
+          - menuitem [ref=f261e434]:
+            - link [ref=f261e435] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N3&view_type=sm
+              - text: 문화 · 생활
+          - menuitem [ref=f261e436]:
+            - link [ref=f261e437] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N13&view_type=sm
+              - text: 이슈
+          - menuitem [ref=f261e438]:
+            - link [ref=f261e439] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N12&view_type=sm
+              - text: 데이터
+          - menuitem [ref=f261e440]:
+            - link [ref=f261e441] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N4&view_type=sm
+              - text: 피플
+          - menuitem [ref=f261e442]:
+            - link [ref=f261e443] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N5&view_type=sm
+              - text: 포토 · 동영상
+          - menuitem [ref=f261e444]:
+            - link [ref=f261e445] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N6&view_type=sm
+              - text: 사회
+          - menuitem [ref=f261e446]:
+            - link [ref=f261e447] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N9&view_type=sm
+              - text: 경제
+          - menuitem [ref=f261e448]:
+            - link [ref=f261e449] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N10&view_type=sm
+              - text: 칼럼
+          - menuitem [ref=f261e450]:
+            - link [ref=f261e451] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N11&view_type=sm
+              - text: 만평
+          - menuitem [ref=f261e452]:
+            - link [ref=f261e453] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N7&view_type=sm
+              - text: Hallyu News
+          - menuitem [ref=f261e454]:
+            - link [ref=f261e455] [cursor=pointer]:
+              - /url: /news/articleList.html?sc_section_code=S1N14&view_type=sm
+              - text: 보도자료
+      - button [ref=f261e456] [cursor=pointer]:
+        - generic [ref=f261e457]:
+          - text: 
+          - generic [ref=f261e458]: 전체메뉴닫기
+  - text:     
+  - generic [ref=f261e463]:
+    - iframe [ref=f261e465]:
+      - link [ref=f272e2] [cursor=pointer]:
+        - /url: //ad.adwiser.kr/cgi-bin/PelicanC.dll?CLK?pageid=0HXT%26bannerid=58kU%26campaignid=0S5A
+    - img [ref=f261e466] [cursor=pointer]

@@ -1,0 +1,247 @@
+- generic [active] [ref=f478e1]:
+  - generic [ref=f478e3]: Loading
+  - generic [ref=f478e5]:
+    - paragraph [ref=f478e7]:
+      - link "Skip to main content" [ref=f478e8] [cursor=pointer]:
+        - /url: "#_r_0_"
+    - banner [ref=f478e11]:
+      - generic [ref=f478e15]:
+        - link "Canva home" [ref=f478e18] [cursor=pointer]:
+          - /url: https://www.canva.com/
+        - navigation [ref=f478e25]:
+          - list [ref=f478e26]:
+            - listitem [ref=f478e27]:
+              - button "Design" [ref=f478e28] [cursor=pointer]
+            - listitem [ref=f478e30]:
+              - button "Product" [ref=f478e31] [cursor=pointer]
+            - listitem [ref=f478e33]:
+              - button "Plans" [ref=f478e34] [cursor=pointer]
+            - listitem [ref=f478e36]:
+              - button "Business" [ref=f478e37] [cursor=pointer]
+            - listitem [ref=f478e39]:
+              - button "Education" [ref=f478e40] [cursor=pointer]
+            - listitem [ref=f478e42]:
+              - button "Help" [ref=f478e43] [cursor=pointer]
+        - generic [ref=f478e47]:
+          - button "Sign up" [ref=f478e49] [cursor=pointer]
+          - button "Log in" [ref=f478e51] [cursor=pointer]
+    - main [ref=f478e53]:
+      - navigation "Breadcrumb" [ref=f478e56]:
+        - list [ref=f478e57]:
+          - listitem [ref=f478e58]:
+            - link "Home" [ref=f478e59] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=f478e61]
+          - listitem [ref=f478e62]:
+            - link "Templates" [ref=f478e63] [cursor=pointer]:
+              - /url: /templates/
+          - listitem [ref=f478e65]
+          - listitem [ref=f478e66]:
+            - link "Presentations" [ref=f478e67] [cursor=pointer]:
+              - /url: /presentations/templates/
+          - listitem [ref=f478e69]
+          - listitem [ref=f478e70]:
+            - generic [ref=f478e71]: Sage Green Minimalist Business Proposal Presentation
+    - generic [ref=f478e72]:
+      - paragraph [ref=f478e74]:
+        - link "Skip to end of footer" [ref=f478e75] [cursor=pointer]:
+          - /url: "#_r_6_"
+      - contentinfo [ref=f478e77]:
+        - generic [ref=f478e79]:
+          - generic [ref=f478e86]:
+            - heading "Download Canva for free" [level=2] [ref=f478e91]
+            - navigation [ref=f478e96]:
+              - list [ref=f478e98]:
+                - listitem [ref=f478e99]:
+                  - heading "Product" [level=2] [ref=f478e101]
+                  - list "Product" [ref=f478e103]:
+                    - listitem [ref=f478e104]:
+                      - link "Latest launches" [ref=f478e105] [cursor=pointer]:
+                        - /url: https://www.canva.com/launches/
+                    - listitem [ref=f478e107]:
+                      - link "Visual Suite" [ref=f478e108] [cursor=pointer]:
+                        - /url: https://www.canva.com/visual-suite/
+                    - listitem [ref=f478e110]:
+                      - link "Canva AI" [ref=f478e111] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-ai/
+                    - listitem [ref=f478e113]:
+                      - link "Brand management" [ref=f478e114] [cursor=pointer]:
+                        - /url: https://www.canva.com/solutions/brand-management-tools/
+                    - listitem [ref=f478e116]:
+                      - link "Social media" [ref=f478e117] [cursor=pointer]:
+                        - /url: https://www.canva.com/social-media/
+                    - listitem [ref=f478e119]:
+                      - link "Features" [ref=f478e120] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/
+                    - listitem [ref=f478e122]:
+                      - link "Print" [ref=f478e123] [cursor=pointer]:
+                        - /url: https://www.canva.com/print/
+                    - listitem [ref=f478e125]:
+                      - link "Apps Marketplace" [ref=f478e126] [cursor=pointer]:
+                        - /url: https://www.canva.com/apps/
+                    - listitem [ref=f478e128]:
+                      - link "Affinity" [ref=f478e129] [cursor=pointer]:
+                        - /url: https://www.affinity.studio/
+                - listitem [ref=f478e136]:
+                  - heading "Plans" [level=2] [ref=f478e138]
+                  - list "Plans" [ref=f478e140]:
+                    - listitem [ref=f478e141]:
+                      - link "Pricing" [ref=f478e142] [cursor=pointer]:
+                        - /url: https://www.canva.com/pricing/
+                    - listitem [ref=f478e144]:
+                      - link "Pro" [ref=f478e145] [cursor=pointer]:
+                        - /url: https://www.canva.com/pro/
+                    - listitem [ref=f478e147]:
+                      - link "Business" [ref=f478e148] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-business/
+                    - listitem [ref=f478e150]:
+                      - link "Enterprise" [ref=f478e151] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/
+                    - listitem [ref=f478e153]:
+                      - link "Education" [ref=f478e154] [cursor=pointer]:
+                        - /url: https://www.canva.com/education/
+                    - listitem [ref=f478e156]:
+                      - link "Higher education" [ref=f478e157] [cursor=pointer]:
+                        - /url: https://www.canva.com/for-campus/
+                    - listitem [ref=f478e159]:
+                      - link "Nonprofits" [ref=f478e160] [cursor=pointer]:
+                        - /url: https://www.canva.com/nonprofits/
+                    - listitem [ref=f478e162]:
+                      - link "Contact Sales" [ref=f478e163] [cursor=pointer]:
+                        - /url: https://www.canva.com/contact-sales/
+                - listitem [ref=f478e165]:
+                  - heading "About" [level=2] [ref=f478e167]
+                  - list "About" [ref=f478e169]:
+                    - listitem [ref=f478e170]:
+                      - link "About Canva" [ref=f478e171] [cursor=pointer]:
+                        - /url: https://www.canva.com/about/
+                    - listitem [ref=f478e173]:
+                      - link "Newsroom" [ref=f478e174] [cursor=pointer]:
+                        - /url: https://www.canva.com/newsroom/news/
+                    - listitem [ref=f478e176]:
+                      - link "Events" [ref=f478e177] [cursor=pointer]:
+                        - /url: https://www.canva.com/events/
+                    - listitem [ref=f478e179]:
+                      - link "Canva Originals" [ref=f478e180] [cursor=pointer]:
+                        - /url: https://shop.canva.com/
+                    - listitem [ref=f478e182]:
+                      - link "Careers" [ref=f478e183] [cursor=pointer]:
+                        - /url: https://www.lifeatcanva.com/en
+                    - listitem [ref=f478e190]:
+                      - link "Social impact" [ref=f478e191] [cursor=pointer]:
+                        - /url: https://www.canva.com/step-two/
+                    - listitem [ref=f478e193]:
+                      - link "Sustainability" [ref=f478e194] [cursor=pointer]:
+                        - /url: https://www.canva.com/sustainability/
+                    - listitem [ref=f478e196]:
+                      - link "Case studies" [ref=f478e197] [cursor=pointer]:
+                        - /url: https://www.canva.com/case-studies/
+                - listitem [ref=f478e199]:
+                  - heading "Community" [level=2] [ref=f478e201]
+                  - list "Community" [ref=f478e203]:
+                    - listitem [ref=f478e204]:
+                      - link "Canva Communities" [ref=f478e205] [cursor=pointer]:
+                        - /url: https://www.canva.com/community/
+                    - listitem [ref=f478e207]:
+                      - link "Creators" [ref=f478e208] [cursor=pointer]:
+                        - /url: https://www.canva.com/creators/
+                    - listitem [ref=f478e210]:
+                      - link "Affiliates" [ref=f478e211] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/canva-affiliate-marketing-program/
+                    - listitem [ref=f478e213]:
+                      - link "Canva Represents Fund" [ref=f478e214] [cursor=pointer]:
+                        - /url: https://www.canva.com/canva-represents/
+                    - listitem [ref=f478e216]:
+                      - link "Content partners" [ref=f478e217] [cursor=pointer]:
+                        - /url: https://www.canva.com/partners/content/
+                    - listitem [ref=f478e219]:
+                      - link "Business partner directory" [ref=f478e220] [cursor=pointer]:
+                        - /url: https://partners.canva.com/directory/
+                    - listitem [ref=f478e222]:
+                      - link "Canva Developers" [ref=f478e223] [cursor=pointer]:
+                        - /url: https://www.canva.com/developers/
+                - listitem [ref=f478e230]:
+                  - heading "Inspiration" [level=2] [ref=f478e232]
+                  - list "Inspiration" [ref=f478e234]:
+                    - listitem [ref=f478e235]:
+                      - link "Design Trends" [ref=f478e236] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-trends/
+                    - listitem [ref=f478e238]:
+                      - link "AI creativity podcast" [ref=f478e239] [cursor=pointer]:
+                        - /url: https://promptedpodcast.com/
+                    - listitem [ref=f478e246]:
+                      - link "Learn blog" [ref=f478e247] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/
+                    - listitem [ref=f478e249]:
+                      - link "Templates Marketplace" [ref=f478e250] [cursor=pointer]:
+                        - /url: https://www.canva.com/templates/
+                    - listitem [ref=f478e252]:
+                      - link "Font pairing" [ref=f478e253] [cursor=pointer]:
+                        - /url: https://www.canva.com/learn/the-ultimate-guide-to-font-pairing/
+                    - listitem [ref=f478e255]:
+                      - link "Color wheel" [ref=f478e256] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-wheel/
+                    - listitem [ref=f478e258]:
+                      - link "Colors" [ref=f478e259] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/
+                    - listitem [ref=f478e261]:
+                      - link "Color palette generator" [ref=f478e262] [cursor=pointer]:
+                        - /url: https://www.canva.com/colors/color-palette-generator/
+                - listitem [ref=f478e264]:
+                  - heading "Help" [level=2] [ref=f478e266]
+                  - list "Help" [ref=f478e268]:
+                    - listitem [ref=f478e269]:
+                      - link "Help Center" [ref=f478e270] [cursor=pointer]:
+                        - /url: https://www.canva.com/help/
+                    - listitem [ref=f478e272]:
+                      - link "Security" [ref=f478e273] [cursor=pointer]:
+                        - /url: https://www.canva.com/security/
+                    - listitem [ref=f478e275]:
+                      - link "Trust Center" [ref=f478e276] [cursor=pointer]:
+                        - /url: https://www.canva.com/trust/
+                    - listitem [ref=f478e278]:
+                      - link "Canva Safe AI" [ref=f478e279] [cursor=pointer]:
+                        - /url: https://www.canva.com/safe-ai-canva-shield/
+                    - listitem [ref=f478e281]:
+                      - link "Accessibility" [ref=f478e282] [cursor=pointer]:
+                        - /url: https://www.canva.com/accessibility/
+                    - listitem [ref=f478e284]:
+                      - link "Enterprise services" [ref=f478e285] [cursor=pointer]:
+                        - /url: https://www.canva.com/enterprise/professional-services/
+                    - listitem [ref=f478e287]:
+                      - link "Design School" [ref=f478e288] [cursor=pointer]:
+                        - /url: https://www.canva.com/design-school/
+                    - listitem [ref=f478e295]:
+                      - link "Sitemap" [ref=f478e296] [cursor=pointer]:
+                        - /url: https://www.canva.com/sitemap/
+                - listitem [ref=f478e298]:
+                  - heading "Tools" [level=2] [ref=f478e300]
+                  - list "Tools" [ref=f478e302]:
+                    - listitem [ref=f478e303]:
+                      - link "QR code generator" [ref=f478e304] [cursor=pointer]:
+                        - /url: https://www.canva.com/qr-code-generator/
+                    - listitem [ref=f478e306]:
+                      - link "AI logo generator" [ref=f478e307] [cursor=pointer]:
+                        - /url: https://www.canva.com/ai-logo-generator/
+                    - listitem [ref=f478e309]:
+                      - link "Signature generator" [ref=f478e310] [cursor=pointer]:
+                        - /url: https://www.canva.com/signature-generator/
+                    - listitem [ref=f478e312]:
+                      - link "Business name generator" [ref=f478e313] [cursor=pointer]:
+                        - /url: https://www.canva.com/business-name-generator/
+                    - listitem [ref=f478e315]:
+                      - link "PDF converter" [ref=f478e316] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-converter/
+                    - listitem [ref=f478e318]:
+                      - link "PDF to JPG converter" [ref=f478e319] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/pdf-to-jpg-converter/
+                    - listitem [ref=f478e321]:
+                      - link "JPG to PDF converter" [ref=f478e322] [cursor=pointer]:
+                        - /url: https://www.canva.com/features/jpg-to-pdf-converter/
+                    - listitem [ref=f478e324]:
+                      - link "Graph maker" [ref=f478e325] [cursor=pointer]:
+                        - /url: https://www.canva.com/graphs/
+          - paragraph [ref=f478e343]: © 2026 All Rights Reserved
+      - paragraph [ref=f478e345]:
+        - link "Skip to start of footer" [ref=f478e346] [cursor=pointer]:
+          - /url: "#_r_5_"
