@@ -30,7 +30,7 @@ Write these down before opening a browser:
 
 - **Medium** — web page, landing page, poster / key visual, slide deck, packaging, editorial, full brand identity. This drives which galleries you use.
 - **3~6 search phrases** — mix English and Korean, mix concept words with concrete descriptors: "warm handmade bakery branding", "베이커리 브랜딩", "artisan food packaging minimal". Galleries index mostly in English, so lead with English phrasings.
-- **Target count** — default **5 final references**. Browse ~10–14 candidates and capture the best ~8 into staging; the **user picks the final 5** in step 5. If the user gave a number, use that.
+- **Target count** — default **5 final references**. Capture **6–8 candidates** straight from the gallery search grid into staging; the **user picks the final 5** in step 5. If the user gave a number, use that. Do not go wide — 6–8 is the whole candidate set, not a first pass.
 
 ### 2. Pick galleries by medium
 
@@ -51,10 +51,11 @@ Use `mcp__playwright__browser_navigate`, `browser_snapshot`, `browser_find`, `br
 - On a cookie / consent banner, choose the most privacy-preserving option (reject non-essential). Don't click "accept all".
 - Most galleries have a search box or a URL search pattern (e.g. `behance.net/search/projects?search=<query>`, `land-book.com/?search=<query>`). Navigate, scan the grid via `browser_snapshot`, and pick candidates that genuinely match the *concept*, not just the topic — a fintech site that feels loud and playful is not a match for "절제된 신뢰감".
 - Open each candidate's detail page (the real project / site page). For a live site linked from Awwwards or Land-book, you may open the actual site and screenshot the real thing.
+- **Work straight from the grid — keep it fast.** Scan the results grid, pick the 6–8 that fit the concept, capture just those. **Never** bulk-download the whole result pool to disk, **never** build a local contact sheet / HTML grid of dozens of images, **never** open and Read every result one-by-one to compare. If a grid thumbnail is low-res (e.g. Pinterest `/236x/`), swap the URL to the full-size form (`/736x/`) and capture that single image — don't pull the whole pool down to sort through it. This step should take minutes, not half an hour.
 
 ### 4. Capture full designs, not fragments — into a candidates folder
 
-The user wants complete layouts. Capture every candidate (not just a final 5) into a staging folder:
+The user wants complete layouts. Capture your 6–8 candidates (no more) into a staging folder — one screenshot each:
 
 - Web page: `browser_take_screenshot` with `fullPage: true` so the whole scroll is in one image.
 - Poster / deck / packaging: get the full composition in frame; if the gallery shows several images for one project, screenshot the 1–2 that show the overall layout, not detail crops.
@@ -118,6 +119,7 @@ Give the user: the `.txt` path, the screenshot folder path and file list, and a 
 
 - Don't hand back references you only read about — every pick needs a real screenshot you captured.
 - Don't collect cropped mood fragments or single-color swatches; this skill is for complete layouts / finished pieces.
+- Don't bulk-download an entire search result pool, build a local contact sheet of dozens of thumbnails, or open and vet every result one-by-one — it's slow and it's not the job. Scan the grid, take 6–8, go straight to showing the user.
 - Don't log in, sign up, or accept "agree to all" cookie banners on any gallery.
 - Don't match on topic alone — a reference that's the right industry but the wrong mood is a miss; say so in the 제외 section instead of including it.
 - Don't download source files (PPTX, ZIP, fonts) — screenshots only, unless the user explicitly asks and approves.
