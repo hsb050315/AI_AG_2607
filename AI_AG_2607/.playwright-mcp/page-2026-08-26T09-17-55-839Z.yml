@@ -1,0 +1,226 @@
+- generic [ref=f19e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f19e15]:
+      - generic [ref=f19e17]:
+        - generic [ref=f19e18]:
+          - combobox "검색" [ref=f19e20]: summer liquid typography poster blue
+          - generic [ref=f19e21]:
+            - button "검색 입력 삭제" [ref=f19e24] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f19e30]:
+              - button "Pinterest 렌즈" [ref=f19e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f19e38] [cursor=pointer]:
+          - generic [ref=f19e40]:
+            - generic [ref=f19e41]: 모든 핀
+            - img "드롭다운" [ref=f19e43]
+      - link "내 프로필" [ref=f19e49] [cursor=pointer]:
+        - /url: /hsb0503150114/
+      - button "계정" [ref=f19e61] [cursor=pointer]
+  - navigation [ref=f19e66]:
+    - generic [ref=f19e68]:
+      - generic [ref=f19e69]:
+        - generic "홈" [ref=f19e73]:
+          - link "홈" [ref=f19e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f19e81]:
+          - link "홈" [ref=f19e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f19e89]:
+          - link "내 보드" [ref=f19e90] [cursor=pointer]:
+            - /url: /hsb0503150114/
+        - generic "만들기" [ref=f19e97]:
+          - button "만들기" [ref=f19e98] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f19e113]:
+        - button "설정 및 지원" [ref=f19e114] [cursor=pointer]
+  - main [ref=f19e119]:
+    - generic [ref=f19e121]:
+      - heading "검색 결과 페이지" [level=1] [ref=f19e123]
+      - region "필터 및 세분화 검색" [ref=f19e127]:
+        - button "필터 표시" [ref=f19e136] [cursor=pointer]
+      - generic [ref=f19e147]:
+        - generic [ref=f19e148]: summer liquid typography poster blue 검색 결과를 추가로 표시
+        - list [ref=f19e153]:
+          - listitem [ref=f19e154]:
+            - button [ref=f19e156] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e159]:
+                - generic [ref=f19e161]:
+                  - link "PROMOTION | POCARI SWEAT 핀 페이지" [ref=f19e163]:
+                    - /url: /pin/3166662230369456/
+                    - 'img "포함된 이미지: PROMOTION | POCARI SWEAT" [ref=f19e173]'
+                  - generic "추가 작업" [ref=f19e181]:
+                    - button "추가 작업" [ref=f19e182]
+          - listitem [ref=f19e187]:
+            - button [ref=f19e189] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e192]:
+                - generic [ref=f19e194]:
+                  - link "adobe.com" [ref=f19e198]:
+                    - /url: https://www.adobe.com/kr/creativecloud/roc/design/all-in-one.html?sdid=1XGJCN72&mv=social&mv2=paidsoc&pp=0
+                    - 'img "포함된 이미지: \"시장에서 팔리는 디자인 어떻게 만들어질까?\"" [ref=f19e208]'
+                  - generic [ref=f19e212]:
+                    - generic [ref=f19e213]:
+                      - generic [ref=f19e214]:
+                        - generic:
+                          - heading "adobe.com" [level=2]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "adobe.com":
+                                    - /url: https://www.adobe.com/kr/creativecloud/roc/design/all-in-one.html?sdid=1XGJCN72&mv=social&mv2=paidsoc&pp=0
+                      - link "후원 핀" [ref=f19e217]:
+                        - /url: /adobe/
+                        - generic [ref=f19e219]:
+                          - generic [ref=f19e220]: Adobe
+                          - generic "후원 핀" [ref=f19e226]
+                    - generic "추가 작업" [ref=f19e229]:
+                      - button "추가 작업" [ref=f19e230]
+          - listitem [ref=f19e235]:
+            - button [ref=f19e237] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e240]:
+                - generic [ref=f19e242]:
+                  - link "제목 없음 핀 페이지" [ref=f19e244]:
+                    - /url: /pin/774124930969597/
+                    - img "포함된 이미지:" [ref=f19e254]
+                  - generic "추가 작업" [ref=f19e262]:
+                    - button "추가 작업" [ref=f19e263]
+          - listitem [ref=f19e268]:
+            - button [ref=f19e270] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e273]:
+                - generic [ref=f19e275]:
+                  - link "제목 없음 핀 페이지" [ref=f19e277]:
+                    - /url: /pin/1099159852832069484/
+                    - img "포함된 이미지:" [ref=f19e287]
+                  - generic "추가 작업" [ref=f19e295]:
+                    - button "추가 작업" [ref=f19e296]
+          - listitem [ref=f19e301]:
+            - button [ref=f19e303] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e306]:
+                - generic [ref=f19e308]:
+                  - link "제목 없음 핀 페이지" [ref=f19e310]:
+                    - /url: /pin/1135610862316572670/
+                    - img "포함된 이미지:" [ref=f19e320]
+                  - generic "추가 작업" [ref=f19e328]:
+                    - button "추가 작업" [ref=f19e329]
+          - listitem [ref=f19e334]:
+            - button [ref=f19e336] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e339]:
+                - generic [ref=f19e341]:
+                  - link "aistudio.dropshot.io" [ref=f19e345]:
+                    - /url: https://aistudio.dropshot.io/ko?utm_source=pinterest&utm_medium=display&utm_campaign=DA_AI_Pinterest_Conv_Signup&utm_content=pin14&pp=0
+                    - 'img "포함된 이미지: 조회수 폭발하는 AI 콘텐츠" [ref=f19e355]'
+                  - generic [ref=f19e359]:
+                    - generic [ref=f19e360]:
+                      - generic [ref=f19e361]:
+                        - generic:
+                          - heading "aistudio.dropshot.io" [level=2]:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "aistudio.dropshot.io":
+                                    - /url: https://aistudio.dropshot.io/ko?utm_source=pinterest&utm_medium=display&utm_campaign=DA_AI_Pinterest_Conv_Signup&utm_content=pin14&pp=0
+                      - link "후원 핀" [ref=f19e364]:
+                        - /url: /1wbgvlmje9emf9q7x5j515pwmb02ie/
+                        - generic [ref=f19e366]:
+                          - generic [ref=f19e367]: Dropshot AI
+                          - generic "후원 핀" [ref=f19e373]
+                    - generic "추가 작업" [ref=f19e376]:
+                      - button "추가 작업" [ref=f19e377]
+          - listitem [ref=f19e382]:
+            - button [ref=f19e384] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e387]:
+                - generic [ref=f19e389]:
+                  - link "Custom Type - Visit Lauderdale Splash 핀 페이지" [ref=f19e391]:
+                    - /url: /pin/7248049397131287/
+                    - 'img "포함된 이미지: Custom Type - Visit Lauderdale Splash" [ref=f19e401]'
+                  - generic "추가 작업" [ref=f19e409]:
+                    - button "추가 작업" [ref=f19e410]
+          - listitem [ref=f19e415]:
+            - button [ref=f19e417] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e420]:
+                - generic [ref=f19e422]:
+                  - link "Splish Splash Type 3D 핀 페이지" [ref=f19e424]:
+                    - /url: /pin/19984792093791384/
+                    - 'img "포함된 이미지: Splish Splash Type 3D" [ref=f19e434]'
+                  - generic "추가 작업" [ref=f19e442]:
+                    - button "추가 작업" [ref=f19e443]
+          - listitem [ref=f19e448]:
+            - button [ref=f19e450] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e453]:
+                - generic [ref=f19e455]:
+                  - link "제목 없음 핀 페이지" [ref=f19e457]:
+                    - /url: /pin/1137792293387393615/
+                    - img "포함된 이미지:" [ref=f19e467]
+                  - generic "추가 작업" [ref=f19e475]:
+                    - button "추가 작업" [ref=f19e476]
+          - listitem [ref=f19e481]:
+            - button [ref=f19e483] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e486]:
+                - generic [ref=f19e488]:
+                  - link "제목 없음 핀 페이지" [ref=f19e490]:
+                    - /url: /pin/25825397860453332/
+                    - img "포함된 이미지:" [ref=f19e500]
+                  - generic "추가 작업" [ref=f19e508]:
+                    - button "추가 작업" [ref=f19e509]
+          - listitem [ref=f19e514]:
+            - button [ref=f19e516] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e519]:
+                - generic [ref=f19e521]:
+                  - link "Poster design | Дизайн постера 핀 페이지" [ref=f19e523]:
+                    - /url: /pin/9218374233359457/
+                    - 'img "포함된 이미지: Poster design | Дизайн постера" [ref=f19e533]'
+                  - generic "추가 작업" [ref=f19e541]:
+                    - button "추가 작업" [ref=f19e542]
+          - listitem [ref=f19e547]:
+            - button [ref=f19e549] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e552]:
+                - generic [ref=f19e554]:
+                  - link "제목 없음 핀 페이지" [ref=f19e556]:
+                    - /url: /pin/1115485401488456721/
+                    - img "포함된 이미지:" [ref=f19e566]
+                  - generic "추가 작업" [ref=f19e574]:
+                    - button "추가 작업" [ref=f19e575]
+          - listitem [ref=f19e580]:
+            - button [ref=f19e582] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e585]:
+                - generic [ref=f19e587]:
+                  - link "Makes Waves 핀 페이지" [ref=f19e589]:
+                    - /url: /pin/27584616464191294/
+                    - 'img "포함된 이미지: Makes Waves" [ref=f19e599]'
+                  - generic "추가 작업" [ref=f19e607]:
+                    - button "추가 작업" [ref=f19e608]
+          - listitem [ref=f19e613]:
+            - button [ref=f19e615] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e618]:
+                - generic [ref=f19e620]:
+                  - link "iPhone back ground typography 「SPLASH」 핀 페이지" [ref=f19e622]:
+                    - /url: /pin/2533343533835699/
+                    - img "포함된 이미지:" [ref=f19e632]
+                  - generic "추가 작업" [ref=f19e640]:
+                    - button "추가 작업" [ref=f19e641]
+          - listitem [ref=f19e646]:
+            - button [ref=f19e648] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e651]:
+                - generic [ref=f19e653]:
+                  - link "제목 없음 핀 페이지" [ref=f19e655]:
+                    - /url: /pin/159877855518940192/
+                    - img "포함된 이미지:" [ref=f19e665]
+                  - generic "추가 작업" [ref=f19e673]:
+                    - button "추가 작업" [ref=f19e674]
+          - listitem [ref=f19e679]:
+            - button [ref=f19e681] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e684]:
+                - generic [ref=f19e686]:
+                  - link "제목 없음 핀 페이지" [ref=f19e688]:
+                    - /url: /pin/545780048586158039/
+                    - img "포함된 이미지:" [ref=f19e698]
+                  - generic "추가 작업" [ref=f19e706]:
+                    - button "추가 작업" [ref=f19e707]
+          - listitem [ref=f19e712]:
+            - button [ref=f19e714] [cursor=pointer]:
+              - group "핀 카드" [ref=f19e717]:
+                - generic [ref=f19e719]:
+                  - link "제목 없음 핀 페이지" [ref=f19e721]:
+                    - /url: /pin/142215300730878293/
+                    - img "포함된 이미지:" [ref=f19e731]
+                  - generic "추가 작업" [ref=f19e739]:
+                    - button "추가 작업" [ref=f19e740]

@@ -1,0 +1,98 @@
+[    1189ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at s (https://s.pinimg.com/webapp/71629-b3cc60abcf9d6f32.mjs:2:22206)
+    at c (https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:24530)
+    at https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:25489
+[    1190ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at s (https://s.pinimg.com/webapp/71629-b3cc60abcf9d6f32.mjs:2:22206)
+    at c (https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:24530)
+    at https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:25128
+[    1190ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at s (https://s.pinimg.com/webapp/71629-b3cc60abcf9d6f32.mjs:2:22206)
+    at c (https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:24530)
+    at https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:25489
+[    1190ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at s (https://s.pinimg.com/webapp/71629-b3cc60abcf9d6f32.mjs:2:22206)
+    at c (https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:24530)
+    at https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:25128
+[    1191ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at s (https://s.pinimg.com/webapp/71629-b3cc60abcf9d6f32.mjs:2:22206)
+    at c (https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:24530)
+    at https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:25489
+[    1191ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at s (https://s.pinimg.com/webapp/71629-b3cc60abcf9d6f32.mjs:2:22206)
+    at c (https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:24530)
+    at https://s.pinimg.com/webapp/22271.ko_KR-950d1a75563a7d13.mjs:4:25128
+[    1638ms] [ERROR] Unexpected hydration error Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings. 
+    at Suspense (<anonymous>)
+    at h (https://s.pinimg.com/webapp/71629-b3cc60abcf9d6f32.mjs:2:24621)
+    at oX (https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:236:11398)
+    at rA (https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:236:17873)
+    at rT (https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:236:21380)
+    at uS (https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:397:90615)
+    at reduxProvider (https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:401:164766)
+    at https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:401:147748
+    at fP (https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:401:116070)
+    at fI (https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:401:116148)
+    at fi (https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:401:112842)
+    at P (https://s.pinimg.com/webapp/63421.ko_KR-32147cf80f13cdbc.mjs:1:17210)
+    at a (https://s.pinimg.com/webapp/71629-b3cc60abcf9d6f32.mjs:2:11790)
+    at https://s.pinimg.com/webapp/vendor-react-c7a0a1d6d76cab14.mjs:9:69109
+    at s (https://s.pinimg.com/webapp/28280.ko_KR-8e34845283cd2abb.mjs:1:94339)
+    at m (https://s.pinimg.com/webapp/71629-b3cc60abcf9d6f32.mjs:2:6230)
+    at fd (https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:401:113449)
+    at tF (https://s.pinimg.com/webapp/vendor-react-c7a0a1d6d76cab14.mjs:14:6486)
+    at tN (https://s.pinimg.com/webapp/vendor-react-c7a0a1d6d76cab14.mjs:14:4430)
+    at https://s.pinimg.com/webapp/vendor-react-c7a0a1d6d76cab14.mjs:14:12631
+    at t5 (https://s.pinimg.com/webapp/vendor-react-c7a0a1d6d76cab14.mjs:14:13641)
+    at tJ (https://s.pinimg.com/webapp/vendor-react-c7a0a1d6d76cab14.mjs:14:9012)
+    at Suspense (<anonymous>) @ https://s.pinimg.com/webapp/www/_client.ko_KR-464bed3f7b9e89f4.mjs:400
+[    1777ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://accounts.google.com/gsi/client?hl=ko:86
+[    2033ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://kr.pinterest.com/secure/unauth_user_data/:0
+[    4983ms] [ERROR] The request has been aborted. @ https://kr.pinterest.com/search/pins/?q=summer%20sale%20instagram%20card%20blue:0
+[    4983ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason @ https://accounts.google.com/gsi/client?hl=ko:87
+[    8312ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at i (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:49710)
+    at c (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:47627)
+    at https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:48586
+[    8312ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at i (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:49710)
+    at c (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:47627)
+    at https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:48225
+[    8312ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at i (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:49710)
+    at c (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:47627)
+    at https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:48586
+[    8312ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at i (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:49710)
+    at c (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:47627)
+    at https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:48225
+[    8313ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at i (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:49710)
+    at c (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:47627)
+    at https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:48586
+[    8313ms] Error: Unable to retrieve appVersion because #__PWS_DATA__ was not found in the DOM.
+    at i (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:49710)
+    at c (https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:47627)
+    at https://s.pinimg.com/webapp/77291-7e5b64934826a889.mjs:5:48225
+[   31536ms] [WARNING] The resource https://i.pinimg.com/236x/ee/23/2d/ee232db5d385af190427b563b499d380.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31536ms] [WARNING] The resource https://i.pinimg.com/236x/61/69/c5/6169c5a26a4eccfedf3b3e7bd315c6c6.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31536ms] [WARNING] The resource https://i.pinimg.com/236x/44/dc/e7/44dce7926332e5086cb8f1456981935c.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31536ms] [WARNING] The resource https://i.pinimg.com/236x/d9/fa/92/d9fa92ac0337e8224d2f4a192e9cd6fd.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31536ms] [WARNING] The resource https://i.pinimg.com/236x/6c/9c/bc/6c9cbc9713fa037dd5d59d5462aa8e13.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31536ms] [WARNING] The resource https://i.pinimg.com/236x/1f/35/7b/1f357ba637b6008a0d47cbfcf7138790.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31536ms] [WARNING] The resource https://i.pinimg.com/236x/b9/46/4c/b9464cd048844174cd0b81ac5019dc1e.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/54/d6/db/54d6dbaca749456252ef2976f7acc29f.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/fa/e9/f8/fae9f867b3a189466664ae754e4274b9.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/e8/7c/0b/e87c0bf1f94b2fefc6857230596ff59d.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/1d/46/e1/1d46e18924e014d12a73eeda72c90728.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/7f/8c/0e/7f8c0e09bbb0d2ceda7e5a5a3dd4541f.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/81/94/20/819420020e06bb428a05e43129c0f2fc.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/2e/01/33/2e0133508f10a136ec2a2adc4f32f594.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/25/4d/a1/254da18932097a43457d83bee029c2aa.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/2b/4a/da/2b4ada64e594017a6bb0c1a631d8959f.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/96/79/0b/96790b9349a71fae6b5838c8771a611b.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/37/3c/9e/373c9e0ee0fc460baeedccf11e84dc1a.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/6d/14/16/6d1416080d6e14030c43f7b13fca62fe.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/9f/56/64/9f56649032610f48f7b136ae029998a0.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/34/c3/da/34c3da8703f62d545d1671cf3dc9fcca.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
+[   31537ms] [WARNING] The resource https://i.pinimg.com/236x/4d/9f/76/4d9f7667582cb1f9889c64444977360e.jpg was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://kr.pinterest.com/:0
