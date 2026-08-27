@@ -1,0 +1,126 @@
+Notion DB 생성 & API 연결 가이드
+
+Notion 데이터베이스를 만들고 Notion API로 직접 연결하기 위한 단계별 가이드입니다. 순서대로 진행하세요.
+
+1. 사전 준비
+- 인테그레이션을 만들 수 있는 권한이 있는 Notion 계정 (워크스페이스 멤버. 내부 인테그레이션은 워크스페이스 소유자 승인이 필요할 수 있음)
+- 대상 DB가 위치할 워크스페이스/페이지
+- 시크릿 보관 장소(.env 파일, 시크릿 매니저). 토큰은 절대 커밋 금지.
+
+2. 인테그레이션 생성
+1) https://www.notion.so/my-integrations 접속
+2) "New integration" 클릭
+3) 설정:
+   - 이름: 예) AI_AG_2607-bot
+   - 연결 워크스페이스: 올바른 워크스페이스 선택
+   - 타입: Internal(기본값). 제3자가 OAuth로 인증하는 경우에만 Public 사용
+4) Capabilities(권한)에서 필요한 항목 활성화:
+   - Read content(읽기)
+   - Update content(수정)
+   - Insert content(추가)
+   - (선택) Read user information — 사용자 정보를 조회해야 할 때만
+5) "Save" 클릭
+
+3. API 토큰 발급
+- 저장 후 인테그레이션의 "Configuration" 탭 열기
+- "Internal Integration Secret" 복사 (신규 토큰은 ntn_ 로 시작, 예전 토큰은 secret_ 로 시작)
+- 환경 변수로 저장, 예:
+  NOTION_API_KEY=ntn_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- 토큰은 선택한 권한을 그대로 상속함. 재발급: Configuration → "Regenerate"
+
+4. Notion에서 데이터베이스 생성
+1) DB를 담을 상위 페이지 열기
+2) /database 입력 → "Table view - Full page"(또는 inline) 선택
+3) 스키마(속성) 정의. 기본 권장 구성:
+   - Name : Title : 필수, 항상 존재
+   - Status : Status 또는 Select : 예) Todo / In progress / Done
+   - Date : Date : 마감일 또는 이벤트 날짜
+   - Tags : Multi-select : 분류
+   - Owner : People : 담당자
+   - Notes : Rich text : 자유 텍스트
+4) 속성 이름과 타입이 중요함 — API는 속성을 "이름"(및 타입)으로 참조함. 이름을 바꾸지 말 것.
+
+5. 인테그레이션에 데이터베이스 공유
+명시적으로 연결하기 전까지 인테그레이션은 접근 권한이 전혀 없음.
+1) 데이터베이스를 풀 페이지로 열기
+2) 우측 상단 ••• 메뉴 → "Connections"(또는 "+ Add connections")
+3) 인테그레이션 이름 검색 → 선택 → "Confirm"
+4) 이제 인테그레이션이 이 DB와 모든 하위 페이지에 접근 가능
+※ 공유한 페이지 아래에 중첩된 DB는 접근 권한이 상속됨. 최소 권한 원칙에 맞게 범위를 좁게 설정할 것.
+
+6. 데이터베이스 ID 확인
+데이터베이스 ID는 32자리 UUID.
+- 브라우저에서 DB를 풀 페이지로 열기
+- URL 형태: https://www.notion.so/<workspace>/<DATABASE_ID>?v=<VIEW_ID>
+- DATABASE_ID는 ?v= 앞의 32자리 16진수. 대시(8-4-4-4-12) 형식이든 raw든 API가 모두 허용함.
+저장:
+  NOTION_DATABASE_ID=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+7. 연결 확인
+모든 요청에 필요한 헤더:
+- Authorization : Bearer <NOTION_API_KEY>
+- Notion-Version : 2022-06-28 (현재 안정 버전)
+- Content-Type : application/json
+
+DB 조회(스키마 확인):
+curl https://api.notion.com/v1/databases/$NOTION_DATABASE_ID \
+  -H "Authorization: Bearer $NOTION_API_KEY" \
+  -H "Notion-Version: 2022-06-28"
+속성 목록과 함께 200이면 토큰 + 공유가 정상.
+404는 대부분 DB를 인테그레이션에 공유하지 않은 것(5단계).
+
+행(row) 쿼리:
+curl -X POST https://api.notion.com/v1/databases/$NOTION_DATABASE_ID/query \
+  -H "Authorization: Bearer $NOTION_API_KEY" \
+  -H "Notion-Version: 2022-06-28" \
+  -H "Content-Type: application/json" \
+  -d '{ "page_size": 5 }'
+
+행(page) 생성:
+curl -X POST https://api.notion.com/v1/pages \
+  -H "Authorization: Bearer $NOTION_API_KEY" \
+  -H "Notion-Version: 2022-06-28" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "parent": { "database_id": "'"$NOTION_DATABASE_ID"'" },
+    "properties": {
+      "Name":   { "title": [ { "text": { "content": "First item" } } ] },
+      "Status": { "status": { "name": "Todo" } },
+      "Date":   { "date": { "start": "2026-08-27" } },
+      "Tags":   { "multi_select": [ { "name": "demo" } ] }
+    }
+  }'
+
+8. 속성 값 형태 (치트시트)
+- Title : { "title": [ { "text": { "content": "..." } } ] }
+- Rich text : { "rich_text": [ { "text": { "content": "..." } } ] }
+- Number : { "number": 42 }
+- Select : { "select": { "name": "Option" } }
+- Multi-select : { "multi_select": [ { "name": "A" }, { "name": "B" } ] }
+- Status : { "status": { "name": "In progress" } }
+- Date : { "date": { "start": "2026-08-27", "end": null } }
+- Checkbox : { "checkbox": true }
+- People : { "people": [ { "id": "<user_id>" } ] }
+- URL / Email / Phone : { "url": "https://..." } 등
+- Relation : { "relation": [ { "id": "<page_id>" } ] }
+
+9. 자주 겪는 문제
+- UI에서는 보이는데 404 → Connections로 인테그레이션을 추가하지 않음
+- Notion-Version 헤더 누락 → 400. 항상 보낼 것
+- 속성 이름 불일치 → 400 "is not a property that exists". 이름은 대소문자 구분, 정확히 일치해야 함
+- Select/Status 옵션이 없음 → Select/Multi-select는 API가 새 옵션 생성 가능. Status는 불가 — 옵션이 DB에 이미 있어야 함
+- Rate limit → 평균 초당 약 3회. 429는 Retry-After로 처리
+- 페이지네이션 → 응답 최대 100개. next_cursor / has_more 로 반복
+- 토큰 유출 → git에서 제외(.env 확인), 노출 시 즉시 재발급
+
+10. 권장 프로젝트 구성
+.env                  # NOTION_API_KEY, NOTION_DATABASE_ID  (git 제외)
+scripts/notion/        # API 헬퍼 스크립트
+스크립트에서 .env 로드, 토큰 하드코딩 금지. CI에서는 마스킹된 시크릿으로 주입.
+
+공식 참고 자료
+- 인테그레이션 대시보드: https://www.notion.so/my-integrations
+- API 문서: https://developers.notion.com/reference/intro
+- 페이지 생성: https://developers.notion.com/reference/post-page
+- 데이터베이스 쿼리: https://developers.notion.com/reference/post-database-query
+- 데이터베이스 다루기 가이드: https://developers.notion.com/docs/working-with-databases
