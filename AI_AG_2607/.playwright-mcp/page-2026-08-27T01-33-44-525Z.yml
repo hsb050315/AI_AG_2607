@@ -1,0 +1,71 @@
+- generic [ref=f50e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f50e15]:
+      - generic [ref=f50e17]:
+        - generic [ref=f50e18]:
+          - combobox "검색" [ref=f50e20]: minimal teaser poster deep blue negative space serif
+          - generic [ref=f50e21]:
+            - button "검색 입력 삭제" [ref=f50e24] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f50e30]:
+              - button "Pinterest 렌즈" [ref=f50e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f50e38] [cursor=pointer]:
+          - generic [ref=f50e40]:
+            - generic [ref=f50e41]: 모든 핀
+            - img "드롭다운" [ref=f50e43]
+      - link "내 프로필" [ref=f50e49] [cursor=pointer]:
+        - /url: /hsb0503150114/
+      - button "계정" [ref=f50e61] [cursor=pointer]
+  - navigation [ref=f50e66]:
+    - generic [ref=f50e68]:
+      - generic [ref=f50e69]:
+        - generic "홈" [ref=f50e73]:
+          - link "홈" [ref=f50e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f50e81]:
+          - link "홈" [ref=f50e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f50e89]:
+          - link "내 보드" [ref=f50e90] [cursor=pointer]:
+            - /url: /hsb0503150114/
+        - generic "만들기" [ref=f50e97]:
+          - button "만들기" [ref=f50e98] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f50e113]:
+        - button "설정 및 지원" [ref=f50e114] [cursor=pointer]
+  - main [ref=f50e119]:
+    - generic [ref=f50e121]:
+      - heading "검색 결과 페이지" [level=1] [ref=f50e123]
+      - region "필터 및 세분화 검색" [ref=f50e127]:
+        - button "필터 표시" [ref=f50e136] [cursor=pointer]
+      - generic [ref=f50e148]:
+        - generic:
+          - generic:
+            - list:
+              - listitem [ref=f50e149]:
+                - button [ref=f50e150] [cursor=pointer]:
+                  - group "핀 카드" [ref=f50e153]:
+                    - generic [ref=f50e155]:
+                      - link "poster design | дизайн постера | graphic poster 핀 페이지" [ref=f50e157]:
+                        - /url: /pin/198017714863825385/
+                        - 'img "포함된 이미지: poster design | дизайн постера | graphic poster" [ref=f50e167]'
+                      - generic "추가 작업" [ref=f50e175]:
+                        - button "추가 작업" [ref=f50e176]
+              - listitem [ref=f50e181]:
+                - button [ref=f50e182] [cursor=pointer]:
+                  - group "핀 카드" [ref=f50e185]:
+                    - generic [ref=f50e187]:
+                      - link "DEEP 1 핀 페이지" [ref=f50e189]:
+                        - /url: /pin/691724824059065652/
+                        - 'img "포함된 이미지: DEEP 1" [ref=f50e199]'
+                      - generic "추가 작업" [ref=f50e207]:
+                        - button "추가 작업" [ref=f50e208]
+              - listitem [ref=f50e213]:
+                - button [ref=f50e214] [cursor=pointer]:
+                  - group "핀 카드" [ref=f50e217]:
+                    - generic [ref=f50e219]:
+                      - link "Poster 핀 페이지" [ref=f50e221]:
+                        - /url: /pin/420031102767600355/
+                        - 'img "포함된 이미지: Poster" [ref=f50e231]'
+                      - generic "추가 작업" [ref=f50e239]:
+                        - button "추가 작업" [ref=f50e240]

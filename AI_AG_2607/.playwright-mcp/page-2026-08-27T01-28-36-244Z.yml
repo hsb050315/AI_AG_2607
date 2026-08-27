@@ -1,0 +1,155 @@
+- generic [ref=f10e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f10e15]:
+      - generic [ref=f10e17]:
+        - generic [ref=f10e18]:
+          - combobox "검색" [ref=f10e20]: winter anime key visual blue
+          - generic [ref=f10e21]:
+            - button "검색 입력 삭제" [ref=f10e24] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f10e30]:
+              - button "Pinterest 렌즈" [ref=f10e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f10e38] [cursor=pointer]:
+          - generic [ref=f10e40]:
+            - generic [ref=f10e41]: 모든 핀
+            - img "드롭다운" [ref=f10e43]
+      - link "내 프로필" [ref=f10e49] [cursor=pointer]:
+        - /url: /hsb0503150114/
+      - button "계정" [ref=f10e61] [cursor=pointer]
+  - navigation [ref=f10e66]:
+    - generic [ref=f10e68]:
+      - generic [ref=f10e69]:
+        - generic "홈" [ref=f10e73]:
+          - link "홈" [ref=f10e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f10e81]:
+          - link "홈" [ref=f10e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f10e89]:
+          - link "내 보드" [ref=f10e90] [cursor=pointer]:
+            - /url: /hsb0503150114/
+        - generic "만들기" [ref=f10e97]:
+          - button "만들기" [ref=f10e98] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f10e113]:
+        - button "설정 및 지원" [ref=f10e114] [cursor=pointer]
+  - main [ref=f10e119]:
+    - generic [ref=f10e121]:
+      - heading "검색 결과 페이지" [level=1] [ref=f10e123]
+      - region "필터 및 세분화 검색" [ref=f10e127]:
+        - generic [ref=f10e130]:
+          - button "필터 표시" [ref=f10e136] [cursor=pointer]
+          - button "Design" [ref=f10e147] [cursor=pointer]
+          - button "Poster" [ref=f10e158] [cursor=pointer]
+          - button "Character" [ref=f10e169] [cursor=pointer]
+          - button "Composition" [ref=f10e180] [cursor=pointer]
+          - button "Game" [ref=f10e191] [cursor=pointer]
+          - button "Dandadan" [ref=f10e202] [cursor=pointer]
+          - button "Style" [ref=f10e213] [cursor=pointer]
+          - button "Illustration" [ref=f10e224] [cursor=pointer]
+          - button "Design ideas" [ref=f10e235] [cursor=pointer]
+          - button "Background" [ref=f10e246] [cursor=pointer]
+          - button "Event" [ref=f10e257] [cursor=pointer]
+          - button "Piece" [ref=f10e268] [cursor=pointer]
+          - button "Pose" [ref=f10e279] [cursor=pointer]
+          - button "Hd" [ref=f10e290] [cursor=pointer]
+          - button "86" [ref=f10e301] [cursor=pointer]
+          - button "Cinematic" [ref=f10e312] [cursor=pointer]
+          - button "Group" [ref=f10e323] [cursor=pointer]
+          - button "Layout" [ref=f10e334] [cursor=pointer]
+          - button "Arts" [ref=f10e345] [cursor=pointer]
+          - button "Naruto" [ref=f10e356] [cursor=pointer]
+          - button "Monster" [ref=f10e367] [cursor=pointer]
+      - generic [ref=f10e378]:
+        - generic [ref=f10e379]: winter anime key visual blue 검색 결과를 추가로 표시
+        - list [ref=f10e384]:
+          - listitem [ref=f10e385]:
+            - button [ref=f10e387] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e390]:
+                - generic [ref=f10e392]:
+                  - link "제목 없음 핀 페이지" [ref=f10e394]:
+                    - /url: /pin/103864335152647045/
+                    - img "포함된 이미지:" [ref=f10e404]
+                  - generic "추가 작업" [ref=f10e412]:
+                    - button "추가 작업" [ref=f10e413]
+          - listitem [ref=f10e418]:
+            - button [ref=f10e420] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e423]:
+                - generic [ref=f10e425]:
+                  - link "Esthétique Hiver Forêt Enneigée 핀 페이지" [ref=f10e427]:
+                    - /url: /pin/33847434695033539/
+                    - 'img "포함된 이미지: Esthétique Hiver Forêt Enneigée" [ref=f10e437]'
+                  - generic "추가 작업" [ref=f10e445]:
+                    - button "추가 작업" [ref=f10e446]
+          - listitem [ref=f10e451]:
+            - button [ref=f10e453] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e456]:
+                - generic [ref=f10e458]:
+                  - link "제목 없음 핀 페이지" [ref=f10e460]:
+                    - /url: /pin/34128909673523317/
+                    - img "포함된 이미지:" [ref=f10e470]
+                  - generic "추가 작업" [ref=f10e478]:
+                    - button "추가 작업" [ref=f10e479]
+          - listitem [ref=f10e484]:
+            - button [ref=f10e486] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e489]:
+                - generic [ref=f10e491]:
+                  - link "제목 없음 핀 페이지" [ref=f10e493]:
+                    - /url: /pin/312507661667626203/
+                    - img "포함된 이미지:" [ref=f10e503]
+                  - generic "추가 작업" [ref=f10e511]:
+                    - button "추가 작업" [ref=f10e512]
+          - listitem [ref=f10e517]:
+            - button [ref=f10e519] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e522]:
+                - generic [ref=f10e524]:
+                  - link "Snow Miku 2011 핀 페이지" [ref=f10e526]:
+                    - /url: /pin/68891069300514792/
+                    - 'img "포함된 이미지: Snow Miku 2011" [ref=f10e536]'
+                  - generic "추가 작업" [ref=f10e544]:
+                    - button "추가 작업" [ref=f10e545]
+          - listitem [ref=f10e550]:
+            - button [ref=f10e552] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e555]:
+                - generic [ref=f10e557]:
+                  - link "제목 없음 핀 페이지" [ref=f10e559]:
+                    - /url: /pin/844493676375980/
+                    - img "포함된 이미지:" [ref=f10e569]
+                  - generic "추가 작업" [ref=f10e577]:
+                    - button "추가 작업" [ref=f10e578]
+          - listitem [ref=f10e583]:
+            - button [ref=f10e585] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e588]:
+                - generic [ref=f10e590]:
+                  - link "제목 없음 핀 페이지" [ref=f10e592]:
+                    - /url: /pin/535435843224354965/
+                    - img "포함된 이미지:" [ref=f10e602]
+                  - generic "추가 작업" [ref=f10e610]:
+                    - button "추가 작업" [ref=f10e611]
+          - listitem [ref=f10e616]:
+            - button [ref=f10e618] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e621]:
+                - generic [ref=f10e623]:
+                  - link "제목 없음 핀 페이지" [ref=f10e625]:
+                    - /url: /pin/562175966009388176/
+                    - img "포함된 이미지:" [ref=f10e635]
+                  - generic "추가 작업" [ref=f10e643]:
+                    - button "추가 작업" [ref=f10e644]
+          - listitem [ref=f10e649]:
+            - button [ref=f10e651] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e654]:
+                - generic [ref=f10e656]:
+                  - link "제목 없음 핀 페이지" [ref=f10e658]:
+                    - /url: /pin/91409067437296127/
+                    - img "포함된 이미지:" [ref=f10e668]
+                  - generic "추가 작업" [ref=f10e676]:
+                    - button "추가 작업" [ref=f10e677]
+          - listitem [ref=f10e682]:
+            - button [ref=f10e684] [cursor=pointer]:
+              - group "핀 카드" [ref=f10e687]:
+                - generic [ref=f10e689]:
+                  - link "제목 없음 핀 페이지" [ref=f10e691]:
+                    - /url: /pin/422281212385823/
+                    - img "포함된 이미지:" [ref=f10e701]
+                  - generic "추가 작업" [ref=f10e709]:
+                    - button "추가 작업" [ref=f10e710]

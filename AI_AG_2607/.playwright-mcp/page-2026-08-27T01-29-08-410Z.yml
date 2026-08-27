@@ -1,0 +1,71 @@
+- generic [ref=f19e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f19e15]:
+      - generic [ref=f19e17]:
+        - generic [ref=f19e18]:
+          - combobox "검색" [ref=f19e20]: minimalist anime movie poster blue typography
+          - generic [ref=f19e21]:
+            - button "검색 입력 삭제" [ref=f19e24] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f19e30]:
+              - button "Pinterest 렌즈" [ref=f19e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f19e38] [cursor=pointer]:
+          - generic [ref=f19e40]:
+            - generic [ref=f19e41]: 모든 핀
+            - img "드롭다운" [ref=f19e43]
+      - link "내 프로필" [ref=f19e49] [cursor=pointer]:
+        - /url: /hsb0503150114/
+      - button "계정" [ref=f19e61] [cursor=pointer]
+  - navigation [ref=f19e66]:
+    - generic [ref=f19e68]:
+      - generic [ref=f19e69]:
+        - generic "홈" [ref=f19e73]:
+          - link "홈" [ref=f19e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f19e81]:
+          - link "홈" [ref=f19e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f19e89]:
+          - link "내 보드" [ref=f19e90] [cursor=pointer]:
+            - /url: /hsb0503150114/
+        - generic "만들기" [ref=f19e97]:
+          - button "만들기" [ref=f19e98] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f19e113]:
+        - button "설정 및 지원" [ref=f19e114] [cursor=pointer]
+  - main [ref=f19e119]:
+    - generic [ref=f19e121]:
+      - heading "검색 결과 페이지" [level=1] [ref=f19e123]
+      - region "필터 및 세분화 검색" [ref=f19e127]:
+        - button "필터 표시" [ref=f19e136] [cursor=pointer]
+      - generic [ref=f19e148]:
+        - generic:
+          - generic:
+            - list:
+              - listitem [ref=f19e149]:
+                - button [ref=f19e150] [cursor=pointer]:
+                  - group "핀 카드" [ref=f19e153]:
+                    - generic [ref=f19e155]:
+                      - link "PERFECT BLUE 핀 페이지" [ref=f19e157]:
+                        - /url: /pin/48202658507265489/
+                        - 'img "포함된 이미지: PERFECT BLUE" [ref=f19e167]'
+                      - generic "추가 작업" [ref=f19e175]:
+                        - button "추가 작업" [ref=f19e176]
+              - listitem [ref=f19e181]:
+                - button [ref=f19e182] [cursor=pointer]:
+                  - group "핀 카드" [ref=f19e185]:
+                    - generic [ref=f19e187]:
+                      - link "제목 없음 핀 페이지" [ref=f19e189]:
+                        - /url: /pin/325736985559222002/
+                        - img "포함된 이미지:" [ref=f19e199]
+                      - generic "추가 작업" [ref=f19e207]:
+                        - button "추가 작업" [ref=f19e208]
+              - listitem [ref=f19e213]:
+                - button [ref=f19e214] [cursor=pointer]:
+                  - group "핀 카드" [ref=f19e217]:
+                    - generic [ref=f19e219]:
+                      - link "Perfect Blue Poster Design 핀 페이지" [ref=f19e221]:
+                        - /url: /pin/73887250131700584/
+                        - 'img "포함된 이미지: Perfect Blue Poster Design" [ref=f19e231]'
+                      - generic "추가 작업" [ref=f19e239]:
+                        - button "추가 작업" [ref=f19e240]

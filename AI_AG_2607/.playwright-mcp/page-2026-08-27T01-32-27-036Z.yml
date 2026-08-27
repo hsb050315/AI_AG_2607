@@ -1,0 +1,90 @@
+- generic [ref=f30e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=f30e15]:
+      - generic [ref=f30e17]:
+        - generic [ref=f30e18]:
+          - combobox "검색" [ref=f30e20]: sports poster graphic design blue bold typography
+          - generic [ref=f30e21]:
+            - button "검색 입력 삭제" [ref=f30e24] [cursor=pointer]
+            - generic "이미지 업로드" [ref=f30e30]:
+              - button "Pinterest 렌즈" [ref=f30e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=f30e38] [cursor=pointer]:
+          - generic [ref=f30e40]:
+            - generic [ref=f30e41]: 모든 핀
+            - img "드롭다운" [ref=f30e43]
+      - link "내 프로필" [ref=f30e49] [cursor=pointer]:
+        - /url: /hsb0503150114/
+      - button "계정" [ref=f30e61] [cursor=pointer]
+  - navigation [ref=f30e66]:
+    - generic [ref=f30e68]:
+      - generic [ref=f30e69]:
+        - generic "홈" [ref=f30e73]:
+          - link "홈" [ref=f30e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=f30e81]:
+          - link "홈" [ref=f30e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=f30e89]:
+          - link "내 보드" [ref=f30e90] [cursor=pointer]:
+            - /url: /hsb0503150114/
+        - generic "만들기" [ref=f30e97]:
+          - button "만들기" [ref=f30e98] [cursor=pointer]
+      - generic "설정 및 지원" [ref=f30e113]:
+        - button "설정 및 지원" [ref=f30e114] [cursor=pointer]
+  - main [ref=f30e119]:
+    - generic [ref=f30e121]:
+      - heading "검색 결과 페이지" [level=1] [ref=f30e123]
+      - region "필터 및 세분화 검색" [ref=f30e127]:
+        - generic [ref=f30e130]:
+          - button "필터 표시" [ref=f30e136] [cursor=pointer]
+          - button "Typographic" [ref=f30e147] [cursor=pointer]
+          - button "Ideas" [ref=f30e158] [cursor=pointer]
+          - button "Graphics" [ref=f30e169] [cursor=pointer]
+      - generic [ref=f30e181]:
+        - generic:
+          - generic:
+            - list:
+              - listitem [ref=f30e182]:
+                - button [ref=f30e183] [cursor=pointer]:
+                  - group "핀 카드" [ref=f30e186]:
+                    - generic [ref=f30e188]:
+                      - link "제목 없음 핀 페이지" [ref=f30e190]:
+                        - /url: /pin/2744449768659900/
+                        - img "포함된 이미지:" [ref=f30e200]
+                      - generic "추가 작업" [ref=f30e208]:
+                        - button "추가 작업" [ref=f30e209]
+              - listitem [ref=f30e214]:
+                - button [ref=f30e215] [cursor=pointer]:
+                  - group "핀 카드" [ref=f30e218]:
+                    - generic [ref=f30e220]:
+                      - link "adobe.com" [ref=f30e224]:
+                        - /url: https://www.adobe.com/kr/creativecloud/roc/individual.html?sdid=ZP46F154&mv=social&mv2=paidsoc&utm_campaign=626757760347&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680089131858&pp=0
+                        - 'img "포함된 이미지: 디지털 콜라주도 Creative Cloud" [ref=f30e234]'
+                      - generic [ref=f30e238]:
+                        - generic [ref=f30e239]:
+                          - generic [ref=f30e240]:
+                            - generic:
+                              - heading "adobe.com" [level=2]:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link "adobe.com":
+                                        - /url: https://www.adobe.com/kr/creativecloud/roc/individual.html?sdid=ZP46F154&mv=social&mv2=paidsoc&utm_campaign=626757760347&utm_medium=PaidSocial&utm_source=Pinterest&utm_content=2680089131858&pp=0
+                          - link "후원 핀" [ref=f30e243]:
+                            - /url: /adobe/
+                            - generic [ref=f30e245]:
+                              - generic [ref=f30e246]: Adobe
+                              - generic "후원 핀" [ref=f30e252]
+                        - generic "추가 작업" [ref=f30e255]:
+                          - button "추가 작업" [ref=f30e256]
+              - listitem [ref=f30e261]:
+                - button [ref=f30e262] [cursor=pointer]:
+                  - group "핀 카드" [ref=f30e265]:
+                    - generic [ref=f30e267]:
+                      - link "제목 없음 핀 페이지" [ref=f30e269]:
+                        - /url: /pin/3096293487844955/
+                        - img "포함된 이미지:" [ref=f30e279]
+                      - generic "추가 작업" [ref=f30e287]:
+                        - button "추가 작업" [ref=f30e288]
