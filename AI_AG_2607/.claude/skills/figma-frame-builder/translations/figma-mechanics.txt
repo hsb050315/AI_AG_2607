@@ -1,0 +1,97 @@
+figma-mechanics (references/figma-mechanics.md 한국어 번역)
+
+# figma-mechanics — use_figma 실패 유형과 해결법
+
+빌드에서 첫 use_figma 호출 전에 한 번 읽는다. 재시도를 유발하는 실수 모음이며(재시도는 희소한 MCP
+호출을 소모한다), 권위 있는 출처는 figma-use 스킬 자체의 references/ 다. 이 파일은 프레임 제작에 맞춰
+정리한 요약본이다.
+
+## 실행 모델
+
+- 코드는 async 컨텍스트로 자동 래핑된다. 최상위 await 와 return 이 있는 순수 JS 로 작성한다.
+  (async () => {})() 로 감싸지 않는다. figma.closePlugin() 을 호출하지 않는다.
+- figma.notify() 는 "not implemented" 를 던진다 — 절대 사용 금지.
+- console.log() 출력은 반환되지 않는다. 에이전트는 return 한 것만 본다. 구조화된 객체를 반환한다.
+- 에러 시 스크립트는 원자적 — 아무것도 실행되지 않고 파일은 그대로. 멈추고, 에러를 읽고, 고치고, 재시도.
+  무작정 재시도하지 않는다.
+- 호출당 논리 연산 약 10개. 노드 생성 + 속성 설정 + 부모 지정 ≈ 1연산. 더 큰 작업은 호출을 나눈다.
+
+## 색상
+
+- 0~255 가 아니라 0~1 범위. { r: 0x4F/255, g: 0xA3/255, b: 0xC7/255 }.
+- 페인트 color 는 {r,g,b} 만 — 알파 필드 없음. opacity 는 페인트의 형제:
+  { type:'SOLID', color:{...}, opacity:0.9 }.
+- 그라디언트 스톱 알파는 스톱 색상 안에 {r,g,b,a} 로 들어간다.
+- fills 와 strokes 는 읽기 전용 배열. 복제 → 수정 → 새 배열 리터럴로 재할당:
+  const f = node.fills.map(p => ({...p}));
+  f[0] = { ...f[0], color: aqua };
+  node.fills = f;
+- 부분 범위 텍스트 색상: node.setRangeFills(start, end, [{ type:'SOLID', color }]).
+
+## 폰트 — 표준 텍스트 레시피
+
+모든 텍스트 변경: 폰트 로드 → await → 변경 → 노드 ID 반환.
+로드를 빼먹으면 Cannot write to node with unloaded font "<family> <style>" 를 던진다.
+
+  for (const s of ["Regular","Medium","Bold","Black"]) {
+    await figma.loadFontAsync({ family: "Noto Sans KR", style: s });
+  }
+
+- 스타일 문자열은 await figma.listAvailableFontsAsync() 로 확인 — 추측 금지.
+  "Semi Bold", "Extra Bold"(Inter)는 공백이 있다; "SemiBold" 는 실패한다.
+- 기존 텍스트를 편집할 땐 하드코딩된 기본값이 아니라 현재 폰트를
+  node.getStyledTextSegments(['fontName']) 로 로드한다.
+- 대부분 파일에서 검증됨: Noto Sans KR → Black, Bold, Medium, Regular.
+  Inter → Regular, Medium, Semi Bold, Bold, Extra Bold.
+- Pretendard 는 없는 경우가 잦다. 폰트 목록을 먼저 확인하고, Noto Sans KR 로 폴백 + 사용자에게 알린다.
+
+## 텍스트 레이아웃
+
+- 줄바꿈 텍스트: 명시적 폭(node.resize(w, h) 후 FIXED) + node.textAutoResize = 'HEIGHT' +
+  {unit, value} 형태의 실제 lineHeight. 맨숫자는 실패.
+- 기본 WIDTH_AND_HEIGHT 모드에서 FILL 사이징만 쓰면 노드가 폭 ~0 으로 붕괴. 설정 후 node.width > 0 확인.
+- resize() 는 사이징 모드를 FIXED 로 초기화 — HUG/FILL 설정 전에 호출한다.
+- layoutSizingHorizontal/Vertical = 'FIXED' | 'HUG' | 'FILL' 이고 노드가 오토레이아웃 프레임의
+  자식이 된 뒤에만 작동(먼저 append, 그 다음 설정). primaryAxisSizingMode/counterAxisSizingMode =
+  'FIXED' | 'AUTO' — 다른 enum, 섞지 않는다.
+
+## 오토레이아웃
+
+- 구조적으로 연관된 자식 그룹은
+  figma.createAutoLayout('VERTICAL', { itemSpacing: 24, name: 'col' }) 를 쓴다.
+  자식은 appendChild 직후 layoutSizingHorizontal = 'FILL' 사용 가능.
+- 절대 x/y 는 컨테이너가 캔버스 어디에 있는지; 오토레이아웃은 자식이 내부에서 어떻게 관계되는지.
+  둘 중 하나가 아니라 둘 다.
+
+## 위치
+
+- 새 최상위 노드는 (0,0) 이 기본이고 기존 콘텐츠에 겹쳐 쌓인다. figma.currentPage.children 를
+  훑어 새 프레임을 비켜 배치 — 예: 가장 오른쪽 노드의 오른쪽, 또는 x = index * (w + gap).
+- 프레임 자식은 프레임 로컬 좌표.
+
+## 페이지
+
+- figma.currentPage 는 매 use_figma 호출 시작마다 첫 페이지로 초기화. 기본이 아닌 페이지를
+  대상으로 하는 각 호출 맨 위에서 await figma.setCurrentPageAsync(page) 를 다시 호출.
+- 동기 설정자 figma.currentPage = page 는 던진다. 항상 async 메서드.
+- 스크립트당 setCurrentPageAsync 는 최대 1회. 다중 페이지 작업은 N개의 병렬 use_figma 호출로
+  팬아웃(한 메시지, N개 툴 블록).
+
+## 반환값
+
+- 캔버스 노드를 생성/변경하는 모든 스크립트는 영향받은 모든 노드 ID 를 구조화해 반환해야 한다:
+  return { createdNodeIds: [...], mutatedNodeIds: [...], shot: await frame.screenshot({scale:0.4}) }.
+- 이 ID들은 가독성 수정 패스와 이후 호출에 필요하다.
+
+## 검증
+
+- await node.screenshot({ scale: 0.4 }) 는 같은 호출 안에서 이미지를 인라인 반환 — 별도
+  get_screenshot 보다 저렴. 빌드하면서 각 프레임을 눈으로 확인하는 데 쓴다.
+- 구조(개수, 계층, 위치)는 get_metadata. 마지막 풀 해상도 내보내기는 get_screenshot.
+- get_screenshot(nodeId, fileKey, maxDimension) 는 수명 짧은 image_url 을 반환;
+  즉시 curl -sL -o "<경로>" "<url>" 로 다운로드.
+
+## use_figma 에서 금지
+
+loadAllPagesAsync, setPluginData / getPluginData (대신 상태를 return 값과 노드 description 에 둔다),
+createImageAsync. figma.createPage() 는 디자인 파일에서만 작동.
