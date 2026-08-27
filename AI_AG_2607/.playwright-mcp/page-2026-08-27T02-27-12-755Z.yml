@@ -1,0 +1,86 @@
+- generic [ref=e4]:
+  - banner:
+    - link "콘텐츠로 건너뛰기":
+      - /url: "#"
+    - generic [ref=e15]:
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - combobox "검색" [ref=e20]: 카드뉴스 디자인 블루
+          - generic [ref=e21]:
+            - button "검색 입력 삭제" [ref=e24] [cursor=pointer]
+            - generic "이미지 업로드" [ref=e30]:
+              - button "Pinterest 렌즈" [ref=e31] [cursor=pointer]
+        - button "모든 핀 드롭다운" [ref=e38] [cursor=pointer]:
+          - generic [ref=e40]:
+            - generic [ref=e41]: 모든 핀
+            - img "드롭다운" [ref=e43]
+      - link "내 프로필" [ref=e49] [cursor=pointer]:
+        - /url: /hsb0503150114/
+      - button "계정" [ref=e61] [cursor=pointer]
+  - navigation [ref=e66]:
+    - generic [ref=e68]:
+      - generic [ref=e69]:
+        - generic "홈" [ref=e73]:
+          - link "홈" [ref=e74] [cursor=pointer]:
+            - /url: /
+        - generic "홈" [ref=e81]:
+          - link "홈" [ref=e82] [cursor=pointer]:
+            - /url: /
+        - generic "내 보드" [ref=e89]:
+          - link "내 보드" [ref=e90] [cursor=pointer]:
+            - /url: /hsb0503150114/
+        - generic "만들기" [ref=e97]:
+          - button "만들기" [ref=e98] [cursor=pointer]
+      - generic "설정 및 지원" [ref=e113]:
+        - button "설정 및 지원" [ref=e114] [cursor=pointer]
+  - main [ref=e119]:
+    - generic [ref=e121]:
+      - heading "검색 결과 페이지" [level=1] [ref=e123]
+      - region "필터 및 세분화 검색" [ref=e127]:
+        - button "필터 표시" [ref=e136] [cursor=pointer]
+      - generic [ref=e148]:
+        - generic:
+          - generic:
+            - list:
+              - listitem [ref=e149]:
+                - button [ref=e150] [cursor=pointer]:
+                  - group "핀 카드" [ref=e153]:
+                    - generic [ref=e155]:
+                      - link "제목 없음 핀 페이지" [ref=e157]:
+                        - /url: /pin/42291683996297467/
+                        - img "포함된 이미지:" [ref=e167]
+                      - generic "추가 작업" [ref=e175]:
+                        - button "추가 작업" [ref=e176]
+              - listitem [ref=e181]:
+                - button [ref=e182] [cursor=pointer]:
+                  - group "핀 카드" [ref=e185]:
+                    - generic [ref=e187]:
+                      - link "adobe.com" [ref=e191]:
+                        - /url: https://www.adobe.com/kr/creativecloud/roc/design/all-in-one.html?sdid=1XGJCN72&mv=social&mv2=paidsoc&pp=0
+                        - 'img "포함된 이미지: \"시장에서 팔리는 디자인 어떻게 만들어질까?\"" [ref=e201]'
+                      - generic [ref=e205]:
+                        - generic [ref=e206]:
+                          - generic [ref=e207]:
+                            - generic:
+                              - heading "adobe.com" [level=2]:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - link "adobe.com":
+                                        - /url: https://www.adobe.com/kr/creativecloud/roc/design/all-in-one.html?sdid=1XGJCN72&mv=social&mv2=paidsoc&pp=0
+                          - link "후원 핀" [ref=e210]:
+                            - /url: /adobe/
+                            - generic [ref=e212]:
+                              - generic [ref=e213]: Adobe
+                              - generic "후원 핀" [ref=e219]
+                        - generic "추가 작업" [ref=e222]:
+                          - button "추가 작업" [ref=e223]
+              - listitem [ref=e228]:
+                - button [ref=e229] [cursor=pointer]:
+                  - group "핀 카드" [ref=e232]:
+                    - generic [ref=e234]:
+                      - link "한국저작권위원회 카드뉴스 03월호 핀 페이지" [ref=e236]:
+                        - /url: /pin/8444318047641210/
+                        - 'img "포함된 이미지: 한국저작권위원회 카드뉴스 03월호" [ref=e246]'
+                      - generic "추가 작업" [ref=e254]:
+                        - button "추가 작업" [ref=e255]
