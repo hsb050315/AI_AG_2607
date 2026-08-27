@@ -1,0 +1,37 @@
+[     241ms] [INFO] Resource Sentinel initialized... @ https://app.notion.com/developers/connections?assetsVersion=23.13.20260827.0004&clientBuildTarget=client:37
+[     342ms] [WARNING] %cairgap.js%c Report-only mode enabled font-size:larger;font-weight:bold;border-radius:0.25em;padding:0.08em 0.25em;;color:amber;background-color:#6e3e00  @ https://transcend-cdn.com/cm/4d6a6beb-faf4-4a4e-9e1c-c7692d5f9c2f/airgap.js:5
+[     571ms] [INFO] 2026-08-27T03:14:15.939Z [info] FeatureFlagTransactionQueue: preferIndexedDB {team: no-team-specified} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[     761ms] [LOG] %c
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnn                         nnnn
+	nnnnnnn                          nnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnn                           nnn
+	nnnnnnnn    nnnnnnnn     nnnnnnn   nnn
+	nnnnnnnn      nnnnnnn      nnn     nnn
+	nnnnnnnn      nnnnnnnn     nnn     nnn
+	nnnnnnnn      nnnnnnnnnn   nnn     nnn
+	nnnnnnnn      nnn nnnnnnn  nnn     nnn
+	nnnnnnnn      nnn  nnnnnnnnnnn     nnn
+	nnnnnnnn      nnn   nnnnnnnnnn     nnn
+	nnnnnnnn      nnn     nnnnnnnn     nnn
+	nnnnnnnn      nnn      nnnnnnn     nnn
+	nnnnnnnn    nnnnnnnn    nnnnnn     nnn
+	  nnnnnn                           nnn
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		We're hiring!
+		  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		notion.com/careers
+
+	“yeah, I would probably eat a lemon for one hundred dollars” -- Ivan Zhao (2023-07-14)
+				  font-family: monospace @ https://app.notion.com/_assets/mainApp-c1146cbe1eab63b3.js:37
+[     936ms] [INFO] 2026-08-27T03:14:16.305Z [error] ClientRouting.resolve: ClientRouteConfigResolveTimeoutError {error: Object, data: Object, sentryEventId: undefined, team: web-infra} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1071ms] [WARNING] Ignoring inability to install OPFS sqlite3_vfs: Cannot install OPFS: Missing SharedArrayBuffer and/or Atomics. The server must emit the COOP/COEP response headers to enable those. See https://sqlite.org/wasm/doc/trunk/persistence.md#coop-coep @ https://app.notion.com/_assets/wasm-sqlite-worker-d276dab79aa36b1a.js:0
+[    1081ms] [INFO] 2026-08-27T03:14:16.449Z [info] syncRecordValuesBatched: missingSpacePointerForNotionUserRequest {actor: Object, data: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1107ms] [INFO] 2026-08-27T03:14:16.476Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1120ms] [INFO] 2026-08-27T03:14:16.488Z [error] main: ClientError {error: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1124ms] TypeError: Cannot read properties of undefined (reading 'getSpaceId')
+    at a (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:189:246499)
+    at async x (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:189:262310)
+[    1277ms] [WARNING] Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    1278ms] [INFO] 2026-08-27T03:14:16.646Z [error] eventTrailApiHelpers: trackFailure {error: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    2414ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://cdn.metadata.io/pixel/config/1127.json:0

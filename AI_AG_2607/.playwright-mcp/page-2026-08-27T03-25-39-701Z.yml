@@ -1,0 +1,184 @@
+- generic [ref=f19e1]:
+  - generic [ref=f19e4]:
+    - generic [ref=f19e9]:
+      - link "콘텐츠로 건너뛰기" [ref=f19e11] [cursor=pointer]:
+        - /url: "#main"
+      - navigation "사이드바":
+        - generic [ref=f19e15]:
+          - generic [ref=f19e18]:
+            - generic [ref=f19e19]:
+              - button "🏠 함승보님의 워크스페이스 사이드바 닫기" [ref=f19e24] [cursor=pointer]:
+                - generic [ref=f19e25]:
+                  - img "🏠" [ref=f19e31]
+                  - generic [ref=f19e32]: 함승보님의 워크스페이스
+                - button "사이드바 닫기" [ref=f19e39]
+              - generic [ref=f19e44]:
+                - tablist "Sidebar navigation" [ref=f19e45]:
+                  - tab "홈" [selected] [ref=f19e48] [cursor=pointer]
+                  - tab "채팅" [ref=f19e56] [cursor=pointer]:
+                    - generic [ref=f19e57]: "1"
+                  - tab "회의" [ref=f19e63] [cursor=pointer]
+                  - tab "수신함" [ref=f19e71] [cursor=pointer]
+                - button "검색" [ref=f19e77] [cursor=pointer]
+            - tabpanel "홈" [ref=f19e81]:
+              - generic [ref=f19e84]:
+                - button "워크스페이스 설정하기 설정 가이드 닫기 16.666666666666664" [ref=f19e87] [cursor=pointer]:
+                  - generic [ref=f19e88]:
+                    - generic [ref=f19e89]:
+                      - generic [ref=f19e90]: 워크스페이스 설정하기
+                      - generic [ref=f19e91]:
+                        - generic:
+                          - button "설정 가이드 닫기"
+                    - progressbar [ref=f19e93]:
+                      - generic [ref=f19e94]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - img "Notion AI face"
+                              - img "duck accessory"
+                - generic [ref=f19e96]:
+                  - generic [ref=f19e101] [cursor=pointer]:
+                    - button "개인 페이지" [expanded] [ref=f19e102]
+                    - tree "개인 페이지" [ref=f19e106]:
+                      - generic [ref=f19e108]:
+                        - treeitem "노션 db 연동 실습" [ref=f19e110]:
+                          - generic [ref=f19e111]:
+                            - img "페이지 아이콘 변경" [ref=f19e117]
+                            - generic [ref=f19e120]: 노션 db 연동 실습
+                        - treeitem "월별 가계부" [ref=f19e123]:
+                          - generic [ref=f19e124]:
+                            - img "페이지 아이콘 변경" [ref=f19e132]
+                            - generic [ref=f19e133]: 월별 가계부
+                        - treeitem "주간 할 일 목록" [ref=f19e136]:
+                          - generic [ref=f19e137]:
+                            - img "페이지 아이콘 변경" [ref=f19e145]
+                            - generic [ref=f19e146]: 주간 할 일 목록
+                        - treeitem "Notion에 오신 것을 환영합니다!" [ref=f19e149]:
+                          - generic [ref=f19e150]:
+                            - img "👋 페이지 아이콘 변경" [ref=f19e158]
+                            - generic [ref=f19e159]: Notion에 오신 것을 환영합니다!
+                  - generic [ref=f19e162]:
+                    - generic [ref=f19e163]:
+                      - generic [ref=f19e164]:
+                        - button "에이전트 추가" [ref=f19e166] [cursor=pointer]
+                        - generic:
+                          - button "에이전트 추가 무시"
+                      - generic [ref=f19e173]:
+                        - button "AI 노트 체험하기" [ref=f19e175] [cursor=pointer]
+                        - generic:
+                          - button "AI 노트 체험 닫기"
+                    - button "라이브러리" [ref=f19e185] [cursor=pointer]
+                    - button "새로운 기능, 도움말, 문의 등..." [ref=f19e194] [cursor=pointer]:
+                      - generic [ref=f19e195]:
+                        - generic [ref=f19e197]:
+                          - img "새로 만들기"
+                        - generic [ref=f19e201]: 도움말
+                    - button "휴지통" [ref=f19e205] [cursor=pointer]
+            - generic [ref=f19e213]:
+              - button "새 채팅" [ref=f19e215] [cursor=pointer]:
+                - generic [ref=f19e220]:
+                  - text: 새 채팅
+                  - generic [ref=f19e221]: Ctrl+O
+              - button "새 페이지" [ref=f19e226] [cursor=pointer]
+          - separator "왼쪽 및 오른쪽 방향키로 크기 조정" [ref=f19e232]
+      - generic [ref=f19e233]:
+        - banner [ref=f19e234]:
+          - generic [ref=f19e237]:
+            - generic [ref=f19e238]:
+              - button "노션 db 연동 실습" [ref=f19e240] [cursor=pointer]
+              - button "개인 페이지" [ref=f19e243] [cursor=pointer]
+            - generic [ref=f19e250]:
+              - button "공유" [ref=f19e253] [cursor=pointer]
+              - button "즐겨찾기" [ref=f19e258] [cursor=pointer]
+              - button "작업" [expanded] [ref=f19e263] [cursor=pointer]
+        - main [ref=f19e266]:
+          - group [ref=f19e269]:
+            - generic [ref=f19e274]:
+              - generic [ref=f19e275]:
+                - button "아이콘 추가"
+                - button "커버 추가"
+                - button "댓글 추가"
+              - textbox [ref=f19e279]:
+                - /placeholder: 새 페이지
+        - region [ref=f19e284]
+      - button "AI" [ref=f19e289] [cursor=pointer]:
+        - img "Notion AI face" [ref=f19e295]
+    - dialog [ref=f19e299]:
+      - generic [ref=f19e300]:
+        - generic [ref=f19e301]:
+          - combobox "작업 검색..." [expanded] [active] [ref=f19e310]
+          - listbox [ref=f19e311]:
+            - generic [ref=f19e313]:
+              - option "Ag 기본" [ref=f19e315] [cursor=pointer]:
+                - generic [ref=f19e316]:
+                  - generic [ref=f19e317]: Ag
+                  - generic [ref=f19e318]: 기본
+              - option "Ag 세리프" [ref=f19e320] [cursor=pointer]:
+                - generic [ref=f19e321]:
+                  - generic [ref=f19e322]: Ag
+                  - generic [ref=f19e323]: 세리프
+              - option "Ag 모노" [ref=f19e325] [cursor=pointer]:
+                - generic [ref=f19e326]:
+                  - generic [ref=f19e327]: Ag
+                  - generic [ref=f19e328]: 모노
+            - generic [ref=f19e329]:
+              - option "링크 복사 Ctrl+Alt+L" [ref=f19e330] [cursor=pointer]:
+                - generic [ref=f19e331]:
+                  - generic [ref=f19e338]: 링크 복사
+                  - generic [ref=f19e340]: Ctrl+Alt+L
+              - option "페이지 내용 복사하기" [ref=f19e342] [cursor=pointer]
+              - option "복제 Ctrl+D" [ref=f19e350] [cursor=pointer]:
+                - generic [ref=f19e351]:
+                  - generic [ref=f19e356]: 복제
+                  - generic [ref=f19e358]: Ctrl+D
+              - option "옮기기 Ctrl+⇧+P" [ref=f19e360] [cursor=pointer]:
+                - generic [ref=f19e361]:
+                  - generic [ref=f19e366]: 옮기기
+                  - generic [ref=f19e368]: Ctrl+⇧+P
+              - option "휴지통으로 이동" [ref=f19e370] [cursor=pointer]
+            - generic [ref=f19e379]:
+              - option "작은 텍스트" [ref=f19e381] [cursor=pointer]:
+                - generic [ref=f19e382]:
+                  - generic [ref=f19e387]: 작은 텍스트
+                  - switch [ref=f19e394]
+              - option "전체 너비" [ref=f19e395] [cursor=pointer]:
+                - generic [ref=f19e396]:
+                  - generic [ref=f19e401]: 전체 너비
+                  - switch [ref=f19e408]
+              - option "페이지 사용자 지정" [ref=f19e409] [cursor=pointer]
+            - generic [ref=f19e418]:
+              - option "페이지 잠금" [ref=f19e420] [cursor=pointer]:
+                - generic [ref=f19e421]:
+                  - generic [ref=f19e428]: 페이지 잠금
+                  - switch [ref=f19e435]
+              - option "AI로 사용" [ref=f19e437] [cursor=pointer]
+            - generic [ref=f19e448]:
+              - option "편집 제안" [ref=f19e450] [cursor=pointer]
+              - option "번역" [ref=f19e460] [cursor=pointer]
+            - generic [ref=f19e472]:
+              - option "가져오기" [ref=f19e474] [cursor=pointer]
+              - option "내보내기" [ref=f19e483] [cursor=pointer]
+            - option "위키로 전환" [ref=f19e494] [cursor=pointer]
+            - generic [ref=f19e502]:
+              - option "업데이트와 애널리틱스" [ref=f19e504] [cursor=pointer]
+              - option "버전 기록" [ref=f19e513] [cursor=pointer]
+            - option "알림 받기 댓글" [ref=f19e524] [cursor=pointer]:
+              - generic [ref=f19e525]:
+                - generic [ref=f19e530]: 알림 받기
+                - generic [ref=f19e532]: 댓글
+            - option "연결 없음" [ref=f19e539] [cursor=pointer]:
+              - generic [ref=f19e540]:
+                - generic [ref=f19e545]: 연결
+                - generic [ref=f19e547]: 없음
+            - option "Windows 앱에서 열기" [ref=f19e553] [cursor=pointer]
+          - generic [ref=f19e568]:
+            - generic [ref=f19e569]: 함승보 최종 편집
+            - generic [ref=f19e570]: 오늘 오후 12:24
+        - contentinfo
+    - status [ref=f19e7]
+    - alert [ref=f19e8]
+  - iframe [ref=f19e571]:
+    

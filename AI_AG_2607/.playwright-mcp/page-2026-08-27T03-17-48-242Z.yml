@@ -1,0 +1,154 @@
+- generic [ref=f12e1]:
+  - generic [ref=f12e84]:
+    - generic [ref=f12e155]:
+      - link "콘텐츠로 건너뛰기" [ref=f12e157] [cursor=pointer]:
+        - /url: "#main"
+      - navigation "사이드바":
+        - generic [ref=f12e161]:
+          - generic [ref=f12e164]:
+            - generic [ref=f12e165]:
+              - button "🏠 함승보님의 워크스페이스 사이드바 닫기" [ref=f12e170] [cursor=pointer]:
+                - generic [ref=f12e171]:
+                  - img "🏠" [ref=f12e177]
+                  - generic [ref=f12e178]: 함승보님의 워크스페이스
+                - button "사이드바 닫기" [ref=f12e185]
+              - generic [ref=f12e190]:
+                - tablist "Sidebar navigation" [ref=f12e191]:
+                  - tab "홈" [selected] [ref=f12e194] [cursor=pointer]
+                  - tab "채팅" [ref=f12e202] [cursor=pointer]:
+                    - generic [ref=f12e203]: "1"
+                  - tab "회의" [ref=f12e209] [cursor=pointer]
+                  - tab "수신함" [ref=f12e217] [cursor=pointer]
+                - button "검색" [ref=f12e223] [cursor=pointer]
+            - tabpanel "홈" [ref=f12e227]:
+              - generic [ref=f12e230]:
+                - button "워크스페이스 설정하기 설정 가이드 닫기 16.666666666666664" [ref=f12e233] [cursor=pointer]:
+                  - generic [ref=f12e234]:
+                    - generic [ref=f12e235]:
+                      - generic [ref=f12e236]: 워크스페이스 설정하기
+                      - generic [ref=f12e237]:
+                        - generic:
+                          - button "설정 가이드 닫기"
+                    - progressbar [ref=f12e239]:
+                      - generic [ref=f12e240]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - img "Notion AI face"
+                              - img "duck accessory"
+                - generic [ref=f12e242]:
+                  - generic [ref=f12e247] [cursor=pointer]:
+                    - button "개인 페이지" [expanded] [ref=f12e248]
+                    - tree "개인 페이지" [ref=f12e252]:
+                      - generic [ref=f12e254]:
+                        - treeitem "월별 가계부" [ref=f12e256]:
+                          - generic [ref=f12e257]:
+                            - img "페이지 아이콘 변경" [ref=f12e265]
+                            - generic [ref=f12e266]: 월별 가계부
+                        - treeitem "주간 할 일 목록" [ref=f12e269]:
+                          - generic [ref=f12e270]:
+                            - img "페이지 아이콘 변경" [ref=f12e278]
+                            - generic [ref=f12e279]: 주간 할 일 목록
+                        - treeitem "Notion에 오신 것을 환영합니다!" [ref=f12e282]:
+                          - generic [ref=f12e283]:
+                            - img "👋 페이지 아이콘 변경" [ref=f12e291]
+                            - generic [ref=f12e292]: Notion에 오신 것을 환영합니다!
+                  - generic [ref=f12e295]:
+                    - generic [ref=f12e297]:
+                      - button "에이전트 추가" [ref=f12e299] [cursor=pointer]
+                      - generic:
+                        - button "에이전트 추가 무시"
+                    - button "라이브러리" [ref=f12e307] [cursor=pointer]
+                    - button "새로운 기능, 도움말, 문의 등..." [ref=f12e316] [cursor=pointer]:
+                      - generic [ref=f12e317]:
+                        - generic [ref=f12e319]:
+                          - img "새로 만들기"
+                        - generic [ref=f12e323]: 도움말
+                    - button "휴지통" [ref=f12e326] [cursor=pointer]
+            - generic [ref=f12e334]:
+              - button "새 채팅" [ref=f12e336] [cursor=pointer]:
+                - generic [ref=f12e341]:
+                  - text: 새 채팅
+                  - generic [ref=f12e342]: Ctrl+O
+              - button "새 페이지" [ref=f12e347] [cursor=pointer]
+          - separator "왼쪽 및 오른쪽 방향키로 크기 조정" [ref=f12e353]
+      - generic [ref=f12e354]:
+        - generic [ref=f12e359]:
+          - link "개발자 도구" [ref=f12e360] [cursor=pointer]:
+            - /url: /developers
+          - generic [ref=f12e364]: /
+          - link "연결" [ref=f12e365] [cursor=pointer]:
+            - /url: /developers/connections
+        - generic [ref=f12e372]:
+          - generic [ref=f12e373]:
+            - heading "개발자 도구" [level=1] [ref=f12e374]
+            - tablist "개발자 포털 섹션" [ref=f12e377]:
+              - tab "시작하기" [ref=f12e378] [cursor=pointer]
+              - tab "Worker 신규" [ref=f12e379] [cursor=pointer]:
+                - generic [ref=f12e380]:
+                  - text: Worker
+                  - generic [ref=f12e381]: 신규
+              - tab "연결" [selected] [ref=f12e382] [cursor=pointer]
+              - tab "개인 액세스 토큰" [ref=f12e383] [cursor=pointer]
+          - generic [ref=f12e384]:
+            - generic [ref=f12e385]:
+              - button "연결 필터링" [ref=f12e387] [cursor=pointer]
+              - button "연결 검색..." [ref=f12e391] [cursor=pointer]
+              - button "신규 연결" [ref=f12e394] [cursor=pointer]
+            - generic [ref=f12e398]:
+              - table [ref=f12e399]:
+                - rowgroup [ref=f12e400]:
+                  - row [ref=f12e401]:
+                    - columnheader [ref=f12e402]:
+                      - button "연결" [ref=f12e404] [cursor=pointer]
+                    - columnheader [ref=f12e406]:
+                      - button "설치 가능 워크스페이스:" [ref=f12e408] [cursor=pointer]
+                    - columnheader [ref=f12e410]:
+                      - button "인증 유형" [ref=f12e412] [cursor=pointer]
+                    - columnheader [ref=f12e414]:
+                      - button "소유자" [ref=f12e416] [cursor=pointer]
+                    - columnheader [ref=f12e418]:
+                      - button "생성 시점" [ref=f12e420] [cursor=pointer]
+                - rowgroup
+              - generic [ref=f12e422]: 아직 연결이 없습니다.
+        - region [ref=f12e425]
+      - button "AI" [ref=f12e430] [cursor=pointer]:
+        - img "Notion AI face" [ref=f12e436]
+    - dialog [ref=f12e439]:
+      - button "닫기" [active] [ref=f12e440] [cursor=pointer]
+      - generic [ref=f12e446]:
+        - generic [ref=f12e448]:
+          - generic [ref=f12e449]: 신규 연결
+          - generic [ref=f12e450]: Notion으로 앱과 에이전트, 워크플로를 인증하기 위한 연결을 생성하세요. 단일 워크스페이스 범위 또는 다중 워크스페이스 범위를 선택하세요.
+        - generic [ref=f12e454]:
+          - generic [ref=f12e455]:
+            - generic [ref=f12e456]:
+              - generic [ref=f12e457]: 연결 이름
+              - textbox "함승보님의 연결" [ref=f12e459]
+            - generic [ref=f12e460]:
+              - generic [ref=f12e461]: 인증 방법
+              - generic [ref=f12e462]:
+                - generic [ref=f12e464] [cursor=pointer]:
+                  - radio "액세스 토큰 협업 참여자 간에 공유되는 워크스페이스 범위 내 정적 API 토큰으로, 자체 사용 권한 설정을 갖추고 있습니다. 워크스페이스 1개로 제한되며, 마켓플레이스에 등록할 수 없습니다." [checked] [ref=f12e466]
+                  - generic [ref=f12e468]:
+                    - generic [ref=f12e469]: 액세스 토큰
+                    - generic [ref=f12e470]: 협업 참여자 간에 공유되는 워크스페이스 범위 내 정적 API 토큰으로, 자체 사용 권한 설정을 갖추고 있습니다. 워크스페이스 1개로 제한되며, 마켓플레이스에 등록할 수 없습니다.
+                - generic [ref=f12e472] [cursor=pointer]:
+                  - radio "OAuth 사용자 범위 OAuth 2.0이며, 사용 권한은 로그인한 사용자로 제한됩니다. 여러 워크스페이스를 지원하며, 마켓플레이스에 등록할 수 있습니다." [ref=f12e474]
+                  - generic [ref=f12e476]:
+                    - generic [ref=f12e477]: OAuth
+                    - generic [ref=f12e478]: 사용자 범위 OAuth 2.0이며, 사용 권한은 로그인한 사용자로 제한됩니다. 여러 워크스페이스를 지원하며, 마켓플레이스에 등록할 수 있습니다.
+          - generic [ref=f12e479]:
+            - button "연결 생성하기" [disabled] [ref=f12e480]
+            - generic [ref=f12e481]:
+              - text: 연결을 생성하면 Notion의
+              - link "개발자 약관" [ref=f12e482] [cursor=pointer]:
+                - /url: https://notion.notion.site/Developer-Terms-ba4131408d0844e08330da2cbb225c20
+              - text: 에 동의하는 것으로 간주됩니다.
+    - status [ref=f12e152]
+    - alert [ref=f12e153]
+  - iframe [ref=f12e154]:
+    

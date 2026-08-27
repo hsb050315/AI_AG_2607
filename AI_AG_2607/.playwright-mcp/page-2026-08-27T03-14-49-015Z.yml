@@ -1,0 +1,54 @@
+- generic [active] [ref=f12e1]:
+  - generic [ref=f12e84]:
+    - generic [ref=f12e85]:
+      - link "콘텐츠로 건너뛰기" [ref=f12e87] [cursor=pointer]:
+        - /url: "#main"
+      - generic [ref=f12e94]:
+        - generic [ref=f12e100]:
+          - generic [ref=f12e101]:
+            - generic [ref=f12e102]: Notion을 어떻게 사용하고 싶으신가요?
+            - generic [ref=f12e103]: 답변해 주시면 사용자에게 맞춤화된 경험을 제공하는 데 도움이 됩니다.
+          - generic [ref=f12e104]:
+            - generic [ref=f12e106]:
+              - button "업무 업무 프로젝트, 회사 목표 및 회의록을 추적합니다." [ref=f12e107] [cursor=pointer]:
+                - img "업무" [ref=f12e108]
+                - generic [ref=f12e109]:
+                  - generic [ref=f12e110]: 업무
+                  - generic [ref=f12e111]: 프로젝트, 회사 목표 및 회의록을 추적합니다.
+              - button "개인용 개인용 글쓰기를 개선하고, 더 명확하게 생각하며 체계적으로 정리합니다." [ref=f12e112] [cursor=pointer]:
+                - img "개인용" [ref=f12e113]
+                - generic [ref=f12e114]:
+                  - generic [ref=f12e115]: 개인용
+                  - generic [ref=f12e116]: 글쓰기를 개선하고, 더 명확하게 생각하며 체계적으로 정리합니다.
+              - button "학교용 학교용 노트, 리서치, 작업을 한 곳에 보관하세요" [ref=f12e117] [cursor=pointer]:
+                - img "학교용" [ref=f12e118]
+                - generic [ref=f12e119]:
+                  - generic [ref=f12e120]: 학교용
+                  - generic [ref=f12e121]: 노트, 리서치, 작업을 한 곳에 보관하세요
+            - button "계속하기" [disabled] [ref=f12e122]
+            - generic [ref=f12e126]:
+              - generic [ref=f12e127] [cursor=pointer]:
+                - checkbox "워크스페이스의 AI 개선" [ref=f12e129]
+                - generic [ref=f12e130]: 워크스페이스의 AI 개선
+              - generic [ref=f12e131]:
+                - text: 워크스페이스 데이터를 공유하여 더 나은 답변을 얻고 AI 기능에 대한 선공개 혜택을 누리세요.
+                - link "LEAP" [ref=f12e132] [cursor=pointer]:
+                  - /url: https://www.notion.so/help/notion-ai-leap-program-faqs
+                - text: 에 참여하면
+                - link "약관" [ref=f12e133] [cursor=pointer]:
+                  - /url: https://notion.notion.site/0c55d702d0154a788d9e70c4ee396399
+                - text: 에 동의하는 것으로 간주됩니다.
+            - generic [ref=f12e134]:
+              - generic [ref=f12e136] [cursor=pointer]:
+                - checkbox "Notion의 마케팅 메시지를 수신하는 데 동의합니다." [checked] [ref=f12e141]
+                - generic [ref=f12e142]: Notion의 마케팅 메시지를 수신하는 데 동의합니다.
+              - generic [ref=f12e143]:
+                - text: 언제든지 마케팅 메시지 수신을 거부할 수 있습니다. Notion의 웹사이트와 메시지는 Notion의
+                - link "개인정보처리방침을 따릅니다." [ref=f12e144] [cursor=pointer]:
+                  - /url: https://www.notion.com/trust/privacy-policy
+                - text: .
+        - 'button "언어: 한국어" [ref=f12e147] [cursor=pointer]'
+    - status [ref=f12e152]
+    - alert [ref=f12e153]
+  - iframe [ref=f12e154]:
+    

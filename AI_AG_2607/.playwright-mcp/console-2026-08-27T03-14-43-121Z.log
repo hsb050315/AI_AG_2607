@@ -1,0 +1,77 @@
+[     201ms] [INFO] Resource Sentinel initialized... @ https://app.notion.com/login:38
+[     266ms] [WARNING] %cairgap.js%c Report-only mode enabled font-size:larger;font-weight:bold;border-radius:0.25em;padding:0.08em 0.25em;;color:amber;background-color:#6e3e00  @ https://transcend-cdn.com/cm/4d6a6beb-faf4-4a4e-9e1c-c7692d5f9c2f/airgap.js:5
+[     601ms] [INFO] 2026-08-27T03:14:43.722Z [info] FeatureFlagTransactionQueue: preferIndexedDB {team: no-team-specified} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[     727ms] [LOG] %c
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnn                         nnnn
+	nnnnnnn                          nnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnn                           nnn
+	nnnnnnnn    nnnnnnnn     nnnnnnn   nnn
+	nnnnnnnn      nnnnnnn      nnn     nnn
+	nnnnnnnn      nnnnnnnn     nnn     nnn
+	nnnnnnnn      nnnnnnnnnn   nnn     nnn
+	nnnnnnnn      nnn nnnnnnn  nnn     nnn
+	nnnnnnnn      nnn  nnnnnnnnnnn     nnn
+	nnnnnnnn      nnn   nnnnnnnnnn     nnn
+	nnnnnnnn      nnn     nnnnnnnn     nnn
+	nnnnnnnn      nnn      nnnnnnn     nnn
+	nnnnnnnn    nnnnnnnn    nnnnnn     nnn
+	  nnnnnn                           nnn
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		We're hiring!
+		  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		notion.com/careers
+
+	“yeah, I would probably eat a lemon for one hundred dollars” -- Ivan Zhao (2023-07-14)
+				  font-family: monospace @ https://app.notion.com/_assets/mainApp-c1146cbe1eab63b3.js:37
+[     967ms] [INFO] 2026-08-27T03:14:44.088Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1018ms] [INFO] 2026-08-27T03:14:44.139Z [info] syncRecordValuesBatched: missingSpacePointerForNotionUserRequest {actor: Object, data: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1094ms] [WARNING] Ignoring inability to install OPFS sqlite3_vfs: Cannot install OPFS: Missing SharedArrayBuffer and/or Atomics. The server must emit the COOP/COEP response headers to enable those. See https://sqlite.org/wasm/doc/trunk/persistence.md#coop-coep @ https://app.notion.com/_assets/wasm-sqlite-worker-d276dab79aa36b1a.js:0
+[    1118ms] [WARNING] Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance @ https://app.notion.com/_assets/transport-support-c8dbde906ae5699d.js:0
+[    1118ms] [INFO] 2026-08-27T03:14:44.238Z [error] eventTrailApiHelpers: trackFailure {error: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1674ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://cdn.metadata.io/pixel/config/1127.json:0
+[    1767ms] [INFO] 2026-08-27T03:14:44.887Z [info] onboardingHelpers: loadOnboardingData {data: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    2152ms] [INFO] 2026-08-27T03:14:45.272Z [info] onboardingHelpers: loadOnboardingData {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    2156ms] [INFO] 2026-08-27T03:14:45.276Z [info] onboardingHelpers: loadOnboardingData {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    2377ms] [INFO] 2026-08-27T03:14:45.495Z [info] appHelpers: shouldShowError {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    2566ms] [INFO] 2026-08-27T03:14:45.686Z [info] onboardingHelpers: loadOnboardingData {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   30833ms] [INFO] 2026-08-27T03:15:13.953Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   60829ms] [INFO] 2026-08-27T03:15:43.949Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   90833ms] [INFO] 2026-08-27T03:16:13.953Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  120837ms] [INFO] 2026-08-27T03:16:43.957Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  134711ms] [INFO] 2026-08-27T03:16:57.832Z [info] appHelpers: shouldShowError {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  134986ms] [INFO] 2026-08-27T03:16:58.106Z [info] duplicateTo: duplicateSubtree {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  134986ms] [INFO] 2026-08-27T03:16:58.107Z [info] duplicateTo: duplicateSubtree {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  135149ms] [INFO] 2026-08-27T03:16:58.270Z [info] useUpdateStatsigData: updateStatsigUser.droppedStaleResponse {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  135297ms] [INFO] 2026-08-27T03:16:58.417Z [info] ai.completionActions: maybeUpdateAIUsageEligibilityStoreV2Refreshing {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  135428ms] [INFO] 2026-08-27T03:16:58.549Z [info] appHelpers: shouldShowError {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137059ms] [LOG] block id = 3c924c48-3f29-80b7-a4dd-d9eb0b03a493 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137062ms] [LOG] block id = 3c924c48-3f29-809d-a771-fc459a0ba0f9 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137065ms] [LOG] block id = 3c924c48-3f29-8019-a669-def7e62d0ed7 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137066ms] [LOG] block id = 3c924c48-3f29-8019-a669-def7e62d0ed7 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137068ms] [LOG] block id = 3c924c48-3f29-8019-a669-def7e62d0ed7 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137069ms] [LOG] block id = 3c924c48-3f29-8019-a669-def7e62d0ed7 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137071ms] [LOG] block id = 3c924c48-3f29-805a-aa04-efaa73dfaf89 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137072ms] [LOG] block id = 3c924c48-3f29-805a-aa04-efaa73dfaf89 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137073ms] [LOG] block id = 3c924c48-3f29-805a-aa04-efaa73dfaf89 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137074ms] [LOG] block id = 3c924c48-3f29-805a-aa04-efaa73dfaf89 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137076ms] [LOG] block id = 3c924c48-3f29-803e-be4e-fe44398691a3 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137078ms] [LOG] block id = 3c924c48-3f29-802f-852c-fb20cc47ac84 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137079ms] [LOG] block id = 3c924c48-3f29-802f-852c-fb20cc47ac84 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137080ms] [LOG] block id = 3c924c48-3f29-802f-852c-fb20cc47ac84 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137082ms] [LOG] block id = 3c924c48-3f29-800a-bbed-fb8b1827009f @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137083ms] [LOG] block id = 3c924c48-3f29-800a-bbed-fb8b1827009f @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137084ms] [LOG] block id = 3c924c48-3f29-800a-bbed-fb8b1827009f @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137085ms] [LOG] block id = 3c924c48-3f29-800a-bbed-fb8b1827009f @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137086ms] [LOG] block id = 3c924c48-3f29-808e-b270-eeeab88ed3f2 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137087ms] [LOG] block id = 3c924c48-3f29-808e-b270-eeeab88ed3f2 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137088ms] [INFO] 2026-08-27T03:17:00.209Z [info] localDuplicate: local_duplicate_across_spaces {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  137115ms] [INFO] 2026-08-27T03:17:00.235Z [info] inferenceTranscriptAnalyticsActions: runInferenceTranscriptClientLifecycle {data: Object, keepalive: undefined} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  138809ms] [INFO] 2026-08-27T03:17:01.929Z [info] inferenceTranscriptAnalyticsActions: runInferenceTranscriptClientLifecycle {data: Object, keepalive: undefined} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  141249ms] [INFO] 2026-08-27T03:17:04.369Z [error] inferenceTranscriptActions: JsonPatchError {team: ai-product, error: Object, data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  145667ms] [INFO] 2026-08-27T03:17:08.787Z [info] inferenceTranscriptAnalyticsActions: runInferenceTranscriptClientLifecycle {data: Object, keepalive: false} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  324905ms] [INFO] 2026-08-27T03:20:08.025Z [info] useLoadDeveloperIntegrationView: botOrIntegrationRecordLoaded {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  324919ms] [INFO] 2026-08-27T03:20:08.039Z [info] useLoadDeveloperIntegrationView: formStateStatusChange {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  324931ms] [INFO] 2026-08-27T03:20:08.052Z [info] useLoadDeveloperIntegrationView: formStateStatusChange {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  590505ms] [ERROR] Error showing animated asset: Error: CanceledTask. @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  590705ms] [WARNING] %c NOTION%c WARNING %c background: black; color: white; background: black; color: orange font-weight: normal Reverting mutation of childList in component undefined MutationRecord See documentation for more details: https://dev.notion.so/notion/About-DOMLock-ContentEditableVoid-and-MaybeContentEditable-184b35e6e67f8092a306e41a781782d6 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472

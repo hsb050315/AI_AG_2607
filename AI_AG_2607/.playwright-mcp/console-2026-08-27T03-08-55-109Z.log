@@ -1,0 +1,61 @@
+[     408ms] [INFO] Resource Sentinel initialized... @ https://app.notion.com/developers/connections:37
+[     658ms] [INFO] 2026-08-27T03:08:55.766Z [info] FeatureFlagTransactionQueue: preferIndexedDB {team: no-team-specified} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[     812ms] [LOG] %c
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnn                         nnnn
+	nnnnnnn                          nnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnn                           nnn
+	nnnnnnnn    nnnnnnnn     nnnnnnn   nnn
+	nnnnnnnn      nnnnnnn      nnn     nnn
+	nnnnnnnn      nnnnnnnn     nnn     nnn
+	nnnnnnnn      nnnnnnnnnn   nnn     nnn
+	nnnnnnnn      nnn nnnnnnn  nnn     nnn
+	nnnnnnnn      nnn  nnnnnnnnnnn     nnn
+	nnnnnnnn      nnn   nnnnnnnnnn     nnn
+	nnnnnnnn      nnn     nnnnnnnn     nnn
+	nnnnnnnn      nnn      nnnnnnn     nnn
+	nnnnnnnn    nnnnnnnn    nnnnnn     nnn
+	  nnnnnn                           nnn
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		We're hiring!
+		  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		notion.com/careers
+
+	“yeah, I would probably eat a lemon for one hundred dollars” -- Ivan Zhao (2023-07-14)
+				  font-family: monospace @ https://app.notion.com/_assets/mainApp-c1146cbe1eab63b3.js:37
+[    1020ms] [WARNING] Ignoring inability to install OPFS sqlite3_vfs: Cannot install OPFS: Missing SharedArrayBuffer and/or Atomics. The server must emit the COOP/COEP response headers to enable those. See https://sqlite.org/wasm/doc/trunk/persistence.md#coop-coep @ https://app.notion.com/_assets/wasm-sqlite-worker-d276dab79aa36b1a.js:0
+[    1074ms] [INFO] 2026-08-27T03:08:56.183Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1199ms] [WARNING] Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance @ https://app.notion.com/_assets/transport-support-c8dbde906ae5699d.js:0
+[    1200ms] [INFO] 2026-08-27T03:08:56.308Z [error] eventTrailApiHelpers: trackFailure {error: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1229ms] [INFO] 2026-08-27T03:08:56.337Z [info] sqliteSchemaHelpers: attemptFastForwardMigration {data: Object} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1269ms] [INFO] 2026-08-27T03:08:56.378Z [info] sqliteSchemaHelpers: successfulFastForwardMigration {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    1513ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    2392ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://cdn.metadata.io/pixel/config/1127.json:0
+[    3882ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:188
+[    3882ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:188
+[    6580ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:188
+[    6580ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:188
+[    8670ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.close call. @ https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:188
+[    8670ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.close call. @ https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:188
+[    8677ms] [INFO] 2026-08-27T03:09:03.785Z [info] handleGoogleAuthRedirect: googleAuthRedirect {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    8678ms] [INFO] 2026-08-27T03:09:03.787Z [info] handleGoogleAuthRedirect: googleAuthRedirectLoginAttempt {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    8701ms] [ERROR] The request has been aborted. @ https://app.notion.com/oauth2callback?state=eyJjYWxsYmFja1R5cGUiOiJwb3B1cCIsImVuY3J5cHRlZFRva2VuIjoidjAyOmxvZ2luX3dpdGhfZ29vZ2xlOmp5N0VoaFJHUUpYYWlTY0JMT1N6eVIxd3NRUThlTkF5R1NHVFY1UUlLX2EtTEN5NUlEUXBQVHJhNDF6YjU4YW1RS1BycG5zbnQ0ZC1qSnZobXdGNWlmVTktS3YxVHBJaUFNRDUzVjVqNnFtRGl0dHlrQXNSNm03MVZBa2xxNGZkRmZ2aCIsInBvcHVwRmxvd0lkIjoiOWQ0MmExMmQtOWEwMC00YTY2LWJjNjEtNjNiOTdmZGU2NjJkIiwiY2xpZW50SWQiOiI5MDUxNTQwODE4MDktODU4c20zZjBxbmFscWQ5ZDQ0ZDlnZWNqdHJkamk5dGYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJyZWRpcmVjdFVyaSI6Imh0dHBzOi8vYXBwLm5vdGlvbi5jb20vZ29vZ2xlcG9wdXBjYWxsYmFjayJ9&iss=https://accounts.google.com&code=4/0ATsMZqA4W-t6hDxdV3yBnRqat4ntJqJ2--qHBQUJ5ZFnyNLLxib57PLCwekGgkshLm_eEQ&scope=email+profile+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email+openid&authuser=0&prompt=consent:0
+[    8701ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with AbortError: signal is aborted without reason @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   11926ms] [INFO] 2026-08-27T03:09:07.034Z [error] main: ClientError {error: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   11927ms] Error: Failed to load a required record: user_root, 3c9d872b-594c-8109-b98d-0002655af4bf, undefined.
+    at Object.loadRecordModel [as loadFn] (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:5:79639)
+    at async https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:192:15872
+    at async Promise.all (index 0)
+    at async o (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:192:15813)
+    at async r (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:192:15256)
+    at async Object.s (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:192:16647)
+    at async Object.r (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:5:79213)
+    at async h (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:87:110685)
+    at async r.measureErrors (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:189:1083929)
+    at async g (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:87:108682)
+[   11959ms] [INFO] 2026-08-27T03:09:07.068Z [info] syncRecordValuesBatched: missingSpacePointerForNotionUserRequest {actor: Object, data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   12620ms] [INFO] 2026-08-27T03:09:07.729Z [error] main: ClientError {error: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   12711ms] TypeError: Cannot read properties of undefined (reading 'getSpaceId')
+    at a (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:189:246499)
+    at async x (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:189:262310)
+[   13078ms] [INFO] 2026-08-27T03:09:08.187Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472

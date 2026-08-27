@@ -1,0 +1,265 @@
+- generic [active] [ref=f17e1]:
+  - generic [ref=f17e4]:
+    - navigation "메인" [ref=f17e8]:
+      - generic [ref=f17e9]:
+        - link "Notion – 홈" [ref=f17e11] [cursor=pointer]:
+          - /url: /ko/product
+        - generic [ref=f17e16]:
+          - link "로그아웃하기" [ref=f17e18] [cursor=pointer]:
+            - /url: /ko/logout
+          - button "Notion 열기" [ref=f17e21] [cursor=pointer]
+          - button "메인 메뉴 토글" [ref=f17e24] [cursor=pointer]
+    - main [ref=f17e27]:
+      - generic [ref=f17e28]:
+        - generic [ref=f17e29]:
+          - generic [ref=f17e31]:
+            - heading "팀과 에이전트가 함께 생각 하는 곳" [level=1] [ref=f17e32]:
+              - text: 팀과 에이전트가 함께
+              - generic [ref=f17e33]: 생각
+              - text: 하는 곳
+            - paragraph [ref=f17e36]: 팀을 위해 구축된 AI로 맥락을 파악하고, 답을 찾고, 작업을 자동화하세요.
+            - generic [ref=f17e37]:
+              - link "Notion 무료로 사용하기" [ref=f17e38] [cursor=pointer]:
+                - /url: /ko/signup?from=marketing&pathname=%2Fko&tid=2e734e5d7daa49a2810aed89bce00380
+              - link "데모 요청하기" [ref=f17e39] [cursor=pointer]:
+                - /url: /ko/contact-sales
+          - button "일시 정지" [ref=f17e44] [cursor=pointer]
+        - paragraph [ref=f17e50]: Forbes Cloud 100대 기업 중 98%가 신뢰하는 Notion
+        - generic [ref=f17e54]:
+          - link "GS Global" [ref=f17e55] [cursor=pointer]:
+            - /url: /ko/customers/gs-group
+          - link "Kakao Style" [ref=f17e58] [cursor=pointer]:
+            - /url: /ko/customers/kakao-style
+          - link "LG AI Research" [ref=f17e61] [cursor=pointer]:
+            - /url: /ko/customers/lg-ai-research
+          - link "Karrot" [ref=f17e64] [cursor=pointer]:
+            - /url: /ko/customers/karrot
+          - link "Sendbird" [ref=f17e67] [cursor=pointer]:
+            - /url: /ko/customers/sendbird
+          - link "Devsisters" [ref=f17e70] [cursor=pointer]:
+            - /url: /ko/customers/devsisters
+          - link "Air Premia" [ref=f17e73] [cursor=pointer]:
+            - /url: /ko/customers/air-premia
+          - link "OpenAI" [ref=f17e76] [cursor=pointer]:
+            - /url: /ko/customers/openai
+          - link "Figma" [ref=f17e79] [cursor=pointer]:
+            - /url: /ko/customers/figma
+          - link "Cursor" [ref=f17e82] [cursor=pointer]:
+            - /url: /ko/customers/cursor
+          - link "Vercel" [ref=f17e85] [cursor=pointer]:
+            - /url: /ko/customers/vercel
+          - generic:
+            - img "L'Oreal"
+          - generic:
+            - img "Nvidia"
+          - generic:
+            - img "Discord"
+          - link [ref=f17e88] [cursor=pointer]:
+            - /url: /ko/customers/toyota
+      - generic [ref=f17e92]:
+        - heading "팀 업무 공간에서 바로 쓰는 AI" [level=2] [ref=f17e95]
+        - generic [ref=f17e96]:
+          - article [ref=f17e97]:
+            - generic [ref=f17e98]:
+              - link "사용해 보기" [ref=f17e99] [cursor=pointer]:
+                - /url: /ko/product/features#capture
+              - generic:
+                - generic: 지식 수집
+                - generic:
+                  - heading "모든 것을 하나의 기록 시스템으로 통합하세요." [level=2]
+                  - generic: →
+          - article [ref=f17e100]:
+            - generic [ref=f17e101]:
+              - link "사용해 보기" [ref=f17e102] [cursor=pointer]:
+                - /url: /ko/product/features#find
+              - generic:
+                - generic: 답변 검색
+                - generic:
+                  - heading "출처가 포함된 답변을 즉시 확인하세요." [level=2]
+                  - generic: →
+          - article [ref=f17e103]:
+            - generic [ref=f17e104]:
+              - link "사용해 보기" [ref=f17e105] [cursor=pointer]:
+                - /url: /ko/product/features#automate
+              - generic:
+                - generic: 번거로운 작업 자동화
+                - generic:
+                  - heading "에이전트를 사용해 24시간 연중무휴 업무를 처리하세요." [level=2]
+                  - generic: →
+        - generic [ref=f17e108]:
+          - heading "Notion으로 할 수 있는 작업 보기" [level=3] [ref=f17e109]
+          - generic [ref=f17e110]:
+            - generic [ref=f17e111]:
+              - link "제품 피드백 분류" [ref=f17e112] [cursor=pointer]:
+                - /url: /ko/product/ai/use-cases/triage-product-feedback
+              - heading "제품 피드백 분류" [level=3] [ref=f17e113]:
+                - text: 제품 피드백 분류
+                - generic [ref=f17e114]: →
+            - generic [ref=f17e115]:
+              - link "Slack에서 지원 티켓 해결" [ref=f17e116] [cursor=pointer]:
+                - /url: /ko/product/ai/use-cases/resolve-support-tickets-in-slack
+              - heading "Slack에서 지원 티켓 해결" [level=3] [ref=f17e117]:
+                - text: Slack에서 지원 티켓 해결
+                - generic [ref=f17e118]: →
+            - generic [ref=f17e119]:
+              - link "보안 경고에 더 빠르게 대응" [ref=f17e120] [cursor=pointer]:
+                - /url: /ko/product/ai/use-cases/respond-to-security-alerts-faster
+              - heading "보안 경고에 더 빠르게 대응" [level=3] [ref=f17e121]:
+                - text: 보안 경고에 더 빠르게 대응
+                - generic [ref=f17e122]: →
+            - generic [ref=f17e123]:
+              - link "주간 리포트 작업 자동화" [ref=f17e124] [cursor=pointer]:
+                - /url: /ko/product/ai/use-cases/automate-weekly-reporting
+              - heading "주간 리포트 작업 자동화" [level=3] [ref=f17e125]:
+                - text: 주간 리포트 작업 자동화
+                - generic [ref=f17e126]: →
+            - generic [ref=f17e127]:
+              - link "나만의 개발자 도구 만들기" [ref=f17e128] [cursor=pointer]:
+                - /url: /ko/product/dev
+              - heading "나만의 개발자 도구 만들기" [level=3] [ref=f17e129]:
+                - text: 나만의 개발자 도구 만들기
+                - generic [ref=f17e130]: →
+      - generic [ref=f17e133]:
+        - heading "결과로 말하는 팀이 믿고 쓰는 Notion" [level=2] [ref=f17e135]
+        - generic [ref=f17e137]:
+          - link "Cursor 고객 스토리 읽기" [ref=f17e138] [cursor=pointer]:
+            - /url: /ko/customers/cursor
+            - img "Michael Truell, Cursor 공동 창업자 겸 CEO" [ref=f17e139]
+            - generic [ref=f17e140]:
+              - img "Cursor" [ref=f17e141]
+              - figure "Michael Truell, 공동 창업자 겸 CEO" [ref=f17e142]:
+                - blockquote [ref=f17e143]: Notion 같은 AI 네이티브 툴은 중요한 경쟁력이 되어 줍니다. 작은 규모를 유지하면서도 더 많은 성과를 낼 수 있으니까요.
+          - link "Faire 고객 스토리 읽기" [ref=f17e146] [cursor=pointer]:
+            - /url: /ko/customers/faire
+            - img "Renee Solorzano, 시니어 Faire 제품 디자인 이사" [ref=f17e147]
+            - generic [ref=f17e148]:
+              - img "Faire" [ref=f17e149]
+              - figure "Renee Solorzano, 시니어 제품 디자인 이사" [ref=f17e150]:
+                - blockquote [ref=f17e151]: Notion의 세심한 디자인은 협업과 의사결정을 가속화하여 고객에게 더 빠르게 영향을 미칠 수 있도록 해줍니다.
+          - link "Ramp 고객 스토리 읽기" [ref=f17e154] [cursor=pointer]:
+            - /url: /ko/customers/ramp
+            - img "Ben Levick, Ramp 운영 및 내부 AI 책임자" [ref=f17e155]
+            - generic [ref=f17e156]:
+              - img "Ramp" [ref=f17e157]
+              - figure "Ben Levick, 운영 및 내부 AI 책임자" [ref=f17e158]:
+                - blockquote [ref=f17e159]: Notion 커스텀 에이전트는 팀이 AI로 작업을 하는 것을 넘어 팀을 대신해 작업하는 AI 도구를 구축하도록 돕습니다.
+      - generic [ref=f17e162]:
+        - generic [ref=f17e164]:
+          - generic [ref=f17e165]:
+            - paragraph [ref=f17e166]: G2의 지식 베이스 부문에서 3년 연속 1위 달성
+            - paragraph [ref=f17e170]: 50개 이상의 국가에 거주하는 1억 명의 사용자 보유
+            - paragraph [ref=f17e174]: YC 기업의 50% 이상
+            - paragraph [ref=f17e178]: 140만 명이 넘는 커뮤니티 멤버
+            - paragraph [ref=f17e182]: Fortune 100대 기업 중 62%가 Notion 사용
+          - generic [ref=f17e186]:
+            - paragraph [ref=f17e187]: G2의 지식 베이스 부문에서 3년 연속 1위 달성
+            - paragraph [ref=f17e191]: 50개 이상의 국가에 거주하는 1억 명의 사용자 보유
+            - paragraph [ref=f17e195]: YC 기업의 50% 이상
+            - paragraph [ref=f17e199]: 140만 명이 넘는 커뮤니티 멤버
+            - paragraph [ref=f17e203]: Fortune 100대 기업 중 62%가 Notion 사용
+            - paragraph [ref=f17e207]: G2의 지식 베이스 부문에서 3년 연속 1위 달성
+            - paragraph [ref=f17e211]: 50개 이상의 국가에 거주하는 1억 명의 사용자 보유
+            - paragraph [ref=f17e215]: YC 기업의 50% 이상
+            - paragraph [ref=f17e219]: 140만 명이 넘는 커뮤니티 멤버
+            - paragraph [ref=f17e223]: Fortune 100대 기업 중 62%가 Notion 사용
+        - generic [ref=f17e227]:
+          - heading "지금 시작하세요." [level=2] [ref=f17e228]
+          - generic [ref=f17e229]:
+            - link "Notion 무료로 사용" [ref=f17e230] [cursor=pointer]:
+              - /url: /ko/signup?from=marketing&pathname=%2Fko&tid=2e734e5d7daa49a2810aed89bce00380
+            - link "데모 요청하기" [ref=f17e231] [cursor=pointer]:
+              - /url: /ko/contact-sales
+    - contentinfo [ref=f17e232]:
+      - generic [ref=f17e234]:
+        - generic [ref=f17e235]:
+          - link "Notion – 홈" [ref=f17e236] [cursor=pointer]:
+            - /url: /ko/product
+          - figure "Marshall McLuhan" [ref=f17e243]:
+            - blockquote [ref=f17e244]: We shape our tools, and thereafter our tools shape us.
+        - navigation "바닥글" [ref=f17e246]:
+          - list "제품 기능 모든 기능 보기 → 기록 기록 모든 정보를 하나의 공식 정보 관리 시스템(SoR)으로 통합하세요. 찾기 찾기 출처가 포함된 답변을 즉시 확인하세요. 자동화 자동화 에이전트를 사용해 24시간 연중무휴 업무를 처리하세요. . 새로운 소식 확인하기 → Notion 앱 다운로드 →" [ref=f17e247]:
+            - text: 제품
+            - listitem [ref=f17e248]:
+              - link "기능" [ref=f17e249] [cursor=pointer]:
+                - /url: /ko/product/features
+            - listitem [ref=f17e251]:
+              - link "새로운 소식" [ref=f17e252] [cursor=pointer]:
+                - /url: /ko/releases
+            - listitem [ref=f17e254]:
+              - link "Notion AI" [ref=f17e255] [cursor=pointer]:
+                - /url: /ko/product/ai
+            - listitem [ref=f17e257]:
+              - link "가격" [ref=f17e258] [cursor=pointer]:
+                - /url: /ko/pricing
+            - listitem [ref=f17e260]:
+              - link "영업팀 문의하기" [ref=f17e261] [cursor=pointer]:
+                - /url: /ko/contact-sales
+            - listitem [ref=f17e263]:
+              - link "다운로드" [ref=f17e264] [cursor=pointer]:
+                - /url: /ko/download
+            - listitem [ref=f17e266]:
+              - link [ref=f17e267] [cursor=pointer]:
+                - /url: /ko/explore
+                - generic [ref=f17e268]:
+                  - text: 더 살펴보기
+                  - generic [ref=f17e269]: →
+          - list "리소스 둘러보기 템플릿 컨설턴트 연결 둘러보기 새로운 소식 고객 스토리 블로그 웨비나 학습하기 개발자 아카데미 프로덕트 투어 도움말" [ref=f17e270]:
+            - text: 리소스
+            - listitem [ref=f17e271]:
+              - link "고객 스토리" [ref=f17e272] [cursor=pointer]:
+                - /url: /ko/customers
+            - listitem [ref=f17e274]:
+              - link "연결" [ref=f17e275] [cursor=pointer]:
+                - /url: /ko/connections
+            - listitem [ref=f17e277]:
+              - link "마켓플레이스" [ref=f17e278] [cursor=pointer]:
+                - /url: /ko/templates
+            - listitem [ref=f17e280]:
+              - link "도움말 센터" [ref=f17e281] [cursor=pointer]:
+                - /url: /ko/help
+            - listitem [ref=f17e283]:
+              - link "아카데미" [ref=f17e284] [cursor=pointer]:
+                - /url: https://academy.notion.com
+            - listitem [ref=f17e286]:
+              - link "커뮤니티" [ref=f17e287] [cursor=pointer]:
+                - /url: /community
+          - list "회사 소개" [ref=f17e289]:
+            - text: 회사 소개
+            - listitem [ref=f17e290]:
+              - link "Notion 소개" [ref=f17e291] [cursor=pointer]:
+                - /url: /ko/about
+            - listitem [ref=f17e293]:
+              - link "채용" [ref=f17e294] [cursor=pointer]:
+                - /url: /ko/careers
+            - listitem [ref=f17e296]:
+              - link "보안" [ref=f17e297] [cursor=pointer]:
+                - /url: /ko/security
+            - listitem [ref=f17e299]:
+              - link "서비스 상태" [ref=f17e300] [cursor=pointer]:
+                - /url: https://www.notion-status.com
+            - listitem [ref=f17e302]:
+              - link "이용약관 및 개인정보 보호정책" [ref=f17e303] [cursor=pointer]:
+                - /url: https://www.notion.so/28ffdd083dc3473e9c2da6ec011b58ac
+            - listitem [ref=f17e305]:
+              - link "개인정보 보호 권한" [ref=f17e306] [cursor=pointer]:
+                - /url: https://www.notion.com/trust/privacy-policy#california
+          - list "용도별" [ref=f17e308]:
+            - text: 용도별
+            - listitem [ref=f17e309]:
+              - link "회사" [ref=f17e310] [cursor=pointer]:
+                - /url: /ko/enterprise
+            - listitem [ref=f17e312]:
+              - link "소규모 비즈니스" [ref=f17e313] [cursor=pointer]:
+                - /url: /ko/teams
+            - listitem [ref=f17e315]:
+              - link "스타트업" [ref=f17e316] [cursor=pointer]:
+                - /url: /ko/startups
+            - listitem [ref=f17e318]:
+              - link "개발자" [ref=f17e319] [cursor=pointer]:
+                - /url: https://developers.notion.com
+        - button "한국어" [ref=f17e322] [cursor=pointer]
+        - button "쿠키 설정" [ref=f17e331] [cursor=pointer]
+        - paragraph [ref=f17e333]: © 2026 Notion Labs, Inc.
+    - status [ref=f17e335]:
+      - paragraph
+  - alert [ref=f17e336]

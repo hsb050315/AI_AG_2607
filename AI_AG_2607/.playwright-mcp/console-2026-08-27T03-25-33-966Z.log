@@ -1,0 +1,36 @@
+[     119ms] [INFO] Resource Sentinel initialized... @ https://app.notion.com/new?__dm_a=1:37
+[     205ms] [WARNING] %cairgap.js%c Report-only mode enabled font-size:larger;font-weight:bold;border-radius:0.25em;padding:0.08em 0.25em;;color:amber;background-color:#6e3e00  @ https://transcend-cdn.com/cm/4d6a6beb-faf4-4a4e-9e1c-c7692d5f9c2f/airgap.js:5
+[     385ms] [INFO] 2026-08-27T03:25:34.350Z [info] FeatureFlagTransactionQueue: preferIndexedDB {team: no-team-specified} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[     411ms] [WARNING]   WARN  [Statsig] Creating multiple Statsig clients with the same SDK key can lead to unexpected behavior. Multi-instance support requires different SDK keys. @ https://app.notion.com/_assets/49459-7ae169a8581f2b47.js:0
+[     443ms] [LOG] %c
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnn                         nnnn
+	nnnnnnn                          nnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnn                           nnn
+	nnnnnnnn    nnnnnnnn     nnnnnnn   nnn
+	nnnnnnnn      nnnnnnn      nnn     nnn
+	nnnnnnnn      nnnnnnnn     nnn     nnn
+	nnnnnnnn      nnnnnnnnnn   nnn     nnn
+	nnnnnnnn      nnn nnnnnnn  nnn     nnn
+	nnnnnnnn      nnn  nnnnnnnnnnn     nnn
+	nnnnnnnn      nnn   nnnnnnnnnn     nnn
+	nnnnnnnn      nnn     nnnnnnnn     nnn
+	nnnnnnnn      nnn      nnnnnnn     nnn
+	nnnnnnnn    nnnnnnnn    nnnnnn     nnn
+	  nnnnnn                           nnn
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		We're hiring!
+		  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		notion.com/careers
+
+	“yeah, I would probably eat a lemon for one hundred dollars” -- Ivan Zhao (2023-07-14)
+				  font-family: monospace @ https://app.notion.com/_assets/mainApp-c1146cbe1eab63b3.js:37
+[     582ms] [WARNING] Ignoring inability to install OPFS sqlite3_vfs: Cannot install OPFS: Missing SharedArrayBuffer and/or Atomics. The server must emit the COOP/COEP response headers to enable those. See https://sqlite.org/wasm/doc/trunk/persistence.md#coop-coep @ https://app.notion.com/_assets/wasm-sqlite-worker-d276dab79aa36b1a.js:0
+[     714ms] [WARNING] Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[     714ms] [INFO] 2026-08-27T03:25:34.679Z [error] eventTrailApiHelpers: trackFailure {error: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    1417ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://cdn.metadata.io/pixel/config/1127.json:0
+[    1794ms] [WARNING] %c NOTION%c WARNING %c background: black; color: white; background: black; color: orange font-weight: normal Reverting mutation of childList in component undefined MutationRecord See documentation for more details: https://dev.notion.so/notion/About-DOMLock-ContentEditableVoid-and-MaybeContentEditable-184b35e6e67f8092a306e41a781782d6 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    2271ms] [INFO] 2026-08-27T03:25:36.237Z [info] ai.completionActions: maybeUpdateAIUsageEligibilityStoreV2Refreshing {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    4283ms] [INFO] 2026-08-27T03:25:38.248Z [info] PageLoader: loserAborted {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    4304ms] [WARNING] %c NOTION%c WARNING %c background: black; color: white; background: black; color: orange font-weight: normal Reverting mutation of childList in component undefined MutationRecord See documentation for more details: https://dev.notion.so/notion/About-DOMLock-ContentEditableVoid-and-MaybeContentEditable-184b35e6e67f8092a306e41a781782d6 @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   17459ms] [INFO] 2026-08-27T03:25:51.425Z [info] ai.completionActions: maybeUpdateAIUsageEligibilityStoreV2Refreshing {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472

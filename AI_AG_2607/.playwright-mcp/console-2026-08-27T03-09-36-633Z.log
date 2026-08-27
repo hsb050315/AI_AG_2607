@@ -1,0 +1,46 @@
+[     213ms] [INFO] Resource Sentinel initialized... @ https://app.notion.com/developers/connections?assetsVersion=23.13.20260827.0004&clientBuildTarget=client:37
+[     314ms] [WARNING] %cairgap.js%c Report-only mode enabled font-size:larger;font-weight:bold;border-radius:0.25em;padding:0.08em 0.25em;;color:amber;background-color:#6e3e00  @ https://transcend-cdn.com/cm/4d6a6beb-faf4-4a4e-9e1c-c7692d5f9c2f/airgap.js:5
+[     582ms] [INFO] 2026-08-27T03:09:37.215Z [info] FeatureFlagTransactionQueue: preferIndexedDB {team: no-team-specified} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[     796ms] [LOG] %c
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnn                         nnnn
+	nnnnnnn                          nnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+	nnnnnnnn                           nnn
+	nnnnnnnn    nnnnnnnn     nnnnnnn   nnn
+	nnnnnnnn      nnnnnnn      nnn     nnn
+	nnnnnnnn      nnnnnnnn     nnn     nnn
+	nnnnnnnn      nnnnnnnnnn   nnn     nnn
+	nnnnnnnn      nnn nnnnnnn  nnn     nnn
+	nnnnnnnn      nnn  nnnnnnnnnnn     nnn
+	nnnnnnnn      nnn   nnnnnnnnnn     nnn
+	nnnnnnnn      nnn     nnnnnnnn     nnn
+	nnnnnnnn      nnn      nnnnnnn     nnn
+	nnnnnnnn    nnnnnnnn    nnnnnn     nnn
+	  nnnnnn                           nnn
+		nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		We're hiring!
+		  nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn		notion.com/careers
+
+	“yeah, I would probably eat a lemon for one hundred dollars” -- Ivan Zhao (2023-07-14)
+				  font-family: monospace @ https://app.notion.com/_assets/mainApp-c1146cbe1eab63b3.js:37
+[     884ms] [INFO] 2026-08-27T03:09:37.516Z [error] ClientRouting.resolve: ClientRouteConfigResolveTimeoutError {error: Object, data: Object, sentryEventId: undefined, team: web-infra} @ https://app.notion.com/_assets/app-75c4853fcccbc545.js:6
+[    1075ms] [INFO] 2026-08-27T03:09:37.707Z [error] main: ClientError {error: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    1076ms] TypeError: Cannot read properties of undefined (reading 'getSpaceId')
+    at a (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:189:246499)
+    at async x (https://app.notion.com/_assets/UISpacePermissionGroupToken-b8be90e96490fa19.js:189:262310)
+[    1120ms] [INFO] 2026-08-27T03:09:37.752Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    1489ms] [WARNING] Ignoring inability to install OPFS sqlite3_vfs: Cannot install OPFS: Missing SharedArrayBuffer and/or Atomics. The server must emit the COOP/COEP response headers to enable those. See https://sqlite.org/wasm/doc/trunk/persistence.md#coop-coep @ https://app.notion.com/_assets/wasm-sqlite-worker-d276dab79aa36b1a.js:0
+[    1586ms] [WARNING] Amplitude Logger [Warn]: Event not tracked, no destination plugins on the instance @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    1586ms] [INFO] 2026-08-27T03:09:38.219Z [error] eventTrailApiHelpers: trackFailure {error: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[    1915ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://cdn.metadata.io/pixel/config/1127.json:0
+[   30991ms] [INFO] 2026-08-27T03:10:07.623Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   60986ms] [INFO] 2026-08-27T03:10:37.619Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   91117ms] [INFO] 2026-08-27T03:11:07.750Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[   91312ms] [INFO] 2026-08-27T03:11:07.944Z [error] SidebarContentContainer: sidebarLoadingTimeout {error: Object, data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  120987ms] [INFO] 2026-08-27T03:11:37.620Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  151000ms] [INFO] 2026-08-27T03:12:07.632Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  180995ms] [INFO] 2026-08-27T03:12:37.628Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  210980ms] [INFO] 2026-08-27T03:13:07.613Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  240987ms] [INFO] 2026-08-27T03:13:37.620Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472
+[  271091ms] [INFO] 2026-08-27T03:14:07.724Z [info] useExpPingPolling: exp_ping_success {data: Object} @ https://app.notion.com/_assets/90305-597ffd983e8fca93.js:472

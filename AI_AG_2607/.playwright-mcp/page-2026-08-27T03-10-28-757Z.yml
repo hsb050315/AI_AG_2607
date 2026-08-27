@@ -1,0 +1,237 @@
+- generic [ref=f4e1]:
+  - generic [ref=f4e84]:
+    - generic [ref=f4e86]:
+      - link "콘텐츠로 건너뛰기" [ref=f4e88] [cursor=pointer]:
+        - /url: "#main"
+      - generic [ref=f4e92]:
+        - generic [ref=f4e93]:
+          - progressbar [ref=f4e94]
+          - progressbar [ref=f4e95]
+        - progressbar [ref=f4e96]
+        - progressbar [ref=f4e97]
+        - progressbar [ref=f4e98]
+        - progressbar [ref=f4e99]
+        - progressbar [ref=f4e100]
+        - generic [ref=f4e101]:
+          - progressbar [ref=f4e102]
+          - progressbar [ref=f4e103]
+        - generic [ref=f4e104]:
+          - progressbar [ref=f4e105]
+          - progressbar [ref=f4e106]
+        - generic [ref=f4e107]:
+          - progressbar [ref=f4e108]
+          - progressbar [ref=f4e109]
+        - generic [ref=f4e110]:
+          - progressbar [ref=f4e111]
+          - progressbar [ref=f4e112]
+        - generic [ref=f4e113]:
+          - progressbar [ref=f4e114]
+          - progressbar [ref=f4e115]
+        - generic [ref=f4e116]:
+          - progressbar [ref=f4e117]
+          - progressbar [ref=f4e118]
+        - generic [ref=f4e119]:
+          - progressbar [ref=f4e120]
+          - progressbar [ref=f4e121]
+        - generic [ref=f4e122]:
+          - progressbar [ref=f4e123]
+          - progressbar [ref=f4e124]
+        - generic [ref=f4e125]:
+          - progressbar [ref=f4e126]
+          - progressbar [ref=f4e127]
+        - generic [ref=f4e128]:
+          - progressbar [ref=f4e129]
+          - progressbar [ref=f4e130]
+        - generic [ref=f4e131]:
+          - progressbar [ref=f4e132]
+          - progressbar [ref=f4e133]
+        - generic [ref=f4e134]:
+          - progressbar [ref=f4e135]
+          - progressbar [ref=f4e136]
+        - generic [ref=f4e137]:
+          - progressbar [ref=f4e138]
+          - progressbar [ref=f4e139]
+        - generic [ref=f4e140]:
+          - progressbar [ref=f4e141]
+          - progressbar [ref=f4e142]
+        - generic [ref=f4e143]:
+          - progressbar [ref=f4e144]
+          - progressbar [ref=f4e145]
+        - generic [ref=f4e146]:
+          - progressbar [ref=f4e147]
+          - progressbar [ref=f4e148]
+        - generic [ref=f4e149]:
+          - progressbar [ref=f4e150]
+          - progressbar [ref=f4e151]
+        - generic [ref=f4e152]:
+          - progressbar [ref=f4e153]
+          - progressbar [ref=f4e154]
+        - generic [ref=f4e155]:
+          - progressbar [ref=f4e156]
+          - progressbar [ref=f4e157]
+        - generic [ref=f4e158]:
+          - progressbar [ref=f4e159]
+          - progressbar [ref=f4e160]
+      - generic [ref=f4e161]:
+        - generic [ref=f4e166]:
+          - link "개발자 도구" [ref=f4e167] [cursor=pointer]:
+            - /url: /developers
+          - generic [ref=f4e171]: /
+          - link "연결" [ref=f4e172] [cursor=pointer]:
+            - /url: /developers/connections
+        - generic [ref=f4e179]:
+          - generic [ref=f4e180]:
+            - heading "개발자 도구" [level=1] [ref=f4e181]
+            - tablist "개발자 포털 섹션" [ref=f4e184]:
+              - tab "시작하기" [ref=f4e185] [cursor=pointer]
+              - tab "Worker 신규" [ref=f4e186] [cursor=pointer]:
+                - generic [ref=f4e187]:
+                  - text: Worker
+                  - generic [ref=f4e188]: 신규
+              - tab "연결" [selected] [ref=f4e189] [cursor=pointer]
+              - tab "개인 액세스 토큰" [ref=f4e190] [cursor=pointer]
+          - generic [ref=f4e191]:
+            - generic [ref=f4e192]:
+              - button "연결 필터링" [ref=f4e194] [cursor=pointer]
+              - button "연결 검색..." [ref=f4e198] [cursor=pointer]
+              - button "신규 연결" [ref=f4e201] [cursor=pointer]
+            - table [ref=f4e206]:
+              - rowgroup [ref=f4e207]:
+                - row [ref=f4e208]:
+                  - columnheader "연결" [ref=f4e209]
+                  - columnheader "설치 가능 워크스페이스:" [ref=f4e212]
+                  - columnheader "인증 유형" [ref=f4e215]
+                  - columnheader "소유자" [ref=f4e218]
+                  - columnheader "생성 시점" [ref=f4e221]
+              - rowgroup [ref=f4e224]:
+                - row [ref=f4e225]:
+                  - cell [ref=f4e226]:
+                    - generic [ref=f4e228]:
+                      - progressbar [ref=f4e229]
+                      - generic [ref=f4e230]:
+                        - progressbar [ref=f4e231]
+                        - progressbar [ref=f4e232]
+                  - cell [ref=f4e233]:
+                    - generic [ref=f4e235]:
+                      - progressbar [ref=f4e236]
+                      - progressbar [ref=f4e237]
+                  - cell [ref=f4e238]:
+                    - progressbar [ref=f4e240]
+                  - cell [ref=f4e241]:
+                    - generic [ref=f4e243]:
+                      - progressbar [ref=f4e244]
+                      - progressbar [ref=f4e245]
+                  - cell [ref=f4e246]:
+                    - progressbar [ref=f4e248]
+                - row [ref=f4e249]:
+                  - cell [ref=f4e250]:
+                    - generic [ref=f4e252]:
+                      - progressbar [ref=f4e253]
+                      - generic [ref=f4e254]:
+                        - progressbar [ref=f4e255]
+                        - progressbar [ref=f4e256]
+                  - cell [ref=f4e257]:
+                    - generic [ref=f4e259]:
+                      - progressbar [ref=f4e260]
+                      - progressbar [ref=f4e261]
+                  - cell [ref=f4e262]:
+                    - progressbar [ref=f4e264]
+                  - cell [ref=f4e265]:
+                    - generic [ref=f4e267]:
+                      - progressbar [ref=f4e268]
+                      - progressbar [ref=f4e269]
+                  - cell [ref=f4e270]:
+                    - progressbar [ref=f4e272]
+                - row [ref=f4e273]:
+                  - cell [ref=f4e274]:
+                    - generic [ref=f4e276]:
+                      - progressbar [ref=f4e277]
+                      - generic [ref=f4e278]:
+                        - progressbar [ref=f4e279]
+                        - progressbar [ref=f4e280]
+                  - cell [ref=f4e281]:
+                    - generic [ref=f4e283]:
+                      - progressbar [ref=f4e284]
+                      - progressbar [ref=f4e285]
+                  - cell [ref=f4e286]:
+                    - progressbar [ref=f4e288]
+                  - cell [ref=f4e289]:
+                    - generic [ref=f4e291]:
+                      - progressbar [ref=f4e292]
+                      - progressbar [ref=f4e293]
+                  - cell [ref=f4e294]:
+                    - progressbar [ref=f4e296]
+                - row [ref=f4e297]:
+                  - cell [ref=f4e298]:
+                    - generic [ref=f4e300]:
+                      - progressbar [ref=f4e301]
+                      - generic [ref=f4e302]:
+                        - progressbar [ref=f4e303]
+                        - progressbar [ref=f4e304]
+                  - cell [ref=f4e305]:
+                    - generic [ref=f4e307]:
+                      - progressbar [ref=f4e308]
+                      - progressbar [ref=f4e309]
+                  - cell [ref=f4e310]:
+                    - progressbar [ref=f4e312]
+                  - cell [ref=f4e313]:
+                    - generic [ref=f4e315]:
+                      - progressbar [ref=f4e316]
+                      - progressbar [ref=f4e317]
+                  - cell [ref=f4e318]:
+                    - progressbar [ref=f4e320]
+                - row [ref=f4e321]:
+                  - cell [ref=f4e322]:
+                    - generic [ref=f4e324]:
+                      - progressbar [ref=f4e325]
+                      - generic [ref=f4e326]:
+                        - progressbar [ref=f4e327]
+                        - progressbar [ref=f4e328]
+                  - cell [ref=f4e329]:
+                    - generic [ref=f4e331]:
+                      - progressbar [ref=f4e332]
+                      - progressbar [ref=f4e333]
+                  - cell [ref=f4e334]:
+                    - progressbar [ref=f4e336]
+                  - cell [ref=f4e337]:
+                    - generic [ref=f4e339]:
+                      - progressbar [ref=f4e340]
+                      - progressbar [ref=f4e341]
+                  - cell [ref=f4e342]:
+                    - progressbar [ref=f4e344]
+        - region [ref=f4e346]
+    - dialog [ref=f4e352]:
+      - button "닫기" [ref=f4e353] [cursor=pointer]
+      - generic [ref=f4e359]:
+        - generic [ref=f4e361]:
+          - generic [ref=f4e362]: 신규 연결
+          - generic [ref=f4e363]: Notion으로 앱과 에이전트, 워크플로를 인증하기 위한 연결을 생성하세요. 단일 워크스페이스 범위 또는 다중 워크스페이스 범위를 선택하세요.
+        - generic [ref=f4e367]:
+          - generic [ref=f4e368]:
+            - generic [ref=f4e369]:
+              - generic [ref=f4e370]: 연결 이름
+              - textbox "함승보님의 연결" [active] [ref=f4e372]: AI_AG_2607AI_AG_2607
+            - generic [ref=f4e373]:
+              - generic [ref=f4e374]: 인증 방법
+              - generic [ref=f4e375]:
+                - generic [ref=f4e377] [cursor=pointer]:
+                  - radio "액세스 토큰 협업 참여자 간에 공유되는 워크스페이스 범위 내 정적 API 토큰으로, 자체 사용 권한 설정을 갖추고 있습니다. 워크스페이스 1개로 제한되며, 마켓플레이스에 등록할 수 없습니다." [checked] [ref=f4e379]
+                  - generic [ref=f4e381]:
+                    - generic [ref=f4e382]: 액세스 토큰
+                    - generic [ref=f4e383]: 협업 참여자 간에 공유되는 워크스페이스 범위 내 정적 API 토큰으로, 자체 사용 권한 설정을 갖추고 있습니다. 워크스페이스 1개로 제한되며, 마켓플레이스에 등록할 수 없습니다.
+                - generic [ref=f4e385] [cursor=pointer]:
+                  - radio "OAuth 사용자 범위 OAuth 2.0이며, 사용 권한은 로그인한 사용자로 제한됩니다. 여러 워크스페이스를 지원하며, 마켓플레이스에 등록할 수 있습니다." [ref=f4e387]
+                  - generic [ref=f4e389]:
+                    - generic [ref=f4e390]: OAuth
+                    - generic [ref=f4e391]: 사용자 범위 OAuth 2.0이며, 사용 권한은 로그인한 사용자로 제한됩니다. 여러 워크스페이스를 지원하며, 마켓플레이스에 등록할 수 있습니다.
+          - generic [ref=f4e392]:
+            - button "연결 생성하기" [disabled] [ref=f4e393]
+            - generic [ref=f4e394]:
+              - text: 연결을 생성하면 Notion의
+              - link "개발자 약관" [ref=f4e395] [cursor=pointer]:
+                - /url: https://notion.notion.site/Developer-Terms-ba4131408d0844e08330da2cbb225c20
+              - text: 에 동의하는 것으로 간주됩니다.
+    - status [ref=f4e347]
+    - alert [ref=f4e348]
+  - iframe [ref=f4e349]:
+    
