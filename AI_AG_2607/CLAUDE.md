@@ -26,6 +26,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - While work is in progress, keep the todo list visible and current — update each item's status (in_progress/completed) via TaskUpdate as you go, so the user can always see what's currently being worked on.
 - This gate never applies to purely conversational/informational replies, or to read-only inspection (e.g. reading files, `git status`, `git log`, `git diff`) that changes no file and no repository state.
 
+## Memo classification and routing
+
+- When the user sends a memo or a file to be filed, classify it by the rules below and save it to Notion by running the matching skill. The memo itself is the request — do this routing automatically.
+- **Personal**: starts with `개인:`, or contains keywords like 개인 / 친구 / 가족 → run the `notion-personal` skill → saved to the "개인 일정" DB.
+- **Work**: starts with `업무:`, or contains keywords like 업무 / 과제 → run the `notion-work` skill → saved to the "업무" DB.
+- **Study**: starts with `학습:` or `배움:`, or contains keywords like 자료조사 / 공부 / 강의 → run the `notion-study` skill → saved to the "학습" DB.
+- **Done**: starts with `완료:`, or contains keywords like 마무리 / 제출 / 완료 → run the `notion-complete` skill → saved to the "완료작업" DB.
+- Tie-breaking: an explicit leading prefix (`개인:` / `업무:` / `학습:` / `배움:` / `완료:`) always wins over keyword matches. If there is no prefix and keywords point to more than one category, or nothing matches, ask the user which category to use before saving rather than guessing.
+
 ## Skill creation
 
 - When asked to create a new skill (including when the skill-creator skill is invoked), build it in one efficient pass: collect the requirements, write `SKILL.md` plus any supporting files, and stop.
